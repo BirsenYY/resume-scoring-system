@@ -1,0 +1,88 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Passionate Computer Science graduate with a diverse skill set in software development, cloud computing, and cybersecurity. Adept at problem-solving and implementing innovative solutions. Actively seeking roles in backend development, cloud architecture, or cybersecurity to leverage technical expertise and enhance professional growth.
+
+Education
+BSc Computer Science
+Imperial College London – London, UK
+Graduated: July 2022
+
+Relevant Courses: Network Security, Cloud Computing, Parallel Programming, Human-Computer Interaction
+
+Final Year Project: Secure File Sharing System Using Blockchain Technology
+
+Technical Skills
+Languages: Java, PHP, Ruby, Swift, Kotlin
+Frameworks & Libraries: Spring Boot, Ruby on Rails, SwiftUI, Android SDK
+Tools & Technologies: Docker, Kubernetes, AWS, Firebase, Wireshark
+Concepts: Cryptography, Penetration Testing, DevOps, Scalability, UI/UX Design
+
+Projects
+CodeGuard
+An online platform for secure version control and collaborative coding
+
+Developed using Java Spring Boot with PostgreSQL database
+
+Implemented end-to-end encryption for code repositories
+
+Integrated with GitLab API for seamless project management
+
+CloudSec
+A cloud security monitoring tool for real-time threat detection
+
+Utilized AWS services such as CloudWatch and Lambda functions
+
+Designed a customizable dashboard for monitoring alerts
+
+Implemented automated remediation actions for identified threats
+
+CryptoWallet
+A secure mobile wallet app for managing cryptocurrency investments
+
+Built with Swift for iOS, integrated with real-time market data APIs
+
+Implemented biometric authentication and encrypted local storage
+
+Designed a user-friendly interface for seamless transactions
+
+Certifications
+AWS Certified Solutions Architect – Associate
+
+Certified Ethical Hacker (CEH)
+
+CompTIA Security+
+
+Microsoft Certified: Azure Fundamentals
+
+CompTIA Cloud Essentials
+
+Experience
+Software Engineer Intern
+TechStartup Ltd. – London, UK
+Jun 2021 – Sept 2021
+
+Developed microservices for a cloud-based application using Kubernetes
+
+Conducted security assessments and implemented vulnerability patches
+
+Assisted in the migration of on-premises infrastructure to AWS cloud
+
+Junior Developer
+CodeTech Solutions – London, UK
+Sept 2020 – May 2021
+
+Collaborated on building custom web applications using Ruby on Rails
+
+Implemented RESTful APIs for seamless data exchange between front and back end
+
+Participated in code reviews and contributed to UI/UX enhancements
+
+Career Objectives
+Pursue advanced certifications in cloud security and blockchain technology
+
+Contribute to industry projects focusing on emerging technologies
+
+Engage in community-driven initiatives promoting digital literacy and cybersecurity awareness

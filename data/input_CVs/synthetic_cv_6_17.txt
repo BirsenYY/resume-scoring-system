@@ -1,0 +1,97 @@
+```
+    Apple Inc.                                    
+
+                                                                                    
+
+                 Cupertino, CA | (+1) 123-456-7890 | jane.smith@apple.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | apple.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Accomplished Data Scientist and AWS Certified Big Data Specialist with 7 years of experience. Skilled in developing predictive analytics solutions,
+
+      designing data architectures, and building scalable data pipelines. Proficient in Python, SQL, and Apache Spark. Currently expanding expertise in
+
+      deep learning models, anomaly detection, and cloud-based data engineering. Known for driving innovation, optimizing data workflows, and delivering
+
+      valuable insights for business growth.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python , R , Java , SQL, BigQuery | MySQL, PostgreSQL, Cassandra | PySpark, Hadoop, Kafka, Airflow, MLflow,
+
+      scikit-learn | Deep Learning, Anomaly Detection, Data Visualization | Flask, Django | Git, Kubernetes, AWS                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Senior Data Scientist (DataSolve.ai) - San Francisco, CA    March 2019 : Present
+
+    ● Led the development of a real-time anomaly detection system using Apache Kafka and machine learning models, resulting in a 30% reduction in
+
+      false positives and improved operational efficiency              
+
+    ● Designed and implemented a scalable data architecture using Hadoop and Spark, enabling efficient processing and analysis of large datasets
+
+    ● Built predictive analytics models to optimize marketing campaigns and enhance customer segmentation, leading to a 25% increase in ROI        
+
+    ● Spearheaded the adoption of MLflow for managing machine learning experiments, improving collaboration and reproducibility across teams          
+
+     Data Engineer (Netflix) - Los Angeles, CA     Feb 2017 : Feb 2019
+
+    ● Developed data pipelines using Apache Spark and Scala to extract, transform, and load data into the Netflix data lake, ensuring data accuracy
+
+      and reliability                                              
+
+    ● Collaborated with cross-functional teams to design and implement data models for personalized content recommendations, driving user engagement
+
+    ● Optimized Spark jobs for performance and scalability, reducing processing time by 20% and enhancing overall system efficiency        
+
+    ● Conducted A/B testing to evaluate algorithm performance and provided actionable insights to improve content recommendation algorithms          
+
+     Data Analyst (Amazon) - Seattle, WA      Jan 2014 : Jan 2017
+
+    ● Analyzed customer behavior data using SQL and Python to identify trends and patterns, leading to data-driven business decisions and improved
+
+      customer experiences                                                  
+
+    ● Created interactive dashboards using Tableau to visualize key metrics and monitor business performance, enabling real-time decision-making
+
+    ● Collaborated with business stakeholders to define requirements and deliver actionable insights through data analysis and reporting             
+
+     Software Engineer (IBM) - New York, NY       June 2011 : Dec 2013
+
+    ● Developed enterprise software solutions using Java and Spring Framework, focusing on performance optimization and code refactoring
+
+    ● Collaborated with QA teams to ensure software quality through automated testing and continuous integration practices
+
+    ● Contributed to the design and implementation of RESTful APIs for integrating IBM software products with third-party applications
+
+    EDUCATION:                                                                      
+
+    MS in Data Science - Columbia University, New York (With Honors) July 2009 : July 2011
+
+    BS in Computer Science - University of California, Berkeley (Summa Cum Laude) June 2006 : June 2009
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Data Engineer (by DataCamp)       December, 2020  
+
+    ● AWS Certified Solutions Architect - Associate (AWS)               May, 2018
+
+    ● Machine Learning for Data Science (by Udemy)                                      July, 2016
+
+    ● Data Engineering with Google Cloud Platform (by Coursera)                    September, 2015
+
+    ● MongoDB Certified Developer (by MongoDB University)                       March, 2014
+```

@@ -1,0 +1,104 @@
+Sophia Johnson
+
+                                                                                  
+
+                          555-123-4567 | sophia.johnson@email.com             
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                               
+
+    Oxford University, Oxford                    Sep 2019 - Jun 2022
+
+      ●  BSc Physics: Graduated with First Class Honours                     
+
+      ●  Awarded a certificate in Quantum Computing & Information
+
+      ●  Completed a research project on Quantum Entanglement and its applications in secure communication
+
+    MIT, Massachusetts                          Jan 2024 - Mar 2024
+
+      ●  Applied Data Science Bootcamp (< 5% acceptance rate)             
+
+      ●  Covered topics including A/B testing, SQL, NLP, Time Series Analysis, and Neural Networks
+
+    Zurich International School                          Sep 2013 - Jun 2019
+
+      ●  International Baccalaureate Diploma: Extended Essay in Environmental Systems                 
+
+      ●  Activities and Societies: President of Environmental Club, Lead Actress in School Play
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Research Assistant – CERN                           Aug 2023 - Nov 2023
+
+    CERN is the European Organization for Nuclear Research known for operating the largest particle physics laboratory in the world.
+
+      ●  Assisted in the development and testing of new detectors for the Large Hadron Collider (LHC)
+
+      ●  Conducted data analysis using ROOT and Python to study particle collisions and identify rare events
+
+    Data Analyst – Pfizer                           Jan 2024 - Jun 2024
+
+    Pfizer is a multinational pharmaceutical corporation.
+
+      ●  Analyzed clinical trial data to support drug efficacy and safety assessments
+
+      ●  Developed predictive models for patient responses using machine learning algorithms
+
+      ●  Presented findings to cross-functional teams and contributed to research publications
+
+    Teaching Assistant – Stanford University Jun 2021 - Aug 2021
+
+    Assisted in the delivery of a graduate-level course on Machine Learning.
+
+      ●  Conducted tutorial sessions and graded assignments
+
+      ●  Collaborated with professors on research projects related to computer vision and deep learning
+
+                                                                                  
+
+    Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Co-Founder – Women in STEM Organization          Sep 2020 - Present
+
+      ●  Organized panel discussions, workshops, and networking events to promote diversity in STEM fields
+
+    Side Project – Personal Data Science Blog              Mar 2023 - Present
+
+      ●  Published articles on data visualization, statistical analysis, and machine learning techniques
+
+    Event Coordinator – Tech Startup Conference               Apr 2022 - Jun 2022
+
+      ●  Managed logistics and speaker arrangements for a two-day conference with 500+ attendees
+
+    Student Mentor & Diversity Ambassador – Local Community            Jan 2020 - Jun 2022
+
+      ●  Mentored high school students interested in pursuing STEM careers
+
+      ●  Facilitated workshops on coding, robotics, and scientific research
+
+    Additional Information                                                        
+
+                                                                                  
+
+    Technical Skills: R (Advanced), Tableau (Intermediate), AWS (Basic)
+
+    Certifications: 
+    - Certified Blockchain Professional
+    - Data Science for Social Good
+    - Advanced Excel Specialist
+
+    Activities: Competitive Swimming, Photography, Hiking, Cooking, Volunteer Work
+
+    Languages: English (Native), French (Fluent), German (Intermediate)
+
+    Interests: Artificial Intelligence, Renewable Energy, Traveling, Astronomy, Board Games

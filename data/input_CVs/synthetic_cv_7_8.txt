@@ -1,0 +1,106 @@
+    Jane Doe                                  
+
+                        San Francisco | jane.doe@email.com | AI Engineer | AI Technologies   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Experienced AI engineer with a strong foundation in computer science. Skilled in developing AI-driven solutions and continuously expanding knowledge in machine learning.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming Languages: Python, Java, C#, C++, SQL, Ruby, • Frameworks: FastAI, ONNX, Ludwig, Hugging Face Transformers,
+
+     Gin, Pandas, MongoDB                                                         
+
+    • Machine Learning: MACE, RBM, VAE, Transformer, UMAP, • Tools: DVC, Apache Beam, Dask, Airflow, MLflow, 
+
+     Anomaly Detection, Recommender Systems, Hyperparameter Optimization, Explainable AI, AutoML, Flask, Docker,    
+
+     NLP, Computer Vision, Reinforcement Learning                                 
+
+    • Cloud Platforms: Microsoft Azure, IBM Cloud, Oracle Cloud, DigitalOcean, Scaleway, Linode, Heroku, 
+
+     Serverless Computing, AWS S3, Google Kubernetes Engine, Kubernetes            
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    AI Engineer | AI Technologies, Washington DC             Jan 2022 – Present
+
+    Sentiment Analysis Tool using Ludwig Framework                    
+
+                                                                                  
+
+    • Created a sentiment analysis tool leveraging Ludwig framework for sentiment classification in real-time customer feedback.
+
+    • Implemented UMAP for dimensionality reduction and visualization of customer sentiments.
+
+    • Deployed the model on IBM Cloud for scalable and reliable performance.               
+
+    • Incorporated Explainable AI techniques to enhance model interpretability.
+
+    • Migrated project from local development to DVC for efficient version control.                   
+
+    Tech Stack: Python, Ludwig, UMAP, IBM Cloud, Docker, Explainable AI, DVC            
+
+    Autonomous Drone Surveillance System                                                   
+
+    • Developed an autonomous drone surveillance system for real-time monitoring of large outdoor areas.
+
+    • Used Deep Learning models for object detection and tracking in aerial footage.
+
+    • Integrated MLflow for experiment tracking and model management.
+
+    • Utilized Apache Beam for data processing on distributed systems.
+
+    • Collaborated with cross-functional teams to optimize system performance and accuracy.                    
+
+                                                                                  
+
+    Tech Stack: Python, Deep Learning Models, Apache Beam, MLflow, Autonomous Systems, Drone Technology
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    Ph.D. in Artificial Intelligence, Carnegie Mellon University, Pennsylvania      Aug 2018 - Dec 2021
+
+    MSc Computer Science, University of Washington, Seattle                     Sept 2017 
+
+    BSc Mathematics (Honors), University of Texas at Austin                  Sept 2013 
+
+    BSc Robotics Engineering, University of Michigan, Ann Arbor           Feb 2010  
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Voice Assistant using DeepSpeech         • Video Summarization with Transformer                  
+
+    • Fraud Detection System (Anomaly Detection)    • AR-Based Navigation System                
+
+    • Chatbot Development using Rasa         • Predictive Maintenance System using LSTM             
+
+    • Image Segmentation (UNet)              • Gesture Recognition System                  
+    ```

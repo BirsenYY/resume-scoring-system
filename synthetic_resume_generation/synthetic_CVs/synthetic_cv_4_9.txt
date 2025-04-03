@@ -1,0 +1,49 @@
+John Doe
+
+Los Angeles | 123-456-7890 | john.doe@email.com | XYZ Innovations | XYZ Innovations
+
+WORDS ABOUT ME
+
+Experienced Quality Assurance Engineer specializing in testing and automation for web and mobile applications. Strong background in developing test strategies, building automated test suites, and ensuring software quality in Agile environments. Proficient in Selenium, Appium, and API testing tools. Skilled in setting up CI/CD pipelines and quality gates for seamless releases.
+
+CURRENTLY BUILDING
+
+XYZ Innovations – Quality Assurance Engineer             Mar 2023 – Present
+
+Co-led the QA team at XYZ Innovations, focusing on enhancing automation testing processes for a cloud-based platform. Actively developing innovative testing frameworks and methodologies to improve product quality and release efficiency.
+
+PROJECTS
+
+Mobile Testing Framework – link                                      2021
+
+Designed and implemented a mobile testing framework using Appium and Espresso for Android and iOS applications. Successfully reduced test execution time by 30% and improved test coverage by 20%.
+
+EXPERIENCE
+
+XYZ Labs – QA Consultant                                      Mar 2023 – Jul 2023
+
+Collaborated with cross-functional teams to define QA strategies for IoT devices and edge computing solutions. Implemented automated testing for firmware updates and device compatibility checks. Utilized tools like Robot Framework and Docker for efficient testing.
+
+XYZ Tech – QA Automation Engineer                          Sep 2020 – Mar 2023
+
+Led automation efforts for testing microservices and APIs in a cloud-native environment. Developed end-to-end test suites using Playwright and REST Assured. Integrated test automation into CI/CD pipelines, resulting in faster feedback loops and improved deployment frequency.
+
+XYZ Solutions – QA Engineer                                          Jan 2019 – Sep 2020
+
+Contributed to test planning and execution for a suite of enterprise software products. Implemented performance testing using JMeter and load testing scenarios. Worked closely with development teams to resolve critical issues and enhance product stability.
+
+XYZ Digital – QA Analyst                                             Jul 2017 – Jan 2019
+
+Managed manual testing processes for digital marketing campaigns and web applications. Conducted A/B testing to optimize user experiences and enhance conversion rates. Utilized tools like TestRail for test case management and defect tracking.
+
+EDUCATION
+
+XYZ Institute                                                 2014 – 2017
+
+BSc Computer Science                                                   
+
+Graduated with a focus on software testing methodologies and quality assurance practices. Completed a research project on the impact of test automation on software reliability and release cycles.
+
+TOOLS AND TECHNOLOGIES
+
+Selenium, Appium, Robot Framework, REST Assured, JMeter, TestRail, Python, Java, SQL, Docker, CI/CD, Agile Scrum, XYZ Tech, XYZ Labs, XYZ Solutions, XYZ Digital

@@ -1,0 +1,103 @@
+Sophia Adams
+
+                                                                                    
+
+      (cid:131) 555-987-6543 — sophia.adams@email.com — (cid:239) linkedin.com/in/sophia-adams-8f20cdjs — ' github.com/sophiaadams
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  Java, Python, C++, R, PHP                                  
+
+   Frameworks: Vue.js, D3.js, Flask, Django, Hibernate, Spring, Node.js, Jupyter, Shiny, CakePHP, Laravel, Ruby on Rails                          
+
+   ML/AI:      Random Forest, Prophet, GANs, Attention Mechanism, AutoML                 
+
+   Technologies: Kubernetes, Apache Kafka, Redis, AWS Lambda, ElasticSearch, Consul, RabbitMQ, Prometheus, Grafana, Neo4j                                  
+
+   Testing:    Selenium, Cypress, TestNG, JUnit, Robot Framework                  
+
+   Certifications: AWS Certified Solutions Architect - Associate, Splunk Core Certified User, Certified Kubernetes Administrator (CKA), Tableau Desktop Specialist, Google Cloud Professional Data Engineer            
+
+                                                                                    
+
+   Experience                                                                       
+
+    XYZ Tech                                           Apr 2019 - Present
+
+    Software Engineer IV                                                                     
+
+      – Led the development and deployment of a real-time streaming analytics platform for a major retail company, handling millions of data points daily.
+
+      – Implemented an anomaly detection algorithm using Apache Kafka and Prometheus for monitoring.
+
+      – Spearheaded the migration of legacy systems to Kubernetes, reducing infrastructure costs by 20%.
+
+    Software Engineer II                                                                     
+
+      – Developed a microservices architecture for a fintech startup, improving scalability and performance.
+
+      – Designed and implemented RESTful APIs for data retrieval and analysis using Node.js and Express.
+
+      – Conducted performance testing and optimization, achieving a 30% improvement in response times.
+
+    Junior Software Developer                                              
+
+      – Worked on enhancing the user interface of a healthcare management system, incorporating real-time data visualization using D3.js.
+
+      – Implemented backend functionalities with Django, improving data processing efficiency by 25%.
+
+      – Collaborated with UX designers to improve user experience and accessibility.
+
+    ABC Solutions                                          Jul 2017 - Mar 2019
+
+    Software Engineer Intern                                                        
+
+      – Contributed to a project involving the integration of Redis for caching, reducing database query times by 40%.
+
+      – Developed RESTful APIs for a social media analytics platform using Flask and SQLAlchemy.
+
+    PQR Systems                                          Jan 2015 - Jun 2017
+
+    Junior Software Developer                                                              
+
+      – Participated in the development of a cloud-based storage system, implementing data encryption and access controls.
+
+      – Assisted in the migration of on-premise systems to AWS, ensuring data integrity and security.
+
+      – Conducted code reviews and unit testing to maintain high code quality standards.
+
+   Education                                                                        
+
+    University of Washington — Machine Learning Specialization                2022    
+
+    University College London — MSc Artificial Intelligence (Distinction)  2020 – 2021  
+
+    University of California, Berkeley — BSc Computer Science                 2014 – 2017  
+
+    Imperial College London — BSc Hons Software Engineering (1st Class)   2013 – 2014
+
+   Projects                                                                         
+
+                                                                                    
+
+    Fraud Detection System                                                '     
+
+      – Developing a fraud detection system using machine learning algorithms and real-time data processing.
+
+    Quantum Cryptography Implementation                                             '     
+
+      – Implemented a quantum cryptography protocol for secure communication.
+
+    Online Marketplace Platform                                                              '     
+
+      – Developed an online marketplace platform with auction and transaction functionalities.
+
+    Chatbot with NLP Integration                                          '     
+
+      – Created a chatbot with natural language processing capabilities for customer service.
+
+    AI-Powered Image Recognition App                                        '     
+
+      – Built an image recognition app using deep learning models for object detection and classification.

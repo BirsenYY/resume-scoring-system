@@ -1,0 +1,84 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Motivated computer science graduate with a comprehensive background in software development, data structures, and machine learning algorithms. Adept at problem-solving and proficient in various programming languages. Actively seeking entry-level positions in software engineering, backend development, or data analysis to apply skills and drive innovation.
+
+Education
+BSc Computer Science
+University of ABC – London, UK
+Graduated: June 2023
+
+Awarded with Distinction
+
+Key Courses: Advanced Algorithms, Cloud Computing, Human-Computer Interaction, Cybersecurity
+
+Final Year Project: Smart Home Automation System using IoT and AI
+
+Technical Skills
+Languages: Java, PHP, Ruby, Scala, Swift
+Frameworks & Libraries: Spring Boot, Django, Ruby on Rails, TensorFlow, Pandas
+Databases: MySQL, PostgreSQL, Firebase
+Tools & Technologies: Docker, Kubernetes, Jira, AWS, Jenkins
+Concepts: Design Patterns, Microservices, Big Data Processing, DevOps
+
+Projects
+MediCarePlus
+A healthcare application for patients to schedule appointments and access medical records securely
+
+Developed using Spring Boot, Firebase, and Angular
+
+Implemented real-time notifications for appointment reminders
+
+Ensured HIPAA compliance for data security
+
+EcoTrack
+An environmental monitoring platform to track carbon footprints and suggest eco-friendly alternatives
+
+Utilized Django REST framework with PostgreSQL for data storage
+
+Integrated with third-party APIs for weather and transportation data
+
+Created interactive visualizations with D3.js
+
+ChatGuru
+A chatbot for customer support services with sentiment analysis and automated responses
+
+Built on Ruby on Rails with natural language processing using Python's NLTK
+
+Deployed on AWS with a scalable architecture
+
+Conducted A/B testing for response accuracy improvement
+
+Certifications
+AWS Certified Solutions Architect – Associate
+Data Science Specialization, Coursera
+Certified Blockchain Developer, Blockchain Council
+Mobile App Development, Udacity
+
+Experience
+Software Developer Intern – TechStartup Ltd
+Sept 2022 – Dec 2022
+
+Worked on developing microservices for a cloud-based HR management system
+
+Collaborated with cross-functional teams to deliver features within Agile sprints
+
+Participated in code reviews and contributed to continuous integration processes
+
+Junior Data Analyst – GreenTech Innovations
+May 2021 – Aug 2021
+
+Analyzed environmental data to identify trends and optimize energy consumption
+
+Created dashboards using Tableau for monitoring key performance indicators
+
+Collaborated with the engineering team to implement data-driven decisions
+
+Career Objectives
+Pursue advanced training in artificial intelligence and machine learning
+
+Engage in community projects promoting tech education and awareness
+
+Seek opportunities to innovate and contribute to cutting-edge technologies

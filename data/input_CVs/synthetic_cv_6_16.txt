@@ -1,0 +1,106 @@
+    Amazon
+                                                                                    
+
+                 Seattle, WA | (+1) 9876543210 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Experienced Data Scientist and Azure Certified Data Engineer with 8 years of experience. Proficient in building end-to-end
+
+      machine learning solutions, optimizing data pipelines, and delivering impactful insights. Skilled in Spark, Hadoop, and
+
+      cloud-based architectures. Currently expanding expertise in deep learning, anomaly detection, and reinforcement learning. Proven
+
+      track record in collaborating with cross-functional teams to drive business value through data-driven decision-making.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, R, Scala, SQL | MongoDB, Cassandra | PySpark, Apache Flink, KubeFlow, Hugging Face, DetectoPy, Ray RLlib | Deep Neural
+
+      Networks, GANs, Autoencoders, XGBoost | Flask, FastAPI | Git, Kubernetes, Azure                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Data Scientist (TechGuru) - San Francisco, US    Aug 2022 : Present
+
+    ● Developed and deployed end-to-end machine learning models for predictive analytics and recommendation systems, utilizing Spark
+
+      and Hadoop for large-scale data processing and storage
+
+    ● Engineered data pipelines for real-time data ingestion and processing, enhancing the efficiency of data workflows and reducing
+
+      processing times by 30%
+
+    ● Led the implementation of anomaly detection algorithms for fraud detection, resulting in a 20% reduction in fraudulent activities
+
+      and financial losses
+
+    ● Collaborated with business stakeholders to define key performance indicators and translate business requirements into actionable
+
+      data science projects
+
+    ● Initiated a side project to explore reinforcement learning for dynamic pricing strategies, achieving a 15% increase in revenue in
+
+      A/B testing scenarios
+
+     Machine Learning Engineer (DataSolutions) - New York, US    Oct 2019 : Jul 2022
+
+    ● Built and optimized machine learning models for natural language processing tasks, leveraging cutting-edge techniques such as
+
+      Transformer models and GANs
+
+    ● Conducted feature engineering and hyperparameter tuning to improve model performance metrics, including accuracy, precision, and
+
+      recall
+
+    ● Developed a scalable deep learning pipeline using KubeFlow and Hugging Face for model training and deployment, resulting in
+
+      streamlined workflows and reduced time-to-market
+
+    ● Worked on a side project to experiment with generative adversarial networks (GANs) for image synthesis, showcasing the potential
+
+      of AI art in the modern digital realm
+
+     Data Analyst (TechSavvy) - Chicago, US    May 2016 : Sep 2019
+
+    ● Analyzed and visualized large datasets to extract actionable insights and support data-driven decision-making for marketing and
+
+      sales teams
+
+    ● Automated data processing tasks using Python scripts and SQL queries, optimizing data extraction and transformation processes
+
+    ● Developed interactive dashboards using Tableau for stakeholders to monitor key metrics and trends in real-time
+
+    ● Led a side project to implement a recommendation system based on collaborative filtering techniques, increasing customer
+
+      engagement and retention rates
+
+    EDUCATION:                                                                      
+
+    PhD in Machine Learning - Carnegie Mellon University, Pittsburgh (Distinction) July 2013 : July 2018
+
+    MSc in Data Science - University of California, Berkeley (First Class-Honours) June 2011 : June 2013
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Azure AI Engineer Associate (Microsoft)       March, 2022
+
+    ● Certified Data Science Professional (CDSP)      January, 2021
+
+    ● Advanced Big Data Analytics (by edX)       October, 2020
+
+    ● Data Engineering on Google Cloud Platform (Coursera)    December, 2019
+
+    ● Machine Learning for Business (by Stanford Online)    August, 2018

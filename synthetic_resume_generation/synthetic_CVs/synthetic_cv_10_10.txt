@@ -1,0 +1,50 @@
+Michael Johnson
+
+New York | 0987654 | michael.johnson@email.com | Portfolio: michaeljohnson.dev | GitHub: github.com/michaeljohnson
+
+WORDS ABOUT ME
+
+Computer Science enthusiast with a strong interest in leveraging AI and data science to build innovative solutions for complex problems. Experienced in developing machine learning models, creating data-driven applications, and collaborating in diverse tech environments.
+
+CURRENTLY BUILDING
+
+AI-Powered Chatbot Startup – Data Scientist          Aug 2024 – Present
+  ● Developing conversational AI models for customer service applications with seamless integration to popular messaging platforms.
+
+PROJECTS
+
+🏆 AI Hackathon Champion – Emotion Recognition          2023
+  ● Spearheaded a team to victory in an emotion recognition hackathon, achieving high accuracy in detecting emotions from facial expressions.
+  ● Implemented a hybrid model combining CNNs and Transformers for robust performance on diverse datasets.
+
+DataViz360 – Interactive Data Visualization Tool        2023
+  ● Created a web-based tool for visualizing complex datasets with customizable charts and graphs.
+  ● Utilized D3.js for interactive visualizations and integrated with MongoDB for seamless data retrieval.
+
+CodeGuard – Automated Code Quality Analyzer           2022
+  ● Engineered a system using static code analysis to identify potential issues and improve code quality.
+  ● Integrated with popular IDEs and version control systems for seamless code review processes.
+
+CloudSight – Cloud Image Recognition Platform          2022
+  ● Developed a cloud-native image recognition platform using AWS Rekognition and serverless architecture.
+  ● Enabled users to perform real-time object detection and classification with high accuracy.
+
+EXPERIENCE
+
+Software Engineer                                          Mar 2023 – Nov 2024
+  ● Contributed to building scalable microservices architecture for a fintech startup, optimizing backend performance and enhancing security.
+  ● Implemented CI/CD pipelines and automated testing strategies to ensure code quality and deployment efficiency.
+
+Data Analyst                                             Jun 2022 – Feb 2023
+  ● Analyzed customer behavior data for an e-commerce platform, generating insights to drive marketing strategies and improve user experience.
+  ● Created predictive models to forecast sales trends and optimize inventory management processes.
+
+EDUCATION
+
+Stanford University                                    2020 – 2024
+BSc in Computer Science
+  ● Capstone project: "Enhanced Sentiment Analysis using Deep Learning Techniques" – achieved 85% accuracy in sentiment classification.
+  
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, Keras, PySpark, MongoDB, AWS, D3.js, Git & GitHub, SQL, Docker, Flask, React, JavaScript, Scikit-learn, Matplotlib, NumPy, Pandas, Jupyter, Google Cloud, Tableau, Jenkins

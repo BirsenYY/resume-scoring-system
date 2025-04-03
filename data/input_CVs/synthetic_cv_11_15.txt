@@ -1,0 +1,73 @@
+[Full Name]
+[City, Country] | [Email Address] | [Phone Number] | [LinkedIn] | [GitHub/Portfolio]
+
+PROFILE
+Accomplished technology executive with over 10 years of experience in AI, machine learning, and software engineering. Currently serving as the Head of AI at a dynamic tech startup, leading innovative AI initiatives, product development, and team collaboration. Strong background in building scalable architectures, deploying ML models, and aligning technical strategies with business objectives.
+
+EXPERIENCE
+Head of AI
+TechGenius Innovations | San Francisco, USA | Feb 2018 – Present
+
+Responsible for developing and executing the company's AI vision and strategies.
+
+Led a multidisciplinary team of 30+ engineers to deliver AI-driven solutions for diverse industries.
+
+Implemented cutting-edge computer vision algorithms for image recognition and object detection.
+
+Introduced DevOps practices to streamline model deployment and monitoring processes.
+
+Collaborated with the sales team to secure key partnerships, increasing revenue by 25%.
+
+Lead Data Scientist
+Insightful Systems | Paris, France | Sep 2014 – Jan 2018
+
+Managed a team of data scientists in creating predictive analytics models for customer behavior analysis.
+
+Utilized Apache Spark for big data processing and distributed computing.
+
+Optimized recommendation systems resulting in a 30% uplift in customer engagement.
+
+Conducted regular training sessions on ML best practices and emerging technologies.
+
+Machine Learning Engineer
+DataWorks Ltd. | Sydney, Australia | Jun 2011 – Aug 2014
+
+Developed custom ML algorithms for anomaly detection in cybersecurity applications.
+
+Deployed ML models on edge devices for real-time decision-making in IoT environments.
+
+Implemented MLOps practices for model versioning and reproducibility.
+
+Collaborated with the research team to publish innovative papers on AI-enhanced cybersecurity.
+
+EDUCATION
+PhD in Machine Learning and Computer Vision
+University of California, Berkeley | 2011
+
+BSc in Computer Engineering
+University of [Your Country] | 2007
+
+SKILLS
+Languages: Python, Java, Scala
+
+Frameworks: PyTorch, Keras, XGBoost, H2O.ai
+
+ML Ops: Docker, Kubernetes, Kubeflow, Apache Airflow
+
+Cloud: AWS (EC2, S3, Redshift), Microsoft Azure
+
+Other: Natural Language Processing, Reinforcement Learning, Time Series Analysis, GANs
+
+CERTIFICATIONS
+Microsoft Certified: Azure AI Engineer Associate
+
+Certified Kubernetes Administrator (CKA)
+
+Snowflake Certified Data Professional
+
+SPEAKING & PUBLICATIONS
+Panelist at AI Summit Sydney and Data Science Expo
+
+Author of "Practical AI Applications in Cybersecurity" – Springer (2021)
+
+Contributor to industry blogs on AI advancements and cybersecurity trends

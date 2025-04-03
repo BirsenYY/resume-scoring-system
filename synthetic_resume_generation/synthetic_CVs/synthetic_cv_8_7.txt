@@ -1,0 +1,101 @@
+```
+    Amazon                                                                    
+
+                                                                                    
+
+                 Dublin, Ireland | (+353) 871234567 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative AI/ML Specialist and Certified Kubernetes Administrator with 8 years of experience. Skilled in developing AI-powered
+
+      chatbots, anomaly detection systems, and recommender engines. Proficient in Python, PyTorch, and XGBoost. Currently exploring
+
+      Transformer architectures, graph neural networks, and federated learning. Proven expertise in leading cross-functional teams,
+
+      optimizing ML pipelines, and delivering scalable solutions in e-commerce and healthcare sectors.
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python , Java , R , MATLAB, Julia | PostgreSQL, Cassandra, Redis | PyTorch, XGBoost, Hugging Face, GNN, Federated Learning,
+
+      MLOps | Chatbot Development, Anomaly Detection, Recommender Systems | Docker, Kubernetes | Git, Jenkins, Prometheus, Grafana                         
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Lead AI Engineer (AI Innovators) - Berlin, Germany    Jan 2020 : Present
+
+    ● Spearheaded the development of a cutting-edge Graph Neural Network (GNN) model for fraud detection in financial transactions,
+
+      achieving a 30% increase in detection accuracy and a 20% reduction in false positives                              
+
+    ● Led a team in building a scalable recommendation system powered by Federated Learning, enabling personalized product
+
+      recommendations while preserving data privacy and security                                          
+
+    ● Developed an AI-powered chatbot infrastructure using Hugging Face and Transformer models, resulting in a 40% reduction in
+
+      customer service response times and improved customer satisfaction scores                                      
+
+    ● Designed and implemented an anomaly detection system using anomaly scoring algorithms and unsupervised learning techniques,
+
+      detecting anomalies in real-time data streams and alerting stakeholders promptly    
+
+     Senior Data Scientist (DataTech Solutions) - San Francisco, US   Aug 2015: Dec 2019
+
+    ● Developed and implemented machine learning models for predictive maintenance in manufacturing industries, reducing downtime
+
+      by 15% and maintenance costs by 10% through proactive maintenance strategies                               
+
+    ● Engineered feature pipelines and data preprocessing workflows using Python (NumPy, Pandas) and SQL, optimizing data
+
+      ingestion and transformation processes for ML training and inference                                         
+
+    ● Evaluated model performance metrics and conducted A/B testing for model iterations, improving prediction accuracy and
+
+      reliability                                                                                                     
+
+    ● Collaborated with cross-functional teams to deploy ML models using Docker and Kubernetes, ensuring seamless integration
+
+      with production systems and scalability                                                                           
+
+     Software Engineer (TechWave) - Dublin, Ireland   Jan 2011 : July 2015
+
+    ● Developed scalable web applications using Java and Spring framework, contributing to the digital transformation of
+
+      client businesses and enhancing user experience and engagement                                                  
+
+    ● Led the implementation of CI/CD pipelines with Jenkins and Git, automating the deployment process and enhancing
+
+      development efficiency                                                                                         
+
+    EDUCATION:                                                                      
+
+    MSc in Artificial Intelligence - University College Dublin, Dublin (Distinction) Sept 2009 : Aug 2011
+
+    BSc in Computer Science - Trinity College Dublin, Dublin (First Class Honours) Sept 2006 : June 2009
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Kubernetes Administrator (Linux Foundation)                   October 2018
+
+    ● Deep Learning Specialization (by deeplearning.ai)                             May 2017  
+
+    ● AI Ethics Certification (by AI Ethics Institute)                             August 2020
+
+    ● Machine Learning Operations (MLOps) Certification (by MLOps Academy)        March 2021
+
+    ● Graph Neural Networks Training (by GNN Institute)                           September 2022
+```

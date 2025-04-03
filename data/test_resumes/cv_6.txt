@@ -1,0 +1,109 @@
+```
+    Google                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7825398378 | john.doe@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/johndoe | github.com/JohnDoe | google.com/JohnDoe | medium.com/@johndoe
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Results-driven AI/ML Engineer and AWS Certified ML Specialist with 10+ years of experience. Skilled in LLM-based solutions,
+
+      RAG systems, and Digital Twins. Proficient in Python, TensorFlow, and PyTorch. Currently advancing skills in Transformer models,
+
+      multimodal architectures, and efficient model fine-tuning (LoRA). Strong track record in leading teams, optimizing AI pipelines, and
+
+      delivering impactful, scalable solutions across industry and academia.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python , C , C++ , SQL, NoSQL | MySQL, MongoDB, Pinecone | TensorFlow, Transformers, OpenAI, LangChain, LlamaIndex,
+
+      streamlit | Prompt Engg, RAG, Fine-tuning | MultiAgent Architecture, Digital Twin Simulation, Reinforcement Learning, Genetic
+
+      Algorithms | Flask, FastAPI | Git, Docker, Compose, Google                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Generative AI Engineer (BRDGE.ai) - London, UK (Internship)    Feb 2024 : Present
+
+    ● Spearheaded the development of a state-of-the-art Retrieval-Augmented Generation (RAG) system using Pinecone and LlamaIndex2,
+
+      enhancing answer accuracy by 25% in domain-specific applications              
+
+    ● Led the creation of a multi-agent LLM system, integrating task planning and information retrieval capabilities. Implemented novel
+
+      task decomposition and prompt engineering techniques, resulting in a 50% reduction in manual effort and improved alignment with
+
+      business objectives                                                           
+
+    ● Contributed to an innovative Digital Twin project for urban planning, leveraging parametric design and reinforcement learning to
+
+      optimize design generation. Integrated IoT simulations for real-time data feeds and predictive analytics, significantly enhancing
+
+      environmental assessments and decision-making processes                       
+
+    ● Facilitated knowledge-sharing initiatives, conducted regular code reviews, and mentored team members, fostering a collaborative and
+
+      growth-oriented team environment                                              
+
+     AI/ML Engineer (Microsoft) - Seattle, US (Internship) Feb 2023: Feb 2024
+
+    ● Developed and optimized ML models using Scikit-Learn, TensorFlow, and PyTorch, with a focus on NLP and LLM applications,
+
+      resulting improved model performance                                          
+
+    ● Engineered robust data pipelines using Python (Pandas, NumPy) and web scraping tools (BeautifulSoup, Scrapy) to acquire and
+
+      preprocess large-scale datasets for LLM training and fine-tuning              
+
+    ● Implemented advanced feature engineering techniques and rigorously evaluated models using key metrics such as accuracy,
+
+      precision, recall, F1-score, and ROC-AUC                                      
+
+    ● Deployed ML models using containerization (Docker) , integrating them seamlessly with web services via Flask and FastAPI
+
+    ● Created comprehensive documentation using Jupyter Notebooks and Markdown, and developed insightful visualizations with
+
+      Google and Google to enhance project transparency                        
+
+     Assistant Professor of Stanford University (Stanford) , Stanford, US July 13 : June 21
+
+    ● Specializations: Design and Analysis of Algorithms, Distributed Databases, Networking, Data Mining, Data-Warehousing, Neural
+
+      Networks, Fuzzy Systems, and Digital Image Processing.                        
+
+     Computer Science Lecturer (Harvard University) , Boston, US       Dec 10 : June 13
+
+    ● Specializations: Programming in C, C++, Data Structures and Algorithms, and Web Development (HTML, JavaScript), Design
+
+      and Analysis of Algorithms, Networking Concepts, System Programming, Cryptography and N/W security.
+
+    EDUCATION:                                                                      
+
+    MS in Computer Science - Stanford University, Stanford (First Class-Distinction) July 2008 : July 2010
+
+    BS in Computer Science - MIT, Cambridge (First Class-Distinction) June 2005 : June 2008
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Advance Machine Learning Program (by MLX, Founders and Coders)       Ongoing  
+
+    ● AWS Certification - Machine Learning Speciality (AWS)               July, 2023
+
+    ● A.I. Engineer (by Simplilearn)                                      May,2023  
+
+    ● Data Science and Machine Learning (by Coursera)                      Dec, 2022
+```

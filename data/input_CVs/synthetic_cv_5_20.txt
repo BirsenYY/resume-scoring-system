@@ -1,0 +1,103 @@
+Sarah Smith
+
+                                                                                  
+
+                          555-123-4567 | sarah.smith@email.com             
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                               
+
+    Yale University, New Haven                    Sep 2019 - May 2023
+
+      ●  BS Computer Science: Graduated with honors (Magna Cum Laude)                    
+
+      ●  Achieved a perfect score in Algorithms and Data Structures course, excelling in complex problem-solving
+
+      ●  Completed a specialized course on Cybersecurity, covering topics such as encryption techniques and network security
+
+    MIT, Massachusetts                          Feb 2024 - Apr 2024
+
+      ●  Quantum Computing Fundamentals Programme (5% acceptance rate)             
+
+      ●  Covered topics including Quantum Gates, Quantum Algorithms, Quantum Cryptography, and Quantum Error Correction
+
+    St. Andrews College, Edinburgh                                   Sep 2013 - Jun 2019
+
+      ●  IB Diploma: Higher Level Mathematics (7), Physics (6), Economics (6)                  
+
+      ●  Led the Astronomy Club and participated in Model United Nations conferences
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Software Engineer Intern – Google                           Sep 2023 - Dec 2023
+
+    Google is a multinational technology company; highly competitive internship program.
+
+      ●  Worked on a team developing a new feature for the Google Maps application, implementing geolocation services and real-time updates
+
+      ●  Collaborated with senior engineers to optimize code performance and enhance user experience, leading to a 15% increase in user engagement
+
+      ●  Conducted research on machine learning algorithms for predictive analytics in traffic flow management
+
+    Research Analyst – World Economic Forum                           Jan 2024 - Jul 2024
+
+    The World Economic Forum is an international organization for public-private cooperation.
+
+      ●  Analyzed trends in emerging technologies and their impact on the global economy, contributing to the annual Global Competitiveness Report
+
+      ●  Presented insights on the future of work and skills development at the Davos Summit, engaging with industry leaders and policymakers
+
+    Cybersecurity Consultant Intern – IBM Jun 2022 - Aug 2022
+
+    IBM is a leading technology company specializing in cloud computing and AI solutions.
+
+      ●  Assisted in the implementation of a security framework for a major client, addressing vulnerabilities and ensuring compliance with industry standards
+
+      ●  Conducted penetration testing and vulnerability assessments on web applications, identifying critical security flaws
+
+      ●  Contributed to the development of threat intelligence reports for internal use and client advisories
+
+                                                                                  
+
+    Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Co-Founder – Tech Innovation Hub          Jan 2022 - Present
+
+      ●  Organized hackathons and tech workshops, fostering collaboration among students and industry professionals
+
+    Personal Project – Building a Chatbot for Mental Health Support           Apr 2023 - Sep 2023
+
+      ●  Utilized natural language processing techniques to develop a chatbot that provides resources and support for mental health issues
+
+    Event Coordinator – Annual Charity Gala               Mar 2021 - Mar 2022
+
+      ●  Planned and executed a fundraising event for a local charity, raising $20,000 for community projects
+
+                                                                                  
+
+    Student Mentor & STEM Ambassador – UK            Mar 2021 - Jun 2023
+
+      ●  Mentored high school students interested in STEM fields, providing academic guidance and career advice
+
+      ●  Represented UK universities at STEM events and career fairs, promoting opportunities in science and technology
+
+    Additional Information                                                        
+
+                                                                                  
+
+    Technical Skills: Java (Advanced), JavaScript (Intermediate), SQL (Proficient), AWS (Basic), Docker (Basic)
+
+    Activities: Competitive Coding (Multiple Hackathon Awards), Toastmasters Public Speaking Club, Photography enthusiast
+
+    Languages: English (Native), French (Fluent), Mandarin (Intermediate), German (Elementary)
+
+    Interests: Artificial Intelligence, Astrophysics, Travel Photography, Hiking, Yoga, Board Games

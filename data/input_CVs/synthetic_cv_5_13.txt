@@ -1,0 +1,111 @@
+Emily Smith
+
+                                                                                  
+
+123-456-7890 | emily.smith@email.com
+
+                                                                                  
+
+Education                                                                     
+
+            (in order of relevance)                                               
+
+    University of Oxford, Oxford                    Sep 2018 - Jun 2021
+
+      ●  BSc Biomedical Sciences: Graduated with First Class Honours                    
+
+      ●  Achieved a Merit in Advanced Cell Biology, including modules on CRISPR-Cas9 technology and gene editing
+
+      ●  Completed an independent research project on cancer immunotherapy, showcasing innovative approaches to enhance T-cell responses
+
+    University College London (UCL)                          Sep 2021 - Dec 2021
+
+      ●  Precision Medicine and Genomics Certificate Program (< 5% acceptance rate)             
+
+      ●  Relevant Content: Introduction to Genomic Technologies, Omics Data Analysis, Clinical Genomics, Personalised Medicine
+
+    St. Andrews School, Edinburgh                                   Sep 2013 - Jun 2018
+
+      ●  Scottish Higher Examinations: Physics (A), Chemistry (A), Mathematics (B)                  
+
+      ●  Activities and Societies: Captain of the Science Olympiad Team, Treasurer of Drama Club
+
+                                                                                  
+
+Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Research Assistant – Wellcome Sanger Institute                           Jul 2021 - Aug 2022
+
+    Wellcome Sanger Institute is a world-leading genomics research centre; renowned for its discoveries in human genetics.
+
+      ●  Contributed to a study on genetic predisposition to autoimmune diseases, conducting data analysis using R and Bioconductor packages
+
+      ●  Collaborated with a multidisciplinary team to design and implement custom algorithms for variant calling and annotation
+
+    Product Development Associate – GSK                           Jan 2023 - Jun 2023
+
+    GlaxoSmithKline is a global pharmaceutical company, dedicated to improving healthcare worldwide.
+
+      ●  Coordinated cross-functional teams to launch a new over-the-counter product, managing timelines and ensuring compliance with regulations
+
+      ●  Conducted market research to identify consumer preferences and inform product positioning strategies
+
+    Laboratory Technician – Imperial College London                        Jun 2023 - Aug 2023
+
+    Imperial College London is a leading research-focused university, known for its contributions to science and innovation.
+
+      ●  Assisted in molecular biology experiments, including PCR, gel electrophoresis, and cell culture techniques
+
+      ●  Maintained lab equipment and supplies, ensuring proper functioning and availability for ongoing experiments
+
+                                                                                  
+
+Side Projects                                                                  
+
+    Bioinformatics Data Analysis Tool              Apr 2022 - Oct 2022
+
+      ●  Developed a Python script to automate the analysis of next-generation sequencing data for genetic variant identification
+
+      ●  Integrated machine learning algorithms for predicting disease susceptibility based on genomic features
+
+    Healthcare App Prototype                       Sep 2023 - Dec 2023
+
+      ●  Designed wireframes and user interface for a mobile application to track medication adherence and symptom management
+
+      ●  Conducted user testing to gather feedback and iteratively improve the app functionality and user experience
+
+                                                                                  
+
+Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Co-Founder & President – Biotech Society          Jan 2022 - Jun 2023
+
+      ●  Organized seminars and networking events with industry professionals to explore emerging trends in biotechnology
+
+    Online Course – Data Science Specialization on Coursera              Mar 2024 - Sep 2024
+
+      ●  Completed courses on data manipulation, statistical inference, machine learning, and data visualization using R and Python
+
+      ●  Developed a predictive model for customer churn analysis, applying classification algorithms and evaluating model performance
+
+    Events Coordinator – University Charity Gala               Mar 2021 - Mar 2022
+
+      ●  Planned and executed a fundraising event with live performances, auctions, and raffles, raising over £10,000 for a local charity
+
+                                                                                  
+
+Volunteer Experience & Awards                                                        
+
+      ●  Volunteer Research Assistant at Cancer Research UK (2019 - 2020)
+
+      ●  Recipient of the Young Scientist Award for Outstanding Achievement in Biochemistry
+
+Technical Skills: R Programming, Bioinformatics Tools (Genome Analysis Toolkit, BLAST), Laboratory Techniques (PCR, Gel Electrophoresis)
+
+Languages: English (Native), French (Intermediate), Spanish (Basic)
+
+Interests: Genomics, Drug Discovery, Ethical AI, Photography, Hiking, Yoga

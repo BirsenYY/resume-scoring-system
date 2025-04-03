@@ -1,0 +1,55 @@
+Jasmine Patel
+
+San Francisco | 0999999 | jasmine.patel@email.com | Portfolio: jasminepatel.dev | GitHub: github.com/jasminepatel
+
+WORDS ABOUT ME
+
+Computer Science enthusiast with a strong interest in leveraging data science, artificial intelligence, and software development to address real-world challenges. 
+
+Winner of a Gold Medal in a Hackathon focused on Natural Language Processing. Continuously exploring emerging technologies and crafting innovative side projects that showcase robust engineering and design practices. Skilled in Python, Java, and cloud computing solutions. 
+
+CURRENTLY BUILDING
+
+Personal AI Showcase – AI Engineer         Mar 2026 – Present
+
+Building a comprehensive portfolio of AI and data projects (kaggle.com/jasminepatel) that feature interactive visualizations and APIs for seamless access. 
+
+PROJECTS
+
+🥇 Hackathon Champion – Sentiment Analysis Tool                    2025
+
+Led a team to victory in a hackathon challenge by developing a sentiment analysis tool that achieved top accuracy in classifying social media posts. Employed a blend of BERT and LSTM models alongside extensive data preprocessing techniques. 
+
+ProjectPulse – Project Management App (projectpulse.io)         2025
+
+Developed a web application for efficient project management, tracking, and collaboration across teams. Integrated features for task assignment, progress monitoring, and notifications using React and Node.js technologies. 
+
+DataGuardian – Data Privacy Platform                     2024
+
+Created a platform leveraging differential privacy techniques to protect user data while enabling data analytics. Integrated Privacy-Preserving Machine Learning algorithms and encrypted data storage mechanisms for enhanced security. 
+
+AIExplorer – AI Research Repository                          2024
+
+Established a centralized hub for AI research papers, models, and datasets. Developed a search engine using NLP algorithms to facilitate seamless exploration and discovery of AI resources. 
+
+EXPERIENCE
+
+Software Developer                                      Mar 2024 – Present
+
+Worked on data visualization projects and automated solutions for clients in healthcare and finance sectors. Responsibilities included building data pipelines, anomaly detection algorithms, and cloud-based application deployments. 
+
+Tech Start-up Intern – Machine Learning Engineer                           Sep 2023 – Dec 2023
+
+Contributed to machine learning projects and model optimization tasks. Assisted in implementing data preprocessing techniques, training neural networks, and evaluating model performance. 
+
+EDUCATION
+
+Stanford University                                2020 – 2024
+
+BSc Computer Science                                                       
+
+Conducted a research project on "Enhancing Cybersecurity through AI" which involved implementing AI algorithms to detect and mitigate cyber threats effectively.
+
+TOOLS AND TECHNOLOGIES
+
+Python, Java, TensorFlow, Keras, PySpark, AWS, MongoDB, Angular, HTML/CSS, D3.js, Jupyter, GitLab, Kubernetes, Apache Kafka, Flask, Selenium, C++, MATLAB.

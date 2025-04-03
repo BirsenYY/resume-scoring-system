@@ -1,0 +1,107 @@
+    London Health Sciences Centre                                                
+
+                                                                                    
+
+                 London, UK | (+44) 7501234567 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 8+ years of experience specializing in medical device innovation, healthcare data analytics, and AI applications in medicine. 
+
+     Proficient in Python, MATLAB, and Java for developing advanced biomedical algorithms and systems. Skilled in medical imaging analysis, machine learning
+
+     model deployment, and clinical workflow optimization. Adept at collaborating with healthcare professionals and data scientists to deliver innovative solutions.    
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, Java | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, Keras | DICOM, ITK | Signal Processing, ECG Analysis |
+
+     Medical Imaging (PET, SPECT, Ultrasound), Image Registration | MIM Software, Mimics, OsiriX | Wearable Health Devices | Git, Docker |
+
+     Health Information Standards (HL7, CDA) | Django, Flask, FastAPI | Data Visualization (Tableau, Power BI)
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Biomedical Engineer (Great Ormond Street Hospital) - London, UK              Mar 2019 : Present
+
+    ● Spearheaded the development of a wearable health monitoring system for pediatric patients, improving remote care and early intervention
+
+    ● Deployed a deep learning model for diagnosing neonatal brain hemorrhage from ultrasound images, reducing false negatives by 25%
+
+    ● Led the integration of AI tools with Electronic Health Records (EHR) for automated patient risk stratification and treatment planning
+
+    ● Managed a multidisciplinary team to enhance the hospital's PACS with new features for real-time image analysis and reporting 
+
+    
+
+     Senior Biomedical Scientist (St. Thomas' Hospital - Department of Pathology)  Jul 2015 : Feb 2019
+
+    ● Implemented computer-aided detection algorithms for breast cancer screening mammograms, increasing detection sensitivity by 20%
+
+    ● Established a data governance framework for pathology informatics systems, ensuring compliance with data privacy regulations
+
+    ● Conducted research on personalized medicine approaches using genomic data analysis and predictive modeling techniques
+
+    ● Collaborated with pharmaceutical companies on clinical trials involving precision medicine and companion diagnostics
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    MSc in Bioinformatics and Computational Biology - Imperial College London (Merit)  Sep 2013 : Sep 2014
+
+    BSc in Biomedical Engineering - University of Glasgow (First Class)  Sep 2009 : Jun 2013
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Health Data Analyst (CHDA)                                        May, 2023
+
+    ● Clinical Research Coordinator (CRC) Certification                           Oct, 2021
+
+    ● Healthcare Blockchain Specialist                                            Jan, 2021
+
+    ● Biostatistics Certificate (Johns Hopkins University)                       Jun, 2020
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● Telemedicine Platform Development: Created a web-based platform for virtual consultations, secure messaging, and remote patient monitoring.
+
+      Integrated appointment scheduling, EMR access, and e-prescription services. (GitHub: [github.com/[NAME]/telemedicine-platform])
+
+    
+
+    ● Wearable ECG Patch Validation: Conducted a study to validate the accuracy of a wearable ECG patch for continuous arrhythmia monitoring.
+
+      Analyzed signal quality, heart rate variability, and motion artifacts to improve diagnostic reliability.
+
+    
+
+    ● Drug Interaction Checker App: Developed a mobile application that checks for potential drug interactions based on user input and provides
+
+      recommendations for safe medication use. Utilized drug database APIs and interaction prediction algorithms.
+
+    
+
+    ● Virtual Reality Rehabilitation System: Designed a VR-based physiotherapy system for post-stroke rehabilitation, focusing on 
+
+      interactive exercises, progress tracking, and gamification elements for patient engagement.

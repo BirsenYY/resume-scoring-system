@@ -1,0 +1,73 @@
+Alice Smith
+
+123-456-7890 | alice.smith@email.com
+
+Education
+
+Harvard University, Cambridge Oct 2018 - Jun 2021
+
+- BS Computer Science: Graduated with honors
+- Scored 90% in Advanced Cryptography
+- Completed a capstone project on Quantum Computing
+
+MIT, Massachusetts Oct 2022 - Dec 2022
+
+- Cybersecurity Professional Certificate
+- Learned about Network Security, Ethical Hacking, and Incident Response
+
+Imperial College London, London Sep 2015 - Jun 2018
+
+- A-Levels: Physics (A*), Economics (A), History (B)
+- Co-founder of the Technology Innovation Club
+
+Employment History
+
+Software Engineer - Google Mountain View Jul 2022 - Present
+
+- Developing scalable solutions for Google Cloud Platform
+- Implemented machine learning algorithms for predictive analysis
+- Led a team of 5 interns in a project optimizing data processing speed
+
+Cybersecurity Analyst - Lockheed Martin Bethesda Jan 2019 - Jun 2022
+
+- Analyzed and mitigated security threats for military systems
+- Received commendation for identifying a critical vulnerability
+- Conducted cybersecurity training sessions for new employees
+
+Data Analyst Intern - IBM Yorktown Heights Jun 2017 - Aug 2017
+
+- Analyzed customer data to provide insights for marketing strategies
+- Developed predictive models using Python and scikit-learn
+- Presented findings to senior management for decision-making
+
+Extracurriculars
+
+Project Lead - Open Source Initiative Jan 2020 - Jun 2021
+
+- Managed a team of developers in contributing to open-source projects
+- Organized hackathons to promote coding skills among students
+
+Side Projects
+
+Cryptocurrency Portfolio Tracker - Personal Project Aug 2023 - Present
+
+- Built a web application to track cryptocurrency investments
+- Integrated real-time price updates and portfolio performance analysis
+
+Online Course Creation - Udemy Machine Learning Specialization May 2020 - Oct 2020
+
+- Created and published a course on machine learning fundamentals
+- Engaged with over 500 students through lectures and exercises
+
+Technical Skills
+
+Languages: Python, Java, SQL
+Tools: TensorFlow, Tableau, Docker
+Certifications: AWS Certified Solutions Architect, CompTIA Security+, Data Science Professional Certificate
+
+Activities
+
+Piano Player - Grade 7, Recital Performances
+Coding Competitions - ACM ICPC Regionals, Google Code Jam
+Languages: Spanish (Intermediate), Mandarin (Basic)
+Interests: Virtual Reality, Astrophysics, Photography, Hiking

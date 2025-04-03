@@ -1,0 +1,93 @@
+Rachel Johnson
+
+                                                                                
+
+   (cid:131) 555-987-6543 — rachel.johnson@email.com — (cid:239) linkedin.com/in/rachel-johnson-1a2b3c4d — ' github.com/racheljohnson
+
+                                                                                
+
+   Skills                                                                           
+
+   Languages:  Java, Python, C++, Ruby, R                        
+
+   Frameworks: Vue.js, Django, Flask, Express.js, Ruby on Rails, Bootstrap, Svelte, Ember.js, Meteor, Polymer, Aurelia
+
+   ML/AI:      Reinforcement Learning, Genetic Algorithms, Neural Style Transfer, Model Interpretability             
+
+   Technologies: AWS, Azure, Google Cloud, Kubernetes, Apache Spark, Hadoop, Redis, Elasticsearch, RabbitMQ, Consul, Grafana
+
+   Testing:    JUnit, Selenium, Postman, Mockito, Cypress                     
+
+   Certifications: GCP Professional Cloud Architect, AWS Certified DevOps Engineer, Red Hat Certified Engineer, CompTIA Security+
+
+                                                                                
+
+   Experience                                                                       
+
+    XYZ Tech                                           Jul 2019 – Present
+
+    Senior Software Engineer                                                          
+
+      – Spearheaded the development of a real-time data processing pipeline using Apache Kafka and Spark, reducing data latency by 30%.
+
+      – Implemented a cluster auto-scaling solution on AWS, resulting in a 20% cost reduction in infrastructure.
+
+      – Mentored and onboarded new hires, leading technical training sessions on microservices architecture and best practices.
+
+    Software Engineer                                                         
+
+      – Collaborated in the design and deployment of a microservices-based authentication system utilizing OAuth2 and JWT.
+
+      – Optimized API performance by 40% through fine-tuning Redis caching strategies.
+
+    ABC Solutions                                             Jan 2017 – Jun 2019
+
+    Software Developer                                                                      
+
+      – Developed a scalable RESTful API service on Azure Cloud for a startup client, handling over 100K concurrent users.
+
+      – Led the migration of legacy systems to Kubernetes, improving scalability and fault tolerance.
+
+    Junior Software Developer                                                    
+
+      – Contributed to the enhancement of an e-commerce platform using Ruby on Rails, boosting sales conversion by 15%.
+
+      – Implemented automated testing pipelines with Jenkins, ensuring code quality and reliability.
+
+    PQR Corporation                                       Apr 2016 – Dec 2016
+
+    Intern Software Engineer                                                             
+
+      – Assisted in the development of a cloud-native application on Google Cloud Platform, integrating Firestore and Cloud Functions.
+
+      – Conducted security audits and implemented encryption mechanisms to secure sensitive data.
+
+   Education                                                                        
+
+    Columbia University — MSc Machine Learning & Data Science                2023    
+
+    Stanford University — BSc Computer Engineering             2015 – 2019  
+
+   Projects                                                                         
+
+                                                                                
+
+    Fraud Detection System                                                  '     
+
+      – Built a fraud detection system leveraging machine learning algorithms to detect fraudulent transactions in real-time.
+
+    Blockchain Supply Chain Tracker                                              '     
+
+      – Designed and implemented a blockchain-based supply chain tracker for enhancing transparency and traceability.
+
+    Music Recommendation Engine                                              '     
+
+      – Developed a music recommendation engine using collaborative filtering techniques for personalized song suggestions.
+
+    IoT Smart Home Automation System                                        '     
+
+      – Created an IoT smart home automation system that enables users to control home devices remotely via a mobile app.
+
+    Sentiment Analysis Dashboard                                             '     
+
+      – Designed a sentiment analysis dashboard that provides insights into social media sentiments towards a brand.

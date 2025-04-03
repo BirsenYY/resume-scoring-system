@@ -1,0 +1,83 @@
+**Emily Thompson**
+
+---
+
+Phone: +1 (234) 567-8901 | Email: emily.thompson@email.com | LinkedIn: linkedin.com/in/emily-thompson | GitHub: github.com/emilythompson
+
+---
+
+### Skills
+
+- **Languages:** Java, C++, Ruby, Scala, R
+- **Frameworks:** Vue.js, Django, Flask, Spring, Ruby on Rails, Play Framework
+- **ML/AI:** Reinforcement Learning, GANs, AutoML, Named Entity Recognition
+- **Technologies:** Kubernetes, Apache Kafka, Redis, RabbitMQ, Elasticsearch, Apache Spark
+- **Testing:** JUnit, Selenium, TestNG, JEST
+
+### Certifications
+
+- **AWS Certified Solutions Architect - Associate**
+- **Azure Data Fundamentals DP-900**
+- **MongoDB Certified Developer Associate**
+- **Certified Kubernetes Application Developer (CKAD)**
+- **Certified Jenkins Engineer**
+
+### Experience
+
+#### ACME  
+Engineer L2  
+Oct 2019 – Present
+
+- Implemented a microservices architecture using Kubernetes for a high-traffic e-commerce platform.
+- Spearheaded the integration of Apache Kafka for real-time data processing and analytics.
+- Led a team in developing a recommendation engine using collaborative filtering techniques.
+- Conducted workshops on Kubernetes best practices and optimization strategies.
+
+#### Innovation Co.  
+Data Engineer  
+Apr 2018 – Sep 2019
+
+- Designed and implemented a data pipeline using Apache Spark for processing large volumes of IoT data.
+- Developed a real-time anomaly detection system leveraging machine learning algorithms.
+- Collaborated with cross-functional teams to optimize data storage and retrieval.
+- Led the migration of on-premise data infrastructure to the cloud for cost efficiency.
+
+#### Tech Solutions  
+Software Developer  
+Jun 2016 – Mar 2018
+
+- Built RESTful APIs with Flask and implemented data caching strategies for improved performance.
+- Integrated Elasticsearch for advanced search functionality in a social media analytics platform.
+- Conducted code reviews and mentored junior developers on best coding practices.
+- Automated deployment processes using Jenkins and Docker for streamlined workflows.
+
+### Education
+
+- **Columbia University** — MSc Data Science (Expected Graduation: 2023)
+- **University of California, Berkeley** — BSc Computer Engineering (Honors, 2012 – 2016)
+
+### Projects
+
+#### Fraud Detection System
+
+- Implemented a fraud detection system using anomaly detection techniques on financial transaction data.
+
+#### Sentiment Analysis with GANs
+
+- Applied Generative Adversarial Networks (GANs) for sentiment analysis on social media comments.
+
+#### Healthcare Chatbot
+
+- Developed a healthcare chatbot using Natural Language Processing to assist patients in symptom diagnosis.
+
+#### Real-time Stock Price Prediction
+
+- Implemented a real-time stock price prediction model using Apache Kafka and machine learning algorithms.
+
+#### Image Captioning with CNNs
+
+- Built an image captioning system using Convolutional Neural Networks (CNNs) for automated image description.
+
+---
+
+This CV showcases a mix of technical skills, certifications, work experience, education, and project highlights in the field of software engineering and data science.

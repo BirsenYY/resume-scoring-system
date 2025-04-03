@@ -1,0 +1,99 @@
+```
+    Amazon                                    
+
+                                                                                    
+
+                            Seattle, US | (+1) 987-654-3210 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative AI/ML Engineer and Certified Data Scientist with 7 years of experience. Skilled in Natural Language Understanding,
+
+      Anomaly Detection, and Autonomous Systems. Proficient in Python, Scikit-Learn, and Apache Spark. Currently exploring graph neural
+
+      networks, ensemble learning methods, and model interpretability techniques. Proven expertise in developing cutting-edge AI solutions,
+
+      leading cross-functional teams, and delivering business impact in diverse industries.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, R, Java, Scala, MATLAB | PostgreSQL, Cassandra, Neo4j | PyTorch, XGBoost, Hugging Face, GraphSage, SHAP,
+
+      kubeflow | Natural Language Processing, Anomaly Detection, Deep Reinforcement Learning | Django, Kubernetes | Git, Jenkins,
+
+      AWS, Azure                                                                                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     AI Research Scientist (AlphaAI Labs) - San Francisco, US    March 2021 : Present
+
+    ● Led a research project on explainable AI, developing a novel SHAP-based methodology for interpreting black-box machine learning
+
+      models and improving model transparency and trustworthiness                    
+
+    ● Implemented a production-grade anomaly detection system for real-time sensor data in manufacturing processes, resulting in a 30%
+
+      reduction in equipment downtime and maintenance costs                            
+
+    ● Collaborated with cross-functional teams to design and deploy a scalable recommendation system based on graph neural networks,
+
+      enhancing user engagement and driving revenue growth                              
+
+    ● Actively participated in patent disclosures, research paper publications, and academic collaborations to advance the field of AI and
+
+      machine learning                                                                
+
+     Machine Learning Engineer (IBM Watson) - New York, US    June 2018 : March 2021
+
+    ● Developed and deployed ML models for healthcare applications, focusing on personalized medicine and clinical decision support
+
+    ● Optimized model performance by fine-tuning hyperparameters, conducting feature selection, and enhancing data preprocessing
+
+    ● Spearheaded the integration of deep learning models into existing pipelines for image recognition and disease diagnosis
+
+    ● Collaborated with data engineers and software developers to build end-to-end ML solutions in cloud environments  
+
+     Data Scientist (Tesla) - Palo Alto, US    Jan 2016 : May 2018
+
+    ● Analyzed vehicle telemetry data to identify patterns and anomalies, contributing to predictive maintenance strategies and improving
+
+      vehicle performance and reliability                                                
+
+    ● Built machine learning models for demand forecasting and inventory optimization, reducing supply chain costs and improving
+
+      operational efficiency                                                                
+
+    ● Led a team in developing a computer vision system for autonomous driving applications, enabling real-time object detection and
+
+      tracking                                                                         
+
+    EDUCATION:                                                                      
+
+    PhD in Computer Science - Carnegie Mellon University, Pittsburgh (Distinction) Sep 2011 : Dec 2015
+
+    MS in Data Science - University of California, Berkeley (Honors) Sep 2009 : May 2011
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Computer Vision Specialist Certification (DeepLearning.AI)       May, 2022  
+
+    ● Certified Blockchain Developer (Blockchain Council)               Sep, 2021
+
+    ● Big Data Analytics Certification (edX)                           Dec, 2020  
+
+    ● Quantum Machine Learning (QMLeC)                                 July, 2020
+
+    ● Cloud Security Certification (ISC2)                              Feb, 2019
+```

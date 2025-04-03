@@ -1,0 +1,107 @@
+Sarah Johnson
+
+                                                                                  
+
+                      Los Angeles | 555-123-4567 | sarahjohnson@email.com | MNO Solutions | RST Technologies
+
+      SUMMARY                                                                     
+
+                                                                                  
+
+      Data scientist and AI engineer with a focus on developing and deploying cutting-edge machine learning models. Proficient in
+
+      Python and TensorFlow ecosystem, with hands-on experience in computer vision and natural language processing applications. Skilled in building scalable microservices using FastAPI and Docker.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      RST Technologies                             Jan 2021 – Present
+
+        ●  Led a team in optimizing machine learning models for production deployment, resulting in a 30% increase in inference speed.
+
+        ●  Implemented MLOps practices using Kubeflow and Apache Beam to streamline model training and deployment workflows.
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Sentiment Analysis Platform                                             2023     
+
+        ●  Developed a sentiment analysis platform using BERT for deep learning and FastAPI for microservices.
+
+      Recommendation System for E-commerce                                  2023     
+
+        ●  Engineered a personalized recommendation system leveraging collaborative filtering and content-based filtering techniques.
+
+      Real-time Object Detection                                             2023     
+
+        ●  Implemented a real-time object detection system using YOLOv4 with efficient NMS and feature extraction.
+
+      IoT Plant Monitoring System                                            2023     
+
+        ●  Designed an IoT plant monitoring system using sensors and computer vision algorithms to analyze plant health.
+
+      Fraud Detection Algorithm                                              2023     
+
+        ●  Created a fraud detection algorithm using ensemble learning techniques and anomaly detection.
+
+      Movie Dialogue Generation                                              2022     
+
+        ●  Built a sequence-to-sequence model for movie dialogue generation trained on a large dataset of movie scripts.
+
+      Speech Emotion Recognition                                             2022     
+
+        ●  Developed a deep learning model for speech emotion recognition using spectrogram features and LSTM network.
+
+      Credit Risk Prediction                                                 2021     
+
+        ●  Built a credit risk prediction model using gradient boosting algorithms and feature engineering techniques.
+
+      AR Indoor Navigation App                                               2021     
+
+        ●  Implemented an augmented reality indoor navigation app for retail stores using ARKit and CoreLocation.
+
+      Sentiment Analysis Twitter Bot                                         2021     
+
+        ●  Programmed a Twitter bot that performs sentiment analysis on tweets related to specific keywords.
+
+      Real-time Face Recognition System                                      2020     
+
+        ●  Engineered a real-time face recognition system using OpenCV and dlib for attendance tracking.
+
+      Chatbot for Customer Support                                           2020     
+
+        ●  Developed a chatbot using Rasa NLU and Rasa Core for automating customer support inquiries.
+
+      IoT Smart Home Automation                                              2019     
+
+        ●  Created an IoT smart home automation system using Raspberry Pi and MQTT protocol for remote control.
+
+      EDUCATION                                                                   
+
+      MNO University                                           2016 – 2020  
+
+      BSc in Computer Engineering                                               
+
+                                                                                  
+
+      CERTIFICATIONS                                                      
+
+      - AWS Certified Solutions Architect
+      - Google Professional Data Engineer
+      - CompTIA Security+
+      - Certified Kubernetes Administrator
+      - Microsoft Certified: Azure AI Engineer Associate
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      Proficient in TensorFlow, PyTorch, Keras, Scikit-Learn, Docker, FastAPI, Kafka, Apache Beam, AWS, GCP, Azure, SQL, NoSQL, Spark, Tableau, Power BI, Flask, React, Angular, HTML, CSS, JavaScript, Git, Jenkins.
+
+                                                                                 

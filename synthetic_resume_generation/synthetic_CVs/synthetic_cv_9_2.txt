@@ -1,0 +1,64 @@
+**Richard Thompson**  
+Newcastle, UK | richard.thompson@email.com | +44 123 456 7890 | [LinkedIn](linkedin.com/in/richardthompson) | [GitHub](github.com/richardt)
+
+---
+
+**PROFILE**  
+Accomplished technology executive with over 20 years of experience in machine learning, artificial intelligence, and software engineering. Currently, the Head of AI Innovation at a dynamic technology startup, responsible for driving AI strategy, scalable infrastructure, and holistic product development. Proven expertise in leading high-performing engineering teams, bringing ML products from concept to market, and aligning technical solutions with strategic business objectives.
+
+**EXPERIENCE**  
+**Head of AI Innovation**  
+AI Visionaries Ltd. | Paris, France | Sep 2019 – Present
+
+- Spearheaded AI strategy formulation and execution for cutting-edge AI solutions.
+- Expanded the engineering team from 10 to 60 members and introduced agile methodologies.
+- Designed and implemented scalable ML pipelines for IoT anomaly detection, chatbot systems, and sentiment analysis.
+- Orchestrated AI model deployment on hybrid cloud environments, optimizing performance by 35%.
+- Collaborated with the leadership team to secure €15M in Series A funding.
+
+**Lead Data Science Engineer**  
+DataCrafters Inc. | San Francisco, USA | Aug 2015 – Aug 2019
+
+- Directed a team of data science experts in developing real-time anomaly detection and customer segmentation solutions.
+- Engineered advanced computer vision models for image recognition and object detection using PyTorch and OpenCV.
+- Established end-to-end MLOps workflows for streamlined model deployment and monitoring.
+- Enhanced model accuracy by 30% through sophisticated feature engineering and ensemble learning techniques.
+
+**Senior AI Developer**  
+InnovateTech Solutions | Remote | Jan 2012 – Jul 2015
+
+- Executed comprehensive AI projects in the retail and logistics domains.
+- Constructed interpretable ML models and interactive dashboards for business stakeholders.
+- Conducted rigorous A/B testing and model validation to ensure robust model performance.
+- Led initiatives to enhance the company's AI capabilities with innovative solutions and technologies.
+
+**EDUCATION**  
+MSc in Machine Learning & Data Science  
+Stanford University | 2011
+
+BSc in Computer Engineering  
+Imperial College London | 2009
+
+**SKILLS**  
+Languages: Python, Java, R, Scala  
+Frameworks: PyTorch, Keras, H2O.ai, XGBoost  
+ML Ops: Docker, Kubernetes, Apache Airflow, MLflow  
+Cloud: AWS (SageMaker, EC2), Azure (Azure ML), IBM Cloud  
+Other: Reinforcement Learning, Time Series Analysis, Graph Neural Networks, Model Explainability  
+
+**CERTIFICATIONS**  
+Azure Machine Learning Engineer Associate  
+XGBoost Certified Expert  
+ML Systems Specialist Certificate  
+IBM Certified Data Engineer
+
+**SIDE PROJECTS**  
+1. Developed a real-time stock price prediction model using LSTM networks.  
+2. Created a sentiment analysis tool for social media posts using BERT Transformers.  
+3. Implemented a recommendation system for e-commerce platforms based on collaborative filtering.  
+4. Built a chatbot for customer service using Rasa Open Source.
+
+**SPEAKING & PUBLICATIONS**  
+Panelist at AI Expo Europe  
+Author of "AI-Powered Business: A Comprehensive Guide"  
+Contributor to AI magazines and industry blogs.

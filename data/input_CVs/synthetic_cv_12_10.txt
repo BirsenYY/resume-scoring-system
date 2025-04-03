@@ -1,0 +1,58 @@
+NAME
+ London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Dynamic Software Engineer with over 6 years of experience in designing and implementing robust backend solutions. Skilled in multiple programming languages including Python, Java, and C++. Proven track record of optimizing system performance and implementing DevOps best practices to ensure high-quality software delivery.
+
+Technical Skills
+Languages: Python, Java, C++, JavaScript, Ruby
+
+Frameworks & Tools: Django, Spring Boot, Angular, Puppet, Maven, Mocha, RSpec
+
+DevOps & CI/CD: Kubernetes, Jenkins, Travis CI, GitLab, Helm
+
+Databases: Oracle DB, Redis, SQLite, Cassandra
+
+Cloud & Platforms: AWS (RDS, ECS, EKS), Azure, Docker, Ubuntu
+
+Others: GraphQL, Kafka, Scrum, Kanban, DDD
+
+Professional Experience
+Senior Software Engineer
+DigitalScape Technologies, London, UK
+Sep 2020 – Present
+
+- Architected and developed scalable microservices in Python and Java, deployed on Kubernetes clusters on AWS EKS
+- Implemented GraphQL APIs to enhance data querying capabilities and improve system performance
+- Led a team in migrating legacy applications to containers on AWS ECS, reducing infrastructure costs by 20%
+- Spearheaded the implementation of event-driven architecture using Apache Kafka for real-time data processing
+- Mentored junior developers, conducted code reviews, and actively contributed to the design and planning of new features
+
+Software Engineer
+ByteShift Innovations, London, UK
+Jul 2018 – Aug 2020
+
+- Designed and developed RESTful APIs using Django and Flask, integrated with Angular frontend applications
+- Implemented caching strategies with Redis to optimize response times and reduce server load
+- Automated deployment pipelines with Jenkins and GitLab CI, enabling continuous integration and delivery processes
+- Collaborated with the QA team to improve test coverage and ensure software reliability
+- Initiated internal tech talks on new technologies and best practices to foster knowledge sharing within the team
+
+Side Projects
+1. SmartHome Automation System
+   - Developed a Python-based system to automate home devices using Raspberry Pi and AWS IoT Core
+   - Integrated voice commands using Amazon Alexa Skills Kit for hands-free control
+
+2. Event Management App
+   - Created a mobile app with React Native for managing events, bookings, and notifications for a local organization
+
+Education
+MSc in Computer Engineering
+Imperial College London, UK
+2016 – 2018
+
+Certifications
+- Certified Kubernetes Administrator
+- AWS Certified Solutions Architect – Associate
+- MongoDB Certified Developer
+- Certified Scrum Master

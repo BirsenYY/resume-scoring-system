@@ -1,0 +1,107 @@
+    Horton Medical Center                                                
+
+                                                                                    
+
+                 London, UK | (+44) 7945678910 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 8+ years of experience in healthcare technology, specializing in medical device maintenance, data analytics, and AI solutions. Skilled in signal processing, medical imaging analysis, and machine learning algorithms. Proficient in Python, MATLAB, and TensorFlow. Experienced in collaborating with diverse teams to develop innovative healthcare solutions.
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, PyTorch, Keras | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis |
+
+     Medical Imaging (CT, PET, Ultrasound), Image Segmentation | ITK-SNAP, OsiriX | Medical Device Calibration | Git, Docker |
+
+     Healthcare Data Standards (HL7, DICOM) | Flask, Django, REST APIs | Jupyter Notebooks, Markdown
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Biomedical Engineer (Horton Medical Center) - London, UK     Apr 2019 : Present
+
+    ● Led the implementation of a predictive maintenance program for medical equipment, reducing downtime by 20% and maintenance costs by 15%
+
+    ● Developed a machine learning model for early detection of sepsis using patient vitals data, leading to a 25% reduction in sepsis-related mortality
+
+    ● Collaborated with clinical staff to optimize workflows and usability of a patient monitoring system, improving user satisfaction by 30%
+
+    ● Implemented a secure data sharing platform for medical images with external partners, ensuring compliance with GDPR regulations
+
+    ● Conducted training sessions for healthcare providers on the use of new technologies and medical devices
+
+    
+
+     Biomedical Data Analyst (Cambridge Medical Research Institute)  Jan 2016 : Mar 2019
+
+    ● Utilized deep learning algorithms to automate brain tumor segmentation in MRI scans, reducing analysis time by 50%
+
+    ● Developed data pipelines for collecting, processing, and analyzing genomic data, contributing to cancer research studies
+
+    ● Conducted survival analysis using Cox proportional hazards models on patient data to identify prognostic factors
+
+    ● Collaborated with bioinformatics experts to integrate genetic data with clinical outcomes for personalized medicine research
+
+    ● Presented research findings at international conferences and contributed to academic publications
+
+    
+
+     Clinical Engineer (Oxford University Hospitals) – Oxford, UK     Sep 2013 : Dec 2015
+
+    ● Managed the maintenance and calibration of medical devices in various hospital departments, ensuring compliance with quality standards
+
+    ● Implemented a remote monitoring system for cardiac devices, enabling real-time data tracking and analysis
+
+    ● Conducted risk assessments and safety testing on new medical equipment before clinical deployment
+
+    ● Coordinated with vendors for equipment upgrades and troubleshooting technical issues
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    MSc in Biomedical Engineering - Imperial College London (Distinction)   Sep 2011 : Sep 2012
+
+    BEng in Electrical and Biomedical Engineering - University of Birmingham (First Class)  Sep 2007 : Jun 2011
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Healthcare Data Analytics Certificate (Johns Hopkins University)               Mar, 2023
+
+    ● Certified Health Technology Specialist (CHTS)                                 Nov, 2022
+
+    ● Advanced Healthcare Informatics Course (Meditech Institute)                   Aug, 2021
+
+    ● Medical Device Regulations Training (Regulatory Authority for Health)          May, 2020
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● IoT-Enabled Vital Signs Monitor: Designed a prototype device for continuous monitoring of vital signs using IoT sensors and a mobile app for data visualization. 
+
+    ● Medical Image Anonymization Tool: Developed a Python script to anonymize patient information in medical images before sharing for research purposes.
+
+    ● Healthcare Chatbot Integration: Integrated a chatbot into a hospital's website to provide patients with quick answers to common healthcare questions.
+
+    ● Telemedicine Platform Development: Worked on a team to create a telemedicine platform for remote consultations between doctors and patients.
+
+    ● Wearable Health Monitoring Device: Prototyped a wearable device that tracks user activity, heart rate, and sleep patterns for health and fitness monitoring.

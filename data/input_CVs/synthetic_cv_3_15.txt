@@ -1,0 +1,53 @@
+Jane Smith
+
+                                                        
+New York | 987-654-3210 | janesmith@email.com | 123 AI Inc | Tech Innovators
+
+SUMMARY
+
+Machine learning and software engineer with a focus on developing and deploying scalable machine learning solutions. Proficient in Python and the TensorFlow framework, with hands-on experience in computer vision, NLP, and MLOps. Skilled in building microservices using FastAPI and Docker on cloud-based infrastructure.
+
+EXPERIENCE
+
+Tech Innovators                          Jan 2021 – Present
+
+- AI Engineer
+  - Developed and deployed custom object detection models using TensorFlow for real-time applications.
+  - Implemented MLOps pipelines with MLflow, TFX, and Argo for model versioning and monitoring.
+
+123 AI Inc                               Jul 2018 – Dec 2020
+
+- Junior Machine Learning Engineer
+  - Collaborated on projects involving transfer learning for image classification and sentiment analysis using BERT.
+  - Automated data preprocessing pipelines using PySpark for faster feature engineering.
+
+PROJECTS
+
+Medical Image Segmentation App                        2021
+- Built an end-to-end medical image segmentation application using U-Net architecture with TensorFlow.
+
+AI-Powered Music Recommendation System               2020
+- Developed an AI-powered music recommendation system based on user preferences using collaborative filtering.
+
+Real-Time Fraud Detection System                     2019
+- Implemented a real-time fraud detection system using XGBoost for anomaly detection in financial transactions.
+
+Handwritten Digit Recognition Model                 2018
+- Trained a convolutional neural network model with PyTorch to recognize handwritten digits from the MNIST dataset.
+
+Side Projects:
+- Sentiment Analysis Chatbot using BERT             2017
+- Stock Price Prediction Web App using LSTM          2016
+
+EDUCATION
+
+ABC State University                     2014 – 2018
+Bachelor of Science in Computer Science
+
+CERTIFICATIONS
+
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Solutions Architect - Associate
+- Google Professional Data Engineer
+- HashiCorp Certified: Terraform Associate
+- Certified Information Systems Security Professional (CISSP)

@@ -1,0 +1,107 @@
+John Doe                                                                        
+
+                                                                                  
+
+                      San Francisco | 0999999 | john.doe@email.com | XYZ Innovations | XYZ Innovations
+
+      PROFILE                                                                       
+
+                                                                                  
+
+                                                                                  
+
+      Quality Assurance Engineer specializing in building efficient test strategies and automated test suites for complex software systems.
+
+      Possess expertise in testing web and mobile applications, with a strong understanding of API testing and integration with CI/CD pipelines.
+
+      Skilled in tools like Selenium, TestNG, and REST Assured. Experienced in Agile methodologies and ensuring high-quality software deliveries.
+
+      CURRENT PROJECTS                                                          
+
+                                                                                  
+
+      XYZ Innovations – Senior QA Engineer             Jan 2023 – Present
+
+        ●  Spearheading the implementation of a performance testing framework for high-traffic e-commerce platforms.
+
+        ●  Leading a team of QA engineers to automate test cases using TestNG and JMeter.
+
+                                                                                  
+
+      SIDE PROJECTS                                                                
+
+                                                                                  
+
+      Browser Compatibility Testing Tool – LINK       2022     
+
+        ●  Developed a tool using BrowserStack to automate cross-browser compatibility testing.
+
+        ●  Increased test coverage by 30% and reduced manual testing efforts.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      XYZ Software Solutions – QA Lead                     Mar 2019 – Jan 2023
+
+        ●  Led the QA team in testing cloud-based accounting software, increasing test coverage by 25%.
+
+        ●  Introduced performance testing using Apache JMeter for load and stress testing.
+
+        ●  Collaborated with DevOps to integrate QA processes into the CI/CD pipeline.
+
+                                                                                  
+
+      XYZ Tech Ventures – QA Automation Engineer       Sep 2017 – Mar 2019
+
+        ●  Designed and implemented automated test suites for Android and iOS mobile apps using Appium.
+
+        ●  Generated detailed test reports and tracked bugs using Zephyr for Jira.
+
+        ●  Conducted training sessions for team members on mobile test automation best practices.
+
+                                                                                  
+
+      XYZ Labs – QA Tester                                       Feb 2016 – Sep 2017
+
+        ●  Conducted manual testing for a healthcare management system, ensuring compliance with HIPAA regulations.
+
+        ●  Established test cases and executed test scripts for new feature releases.
+
+        ●  Documented and tracked defects using Redmine bug tracking tool.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      XYZ State University                                 2012 – 2016  
+
+      BSc Computer Science                                                 
+
+        ●  Graduated with a GPA of 3.8 – Thesis project on automated API testing using REST Assured.
+
+      CERTIFICATIONS                                                              
+
+                                                                                  
+
+        ●  Certified Scrum Master
+
+        ●  ISTQB Foundation Level
+
+        ●  AWS Certified Solutions Architect – Associate
+
+        ●  Certified Ethical Hacker
+
+        ●  Data Privacy and Protection Certification
+
+      TOOLS AND TECHNOLOGIES
+
+
+
+Selenium, TestNG, JMeter, Appium, Postman, REST Assured, JIRA, Zephyr, Git, BrowserStack, Apache JMeter, Redmine, Java,
+
+      Python, SQL, CI/CD, Agile Methodologies, XYZ Tech Ventures, XYZ Software Solutions, XYZ Labs

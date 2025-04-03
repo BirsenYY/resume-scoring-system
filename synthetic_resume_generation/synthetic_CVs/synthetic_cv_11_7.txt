@@ -1,0 +1,87 @@
+    Artificial Intelligence Enterprises                           
+
+                                                                                    
+
+                 New York, NY | (+1) 9876543210 | jane.smith@gmail.com | Work Rights: Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | ai-enterprises.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative Machine Learning Engineer and Certified Azure ML Specialist with 7 years of experience. Proficient in building cutting-edge
+
+      deep learning models, developing RNN-based solutions, and implementing Transformer architectures. Skilled in Python, TensorFlow, and
+
+      PyTorch. Currently exploring GANs, self-supervised learning, and model distillation techniques. Extensive experience in leading
+
+      cross-functional teams, optimizing ML pipelines, and delivering impactful solutions for various industries.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, Java, Scala, R | SQL, MongoDB, Cassandra | TensorFlow, PyTorch, Keras, Hugging Face | GANs, Self-Supervised Learning, Model
+
+      Distillation | Streamlit, Dash | Git, Azure, Kubernetes, Jenkins                   
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Lead Machine Learning Engineer (DataFusion.AI) - San Francisco, US      May 2020 : Present
+
+    ● Conceptualized and implemented a novel Generative Adversarial Network (GAN) framework for data augmentation, enhancing model
+
+      generalization and robustness                                                 
+
+    ● Spearheaded the development of a self-supervised learning system for image classification, reducing manual labeling effort by 40%
+
+      and improving model accuracy                                                   
+
+    ● Managed a team of data scientists and ML engineers, overseeing model development, experimentation, and deployment processes
+
+    ● Collaborated with cross-functional teams to integrate ML solutions into existing products and services, driving business impact
+
+     Machine Learning Engineer (IBM Research) - Austin, US (Contract)     Oct 2017 : Apr 2020
+
+    ● Developed and trained Recurrent Neural Networks (RNNs) for time series forecasting and anomaly detection in IoT sensor data,
+
+      achieving a 30% improvement in predictive accuracy                               
+
+    ● Built scalable ML pipelines using Apache Spark and Hadoop for processing large-scale datasets in real-time environments
+
+    ● Conducted research on model distillation techniques to compress large models for deployment on edge devices with limited resources
+
+    ● Presented research findings at industry conferences and contributed to open-source projects in collaboration with the community
+
+     Data Scientist (TechSolutions) - Los Angeles, US     Aug 2015 : Sep 2017
+
+    ● Analyzed customer behavior data using machine learning algorithms to optimize marketing campaigns and enhance customer engagement
+
+    ● Developed predictive models for customer churn prediction and product recommendation systems, resulting in a 25% increase in revenue
+
+    ● Implemented A/B testing methodologies to evaluate the effectiveness of new features and business strategies
+
+    EDUCATION:                                                                      
+
+    MS in Machine Learning - Stanford University, Stanford (Distinction)      Sept 2012 : Aug 2014
+
+    BS in Computer Science - University of California, Berkeley (Honors)       Sept 2008 : Aug 2012
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Deep Learning Engineer (by DataAcademy)                    Jan 2022
+
+    ● Azure AI Engineer Associate (Microsoft)                               Apr 2021
+
+    ● Machine Learning for Business Leaders (by edX)                       Nov 2020
+
+    ● Neural Networks and Deep Learning (by Udacity)                        Mar 2019
+
+    ● Data Visualization with D3.js (by Coursera)                            Aug 2018

@@ -1,0 +1,93 @@
+Sophia Rodriguez
+
+                                                                                    
+
+      📞 555-987-6543 — sophia.rodriguez@email.com — 🌐 linkedin.com/in/sophiarodriguez — 🐙 github.com/sophia_rodriguez
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  C++, JavaScript, SQL, R, Swift                                  
+
+   Frameworks: Vue.js, Django, Flask, Bootstrap, Pandas, NumPy, XGBoost, LightGBM, GraphQL, D3.js, Matplotlib   
+
+   ML/AI:      AutoML, XNN, GANs, Time Series Forecasting                  
+
+   Technologies: Kubernetes, Redis, Apache Kafka, OpenCV, Firebase, Apache Beam, Elastic Stack, RabbitMQ
+
+   Testing:    Selenium, Postman, Chai, Mocha, Jest
+
+   Certifications: AWS Certified Solutions Architect - Associate, Splunk Certified Power User, TensorFlow Developer Certificate, Salesforce Certified Administrator, CompTIA Security+
+
+                                                                                    
+
+   Experience                                                                       
+
+    XYZ Tech                                      Aug 2019 - Present
+
+    Software Engineer                                                                     
+
+      – Spearheaded the migration to Kubernetes, optimizing scalability and reducing downtime by 20%.
+
+      – Developed and deployed a real-time data ingestion system using Apache Kafka for stream processing.
+
+      – Implemented GANs for generating synthetic data to augment the training set for fraud detection models.
+
+      – Conducted workshops on GraphQL best practices for the development team.   
+
+    Junior Software Developer                                                                     
+
+      – Contributed to the development of a chatbot using Firebase and Dialogflow, improving customer support efficiency.
+
+      – Collaborated with the data science team to integrate XGBoost models into production systems.
+
+      – Automated data cleaning processes using Apache Beam, reducing manual effort by 30%.
+
+    Intern Software Engineer                                                                            
+
+      – Developed a web application for real-time sentiment analysis using Flask and D3.js.
+
+      – Assisted in building a recommendation engine based on collaborative filtering algorithms.
+
+      – Conducted performance testing and optimization on critical API endpoints.
+
+    PQR Solutions                                          Jan 2018 - Jul 2019
+
+    Backend Developer                                                                     
+
+      – Designed and implemented a microservices architecture using Spring Boot, improving system modularity.
+
+      – Led the migration of the legacy system to a cloud-based solution on AWS.
+
+      – Implemented RabbitMQ for asynchronous communication between services.
+
+   Education                                                                        
+
+    Carnegie Mellon University — MS in Machine Learning and Artificial Intelligence     2023    
+
+    University of California, Berkeley — BS in Computer Science     2014 – 2018  
+
+    Projects                                                                         
+
+                                                                                    
+
+    Autonomous Drone Navigation System                                      
+
+      – Developed an autonomous drone navigation system using computer vision and machine learning algorithms.
+
+    Quantum Cryptography Research                                         
+
+      – Investigated quantum cryptography protocols and developed a simulation environment to analyze their security.
+
+    Stock Price Prediction Model                                          
+
+      – Built a machine learning model to predict stock prices based on historical data using Time Series Forecasting techniques.
+
+    Voice-Controlled Smart Mirror                                          
+
+      – Created a voice-controlled smart mirror prototype using Raspberry Pi and OpenCV for facial recognition.
+
+    IoT-based Smart Home Automation System                                          
+
+      – Designed and implemented an IoT-based smart home automation system for controlling devices remotely.

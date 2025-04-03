@@ -1,0 +1,105 @@
+```
+    Emily Johnson                                  
+
+                        San Francisco | emily.johnson@email.com | Tech Innovations | Tech Innovations   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Machine learning engineer with a strong foundation in computer science and a passion for innovative AI applications. Skilled in developing cutting-edge machine learning models and continuously expanding expertise in the field.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, Java, C++, Scala, Docker, Flask, • Frameworks: PyTorch, MXNet, Ludwig, H2O.ai,
+
+     FastAPI, MongoDB, AWS SageMaker                                                
+
+    • Machine Learning: SSL, Meta-learning, AutoML, • Tools: Anaconda, DVC, MLflow, Docker, 
+
+     Self-supervised Learning, Few-shot Learning, Dataiku, Hugging Face Transformers, DataRobot
+
+    • Skills: Time Series Forecasting, Reinforcement Learning, Multimodal AI, Dynamic Embeddings, Transfer Learning, 
+
+     Extreme Gradient Boosting, TensorFlow Serving, Azure ML, Model Interpretability, Model Deployment, 
+
+     Model Explainability, Synthetic Data Generation, Explainable AI                     
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    Machine Learning Engineer | Tech Innovations, New York              Jan 2020 – Present
+
+    AI-driven Clinical Decision Support System                                 
+
+                                                                                  
+
+    • Developed an AI-powered clinical decision support system leveraging Bayesian optimization for personalized patient care recommendations.
+
+    • Utilized Meta-learning techniques to adapt the model to various medical specialties and patient demographics.
+
+    • Integrated AutoML for automated feature engineering and model selection.
+
+    • Implemented interpretable AI techniques for medical staff to understand model decisions.
+
+    • Deployed the system on AWS SageMaker for scalability and reliability.                    
+
+    Tech Stack: Python, MXNet, Bayesian Optimization, AutoML, SHAP, AWS SageMaker            
+
+    Data Privacy Compliance Tool                                                    
+
+    • Led the development of a data privacy compliance tool to assist companies in adhering to global data protection regulations.
+
+    • Applied self-supervised learning for data anonymization and feature obfuscation.
+
+    • Utilized Few-shot Learning for rapid adaptation to new compliance requirements.
+
+    • Collaborated with legal experts to ensure regulatory compliance and alignment with industry standards.
+
+    • Deployed the tool on Microsoft Azure ML for seamless integration with enterprise systems.                     
+
+    Tech Stack: Python, H2O.ai, Self-supervised Learning, Few-shot Learning, Azure ML, Dataiku
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc in Machine Learning, Carnegie Mellon University, Pittsburgh, PA    Sept 2018
+
+    BSc in Computer Science (Honors), University of Toronto, Toronto, ON    June 2016  
+
+    Certificate in AI Ethics and Bias Mitigation, Stanford Center for Professional Development
+
+    Certificate in Data Engineering, Google Cloud Certified Professional
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Voice Emotion Recognition (Dynamic Embeddings)           • Code Summarization (Multimodal AI)               
+
+    • Fraud Detection (Transfer Learning)                     • Music Generation (Generative Adversarial Networks) 
+
+    • Plant Disease Classification (Image Segmentation)       • Gesture Recognition (TensorFlow Serving)          
+
+    • Environmental Sound Classification (Time Series Forecasting) 
+    ```

@@ -1,0 +1,90 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Motivated Computer Science graduate with hands-on experience in software development, algorithm design, and backend systems. Excels in problem-solving and project management, seeking opportunities in software engineering, database management, or cloud computing.
+
+Education
+BSc Computer Science
+University of ABC – London, UK
+Graduated: June 2023
+
+Achieved a Distinction with Honors
+
+Key Courses: Machine Learning, Cryptography, Cloud Computing, Mobile App Development, Human-Computer Interaction
+
+Final Year Project: Secure Data Sharing Platform using Blockchain Technology
+
+Technical Skills
+Languages: Java, PHP, Swift, Ruby, Kotlin
+Frameworks & Libraries: Spring Boot, Laravel, Flutter, Ruby on Rails
+Databases: MySQL, PostgreSQL, Firebase
+Tools: Docker, Jenkins, JIRA, Tableau
+Operating Systems: Windows, macOS, Ubuntu
+
+Projects
+eCommerce Recommendation System
+Implemented a recommendation engine to personalize user shopping experiences
+
+Utilized collaborative filtering and content-based algorithms
+
+Integrated with the backend using RESTful APIs
+
+Deployed on AWS EC2 instances for scalability
+
+Health Tracker App
+Developed a mobile app to track user's fitness activities and provide health insights
+
+Utilized GPS and sensor data for accurate tracking
+
+Designed an intuitive user interface for easy navigation
+
+Backend built with Node.js and MongoDB
+
+Crypto Portfolio Manager
+Created a web application to track and analyze cryptocurrency investments
+
+Integrated with multiple exchange APIs for real-time data updates
+
+Implemented data visualization using D3.js for portfolio insights
+
+Deployed on Heroku for accessibility
+
+Certifications
+Oracle Certified Associate, Java SE 8 Programmer
+Machine Learning by Stanford University on Coursera
+
+Applied Cryptography – International Cryptography Institute
+
+HackTheFuture 2022 – Best Innovation Award, Hackathon Winner
+
+Google Cloud Professional Data Engineer
+
+Experience
+Software Engineer Intern
+Tech Solutions Ltd, London
+Mar 2022 – Aug 2022
+
+Developed RESTful APIs for a microservices architecture
+
+Optimized database queries for improved performance
+
+Collaborated with cross-functional teams on project requirements
+
+Technical Support Analyst
+Global Tech Support, London
+Jan 2021 – Feb 2022
+
+Provided technical assistance to clients on software and hardware issues
+
+Troubleshooted network connectivity problems and resolved promptly
+
+Documented troubleshooting procedures for knowledge base
+
+Career Objectives
+Pursue advanced studies in cloud computing or cybersecurity
+
+Contribute to open-source projects and participate in industry conferences
+
+Develop innovative solutions in emerging technologies for societal impact

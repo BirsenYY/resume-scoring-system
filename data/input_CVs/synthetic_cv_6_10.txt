@@ -1,0 +1,95 @@
+```
+    Amazon                                    
+
+                                                                                    
+
+                 Seattle, US | (+1) 9876543210 | jane.smith@email.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+    Innovative Data Scientist and Azure Certified AI Specialist with 7 years of experience. Proficient in building AI applications, designing
+
+      and implementing analytics solutions, and optimizing business processes. Skilled in Python, PyTorch, and Apache Spark. Seeking
+
+      opportunities to apply advanced analytics and machine learning techniques to drive business growth and innovation.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, R, Scala, SQL | PostgreSQL, Cassandra, Redis | PyTorch, XGBoost, H2O.ai, Spark MLlib | Anomaly Detection, Natural
+
+      Language Processing, Recommendation Systems | Flask, Django | Git, Jenkins, Kubernetes                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Data Science Lead (Insight Innovations) - New York, US    Nov 2020 : Present
+
+    ● Spearheaded the development of a real-time anomaly detection system using Apache Spark MLlib and streaming data, resulting
+
+      in a 30% increase in fraud detection accuracy                                          
+
+    ● Led the implementation of a personalized recommendation engine for e-commerce platform, leveraging collaborative filtering
+
+      techniques and user-item interactions to enhance customer experience and increase engagement levels              
+
+    ● Collaborated with cross-functional teams to design and deploy data pipelines, ensuring efficient data processing and integration
+
+      for machine learning models                                                               
+
+    ● Mentored junior data scientists, conducted training sessions on advanced analytics techniques, and promoted a culture of
+
+      continuous learning and innovation within the team                                             
+
+     Machine Learning Engineer (TechneX Solutions) - San Francisco, US   Jan 2017 : Oct 2020
+
+    ● Developed and deployed machine learning models for predictive maintenance in manufacturing industry, reducing downtime by
+
+      20% and increasing operational efficiency                                               
+
+    ● Designed and implemented NLP solutions for sentiment analysis and text classification, enabling automated content
+
+      categorization and sentiment tracking for social media platforms                              
+
+    ● Worked on optimizing recommendation systems using reinforcement learning algorithms, improving user engagement and
+
+      click-through rates on digital platforms                                                     
+
+     Data Analyst (DataWorks Corp) - Chicago, US   May 2014 : Dec 2016
+
+    ● Conducted data mining and statistical analysis to derive actionable insights from large datasets, supporting strategic decision-
+
+      making processes within the organization                                                      
+
+    ● Built interactive dashboards using Tableau for visualizing key performance indicators and presenting data-driven
+
+      recommendations to stakeholders                                                               
+
+    EDUCATION:                                                                      
+
+    MS in Data Science - University of Washington, Seattle, US (Distinction) Aug 2013 : Aug 2015
+
+    BS in Computer Engineering - University of Illinois, Urbana-Champaign (Honors) Aug 2009 : May 2013
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Azure AI Fundamentals (Microsoft)       June, 2021
+
+    ● Big Data Analytics Certification (by DataCamp)       Oct, 2020
+
+    ● Machine Learning for Business (by edX)       Jan, 2019
+
+    ● Certified Data Analyst (by Data Science Council of America)       Aug, 2018
+
+    ● Spark and Hadoop Developer (by Cloudera)       Nov, 2017
+```

@@ -1,0 +1,61 @@
+David May
+Manchester, UK | (+44) 7512948653 | david.may@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/davidmay | github.com/DavidMay | bmw.co.uk/DavidMay | medium.com/@davidmay
+
+PROFESSIONAL SUMMARY:
+
+Results-driven Mechanical Engineer with 8 years of experience in product design, structural analysis, and fluid dynamics. Proficient in CAD modeling, FEA simulations, and sustainable engineering practices. Demonstrated ability to lead teams, optimize manufacturing processes, and implement innovative solutions in the automotive and renewable energy industries. Actively developing expertise in IoT integration and renewable energy technologies.
+
+SKILLS:
+
+Creo Parametric, Solid Edge, Inventor, Nastran, COMSOL Multiphysics, Wolfram Mathematica, Renewable Energy Systems, Additive Manufacturing, Robotics, Data Analysis, Six Sigma, Lean Manufacturing, Agile Project Management, Java, R, Databases, Technical Writing, Failure Mode and Effects Analysis (FMEA), Supplier Quality Management
+
+PROFESSIONAL EXPERIENCE:
+
+Senior Mechanical Engineer (Jaguar Land Rover) – Manchester, UK
+Mar 2018 – Present
+
+Oversaw design and optimization of electric vehicle battery systems, achieving a 20% increase in energy efficiency and 30% reduction in weight
+
+Conducted structural and thermal simulations using Nastran and COMSOL, leading to improved battery performance and durability
+
+Implemented IoT sensors for real-time monitoring of vehicle performance, enabling predictive maintenance strategies and remote diagnostics
+
+Collaborated with cross-functional teams to streamline production processes and ensure quality standards meet global regulations
+
+Mechanical Design Engineer (Renewable Energy Solutions Ltd) – Edinburgh, UK
+Sep 2014 – Feb 2018
+
+Designed wind turbine components and solar panel arrays, focusing on sustainability and energy generation efficiency
+
+Utilized 3D modeling software to create detailed designs and manufacturing drawings, improving accuracy and reducing lead times
+
+Implemented lean manufacturing practices, resulting in a 15% reduction in production costs and increased output capacity
+
+Led root cause analysis investigations for component failures, implementing design improvements to enhance system reliability
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Manchester, Manchester (Distinction)
+Oct 2010 – Sep 2014
+
+BSc in Mechanical Engineering – University of Leeds, Leeds (First Class Honours)
+Sep 2006 – Jun 2010
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Certified Robotics Engineer (RoboCert) – 2021
+
+Renewable Energy Systems Specialist (RES Institute) – 2017
+
+Lean Six Sigma Black Belt – 2019
+
+Fundamentals of IoT Integration (Stanford Online) – Ongoing
+
+Additive Manufacturing and Materials Science – 2020
+
+Side Projects:
+
+1. Autonomous Lawn Mowing Robot: Designed and built a robotic lawn mower prototype using Arduino and ROS, incorporating obstacle avoidance and GPS navigation features.
+
+2. Energy Monitoring System: Developed a web-based energy monitoring dashboard using Python and SQL to track and analyze energy consumption in residential buildings.

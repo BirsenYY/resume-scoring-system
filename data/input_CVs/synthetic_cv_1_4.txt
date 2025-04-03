@@ -1,0 +1,101 @@
+
+Rachel Johnson
+
+                                                                                    
+
+      (cid:131) 555-987-6543 — rachel.johnson@email.com — (cid:239) linkedin.com/in/rachel-johnson-90b752164 — ' github.com/racheljohnson
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  Java, Python, JavaScript, C++, MATLAB                                 
+
+   Frameworks: Vue.js, Django, Flask, Express.js, NumPy, PySpark, Theano, CatBoost,
+
+               Hugging Face, FastAPI                                                   
+
+   ML/AI:      Siamese Networks, Bayesian Optimization, Model Serving, InterpretML,       
+
+               Neural Architecture Search                                                
+
+   Technologies: FastAPI, Chicago, gRPC, Kubernetes, Selenium, Kafka, DVC, Bigtable,     
+
+               Faiss, Argo, TFX, MLflow                                                 
+
+   Testing:    JUnit, Pytest, Robot Framework                                              
+
+   Certifications: AWS Certified Solutions Architect - Associate, Google Cloud Professional Data Engineer, 
+
+                  Certified Kubernetes Administrator (CKA), Cloudera Certified CCA175 Spark and Hadoop Developer,
+
+                  CompTIA IT Fundamentals+                                                 
+
+                                                                                    
+
+   Experience                                                                       
+
+    ACME                                               Jun 2019 – Present
+
+    Senior Machine Learning Engineer                                                
+
+      – Spearheaded the development of a real-time anomaly detection system leveraging Siamese Networks.
+
+      – Pioneered the implementation of Bayesian Optimization for hyperparameter tuning, reducing training time by 20%.
+
+      – Led the integration of Model Serving solutions using FastAPI and Kubernetes for efficient model deployment.
+
+      – Coordinated with the research team to deploy and maintain a Neural Architecture Search system on gRPC.
+
+    Data Scientist                                                                   
+
+      – Utilized InterpretML for feature importance analysis in a recommendation system, improving prediction accuracy by 10%.
+
+      – Developed custom pipelines using Spark for processing large-scale datasets with PySpark.
+
+      – Implemented gRPC services for data communication between microservices in a distributed environment.
+
+    Software Engineer Intern                                                         
+
+      – Contributed to building a data pipeline using Kafka and DVC for version control in a real-time analytics project.
+
+      – Automated web testing with Selenium and Python, increasing test coverage by 30%.
+
+      – Integrated Faiss for similarity search in a content recommendation engine.
+
+    Tech Support Specialist                                                          
+
+      – Provided technical assistance and troubleshooting for internal tools and systems, ensuring minimal downtime.
+
+      – Conducted training sessions on basic IT fundamentals for new hires, improving overall team efficiency.
+
+      – Optimized database queries in Bigtable, reducing query time by 15%.
+
+   Education                                                                        
+
+    Stanford University — MSc Computer Science (Artificial Intelligence)              2018 – 2020    
+
+    University of California, Berkeley — BSc Information Systems (Honors)             2014 – 2018    
+
+   Projects                                                                         
+
+    Sentiment Analysis Dashboard                                               '     
+
+      – Created a real-time sentiment analysis dashboard using Vue.js and Flask, with data visualization powered by Plotly.
+
+    Quantum Computing Algorithms                                             '     
+
+      – Explored quantum computing algorithms for optimization problems, implementing them in Qiskit.
+
+    Movie Recommendation Engine                                              '     
+
+      – Developed a movie recommendation engine based on collaborative filtering with Hugging Face Transformers.
+
+    Secure Document Sharing Platform                                          '     
+
+      – Designed a secure document sharing platform using encryption techniques and Django for backend development.
+
+    Speech Recognition System                                                '     
+
+      – Built a speech recognition system using MFCC features and Convolutional Neural Networks in TensorFlow.        
+      

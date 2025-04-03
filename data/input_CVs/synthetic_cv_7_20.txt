@@ -1,0 +1,99 @@
+    Sarah Johnson                                  
+
+                        San Francisco | sarah.johnson@email.com | Data Science | Data Science   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Data scientist with a strong foundation in statistics and machine learning. Experience in developing AI solutions and a keen interest in natural language processing.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, R, SQL, Scala, Docker, Flask, • Frameworks: H2O, CatBoost, PySpark, Ludwig,
+
+     Plotly, MongoDB, Apache Spark                          
+
+    • Machine Learning: Transfer Learning, AutoML, • Tools: Tableau, Databricks, Airflow, Jenkins,
+
+     Ensemble Methods, Feature Selection, • Cloud Services: Azure ML, IBM Watson Studio,
+
+     Customer Segmentation, Anomaly Detection, A/B Testing, Deployment Techniques, Model Explainability                
+
+     Natural Language Processing, Time Series Analysis, Graph Analysis,  
+     
+     Recommender Systems, Sentiment Analysis                                         
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    Data Scientist | Data Insights, Seattle              Jul 2020 – Present
+
+    Customer Segmentation and Churn Prediction            
+
+                                                                                  
+
+    • Led the development of customer segmentation models using clustering techniques to enhance targeted marketing strategies.
+
+    • Built a churn prediction model leveraging ensemble methods and feature engineering for proactive customer retention.
+
+    • Implemented A/B tests to evaluate the effectiveness of new product features on customer engagement and revenue.
+
+    • Deployed models in a production environment on Azure ML for real-time predictions and monitoring.                    
+
+    Tech Stack: Python, CatBoost, Azure ML, A/B Testing, Clustering, Ensemble Methods                
+
+    Image Recognition System                                                   
+
+    • Designed and implemented an image recognition system for quality control in manufacturing processes.
+
+    • Utilized transfer learning on pre-trained models to adapt to specific industrial image datasets.
+
+    • Deployed the system on IBM Watson Studio for seamless integration with existing workflows.                    
+
+    Tech Stack: Python, TensorFlow, IBM Watson Studio, Image Processing, Transfer Learning
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc in Data Science, University of Washington, Seattle      Oct 2018 - Jun 2020
+
+    BSc in Mathematics (Statistics), University of Oregon, Eugene   Sept 2014 
+
+    BSc in Computer Science, Oregon State University, Corvallis        Jun 2014 
+
+    BSc in Business Analytics, Seattle Pacific University              Mar 2011  
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Fraud Detection (Random Forests)         • Time Series Forecasting                  
+
+    • Text Generation (RNNs) • Social Network Analysis               
+
+    • E-commerce Recommendation Engine (XGBoost)  • Image Segmentation using CNNs           
+
+    • Speech Emotion Recognition (LSTM)             • Stock Price Prediction with LSTMs
+
+    • Disease Detection from Medical Images (CNN)  • Music Genre Classification with Support Vector Machines

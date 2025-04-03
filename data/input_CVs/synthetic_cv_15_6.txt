@@ -1,0 +1,50 @@
+Imperial College Healthcare NHS Trust
+
+London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+PROFESSIONAL SUMMARY:
+
+Biomedical Engineer with 8+ years of experience in clinical systems integration, data-driven diagnostics, and AI applications in healthcare. Experienced in biomedical signal processing, medical imaging analysis, and machine learning for diagnostics. Proficient in Python, MATLAB, and TensorFlow. Skilled in collaborating with diverse teams to deliver innovative healthcare solutions driven by technology.
+
+SKILLS:
+
+Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, PyTorch | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis | Medical Imaging (MRI, CT, X-ray), Image Segmentation | ITK-SNAP, 3D Slicer | Bioinstrumentation | Git, Docker | HL7, FHIR | Flask, Streamlit, REST APIs | Jupyter Notebooks, LaTeX
+
+PROFESSIONAL EXPERIENCE:
+
+Biomedical Engineer (Royal Papworth Hospital) - Cambridge, UK Mar 2019 : Present
+
+- Developed a deep learning model for automated brain tumor segmentation in MRI scans, increasing accuracy by 25%
+- Implemented AI algorithms for real-time anomaly detection in cardiac MRI imaging, reducing diagnosis time by 40%
+- Spearheaded the integration of AI tools with Electronic Health Record systems for seamless patient data analysis
+- Led a team in designing and deploying a predictive model for early sepsis detection in ICU patients
+- Ensured compliance with data security regulations and clinical standards for AI-enhanced medical tools
+
+Biomedical Data Scientist (Oxford University Hospitals) - Oxford, UK Sep 2016 : Feb 2019
+
+- Conducted research on AI-driven image analysis for tumor characterization in CT scans, leading to a 30% reduction in false positives
+- Developed machine learning algorithms for predicting patient outcomes based on radiomic features extracted from medical images
+- Collaborated with clinicians to optimize imaging protocols for better data acquisition and analysis
+- Contributed to the development of a cloud-based platform for sharing medical imaging data securely across institutions
+
+EDUCATION:
+
+PhD in Biomedical Engineering - University College London (Ongoing)
+
+BEng in Electrical Engineering - University of Southampton (First Class) Sep 2011 : Jun 2015
+
+PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:
+
+- Certified Imaging Informatics Professional (CIIP) - Society for Imaging Informatics in Medicine Sep, 2023
+- AI in Healthcare Certificate - Stanford Online Dec, 2022
+- Clinical Data Science Certification - Imperial College London Jul, 2021
+- Radiology Coding Specialist (RCS) - American Health Information Management Association Feb, 2020
+
+SIDE PROJECTS:
+
+- IoT-enabled Wearable for Remote ECG Monitoring: Developed a wearable device with IoT connectivity to monitor ECG signals in real-time. Integrated anomaly detection and alerting system for irregular heart rhythms.
+- Medical Image Reconstruction Tool: Created a software tool using MATLAB for reconstructing 3D images from 2D medical scans. Implemented algorithms for noise reduction and artifact correction.
+- Telemedicine Platform Prototype: Designed a telemedicine platform interface for remote consultations and image sharing between healthcare providers and patients. Incorporated secure data transmission protocols for privacy protection.
+- AI-based Drug Interaction Predictor: Built a predictive model using ML algorithms to identify potential drug interactions based on patient profiles and medication histories. Designed a user-friendly interface for healthcare professionals to input data and receive risk assessments.

@@ -1,0 +1,51 @@
+Jane Doe
+
+San Francisco | jane.doe@email.com | AI Engineer | InnovateTech
+
+SUMMARY
+
+Experienced AI engineer specializing in natural language processing and computer vision. Strong background in machine learning and deep learning algorithms, with a passion for developing innovative AI solutions.
+
+TECHNOLOGIES/SKILLS
+
+• Programming: Python, Java, MATLAB, Bash, Apache Kafka, • Frameworks: FastAI, Hugging Face, Ludwig, H2O.ai, CatBoost
+• Machine Learning: GANs, Siamese Networks, Capsule Networks, U-Net, AutoML, Bayesian Optimization, MLOps
+• Tools: PyCharm, Anaconda, MLflow, DVC, Docker, Kubernetes, Jenkins, GitHub
+• Cloud Services: Microsoft Azure, IBM Cloud, Oracle Cloud, DigitalOcean
+• AI Applications: OCR, voice recognition, anomaly detection, sentiment analysis, recommendation systems
+
+EXPERIENCE
+
+AI Engineer | InnovateTech, San Francisco              Jan 2019 – Present
+
+Document Understanding System
+
+• Led the development of a document understanding system using Siamese Networks for text similarity comparison.
+• Implemented a custom OCR pipeline with data augmentation techniques to improve text extraction accuracy.
+• Integrated the system with Apache Kafka for real-time document processing and analysis.
+• Deployed the solution on Microsoft Azure for scalability and high availability.
+
+Tech Stack: Python, Siamese Networks, OCR, Apache Kafka, Microsoft Azure, Data Augmentation, OCR Augmentation
+
+DeepFashion Image Classification
+
+• Developed a deep learning model using Capsule Networks for fine-grained image classification in the fashion industry.
+• Conducted transfer learning from pre-trained models to improve classification accuracy and speed.
+• Built a Flask API for image upload and classification requests, integrated with Oracle Cloud for hosting.
+• Optimized model training using automated hyperparameter tuning with Bayesian Optimization.
+
+Tech Stack: Python, Capsule Networks, Transfer Learning, Flask, Oracle Cloud, Hyperparameter Tuning, Automated ML
+
+EDUCATION
+
+MSc Computer Science, Specialization in AI, Stanford University, California    Sept 2016 – May 2018
+BSc Electrical Engineering, University of California, Los Angeles                 Sept 2012 – June 2016
+
+PROJECTS
+
+• Sentiment Analysis of Twitter Data (LSTMs)   • Facial Recognition System
+• Chatbot Development (Seq2Seq)               • Style Transfer using CycleGAN
+• Document Summarization (BART)                • Image Segmentation (Mask R-CNN)
+
+• Gesture Recognition (3D CNN)                • Fraud Detection System
+• Predictive Maintenance (XGBoost)             • Music Genre Classification (MFCC)

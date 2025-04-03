@@ -1,0 +1,91 @@
+    Microsoft                                    
+
+                                                                                    
+
+                 Redmond, WA | (+1) 123-456-7890 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmithTech | microsoft.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+    Visionary AI/ML Engineer with 7 years of experience and AWS Certified Data Analytics Specialist. Expertise in developing cutting-edge
+
+    AI solutions, implementing advanced ML algorithms, and optimizing model performance. Skilled in Python, TensorFlow, and PyTorch with a
+
+    passion for exploring Transformer models and multimodal architectures. Proven track record in leading cross-functional teams, driving
+
+    innovation, and delivering high-impact projects across diverse industries.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+    Python, R, Java, Scala, MATLAB | PostgreSQL, Cassandra, Redis | Hugging Face, BERT, GPT-3, LIME, GIN, LangChain | Bayesian
+
+    Optimization, XGBoost, AutoML, Flax | Cyber Security, Natural Language Understanding, Time Series Analysis | Kubernetes, Jenkins, 
+
+    Terraform, Microsoft Azure                                 
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+    AI Research Scientist (AI Innovators) - Denver, CO                     May 2021 : Present
+
+    ● Pioneered the development of a state-of-the-art Generative Adversarial Network (GAN) model leveraging LIME and GIN for explainable
+
+      AI, resulting in a 30% increase in model interpretability and trustworthiness
+
+    ● Spearheaded the implementation of an ensemble learning approach using BERT and GPT-3 for sentiment analysis, achieving a 20%
+
+      improvement in prediction accuracy in social media sentiment analysis tasks
+
+    ● Led the deployment of a real-time anomaly detection system for cybersecurity applications, integrating Flax-based models with 
+
+      Kubernetes for efficient and scalable monitoring of network activity
+
+    ● Coordinated collaborative research projects with academia and industry partners, fostering a culture of innovation and knowledge 
+
+      sharing among team members                                
+
+    Data Scientist (Intel Corporation) - Santa Clara, CA                  Jan 2018 : Apr 2021
+
+    ● Developed and deployed ML models for predictive maintenance using Apache Spark and XGBoost, reducing downtime and maintenance costs
+
+      by 15% in semiconductor manufacturing facilities
+
+    ● Engineered scalable data pipelines using Scala and Apache Kafka to process streaming sensor data for anomaly detection in IoT devices
+
+    ● Conducted comprehensive feature engineering and hyperparameter tuning to optimize model performance for time series forecasting and
+
+      predictive analytics applications
+
+    ● Collaborated with cross-functional teams to prototype and implement AI-powered solutions for supply chain optimization and demand
+
+      forecasting in high-tech manufacturing environments                                
+
+    EDUCATION:                                                                      
+
+    PhD in Machine Learning - Carnegie Mellon University, Pittsburgh (Distinction) Sept 2012 : Aug 2017
+
+    MS in Computer Science - University of California, Berkeley (With Honors) Sept 2009 : May 2011
+
+    BS in Computer Engineering - Purdue University, West Lafayette (Summa Cum Laude) Aug 2005 : May 2009
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Data Engineering with Google Cloud Platform (GCP)                            June, 2023
+
+    ● Certified Kubernetes Administrator (CKA)                                     Sept, 2022
+
+    ● Advanced Deep Learning Techniques (by DeepLearning.ai)                       Feb, 2022
+
+    ● Cybersecurity Fundamentals (by Cybersecurity Institute)                      Nov, 2021
+
+    ● Certified AI Ethics and Compliance Professional (AIECP)                      Aug, 2021

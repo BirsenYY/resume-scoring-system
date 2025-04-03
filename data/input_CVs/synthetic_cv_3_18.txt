@@ -1,0 +1,63 @@
+Mary Garcia
+
+                      Los Angeles | 987-654-3210 | marygarcia@email.com | DEF Tech | LMN Innovations
+
+SUMMARY
+
+Machine learning and software engineer specializing in developing and deploying scalable machine learning solutions. Proficient in Python, TensorFlow, and various deep learning frameworks. Experienced in building computer vision and NLP models and deploying them in production environments.
+
+EXPERIENCE
+
+LMN Innovations                             Feb 2022 – Present
+
+   ● Developed and deployed multi-class image classification system using EfficientNet and transfer learning on TensorFlow.
+
+   ● Implemented MLOps pipeline with TensorFlow Extended (TFX) for model training, evaluation, and serving.
+
+DEF Tech                             Jul 2020 – Jan 2022
+
+   ● Conducted research on federated learning and implemented a privacy-preserving model aggregation framework.
+
+   ● Designed and deployed a sentiment analysis system for social media data using BERT and Flask.
+
+PROJECTS
+
+Real-Time Object Detection                                             2023     
+
+   ● Developed a real-time object detection system using YOLOv5 on a Jetson Nano for edge computing.
+
+Stock Price Prediction Model                                        2022     
+
+   ● Built a LSTM-based model to predict stock prices with high accuracy using TensorFlow.
+
+Word Embeddings Visualizer                                           2022     
+
+   ● Created a web-based interactive tool to visualize word embeddings of text data using Streamlit.
+
+Cloud-Based Document Classifier                                      2021     
+
+   ● Developed a document classification system using BERT and AWS SageMaker for automated document organization.
+
+Cryptography Challenge Platform                                        2021     
+
+   ● Created a platform for hosting cryptography challenges and assessing participants' solutions in a secure environment.
+
+WORKSHOPS AND CERTIFICATES
+
+Machine Learning Bootcamp Certificate                                     2022
+
+Deep Reinforcement Learning Specialization                               2021
+
+Certified Kubernetes Administrator (CKA)                                      2021
+
+Building Secure and Reliable Systems on Google Cloud Platform   2020
+
+EDUCATION
+
+DEF University                                           2016 – 2020  
+
+BSc in Computer Engineering                                                        
+
+TOOLS AND TECHNOLOGIES
+
+Proficient in TensorFlow, PyTorch, Keras, Scikit-Learn, Docker, Kubernetes, Flask, SQL, Matplotlib, NumPy, Pandas, AWS, GCP, OpenCV, Streamlit, React, HTML, CSS, JavaScript, GANs, Reinforcement Learning, Git.

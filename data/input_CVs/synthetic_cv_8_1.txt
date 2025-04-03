@@ -1,0 +1,57 @@
+John Doe
+
+Los Angeles | 0999999 | john.doe@email.com | XYZ Solutions | XYZ Solutions
+
+WORDS ABOUT ME
+
+Quality Assurance Engineer experienced in designing and implementing effective testing strategies to ensure the delivery of high-quality software products. Skilled in automation testing using tools like TestNG, Appium, and JMeter. Proficient in Agile methodologies and continuous integration practices to facilitate seamless software releases.
+
+CURRENTLY BUILDING
+
+XYZ Solutions – Senior Quality Assurance Engineer Oct 2021 – Present
+
+Co-leading the QA department at XYZ Solutions and spearheading the development of a cutting-edge test automation framework (LINK TO GITHUB).
+
+PROJECTS
+
+Mobile Test Automation Suite – link 2021
+
+Designed and executed a mobile test automation suite utilizing Appium and TestNG, resulting in a 90% increase in test coverage for Android and iOS applications.
+
+EXPERIENCE
+
+XYZ Innovations – QA Consultant Nov 2019 – Oct 2021
+
+Collaborated with cross-functional teams to define QA processes and implement best practices for testing IoT devices.
+
+Developed and maintained automated test scripts for API testing using Postman and Swagger.
+
+XYZ Tech – QA Engineer Feb 2018 – Nov 2019
+
+Implemented end-to-end testing solutions for cloud-based platforms using JMeter and TestRail.
+
+Worked closely with development teams to identify and resolve system issues in a timely manner.
+
+XYZ Software – QA Analyst May 2016 – Feb 2018
+
+Conducted manual testing for web applications, identifying critical defects and ensuring alignment with user requirements.
+
+Participated in sprint planning meetings and retrospectives to enhance team productivity and software quality.
+
+XYZ Mobile – Intern QA Tester Sep 2015 – May 2016
+
+Executed regression testing on mobile applications and reported bugs using Bugzilla.
+
+Assisted in the development of test scripts for automated testing processes.
+
+EDUCATION
+
+XYZ University 2012 – 2015
+
+Bachelor of Science in Computer Science
+
+Dean's List recipient with a focus on software testing methodologies and quality assurance practices.
+
+TOOLS AND TECHNOLOGIES
+
+Appium, TestNG, JMeter, TestComplete, Bugzilla, Java, Python, RESTful APIs, Git, Jenkins, SQL, Agile methodologies, XYZ Tech, XYZ Solutions, XYZ Innovations.

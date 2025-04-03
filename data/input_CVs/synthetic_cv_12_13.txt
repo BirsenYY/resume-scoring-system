@@ -1,0 +1,67 @@
+NAME
+ London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Dynamic Software Engineer with 7+ years of experience in designing and implementing robust backend solutions and tools. Proficient in languages like Python, Java, and JavaScript, with a focus on enhancing system reliability and performance. Strong advocate for adopting best practices in software development to deliver secure and efficient products.
+
+Technical Skills
+Languages: Python, Java, JavaScript, SQL, C#
+
+Frameworks & Tools: Django, Spring Boot, Angular, Puppet, Mockito, Mocha
+
+DevOps & CI/CD: Ansible, Travis CI, Rancher, Helm, Mercurial
+
+Databases: SQLite, Oracle Database, Redis
+
+Cloud & Platforms: Azure (App Service, Cosmos DB), DigitalOcean, Windows Server
+
+Others: GraphQL, WebSockets, Pair Programming, DDD
+
+Professional Experience
+Senior Software Engineer
+ByteForge Technologies, London, UK
+Sept 2019 – Present
+
+Responsible for architecting and developing scalable microservices in Python and Java on Azure and DigitalOcean platforms
+
+Led the migration of legacy systems to modern technologies, resulting in a 40% increase in performance
+
+Worked collaboratively with cross-functional teams to design and implement RESTful APIs for seamless integration
+
+Implemented automated deployment pipelines using Ansible and Travis CI, reducing release cycles by 50%
+
+Initiated a code refactoring project to improve code maintainability and enhance system stability
+
+Software Developer
+CyberNexus Innovations, London, UK
+Jan 2017 – Aug 2019
+
+Developed web applications using Django and Angular for real-time data visualization and analysis
+
+Enhanced application security by implementing OAuth2 authentication and role-based access control
+
+Contributed to the design and optimization of complex SQL queries, resulting in a 25% improvement in database performance
+
+Utilized Puppet for infrastructure automation and configuration management, ensuring consistent deployment environments
+
+Implemented a WebSocket-based chat system for internal communication, boosting team collaboration
+
+Side Projects
+1. IoT Home Automation System
+- Designed a Python-based system to control home devices remotely using MQTT protocol
+- Integrated with Raspberry Pi and Arduino for sensor data collection and device control
+
+2. Online Learning Platform
+- Developed a C# application for an e-learning platform with interactive quizzes and progress tracking
+- Utilized SQLite for database storage and retrieval of user information and learning data
+
+Education
+MSc in Software Engineering
+Imperial College London, UK
+2015 – 2017
+
+Certifications
+Microsoft Certified: Azure Developer Associate
+ISTQB Certified Tester - Foundation Level
+React Native Developer Certification
+Certified Kubernetes Application Developer (CKAD)

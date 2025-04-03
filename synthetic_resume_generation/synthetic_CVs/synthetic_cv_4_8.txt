@@ -1,0 +1,89 @@
+    Sophia Johnson                                  
+
+                        San Francisco | sophia.johnson@email.com | AI Engineer | AI Solutions   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Experienced machine learning engineer with a strong foundation in computer science. Specializing in AI-driven applications and continuous learning in machine learning techniques.                                          
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, C++, Ruby, Bash, Docker, Flask  • Frameworks: PyTorch, scikit-learn, Hugging Face, FastAPI, H2O.ai, Pandas, NumPy                          
+
+    • Machine Learning: GBDT, AutoML, XNNs, Transformers, Genetic Algorithms  • Tools: Jupyter Notebook, VS Code, Docker, Git, Linux, Kubernetes, Apache Beam, Apache Flink                      
+
+    • Cloud Platforms: Azure Machine Learning, IBM Watson, Oracle Cloud, DigitalOcean, Alibaba Cloud, Tencent Cloud, Yandex.Cloud                          
+
+    • Other: Reinforcement Learning, Time Series Analysis, Anomaly Detection, Natural Language Processing, Computer Vision, A/B Testing, DevOps Tools                                         
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    AI Engineer | AI Solutions, San Francisco                      Jan 2021 – Present   
+
+    Chatbot Development for AI Solutions                                       
+
+                                                                                  
+
+    • Led the development of a chatbot using Transformers for customer service queries, resulting in a 20% increase in query resolution efficiency.                 
+
+    • Implemented AutoML to optimize and automate the model selection process for different chatbot functionalities.                 
+
+    • Deployed the chatbot system on Kubernetes for scalability and reliability.                 
+
+    • Conducted A/B testing to fine-tune the chatbot's responses and improve user satisfaction.                 
+
+    Tech Stack: Python, Transformers, FastAPI, Kubernetes, ChatGPT, Azure Machine Learning                  
+
+    AI-Based Fraud Detection System                                          
+
+    • Designed and implemented an AI-based fraud detection system using genetic algorithms and XNNs.                  
+
+    • Integrated real-time anomaly detection for financial transactions, reducing false positives by 15%.                  
+
+    • Collaborated with the DevOps team to monitor and maintain the system for optimal performance.                  
+
+    • Utilized Apache Flink for stream processing and real-time analytics.                  
+
+    Tech Stack: Python, Genetic Algorithms, XNNs, Apache Flink, NumPy, Pandas                 
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc in Machine Learning, Stanford University, California           Sept 2018 - May 2020  
+
+    BSc in Computer Science, University of California, Los Angeles     Sept 2014 - May 2018  
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Image Recognition (CNNs)          • Sentiment Analysis (LSTMs)                  
+
+    • Sentiment Classification (BERT)  • Stock Price Prediction (Prophet)                  
+
+    • Deep Q-Learning for Game AI       • StyleGAN for Image Generation                  
+
+                                                                                  
+
+    • Credit Card Fraud Detection (AutoEncoder)          • E-commerce Recommendation System (Matrix Factorization)                  

@@ -1,0 +1,46 @@
+John Doe
+
+San Francisco | 1234567 | john.doe@email.com
+
+SOFTWARE QA ENGINEER
+
+Proven QA professional with extensive experience in designing and implementing test strategies to ensure high-quality software releases. Skilled in automation testing tools like Selenium, Appium, and JMeter, with expertise in CI/CD integration and API testing. Adept at leading QA teams, mentoring junior testers, and driving innovation in Agile environments.
+
+EXPERIENCE
+
+XYZ Innovations - Senior QA Engineer
+May 2022 - Present
+
+- Led the testing efforts for a newly launched mobile application, ensuring compatibility across Android and iOS devices.
+- Implemented a robust test automation framework using Appium and Espresso, resulting in 80% faster regression testing.
+- Collaborated with the development team to integrate API testing into the CI/CD pipeline using Postman and Newman.
+- Conducted performance testing using JMeter to optimize response times and scalability of the application.
+
+TechCorp Solutions - QA Automation Specialist
+Jan 2020 - May 2022
+
+- Developed end-to-end automated test suites for web applications using Selenium and TestNG.
+- Created a custom reporting tool using ExtentReports to provide detailed test execution reports to the management team.
+- Implemented BDD practices using Cucumber to enhance collaboration between QA and development teams.
+- Deployed Docker containers for test environments and orchestrated test runs with Jenkins.
+
+Side Project: Open Source Contribution to QA Framework
+- Contributed to an open-source QA framework on GitHub, enhancing test coverage and stability for community users.
+
+EDUCATION
+
+University of Technology - 2015 - 2019
+
+BSc in Computer Science
+
+- Capstone project focused on implementing AI algorithms in test automation to improve test efficiency.
+
+CERTIFICATIONS
+
+- ISTQB Certified Tester Foundation Level
+- Certified Agile Tester (CAT) 
+- AWS Certified Solutions Architect - Associate
+
+TOOLS AND TECHNOLOGIES
+
+Selenium, Appium, JMeter, Postman, TestNG, Cucumber, Jenkins, Docker, GitHub, ExtentReports, BDD, Agile, AWS, Java, Python, SQL, APM, Espresso, RESTful APIs.

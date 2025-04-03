@@ -1,0 +1,52 @@
+Jane Smith
+
+Chicago, USA | +1 234 567 8901 | jane.smith@email.com | Tech Wizards
+
+EXPERIENCE
+
+Tech Wizards - Data Scientist                          Jan 2022 - Present
+
+- Conducted research on Bayesian deep learning for image recognition tasks.
+- Developed an anomaly detection system for cybersecurity using GANs and VAEs.
+- Implemented MLOps pipelines with MLflow and Jenkins for model deployment.
+
+Tech Wizards - AI Engineer                               Aug 2019 - Dec 2021
+
+- Built a recommendation system for personalized healthcare interventions.
+- Optimized neural network architectures for time-series forecasting.
+- Integrated Reinforcement Learning algorithms for dynamic pricing strategies.
+
+Tech Geniuses - Machine Learning Engineer     Feb 2018 - Jul 2019
+
+- Developed a natural language processing model for sentiment analysis.
+- Implemented a deep learning algorithm for fraud detection in financial transactions.
+- Conducted A/B testing for model performance evaluation and optimization.
+
+EDUCATION
+
+Tech University                                      2015 - 2019
+
+BSc Computer Science, Magna Cum Laude
+
+Tech Certifications:
+- Certified TensorFlow Developer
+- Azure AI Fundamentals
+- AWS Certified Machine Learning Specialist
+- Certified Blockchain Developer
+- CompTIA Cybersecurity Analyst
+
+PROJECTS
+
+Tech Wizards - Image Processing App                     2021
+
+- Collaborated with a team to develop an image processing application for enhancing photo quality.
+- Implemented various filters and image enhancement techniques using OpenCV and TensorFlow.
+
+Blockchain Voting System - Capstone Project          2018
+
+- Developed a secure blockchain-based voting system as a capstone project.
+- Implemented smart contracts using Solidity on the Ethereum blockchain.
+
+TOOLBOX
+
+Proficient in: PyTorch, Keras, Scikit-learn, OpenCV, Docker, Kubernetes, AWS, Azure, GCP, Tableau, Power BI, SQL, MongoDB, Hadoop, Spark, Scala, Java, R, Ruby, PHP, Swift, Kotlin, Unity, Unreal Engine, Flask, Spring Boot, Node.js, GraphQL, REST API, Kafka, RabbitMQ, Git, Jira, Jenkins, Splunk, ELK Stack, Linux, MacOS.

@@ -1,0 +1,65 @@
+[Full Name]
+[City, Country] | [Email Address] | [Phone Number] | [LinkedIn] | [GitHub/Portfolio]
+
+PROFILE
+Tech-savvy professional with over a decade of experience in software engineering, data science, and AI implementation. Currently serving as a Senior Data Scientist at a prominent AI consultancy, delivering impactful projects in various sectors. Skilled in developing ML models, architecting ML pipelines, and collaborating with cross-functional teams to drive business success through data-driven decisions.
+
+EXPERIENCE
+Senior Data Scientist
+DataInsight Co. | Seattle, USA | Oct 2018 – Present
+
+Led the development of predictive analytics solutions for retail and marketing clients.
+
+Designed and deployed real-time customer segmentation models using Spark and Kafka.
+
+Implemented A/B testing frameworks and monitored model performance to ensure accuracy.
+
+Collaborated with product managers to integrate ML recommendations into client applications.
+
+Data Engineer
+InfoTech Solutions | Singapore | Jan 2015 – Sep 2018
+
+Built scalable data pipelines for processing large volumes of IoT sensor data.
+
+Developed anomaly detection algorithms for industrial equipment maintenance.
+
+Automated ETL processes using Python and Apache Airflow, reducing processing time by 30%.
+
+Worked closely with stakeholders to understand data requirements and drive data-driven decisions.
+
+EDUCATION
+PhD in Machine Learning and Data Mining
+University of California, Berkeley | 2014
+
+MSc in Computer Engineering
+Imperial College London | 2010
+
+BSc in Mathematics and Statistics
+University of Sydney | 2008
+
+SKILLS
+Languages: Python, R, Scala, SQL
+
+Frameworks: PySpark, Hadoop, Scikit-learn, XGBoost, LightGBM
+
+ML Ops: DVC, Kubeflow, Apache Beam, Prefect
+
+Cloud: IBM Cloud, Alibaba Cloud, Oracle Cloud
+
+Other: Time Series Analysis, Reinforcement Learning, Graph Analytics, Data Visualization, Big Data
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)
+
+Databricks Certified Developer for Apache Spark
+
+IBM Certified Data Engineer – Big Data and AI
+
+Coursera Certificate in Natural Language Processing
+
+SPEAKING & PUBLICATIONS
+Keynote speaker at DataScienceCon and AI Expo
+
+Published articles on Medium covering topics in anomaly detection and distributed computing
+
+Contributor to the book “Advanced Data Analytics: Techniques and Applications” (2019)

@@ -1,0 +1,77 @@
+[Full Name]
+[City, Country] | [Email Address] | [Phone Number] | [LinkedIn] | [GitHub/Portfolio]
+
+PROFILE
+Experienced technology executive with over 12 years of expertise in machine learning, software development, and AI strategy. Currently, a Senior Director of Engineering at a leading tech firm, focusing on driving innovation, building scalable systems, and fostering collaboration across teams to deliver cutting-edge products. Proven ability to lead high-performing technical teams and align technology initiatives with business objectives.
+
+EXPERIENCE
+Senior Director of Engineering
+TechGen Innovations | San Francisco, USA | Sept 2018 – Present
+
+- Defined and executed the AI roadmap for next-gen IoT solutions.
+- Led a team of 30+ engineers in delivering state-of-the-art ML products and IoT platforms.
+- Engineered ML pipelines for IoT data analysis, anomaly detection, and predictive maintenance.
+- Deployed AI models on AWS IoT Core and Azure IoT Hub for real-time insights.
+- Secured partnerships and grants totaling $8M for AI research and development.
+
+Lead Data Science Architect
+Insightful Solutions Ltd. | Tokyo, Japan | Jan 2015 – Aug 2018
+
+- Conceptualized and implemented real-time personalization engines for e-commerce clients.
+- Developed customized ML algorithms for sentiment analysis and customer segmentation.
+- Orchestrated the migration to Kubernetes for scalable ML model deployment.
+- Mentored junior data scientists and facilitated knowledge sharing within the team.
+- Collaborated with sales teams to drive a 20% increase in customer retention.
+
+Data Scientist
+NextWave Analytics | Vancouver, Canada | May 2012 – Dec 2014
+
+- Conducted research in AI-driven marketing attribution models for retail clients.
+- Built recommendation systems using collaborative filtering techniques.
+- Implemented A/B testing frameworks to optimize marketing campaigns.
+- Streamlined data processing workflows with Apache Spark for improved efficiency.
+- Co-authored a whitepaper on AI-powered customer engagement strategies.
+
+Junior Software Engineer
+TechVibe Solutions | Sydney, Australia | Aug 2009 – Apr 2012
+
+- Developed scalable backend services in Java and Spring Boot.
+- Implemented natural language processing features in customer support chatbots.
+- Piloted the integration of ML models for fraud detection in financial applications.
+- Contributed to the company-wide adoption of Agile development methodologies.
+
+EDUCATION
+MSc in Computer Science – Machine Learning
+Stanford University | 2009
+
+BSc in Computer Engineering
+University of Auckland | 2007
+
+SKILLS
+Languages: Python, Java, Scala, R
+
+Frameworks: PyTorch, Apache Spark, H2O.ai, LightGBM
+
+ML Ops: Docker, Kubernetes, Apache Beam, Apache Airflow
+
+Cloud: AWS (EC2, S3, EMR), Microsoft Azure, IBM Cloud
+
+Other: Time Series Forecasting, Reinforcement Learning, Graph Neural Networks, Data Visualization, DevOps
+
+CERTIFICATIONS
+Microsoft Certified Azure AI Engineer Associate
+
+Google Cloud Professional Data Engineer
+
+Machine Learning Engineer Nanodegree - Udacity
+
+Data Engineering with Databricks - Databricks Certified
+
+Coursera – Advanced Reinforcement Learning
+
+SPEAKING & PUBLICATIONS
+Keynote speaker at Data Science Summit Tokyo
+
+Publication in Journal of AI Research on personalized recommendation systems
+
+Regular contributor to tech blogs on AI ethics and responsible AI deployment

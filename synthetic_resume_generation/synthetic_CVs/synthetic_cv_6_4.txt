@@ -1,0 +1,63 @@
+Sarah Lee
+New York | 987-654-3210 | sarahlee@email.com
+
+SUMMARY
+
+Experienced machine learning and software engineer with a strong background in developing and deploying end-to-end machine learning systems. Proficient in Python and various frameworks within the machine learning ecosystem. Skilled in building computer vision and NLP models and deploying applications in microservices architecture.
+
+EXPERIENCE
+
+ABC Corp
+Machine Learning Engineer
+August 2022 - Present
+
+- Led the implementation of a real-time anomaly detection system using LSTM networks and Kubernetes for scalable deployment.
+- Developed and deployed a document clustering system using Word2Vec and K-Means for efficient search functionality.
+- Implemented reinforcement learning algorithms for optimizing trading strategies in collaboration with the finance team.
+
+XYZ Corp
+Data Scientist Intern
+January 2020 - May 2022
+
+- Collaborated with the research team to develop a sentiment analysis model for social media data using BERT and TensorFlow.
+- Conducted feature engineering and built predictive models for customer churn analysis using Scikit-Learn and XGBoost.
+- Automated data cleaning and preprocessing pipelines using Apache Spark for handling large-scale datasets efficiently.
+
+PROJECTS
+
+Predictive Maintenance for Manufacturing
+2023
+
+- Developed a predictive maintenance model using Random Forest and LSTM to forecast equipment failures in real-time.
+
+Speech Emotion Recognition
+2023
+
+- Built a speech emotion recognition system using MFCC features and a CNN model to classify emotions accurately.
+
+Automated Fraud Detection System
+2023
+
+- Designed and implemented an automated fraud detection system using ensemble learning techniques and anomaly detection algorithms.
+
+Side Project: IoT Weather Station
+2022
+
+- Created an IoT weather station using Raspberry Pi and various sensors to collect real-time weather data for analysis.
+
+EDUCATION
+
+XYZ University
+MSc in Artificial Intelligence
+2018 - 2020
+
+CERTIFICATES
+
+- Certified Ethical Hacker (CEH)
+- AWS Certified Solutions Architect - Associate
+- Google Professional Data Engineer
+- Microsoft Certified: Azure AI Engineer Associate
+
+TOOLS AND TECHNOLOGIES
+
+Proficient in Python, TensorFlow, PyTorch, Keras, Scikit-Learn, Flask, Docker, Kubernetes, SQL, Tableau, Power BI, AWS, Azure, GCP, Git, Unix/Linux, HTML, CSS, JavaScript.

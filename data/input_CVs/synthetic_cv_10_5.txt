@@ -1,0 +1,64 @@
+Emily Stone
+Manchester, UK | (+44) 789456123 | emilystone@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/emilystone | github.com/EmilyStone | emilystone.medium.com
+
+PROFESSIONAL SUMMARY:
+
+Dynamic Mechanical Engineer with over 8 years of experience in product design, structural analysis, and thermal systems within the automotive and renewable energy industries. Proficient in CAD/CAM modeling, computational fluid dynamics (CFD), and sustainable engineering practices. Skilled in leading diverse teams, optimizing production processes, and implementing cutting-edge engineering solutions. Actively enhancing expertise in machine learning applications in mechanical design and renewable energy technologies.
+
+SKILLS:
+
+Creo Parametric, Solid Edge, NX Unigraphics, COMSOL Multiphysics, Thermal Analysis, Renewable Energy Systems, Design for Manufacturing, Robotics, Machine Learning, Lean Six Sigma, Agile Project Management, R, Java, Altair HyperWorks, LabVIEW, Quality Assurance, Technical Writing, Failure Mode and Effects Analysis (FMEA)
+
+PROFESSIONAL EXPERIENCE:
+
+Lead Mechanical Design Engineer (Jaguar Land Rover) – Manchester, UK
+Apr 2019 – Present
+
+Oversaw the design and optimization of electric vehicle battery enclosures, increasing energy efficiency by 20% while reducing weight by 15%
+
+Utilized CFD simulations in COMSOL to enhance cooling systems in vehicle powertrains, resulting in a 25% reduction in component temperatures
+
+Implemented robotic assembly lines for body panel production, improving manufacturing speed by 30%
+
+Collaborated with cross-functional teams to develop next-generation autonomous vehicle projects, integrating AI algorithms for advanced driver assistance systems
+
+Mechanical Engineer (Renewable Energy Solutions) – Edinburgh, UK
+Feb 2015 – Mar 2019
+
+Designed and analyzed wind turbine components for offshore installations, ensuring structural integrity and optimal performance in harsh marine environments
+
+Developed proprietary software for predictive maintenance of solar panel arrays, reducing downtime by 15%
+
+Led the installation of a pilot wave energy converter project, overseeing successful commissioning and performance testing
+
+Contributed to the development of a novel biogas plant design, optimizing thermal efficiency and reducing carbon emissions
+
+Junior Mechanical Engineer (Johnson Controls) – Bristol, UK
+Sep 2013 – Jan 2015
+
+Supported HVAC system design for commercial buildings, focusing on energy efficiency and indoor air quality
+
+Conducted energy audits and retro-commissioning projects to optimize building performance and reduce operating costs
+
+Participated in the implementation of energy management systems for large-scale facilities, ensuring compliance with environmental regulations
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Edinburgh, Edinburgh (Merit)
+Sep 2009 – Jun 2013
+
+BEng in Mechanical Engineering – University of Leeds, Leeds (First Class Honours)
+Sep 2005 – Jun 2009
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Certified Robotics Engineer – 2017
+
+Renewable Energy Professional (REPP) – 2018
+
+Lean Six Sigma Black Belt – 2020
+
+Machine Learning for Mechanical Engineers (Udemy) – Ongoing
+
+Composite Materials Design (CAMDT) – 2021

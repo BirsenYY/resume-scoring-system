@@ -1,0 +1,74 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Coordinates (Who I Am Now)
+Passionate and detail-oriented Data Scientist with a strong expertise in data analytics and machine learning. Background in environmental sciences with a transition into the world of data-driven decision-making. Experienced in leveraging data to optimize processes and drive business growth, particularly interested in sustainability and climate-related projects.
+
+Toolkit & Weapons of Choice
+Languages: Python, Java, Scala, Julia
+Machine Learning: Neural Networks, Decision Trees, Support Vector Machines, K-Means Clustering
+Data Ops: MongoDB, Apache Spark, Apache Hadoop, Kafka
+Visualization: D3.js, Plotly, ggplot2
+Other Strengths: Bayesian Statistics, Natural Language Processing, Genetic Algorithms, Docker
+
+What I’m Building Now (Recent Role)
+Senior Data Scientist
+EcoTech Innovations Ltd. – London, UK
+May 2020 – Present
+
+Developing predictive models for energy consumption optimization in smart buildings
+
+Collaborating with cross-functional teams to implement data-driven solutions
+
+Designing and deploying real-time monitoring systems for environmental sensors
+
+Leading machine learning projects focused on renewable energy forecasting
+
+Creating interactive dashboards for stakeholders to visualize key performance metrics
+
+Where I Bridged the Gap (Transitional Role)
+Data Analyst – Environmental Research
+EcoLab Solutions – London, UK
+Aug 2017 – Apr 2020
+
+Processed and analyzed climate data to identify trends and anomalies
+
+Developed scripts for automated data collection and normalization
+
+Implemented machine learning algorithms to predict environmental factors
+
+Collaborated with researchers to support data-driven publications
+
+Conducted field surveys for data validation and accuracy checks
+
+Where It All Started (Foundations in Science)
+Environmental Scientist
+EarthScape Research Institute – London, UK
+Jun 2015 – Jul 2017
+
+Collected and analyzed water quality samples for environmental impact assessments
+
+Conducted field investigations to study the effects of pollution on aquatic ecosystems
+
+Maintained data records and ensured compliance with regulatory standards
+
+Contributed to research reports and presentations for industry conferences
+
+The Knowledge Base
+MSc – Data Analytics & Visualization
+King's College London, 2018 – 2019
+
+BSc – Environmental Sciences
+University of Surrey, 2012 – 2015
+
+Digital Badges & Certifications
+Google Cloud Professional Data Engineer
+
+Certified Analytics Professional (CAP)
+
+AWS Certified Machine Learning - Specialty
+
+Microsoft Certified: Azure AI Engineer Associate
+
+Introduction to Quantum Computing – edX

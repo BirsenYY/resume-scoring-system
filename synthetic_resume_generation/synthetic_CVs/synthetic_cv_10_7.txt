@@ -1,0 +1,124 @@
+```
+    Microsoft                                   
+
+                                                                                    
+
+                 Redmond, WA | (+1) 9876543210 | jane.smith@hotmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | microsoft.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative AI Researcher and TensorFlow Certified Developer with 7 years of experience. Specialized in developing GAN models,
+
+      Bayesian Optimization, and image segmentation algorithms. Proficient in Python, PyTorch, and Scikit-Learn. Currently exploring
+
+      state-of-the-art vision transformers, anomaly detection, and explainable AI techniques. Demonstrated success in leading high-impact
+
+      projects, optimizing AI workflows, and delivering practical solutions in both industry and research settings.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python , Java , Scala , SQL, MongoDB | MySQL, DynamoDB, Redis | PyTorch, FastAPI, Hugging Face, Scrapy, RLlib,
+
+      Vision Transformers | Bayesian Optimization, Anomaly Detection, Explainable AI | Docker, Kubernetes, Jenkins, Azure                    
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Data Science Engineer (DeepMind) - London, UK                        Apr 2021 : Present
+
+    ● Pioneered the development of a novel image synthesis GAN model, achieving a 30% reduction in synthetic image distortion and
+
+      improving model generalization capabilities                                   
+
+    ● Led a team in implementing Bayesian Optimization techniques for hyperparameter tuning in reinforcement learning algorithms,
+
+      resulting in a 20% improvement in learning efficiency and task performance        
+
+    ● Spearheaded the design and deployment of an automated image segmentation pipeline using PyTorch and FastAPI, streamlining
+
+      medical image analysis processes and enabling faster diagnoses                      
+
+    ● Initiated Side Project: Developed a real-time anomaly detection system for IoT sensor data, leveraging LSTM networks and explainable
+
+      AI methods to detect and interpret unusual patterns in industrial equipment operations        
+
+     AI Engineer (IBM Research) - New York, US                         Jan 2018 : Mar 2021
+
+    ● Designed and implemented deep learning models for natural language understanding tasks, focusing on transformer architectures and
+
+      self-supervised learning techniques                                                 
+
+    ● Engineered data preprocessing pipelines using PySpark and Spark MLlib, enabling efficient handling of large-scale text corpora and
+
+      improving model training speed and accuracy                                        
+
+    ● Conducted extensive experiments to evaluate model performance on various NLP benchmarks, optimizing hyperparameters and
+
+      architecture configurations for maximum effectiveness                                 
+
+    ● Collaborated with cross-functional teams to integrate ML models into production systems, ensuring seamless deployment and
+
+      monitoring of AI solutions                                                           
+
+     Machine Learning Researcher (Amazon) - Seattle, US                     Jun 2015 : Dec 2017
+
+    ● Developed predictive maintenance models using time-series data and dynamic programming, reducing equipment downtime by 15%
+
+      and maintenance costs by 20%                                                        
+
+    ● Conducted research on reinforcement learning algorithms for supply chain optimization, improving order fulfillment efficiency by
+
+      30% while reducing inventory holding costs                                          
+
+    ● Led the implementation of a data-driven pricing model using regression analysis and clustering techniques, optimizing pricing
+
+      strategies and increasing revenue margins                                           
+
+    ● Championed Side Project: Created a personalized recommendation engine for e-commerce platforms, leveraging collaborative
+
+      filtering and matrix factorization methods to enhance user experience and drive sales        
+
+     Data Analyst (Start-up X) - San Francisco, US                        Mar 2013 : May 2015
+
+    ● Analyzed customer behavior data using SQL and NoSQL databases, identifying key trends and insights to drive product
+
+      optimization and marketing strategies                                                
+
+    ● Built interactive dashboards and visualizations in Tableau and Matplotlib to present data-driven recommendations to
+
+      stakeholders and decision-makers                                                      
+
+    ● Collaborated with the engineering team to design data collection mechanisms and improve data quality for business
+
+      intelligence purposes                                                                 
+
+
+    EDUCATION:                                                                      
+
+    PhD in Machine Learning - Carnegie Mellon University, Pittsburgh (Distinction)       Sep 2009 : June 2013
+
+    BSc in Computer Science - University of Toronto, Toronto (Honors)         Sep 2005 : June 2009
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Computer Vision Specialist (by NVIDIA Deep Learning Institute)        Ongoing  
+
+    ● Azure AI Engineer Associate (Microsoft)                                   July, 2022
+
+    ● Certified Data Scientist (by DataCamp)                                      May, 2022  
+
+    ● Reinforcement Learning Certification (by Stanford Online)                   Dec, 2021
+
+    ● Big Data Analytics Professional (by IBM Data Science Community)            Aug, 2020
+```

@@ -1,0 +1,103 @@
+Sarah Smith                                      
+
+                                                                                  
+
+                           987-654-3210 | sarah.smith@email.com            
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                               
+
+    King's College London, London                    Sep 2018 - Jun 2022
+
+      ●  BSc Biochemistry: Graduated with First Class Honours                     
+
+      ●  Achieved a 90 in Protein Structure & Function module, involving advanced bioinformatics techniques
+
+      ●  Completed a thesis on CRISPR-Cas9 gene editing technology and its applications in oncology
+
+    University of Edinburgh, Edinburgh                          Sep 2023 - Dec 2023
+
+      ●  Advanced Data Science Certification Course (< 5% acceptance rate)             
+
+      ●  Covered topics including Bayesian Statistics, Deep Reinforcement Learning, Graph Neural Networks, and Time Series Analysis
+
+      ●  Completed a Capstone Project analyzing COVID-19 transmission patterns using machine learning algorithms
+
+    Leighton Park School, Reading                                   Sep 2011 - Jun 2018
+
+      ●  GCSEs: 10 A*s including Mathematics and Chemistry                  
+
+      ●  Co-founded the Environmental Awareness Club, organizing sustainability campaigns
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Research Assistant – Institute of Molecular Biology                          Jul 2022 - Aug 2022
+
+    IMB is a leading research institute specializing in genetic engineering; 0.5% internship acceptance rate.
+
+      ●  Conducted experiments on DNA amplification techniques and analyzed results using bioinformatics tools
+
+      ●  Assisted in a project investigating the role of microRNAs in cancer development, contributing to a research paper publication
+
+    Science Communicator – Science Museum                             Jan 2023 - Jun 2023
+
+    Science Museum is a renowned institution showcasing scientific advancements to the public.
+
+      ●  Developed interactive exhibits on synthetic biology and genetic modification for museum visitors
+
+      ●  Presented educational workshops on the human genome project and its implications for personalized medicine
+
+    Data Analyst Intern – Bioinformatics Ltd. Jun 2021 - Aug 2021
+
+    Bioinformatics Ltd. is a biotech company specializing in genomic data analysis; 0.6% internship acceptance rate.
+
+      ●  Analyzed large datasets using R and Python to identify genetic markers associated with autoimmune diseases
+
+      ●  Contributed to the development of a machine learning model for predicting patient responses to immunotherapy treatments
+
+                                                                                  
+
+    Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Team Leader – STEM Outreach Programme          Mar 2021 - Jun 2023
+
+      ●  Organized science workshops for underprivileged schools, reaching over 500 students annually
+
+    Personal Project – Coursera Advanced Machine Learning Specialization    Jan 2024 - Jul 2024
+
+      ●  Completed courses on Reinforcement Learning, Natural Language Understanding, and Generative Adversarial Networks
+
+      ●  Implemented a neural machine translation model using TensorFlow for a final project on language translation
+
+    Event Coordinator – Biotech Symposium               Apr 2022 - Apr 2023
+
+      ●  Coordinated a one-day symposium featuring guest speakers and poster presentations on cutting-edge biotechnology topics
+
+                                                                                  
+
+    Student Mentor & Outreach Volunteer – STEM Society            Mar 2021 - Jun 2022
+
+      ●  Mentored first-year students in bioinformatics coursework and assisted in organizing STEM career fairs
+
+      ●  Conducted virtual science experiments for school children to promote interest in STEM fields
+
+    Additional Information                                                        
+
+                                                                                  
+
+    Technical Skills: MATLAB (Advanced), R (Intermediate), Tableau (Basic), Genomic Data Analysis
+
+    Activities: Grade 7 Violin, STEM Ambassador, 4 years competitive swimming (regional medals)
+
+    Languages: English (Native), French (Intermediate), Spanish (Elementary), Mandarin (Elementary)
+
+    Interests: Bioinformatics, Genetic Engineering, Science Communication, Hiking, Photography, Yoga

@@ -1,0 +1,97 @@
+Alice Chen                                                                           
+
+                                                                                  
+
+                      San Francisco | 0777777 | alice.chen@email.com | Portfolio: alicechen.dev | GitHub: github.com/alicechen
+
+      PROFILE                                                                       
+
+                                                                                  
+
+                                                                                  
+
+      Passionate Data Scientist with expertise in machine learning, natural language processing, and statistical analysis. 
+
+      Recently achieved certification in Certified Analytics Professional (CAP) and actively pursuing AWS Certified Machine Learning – Specialty.
+
+      Enthusiastic about leveraging data to drive business decisions and solve complex problems. Proficient in Python, R, and cloud computing.
+
+      CURRENT PROJECTS                                                          
+
+                                                                                  
+
+      Personal Data Science Blog – Data Scientist                 Mar 2024 – Present
+
+        ●  Creating a blog series on practical data science projects and tutorials with a focus on NLP and deep learning.
+
+        ●  Showcasing projects demonstrating data visualization, model building, and deployment strategies.
+
+                                                                                  
+
+      SIDE PROJECTS                                                                
+
+                                                                                  
+
+      🏆 TextSummarizer – Text Summarization Tool                        2023     
+
+        ●  Developed an end-to-end text summarization tool using Transformer models and BERT for sentence embeddings.
+
+        ●  Implemented a Flask API for easy integration and deployed on AWS Lambda.
+
+                                                                                  
+
+      CustomerChurnPredict – Predictive Analytics App                  2023     
+
+        ●  Built a churn prediction system using logistic regression and random forest classifiers to identify customers at risk of churn.
+
+        ●  Created a user-friendly dashboard with Streamlit for real-time predictions and insights.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Data Analyst                                           Jun 2022 – Present
+
+        ●  Analyzing customer behavior data to identify trends, patterns, and opportunities for optimization.
+
+        ●  Collaborating with cross-functional teams to drive data-driven decision-making processes.
+
+                                                                                  
+
+      Data Science Intern – Tech Startup                          Jan 2022 – May 2022
+
+        ●  Conducted exploratory data analysis on user engagement metrics and provided insights to improve product performance.
+
+        ●  Developed predictive models for user retention using machine learning algorithms.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Stanford University                                       2018 – 2022  
+
+      BSc Data Science                                                                  
+
+        ●  Senior capstone project: "Sentiment Analysis on Social Media Data" – analyzed sentiment trends using deep learning techniques.
+
+      CERTIFICATIONS                                                            
+
+                                                                                  
+
+      - Certified Analytics Professional (CAP)
+
+      - AWS Certified Machine Learning - Specialty
+
+                                                                                  
+
+      SKILLS AND TOOLS                                                          
+
+
+
+Python, R, TensorFlow, Scikit-learn, PySpark, AWS, SQL, Tableau, Power BI, Flask, Docker, Pandas, NumPy, Matplotlib, NLTK, Git & GitHub, 
+
+      Jupyter Notebooks, Data Visualization, Statistical Analysis, A/B Testing

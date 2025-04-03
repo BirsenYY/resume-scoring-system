@@ -1,0 +1,56 @@
+Mary Johnson
+
+123-456-7890 | mary.johnson@email.com
+
+Education
+
+MIT, Cambridge                                     Sep 2018 - Jun 2022
+
+- BSc Computer Science: Graduated with First Class Honors
+- Received a certificate in Network Security, focusing on Ethical Hacking and Cyber Defense
+- Completed a special project on Quantum Computing, including modules on Quantum Algorithms and Quantum Machine Learning
+
+Oxford University, Oxford                         Jan 2024 - Mar 2024
+
+- Blockchain and Cryptocurrency Certification (<5% pass rate)
+- Explored topics such as Smart Contracts, Decentralized Applications, and Cryptoeconomics
+
+Royal Academy of Music, London             Sep 2010 - Jun 2018
+
+- Diploma in Violin Performance
+- Participated in various chamber orchestras and solo performances
+
+Employment History
+
+Software Engineer – Google                              Apr 2022 - Present
+
+- Working on Google Cloud Platform projects, specializing in Kubernetes and Containerization
+- Led a team in the development of a machine learning-powered recommendation system for Google Ads
+
+Cybersecurity Analyst – Lockheed Martin          Aug 2020 - Mar 2022
+
+- Conducted vulnerability assessments and penetration testing on critical infrastructure systems
+- Implemented security protocols to protect sensitive data and prevent cyber attacks
+
+Extracurriculars
+
+Hackathon Project - AI Ethics Chatbot          Nov 2023 - Feb 2024
+
+- Developed an AI chatbot that provides information on ethical considerations in AI and machine learning
+- Utilized natural language processing and sentiment analysis to enhance user interactions
+
+Charity Coding Initiative – CodeForGood   Oct 2021 - Sep 2023
+
+- Collaborated with a team to build custom software solutions for non-profit organizations
+- Contributed to projects focusing on education accessibility and environmental sustainability
+
+Student Mentor & STEM Ambassador – UK    Mar 2019 - Jun 2021
+
+- Mentored high school students in STEM subjects and supported their university applications
+- Organized STEM outreach events and workshops for underprivileged communities
+
+Additional Information
+
+Technical Skills: Java, JavaScript, React, AWS, Docker, Splunk
+Languages: English (Native), French (Intermediate), Mandarin (Basic)
+Interests: Data Privacy, Sustainable Technology, Photography, Yoga, Cooking

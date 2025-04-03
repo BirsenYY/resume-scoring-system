@@ -1,0 +1,101 @@
+Jane Smith                         
+
+                                                                                  
+
+                          987-654-3210 | jane.smith@email.com             
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                               
+
+    Oxford University, England                    Sep 2019 - Jul 2022
+
+      ●  BSc Biochemistry: Graduated with First Class Honours                    
+
+      ●  Achieved a certificate in Genomic Data Science from Johns Hopkins University
+
+      ●  Completed coursework on Protein Structure Prediction and Structural Bioinformatics
+
+    University of California, Berkeley                          Sep 2024 - Dec 2024
+
+      ●  Certificate in Applied Biotechnology Trends and Innovations             
+
+      ●  Explored topics such as CRISPR-Cas9 gene editing, next-generation sequencing, and personalized medicine
+
+    King's College London, England                                   Sep 2013 - Jun 2019
+
+      ●  International Baccalaureate: Biology (7), Chemistry (6), Mathematics (6)                  
+
+      ●  Engaged in extracurricular activities like Environmental Society and Public Speaking Club
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Research Assistant – Wellcome Sanger Institute                           Jul 2023 - Aug 2023
+
+    Wellcome Sanger Institute is a genomics research centre; known for the Human Genome Project.
+
+      ●  Conducted genomic data analysis using Python and R to identify potential gene candidates for a rare genetic disorder
+
+      ●  Collaborated with a team of scientists to publish a research paper on CRISPR-Cas9 applications in targeted gene therapy
+
+    Lab Technician – Biotech Innovations                           Jan 2024 - Jun 2024
+
+    Biotech Innovations is a startup focused on developing sustainable bioplastic alternatives.
+
+      ●  Conducted experiments to optimize bioplastic production processes, resulting in a 15% increase in efficiency
+
+      ●  Assisted in the development of a biodegradable packaging material that received positive feedback from early adopters
+
+    Data Analyst Intern – HealthTech Solutions Jun 2021 - Aug 2021
+
+    HealthTech Solutions is a healthcare technology company leveraging data analytics for improved patient care.
+
+      ●  Analyzed electronic health record data to identify trends and patterns in patient outcomes
+
+      ●  Developed predictive models for readmission risk assessment, contributing to a 10% reduction in readmission rates
+
+                                                                                  
+
+    Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Co-Founder – Environmental Conservation Society          Mar 2021 - Jun 2023
+
+      ●  Organized beach clean-up initiatives and educational workshops on sustainable living practices
+
+    Personal Project – DIY Hydroponics System              Apr 2024 - Oct 2024
+
+      ●  Designed and built a hydroponic gardening system for growing herbs and vegetables indoors
+
+      ●  Experimented with nutrient solutions and lighting configurations to optimize plant growth
+
+    Event Coordinator – Community Health Fair               Mar 2021 - Mar 2022
+
+      ●  Coordinated health screenings, wellness workshops, and fitness activities for the local community
+
+                                                                                  
+
+    Volunteer Tutor & STEM Ambassador – STEM Outreach            Mar 2021 - Jun 2023
+
+      ●  Mentored high school students in STEM subjects and facilitated hands-on science experiments
+
+      ●  Represented the organization at career fairs and industry networking events
+
+    Additional Information                                                        
+
+                                                                                  
+
+    Technical Skills: R (Intermediate), Tableau (Basic), Laboratory Techniques, Bioinformatics Tools
+
+    Activities: Yoga Practitioner, Certified Wilderness First Responder, Photography Enthusiast
+
+    Languages: English (Native), Spanish (Conversational), French (Elementary)
+
+    Interests: Sustainable Living, Genetics, Hiking, Cooking, Yoga, Traveling

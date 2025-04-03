@@ -1,0 +1,65 @@
+Alice Chen
+
+New York | 0999999 | alice.chen@email.com | Portfolio: alicechen.dev | GitHub: github.com/alicechen
+
+WORDS ABOUT ME
+
+Passionate computer science professional with a focus on leveraging data science, artificial intelligence, and software engineering to tackle complex challenges. Experienced in building innovative solutions and turning ideas into impactful projects. Proficient in Python, Java, and cloud technologies, always eager to learn and apply new tools.
+
+CURRENTLY BUILDING
+
+Personal AI Showcase – AI Engineer Jan 2023 – Present
+
+Building a diverse portfolio of AI projects showcasing natural language processing, computer vision, and reinforcement learning applications with interactive demos and detailed documentation.
+
+PROJECTS
+
+🏆 AI Hackathon Winner – Sentiment Analysis Challenge 2024
+
+Led a team to victory in a sentiment analysis competition, achieving state-of-the-art results on Twitter data using transformers and ensemble techniques.
+
+Developed a sentiment classifier with BERT and XLNet models, fine-tuned on a custom dataset for social media sentiment analysis.
+
+CloudMusic – Music Recommendation System 2024
+
+Developed a music recommendation system using collaborative filtering and content-based filtering algorithms integrated with a responsive web app for personalized music suggestions.
+
+Implemented user registration, playlist management, and song recommendations based on user preferences.
+
+AutoDrive – Autonomous Vehicle Simulation 2023
+
+Designed a simulation platform to train and evaluate autonomous driving algorithms using realistic road scenarios and sensor data.
+
+Developed end-to-end pipeline for data collection, preprocessing, model training with reinforcement learning, and simulation visualization.
+
+OpenMind – AI Ethics Toolkit 2023
+
+Created an open-source toolkit for evaluating the ethical implications of AI models, focusing on bias detection, fairness metrics, and explainability techniques.
+
+Engaged with the AI ethics community to gather feedback and contributions for enhancing the toolkit.
+
+EXPERIENCE
+
+Software Developer Intern Jan 2022 – Aug 2022
+
+Contributed to the development of a cloud-based video editing platform, implementing new features, optimizing backend performance, and conducting system testing.
+
+Collaborated with cross-functional teams to deliver quality software solutions within project timelines.
+
+ABC Research Lab – Research Assistant Jun 2021 – Dec 2021
+
+Supported research projects in computer vision and machine learning, collecting and preprocessing data, training models, and analyzing results.
+
+Assisted in writing technical reports and presenting findings at research seminars.
+
+EDUCATION
+
+Columbia University | 2018 – 2022
+
+BSc Computer Science
+
+Final year project: "AI-Driven Healthcare Chatbot" – Developed a conversational AI chatbot for healthcare inquiries, improving patient engagement and resource accessibility.
+
+TOOLS AND TECHNOLOGIES
+
+Java, TensorFlow, PyTorch, Apache Spark, Flask, AWS, Kubernetes, React Native, HTML/CSS, MongoDB, scikit-learn, Keras, Jupyter Notebook, GitHub Actions, GraphQL

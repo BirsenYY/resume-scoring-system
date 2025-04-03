@@ -1,0 +1,91 @@
+```
+    Amazon                                                                           
+
+                                                                                        
+
+                 San Francisco, US | (+1) 9876543210 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+             linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                               
+
+                                                                                        
+
+     Innovative AI/ML Engineer with 7 years of experience and Google Expert in AI Certification. Proficient in developing AI solutions
+
+     and optimizing ML models for various applications. Skilled in Python, PyTorch, and OpenAI. Currently enhancing skills in
+
+     multimodal architectures and genetic algorithms. Experienced in leading diverse teams and delivering impactful AI solutions.        
+
+    SKILLS:                                                                             
+
+                                                                                        
+
+      Python, Scala, Java, SQL | PostgreSQL, Cassandra, Firebase | PyTorch, Keras, XGBoost, GPT-3 | EfficientNet, MazeRunner,
+
+      GANs, Capsule Networks | Flask, Django | Git, Kubernetes, Jenkins, AWS                
+
+                                                                                        
+
+    PROFESSIONAL EXPERIENCE :                                                           
+
+                                                                                        
+
+     Machine Learning Engineer (Neural Labs) - San Francisco, US      Mar 2020 : Present
+
+    ● Spearheaded the development of an innovative generative art project using Capsule Networks and GANs, resulting in a 30% increase
+
+      in user engagement and customer satisfaction                                       
+
+    ● Led a team in building a scalable recommendation system based on MazeRunner, improving user retention by 20% through
+
+      personalized content delivery                                                      
+
+    ● Contributed to the optimization of neural network models using EfficientNet and GPT-3, achieving state-of-the-art performance in
+
+      image and text generation tasks                                                     
+
+    ● Managed side project focused on developing a sentiment analysis tool using LSTM networks and transformer models, leading to
+
+      successful product integration and positive user feedback                            
+
+     AI Researcher (DeepMind) - London, UK                   May 2016 : Feb 2020
+
+    ● Conducted research on novel reinforcement learning algorithms and applications, resulting in multiple publications in top-tier
+
+      AI conferences and journals                                                         
+
+    ● Collaborated with interdisciplinary teams to develop cutting-edge deep learning models for natural language processing and
+
+      computer vision tasks                                                                
+
+    ● Contributed to the implementation of large-scale distributed systems for training and deploying AI models at scale                
+
+     Data Scientist (Facebook) - Menlo Park, US            Sep 2014 : Apr 2016
+
+    ● Analyzed user behavior data and developed predictive models using XGBoost and TensorFlow to enhance ad targeting
+
+      algorithms                                                                          
+
+    ● Built real-time data processing pipelines using Apache Kafka and Spark for monitoring and optimizing platform performance        
+
+    EDUCATION:                                                                          
+
+    PhD in Artificial Intelligence - Carnegie Mellon University, Pittsburgh (Distinction)   July 2010 : June 2014
+
+    MSc in Computer Science - University of Oxford, Oxford (With Honors)                    Sep 2007 : June 2009
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                          
+
+                                                                                        
+
+    ● Google Expert in AI Certification                                                  Dec, 2020
+
+    ● Certified Neural Networks Specialist (by AI Academy)                                 Aug, 2019
+
+    ● Reinforcement Learning Masterclass (by DL Institute)                                June, 2018
+
+    ● Data Engineering with Apache Spark (by DataWorks)                                   Mar, 2015
+
+    ● AWS Certified Solutions Architect - Associate (AWS)                                 Oct, 2014
+```

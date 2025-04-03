@@ -1,0 +1,95 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Recent Computer Science graduate with a specialization in backend development, artificial intelligence, and cybersecurity. Demonstrated experience in building innovative projects and a keen interest in cutting-edge technologies. Actively seeking opportunities in software engineering, machine learning, or cybersecurity roles to leverage skills and contribute effectively to challenging projects.
+
+Education
+BSc Computer Science
+University of London – London, UK
+Graduated: July 2022
+
+Recipient of the Dean's List award
+
+Relevant Modules: Network Security, Distributed Systems, Cyber Defense Strategies, Cloud Computing, Machine Learning
+
+Final Year Project: SecureChat – End-to-End Encrypted Messaging Application
+
+Technical Skills
+Languages: Java, Ruby, Scala, MATLAB, Swift
+Frameworks & Libraries: Spring Boot, TensorFlow, PyTorch, Ruby on Rails
+Tools & Technologies: Docker, Kubernetes, Splunk, Wireshark, AWS
+Concepts: Cryptography, Neural Networks, Penetration Testing, CI/CD
+
+Projects
+Cryptix
+A secure file encryption tool for personal and business use
+
+Developed using Python with AES encryption
+
+Integrated public-key cryptography for secure key exchange
+
+Implemented a user-friendly CLI for easy encryption and decryption
+
+CodeGuard
+An AI-powered code quality analyzer to improve software development workflows
+
+Utilized Apache Spark for data processing and analysis
+
+Integrated with GitHub for automated code reviews
+
+Generated detailed reports on code metrics and best practices
+
+ChatProtect
+A real-time chat moderation bot with sentiment analysis capabilities
+
+Built with Node.js and integrated with Slack API
+
+Utilized Natural Language Processing for context-aware filtering
+
+Implemented automatic warning systems for inappropriate content
+
+Certifications
+AWS Certified Solutions Architect – Associate
+
+Certified Ethical Hacker (CEH)
+
+Machine Learning Foundations, Udacity
+
+Blockchain Basics, IBM
+
+Cybersecurity Incident Response, CompTIA
+
+Experience
+Backend Developer Intern – TechStartup Ltd
+Jun 2021 – Sept 2021
+
+Worked on developing RESTful APIs for a cloud-based CRM platform
+
+Participated in database design and optimization for performance
+
+Collaborated with frontend developers to integrate new features
+
+Research Assistant – AI Research Lab
+Oct 2021 – May 2022
+
+Developed neural network models for image recognition tasks
+
+Assisted in data preprocessing and model evaluation
+
+Published research paper on deep learning advancements in computer vision
+
+Side Projects
+SecureNote – Encrypted note-taking app for personal data protection
+
+CryptoTrack – Cryptocurrency portfolio tracker with real-time price updates
+
+AIHealth – Machine learning model for predicting healthcare outcomes
+
+Career Objectives
+Pursue a career in backend development with a focus on cybersecurity
+
+Contribute to open-source projects and initiatives in the tech community
+
+Attend industry conferences and workshops to stay updated on emerging trends

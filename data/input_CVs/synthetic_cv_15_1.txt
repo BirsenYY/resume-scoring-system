@@ -1,0 +1,57 @@
+Imperial Biomedical Innovations Ltd.
+
+London, UK | (+44) 7456123456 | [EMAIL] | Work Rights: Yes/FullTime
+
+linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+PROFESSIONAL SUMMARY:
+
+Biomedical Engineer with over 8 years of experience in developing innovative healthcare solutions through the integration of clinical systems, data-driven diagnostics, and AI technologies. Proficient in biomedical signal processing, medical imaging analysis, and ML-enhanced diagnostics. Skilled in Python, MATLAB, and TensorFlow, with a strong focus on collaborative problem-solving and delivering impactful patient-centered outcomes.
+
+SKILLS:
+
+Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, PyTorch | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis | Medical Imaging (MRI, CT, X-ray), Image Segmentation | 3D Slicer, PyRadiomics, SimpleITK | Biomedical Data Standards (HL7, FHIR) | Flask, Streamlit, REST APIs | Git, Docker | Biomedical Instrumentation | Jupyter Notebooks, LaTeX
+
+PROFESSIONAL EXPERIENCE:
+
+Principal Biomedical Engineer (Royal Brompton Hospital) - London, UK Mar 2019 : Present
+
+- Spearheaded the development of an AI-driven predictive model for cardiac arrhythmias, resulting in a 25% reduction in misdiagnosis rates
+- Collaborated with a multidisciplinary team to implement a novel image processing algorithm for automated brain tumor segmentation in MRI scans
+- Led the integration of machine learning tools into the hospital's electronic health record system to enhance clinical decision support capabilities
+- Conducted training sessions for medical staff on the use of AI-enhanced diagnostic tools and ensured compliance with regulatory guidelines
+
+Senior Data Analyst (Oxford University Hospitals NHS Foundation Trust)  Jan 2016 : Feb 2019
+
+- Applied advanced computer vision techniques to automate the detection of early-stage diabetic retinopathy in retinal images, improving screening efficiency by 30%
+- Developed customized data visualization solutions using Plotly and Dash to facilitate the interpretation of complex medical imaging datasets
+- Collaborated with research teams to investigate the use of deep learning algorithms for predicting patient outcomes based on genetic markers
+- Published research findings in leading medical journals and presented at international conferences on the role of AI in personalized medicine
+
+Biomedical Research Assistant (Cambridge Biomedical Research Institute) – Cambridge, UK  Jul 2013 : Dec 2015
+
+- Conducted experiments to evaluate the effectiveness of novel biosensors in detecting biomarkers associated with infectious diseases
+- Assisted in the development of a mobile health monitoring app for patients with chronic conditions, integrating wearable sensor data for remote patient monitoring
+- Contributed to grant applications for research projects focused on wearable health technologies and digital therapeutics
+- Collaborated with industry partners to prototype a non-invasive glucose monitoring device for diabetes management
+
+EDUCATION:
+
+MSc in Biomedical Engineering - Imperial College London (Distinction)   Sep 2011 : Sep 2012
+
+BSc in Bioelectronics Engineering - University of Bristol (First Class)  Sep 2007 : Jun 2011
+
+PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:
+
+- Artificial Intelligence in Healthcare (Stanford Online)                        May, 2023
+- Certified Health Data Analyst (CHDA)                                          Sep, 2022
+- Biomedical Informatics Specialist Certificate (AMIA)                         Mar, 2022
+- Advanced Medical Imaging Analysis (Coursera)                                 Nov, 2021
+- Clinical Data Management Certification (ACRP)                                Jan, 2021
+
+SIDE PROJECTS:
+
+- Remote Vital Signs Monitoring System: Developed a wireless sensor network for real-time monitoring of vital signs in home care settings, enabling early detection of health issues. Utilized ESP32 microcontrollers and MQTT protocol for data transmission.
+- Wearable Sleep Tracker: Designed a wearable sleep tracking device using Arduino and accelerometers to analyze sleep cycles and detect sleep disorders. Created a mobile app for visualizing sleep patterns and generating personalized recommendations.
+- Telemedicine Platform: Built a telemedicine platform that connects patients with specialists for remote consultations. Implemented video conferencing, secure messaging, and EHR integration features to improve access to healthcare services.
+- Drug Dosage Calculator: Created a web-based drug dosage calculator tool for healthcare professionals to quickly determine accurate medication dosages based on patient weight, age, and condition. Integrated drug database APIs for up-to-date dosage information.

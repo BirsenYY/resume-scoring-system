@@ -1,0 +1,63 @@
+Jane Smith
+
+New York City | 0888888 | jane.smith@email.com | ABC AI | ABC AI
+
+WORDS ABOUT ME                                                              
+
+AI Engineer with a focus on developing and deploying advanced AI systems. Skilled in leading technical teams and building robust models using Python and TensorFlow ecosystem. Experienced in deploying AI solutions for computer vision and natural language processing. Proficient in developing web applications with Flask and microservices architecture, deployed on cloud platforms and on-premises servers.
+
+CURRENTLY BUILDING                                                          
+
+ABC AI - AI Engineer                    Jan 2023 - Present
+
+  ● Co-founded startup focusing on developing cutting-edge AI solutions for healthcare sector. 
+
+PROJECTS                                                                    
+
+ABC AI - AI Solutions                                           2023
+
+...                                                                           
+
+EXPERIENCE                                                                  
+
+ABC AI Research Institute - AI Researcher            Jan 2023 - Mar 2023
+
+  ● Conducted research on advanced AI models for healthcare applications.
+  
+  ● Projects included implementing GPT-3 for medical image analysis, developing custom attention mechanisms for patient diagnosis, and training Transformer models for medical text summarization.
+
+  ● Implemented MLOps processes using MLflow and Apache Beam for model training and deployment.
+
+AI Innovations - AI Developer                           Mar 2021 - Jan 2023
+
+  ● Developed AI software solutions for automating data analysis tasks, reducing processing times from days to hours.
+
+  ● Designed AI-driven automation systems for optimizing manufacturing processes, introducing novel quality control mechanisms and real-time monitoring solutions.
+
+  ● Provided training sessions on AI technologies for internal teams and external stakeholders.
+
+AI Technologies - Senior AI Engineer                       Jun 2018 - Mar 2021
+
+  ● Engineered AI-powered recommendation system for e-commerce platform using collaborative filtering algorithms, enhancing user experience and boosting sales.
+
+  ● Led AI team in developing a predictive maintenance system for industrial equipment, reducing downtime and maintenance costs.
+
+  ● Collaborated with cross-functional teams to integrate AI solutions into existing systems.
+
+XYZ Automation - AI Engineer                                  Feb 2017 - Jun 2018
+
+  ● Specialized in developing AI algorithms for autonomous robotic systems, including path planning and object detection using OpenCV.
+
+  ● Led projects to integrate AI with industrial robots for automated assembly lines and quality control inspections.
+
+EDUCATION                                                                   
+
+ABC University                                         2014 - 2017  
+
+BSc in Artificial Intelligence                                                 
+
+  ● Awarded for Outstanding Thesis for research on Explainable AI in healthcare applications.
+
+TOOLS AND TECHNOLOGIES
+
+TensorFlow, PyTorch, Scikit-Learn, Natural Language Processing (NLP), Computer Vision, Flask, Kubernetes, AWS SageMaker, MLflow, Apache Beam, OpenCV, Git & Bitbucket, Docker, PostgreSQL, NumPy, Pandas, Matplotlib, React, JavaScript, Python.

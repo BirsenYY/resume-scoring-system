@@ -1,0 +1,62 @@
+John Doe
+
+Seattle | 0999999 | john.doe@email.com | XYZ Tech | XYZ Tech
+
+WORDS ABOUT ME
+
+Seasoned Quality Assurance Engineer proficient in designing and implementing effective testing strategies to ensure the delivery of high-quality software products. Skilled in test automation using tools like Appium, TestComplete, and JUnit. Experienced in API testing, CI/CD integration, and Agile methodologies for seamless collaboration within cross-functional teams.
+
+CERTIFICATIONS
+
+- Certified Scrum Master (CSM)
+- ISTQB Agile Tester
+- AWS Certified Developer - Associate
+- Google Associate Android Developer
+- Microsoft Certified: Azure Solutions Architect Expert
+
+CURRENTLY BUILDING
+
+XYZ Tech – Quality Assurance Engineer                    Jan 2022 – Present
+
+- Spearheading QA initiatives for XYZ Tech's flagship product, focusing on enhancing test automation coverage and performance.
+- Leading the implementation of a scalable testing framework utilizing TestNG and Docker for parallel test execution.
+
+PROJECTS
+
+Mobile Test Automation Suite – link                                 2020
+
+- Developed a mobile automation suite using Appium to validate functionalities across various Android devices.
+- Achieved 90% test coverage for critical user scenarios, resulting in improved app reliability and performance.
+
+EXPERIENCE
+
+XYZ Innovations – QA Lead                                       Apr 2019 – Jan 2022
+
+- Managed a team of QA engineers and coordinated testing efforts for multiple projects simultaneously.
+- Implemented TestComplete for UI automation, reducing regression testing time by 60%.
+- Collaborated with developers to establish performance testing metrics and benchmarks for web applications.
+
+XYZ Solutions – Senior QA Analyst                             Aug 2015 – Apr 2019
+
+- Automated end-to-end testing for web applications utilizing Selenium WebDriver and JUnit.
+- Conducted root cause analysis for production issues and implemented preventive measures to enhance software quality.
+- Introduced TestRail for test case management and reporting, streamlining the testing process.
+
+XYZ Services – QA Tester                                            Feb 2013 – Aug 2015
+
+- Executed manual test cases for mobile apps and reported defects using JIRA.
+- Participated in agile ceremonies, including sprint planning and retrospective meetings.
+- Conducted exploratory testing to uncover hidden defects and ensure comprehensive test coverage.
+
+EDUCATION
+
+XYZ College                                                  2009 – 2013
+
+BSc in Computer Science                                                  
+
+- Awarded with the Best Capstone Project for developing a real-time data validation tool using Java and SQL.
+- Actively engaged in extracurricular activities, organizing coding competitions and workshops for students.
+
+TOOLS AND TECHNOLOGIES
+
+Appium, TestComplete, JUnit, TestNG, Docker, AWS, Google Cloud Platform, Azure, Java, SQL, Git, JIRA, TestRail, Agile Scrum, XYZ Tech, XYZ Innovations, XYZ Solutions

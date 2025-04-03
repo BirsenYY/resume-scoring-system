@@ -1,0 +1,53 @@
+Sarah Johnson
+
+New York | 555-123-4567 | sarahjohnson@email.com | DEF Corp | UVW Corp
+
+SUMMARY
+
+Experienced machine learning and software engineer specializing in developing and deploying complex machine learning systems. Proficient in Python, TensorFlow, and Scikit-Learn. Skilled in computer vision and natural language processing applications. Experienced in deploying applications using Flask within a microservices architecture on cloud platforms.
+
+EXPERIENCE
+
+UVW Corp                               Jan 2021 – Present
+
+- Developed and deployed end-to-end machine learning models for image classification and object detection using TensorFlow and Keras.
+- Implemented MLOps processes including CI/CD pipelines, Kubernetes, and Apache Beam for scalable model training and inference.
+
+XYZ Corp                             Jun 2018 – Dec 2020
+
+- Conducted research on novel deep learning architectures with a focus on generative adversarial networks and meta-learning.
+- Collaborated with cross-functional teams to deliver machine learning solutions for real-time anomaly detection in industrial IoT environments.
+
+CERTIFICATIONS
+
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Machine Learning - Specialty
+- Certified Information Systems Security Professional (CISSP)
+
+PROJECTS
+
+RNN-Based Time Series Forecasting                             2020
+
+- Developed a recurrent neural network model for time series forecasting of financial market trends.
+
+Real-Time Emotion Detection System                          2019
+
+- Built a real-time system using computer vision to detect emotions in facial expressions.
+
+Automated Data Labeling Tool                                       2018
+
+- Created a tool to automate the labeling of large datasets for machine learning training.
+
+Sentiment Analysis Web App                                         2017
+
+- Built a web application for sentiment analysis of social media posts using NLP techniques.
+
+EDUCATION
+
+DEF University                                           2014 – 2018  
+
+BSc Computer Science                                                        
+
+TOOLS AND TECHNOLOGIES                                                      
+
+Proficient in TensorFlow, Keras, PyTorch, Scikit-Learn, Flask, Docker, AWS, GCP, SQL, NumPy, Pandas, Matplotlib, HTML, CSS, JavaScript, Node.js, React, C++, Java.

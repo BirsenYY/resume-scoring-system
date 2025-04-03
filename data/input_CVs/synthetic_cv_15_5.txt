@@ -1,0 +1,75 @@
+Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+PROFESSIONAL SUMMARY:                                                           
+
+Biomedical Engineer with 8+ years of experience in medical device development, clinical systems integration, and AI applications in healthcare. Skilled in medical imaging analysis, signal processing, and deep learning algorithms. Proficient in Python, MATLAB, and TensorFlow. Experienced in collaborating with multidisciplinary teams for innovative healthcare solutions. Passionate about leveraging technology to improve patient outcomes.    
+
+SKILLS:                                                                         
+
+Python, MATLAB, Java | SQL, Pandas, NumPy | TensorFlow, Keras, Scikit-Image | DICOM, ImageJ | Signal Processing, ECG/EEG Analysis |
+
+Health Informatics, DICOM Standards | Biomechanics, Finite Element Analysis | Git, SVN | RESTful APIs | Agile Methodologies
+
+PROFESSIONAL EXPERIENCE :                                                       
+
+Biomedical Engineer (St. Thomas' Hospital - NHS Foundation Trust) - London, UK     Apr 2019 : Present
+
+● Spearheaded the development of a wireless vital signs monitoring system for ICU patients, reducing cable clutter and improving mobility
+
+● Implemented a deep learning algorithm for automatic brain hemorrhage detection in CT scans, decreasing diagnosis time by 25%
+
+● Led the integration of a patient monitoring dashboard with electronic health records (EHR), enabling real-time data transfer for clinicians
+
+Biomedical Systems Analyst (Oxford University Hospitals NHS Foundation Trust)  Aug 2016 : Mar 2019
+
+● Designed and validated a machine learning model for predicting patient readmission risk, leading to a 15% reduction in hospital readmissions
+
+● Collaborated with radiologists to enhance PACS systems for seamless image retrieval and sharing across departments
+
+● Conducted usability studies and training sessions for clinical staff on new medical device interfaces and workflows
+
+Biomedical Technician (Bristol Royal Infirmary - NHS Trust) – Bristol, UK     Jan 2014 : Jul 2016
+
+● Installed and maintained medical equipment such as MRI scanners, ultrasound machines, and surgical robots
+
+● Conducted performance testing and calibration of diagnostic devices to ensure accuracy and compliance with regulatory standards
+
+● Participated in health technology assessment projects to evaluate the cost-effectiveness of new medical devices
+
+EDUCATION:                                                                      
+
+MSc in Biomedical Engineering - University College London (Merit)   Sep 2012 : Sep 2013
+
+BEng in Electrical and Biomedical Engineering - University of Leeds (Upper Second)  Sep 2008 : Jun 2012
+
+PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+● Certified Health Informatics Professional (CHIP)                          Jun, 2023
+
+● Medical Robotics and Healthcare Automation (edX)                        Feb, 2022
+
+● Healthcare Data Analytics (Coursera)                                      Oct, 2021
+
+SIDE PROJECTS:                                                                  
+
+● Remote Patient Monitoring App: Developed a telehealth platform for remote patient monitoring using IoT devices and mobile apps.
+
+   Integrated real-time vitals tracking, medication reminders, and secure messaging for healthcare providers.
+
+● Wearable Biometric Sensor: Designed a wearable sensor for continuous monitoring of blood pressure and ECG signals. Implemented data
+
+   encryption and cloud storage for remote access by healthcare professionals.
+
+● Virtual Surgical Simulation: Created a virtual reality surgical simulation for training medical students in laparoscopic procedures. 
+
+   Included haptic feedback for realistic tissue interaction and procedural guidance. 
+
+● Health Chatbot Assistance: Built an AI-powered chatbot for answering common health queries and providing personalized wellness tips.
+
+   Integrated natural language processing (NLP) algorithms to improve user engagement and health education.

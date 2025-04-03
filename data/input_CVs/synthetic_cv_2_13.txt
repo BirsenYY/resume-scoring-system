@@ -1,0 +1,63 @@
+Sarah Smith
+
+Chicago, IL | 555-555-5555 | sarah.smith@email.com | ABC Tech | ABC Tech
+
+WORDS ABOUT ME
+
+Experienced machine learning engineer with a passion for developing cutting-edge AI solutions. Proficient in Python, TensorFlow, and Scikit-Learn, with a strong background in computer vision and natural language processing. Skilled in deploying models and building applications using Flask and AWS services.
+
+CURRENTLY BUILDING
+
+ABC Tech – Machine Learning Engineer               Jan 2022 – Present
+
+● Spearheading development of innovative AI solutions for optimizing customer experience (LINK TO GITHUB)
+
+PROJECTS
+
+ABC Tech – Chatbot Integration                                2021
+
+● Implemented a chatbot feature for customer support, resulting in a 30% increase in user engagement
+
+EXPERIENCE
+
+XYZ Labs – Research Scientist                                    Nov 2020 – Jan 2022
+
+● Conducted research on advanced GAN models for image synthesis
+
+● Developed algorithms for anomaly detection in time series data using LSTM networks
+
+XYZ Innovations – Data Scientist                                   Apr 2019 – Nov 2020
+
+● Created predictive maintenance models for manufacturing equipment
+
+● Deployed computer vision models for quality control in production lines
+
+ABC Solutions – AI Engineer                                                Jul 2018 – Apr 2019
+
+● Built recommendation systems for personalized content delivery
+
+● Led a team in developing a sentiment analysis tool for social media data
+
+XYZ AI Start-up – Software Engineer                           Mar 2017 – Jul 2018
+
+● Prototyped a real-time object detection system using YOLOv3
+
+● Implemented reinforcement learning algorithms for autonomous navigation
+
+EDUCATION
+
+ABC University                                                2014 – 2017
+
+MSc in Artificial Intelligence
+
+● Dissertation on transfer learning techniques in deep neural networks
+
+TOOLS AND TECHNOLOGIES
+
+TensorFlow, PyTorch, Scikit-Learn, Flask, Amazon SageMaker, OpenCV, Jupyter Notebook, Spark, Tableau, MongoDB, Java, C++, R
+
+CERTIFICATIONS
+
+1. AWS Certified Machine Learning – Specialty
+2. Certified Data Science Professional (CDSP)
+3. Certified Natural Language Processing Expert (CNLP)

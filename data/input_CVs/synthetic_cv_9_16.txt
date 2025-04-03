@@ -1,0 +1,59 @@
+Elena Rodriguez
+
+Miami | 0888888 | elena.rodriguez@email.com | Portfolio: elenarodriguez.dev | GitHub: github.com/elenarodriguez
+
+WORDS ABOUT ME
+
+Computer Science enthusiast with a keen interest in leveraging data science and machine learning to tackle complex challenges. Known for my dedication to continuous learning and innovation, with a proven track record of delivering impactful solutions. Proficient in Python, JavaScript, and cloud technologies, I strive to bridge the gap between cutting-edge research and practical applications.
+
+CURRENTLY BUILDING
+
+Data Science Playground – Data Scientist Jan 2023 – Present
+
+  ● Constructing an interactive playground showcasing diverse data science projects, including exploratory data analysis, predictive modeling, and data visualization using state-of-the-art tools and libraries.
+
+CERTIFICATES
+
+  ● Certified Machine Learning Engineer (CMLE) - 2022
+  ● AWS Certified Solutions Architect - Associate - 2021
+
+PROJECTS
+
+🏆 DataHack Challenge Winner – Fraud Detection System 2023
+
+  ● Led a team in developing a fraud detection system that achieved top accuracy in predicting fraudulent transactions in financial datasets.
+  ● Implemented an ensemble of XGBoost and LightGBM models with feature engineering techniques to enhance model performance.
+
+DataDash – Automated Data Cleaning Tool (datadash.io) 2022
+
+  ● Created a data cleaning tool that automates the process of handling missing values, outliers, and categorical data, improving data quality for analysis and modeling.
+  ● Incorporated a user-friendly interface with drag-and-drop functionality using Flask and React.
+
+VisualizeMe – Interactive Data Visualization Platform 2021
+
+  ● Engineered a web-based platform for visualizing complex datasets through interactive charts, graphs, and maps, enabling users to gain insights from data intuitively.
+  ● Utilized D3.js and Plotly for dynamic visualizations and integrated with backend APIs for real-time data updates.
+
+EXPERIENCE
+
+Data Science Consultant Jan 2021 – Dec 2022
+
+  ● Collaborated with clients from diverse industries to develop data-driven solutions, including predictive modeling, recommendation systems, and sentiment analysis.
+  ● Led end-to-end projects involving data preprocessing, model selection, and deployment on cloud platforms.
+
+ABC Analytics Company – Data Analyst Intern Jun 2020 – Dec 2020
+
+  ● Conducted exploratory data analysis on customer behavior data to identify trends and patterns for strategic decision-making.
+  ● Assisted in developing machine learning models for customer segmentation and predictive analytics.
+
+EDUCATION
+
+University of Florida Gainesville 2017 – 2021
+
+BSc in Computer Science
+
+  ● Capstone Project: "Predictive Maintenance System for Manufacturing Equipment" - Implemented a predictive maintenance system using IoT sensors to minimize downtime and maintenance costs.
+
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, Keras, AWS, Docker, SQL, Flask, React, D3.js, Plotly, Git & GitHub, Pandas, NumPy, Matplotlib, Scikit-learn, Tableau, Jupyter Notebooks, Google Cloud Platform, CI/CD.

@@ -1,0 +1,72 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Coordinates (Who I Am Now)
+Innovative Data Scientist specializing in healthcare informatics and machine learning. Equipped with a solid background in biomedical applications, I am dedicated to enhancing decision-making processes through data-driven insights and predictive modeling. Proficient in data processing, statistical analysis, and algorithm development, with a keen interest in leveraging technology to revolutionize healthcare and tech industries.
+
+Toolkit & Weapons of Choice
+Languages: Python, R, SQL, Java
+Machine Learning: Neural Networks, K-means Clustering, Support Vector Machines
+Data Ops: MongoDB, Apache Spark, Data Warehousing, Hadoop
+Visualization: D3.js, Plotly, Dash
+Other Strengths: Bayesian Inference, Natural Language Processing, Docker, Kubernetes
+
+What I’m Building Now (Recent Role)
+Senior Data Scientist
+MediAI Solutions Ltd. – London, UK
+Apr 2020 – Present
+
+Led the development of predictive models for early disease detection using deep learning algorithms
+
+Collaborated with medical professionals to extract meaningful insights from complex healthcare datasets
+
+Implemented scalable data processing pipelines to handle multi-source data integration
+
+Evaluated model performance and optimized algorithms for accuracy and efficiency
+
+Contributed to research publications and presented findings at industry conferences
+
+Where I Bridged the Gap (Transitional Role)
+Data Engineer – HealthTech Startup
+MediTech Innovations – London, UK
+Jan 2018 – Mar 2020
+
+Designed data pipelines for real-time monitoring of patient vitals using IoT devices
+
+Developed anomaly detection systems to enhance patient safety in clinical settings
+
+Implemented data governance practices and ensured compliance with industry regulations
+
+Collaborated with software engineers to integrate machine learning models into production systems
+
+Where It All Started (Foundations in Engineering)
+Junior Biomedical Engineer
+Health Dynamics Group – London, UK
+Aug 2016 – Dec 2017
+
+Conducted experiments to validate algorithmic performance for patient monitoring devices
+
+Performed quality assurance testing and participated in product validation studies
+
+Supported the development of medical algorithms for continuous healthcare monitoring
+
+Contributed to the design and documentation of FDA submissions for new medical products
+
+The Knowledge Base
+MSc – Healthcare Data Analytics
+University College London, 2017 – 2018
+
+BSc – Biomedical Engineering
+Queen Mary University of London, 2013 – 2016
+
+Digital Badges & Certifications
+Stanford Advanced Machine Learning Specialization
+
+AWS Certified Machine Learning – Specialty
+
+Google Cloud Professional Data Engineer
+
+Coursera Certified Blockchain Professional
+
+Microsoft Certified: Azure AI Engineer Associate

@@ -1,0 +1,89 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Final-year Computer Science student with a passion for software development, data analysis, and cloud computing. Skilled in building scalable applications and implementing efficient algorithms. Actively seeking opportunities in software engineering, data science, or cloud solutions.
+
+Education
+BSc Computer Science
+University of XYZ – London, UK
+Graduated: July 2023
+
+Achieved a First-Class degree with Honors
+
+Relevant Modules: Machine Learning, Cloud Computing, Big Data Analytics, Cryptography, Mobile App Development, Blockchain
+
+Final Year Project: Automated Stock Trading System using Machine Learning Algorithms
+
+Technical Skills
+Languages: Java, Ruby, Scala, Swift, R
+Frameworks & Tools: Spring Boot, Apache Spark, TensorFlow, Tableau
+Databases: MySQL, PostgreSQL, Amazon DynamoDB
+Cloud Services: AWS (S3, EC2, Lambda), Google Cloud Platform
+DevOps: Docker, Kubernetes, Jenkins
+Concepts: Data Structures, Design Patterns, Microservices, CI/CD
+
+Projects
+CryptoTrackr
+Cryptocurrency portfolio tracking application with real-time market data
+
+Utilized Spring Boot for backend services and React Native for mobile app
+
+Integrated with CoinGecko API for accurate pricing information
+
+Deployed on AWS EC2 with a custom domain
+
+HealthFit
+Fitness tracking application with personalized workout suggestions
+
+Developed RESTful APIs with Scala and integrated with a MySQL database
+
+Utilized TensorFlow for activity recognition and prediction
+
+Implemented data visualization using Tableau for performance analytics
+
+CodeBuddy
+Collaborative coding platform for peer programming and code reviews
+
+Designed microservices architecture with Apache Spark for distributed computing
+
+Implemented JWT authentication and deployed on Kubernetes cluster
+
+Utilized Jenkins for automated testing and deployment pipelines
+
+Certifications
+Data Engineering with Google Cloud Platform, Coursera
+
+Certified Blockchain Developer, Blockchain Council
+
+AWS Certified Solutions Architect – Associate
+
+Data Science for Everyone, DataCamp
+
+Experience
+Junior Data Analyst – Tech Innovators Ltd
+Aug 2023 – Present
+
+Analyzed large datasets to derive actionable insights for business decisions
+
+Developed data pipelines using Apache Spark for efficient processing
+
+Collaborated with software engineers to integrate machine learning models
+
+Intern – Cybersecurity Research Lab
+University of ABC, London
+Sept 2021 – Dec 2021
+
+Researched emerging cybersecurity threats and vulnerabilities
+
+Conducted penetration testing and vulnerability assessments on lab environments
+
+Assisted in writing technical reports and presenting findings to the team
+
+Career Objectives
+Pursue a career in data engineering to work on large-scale data projects
+
+Explore opportunities in blockchain development and decentralized applications
+
+Contribute to open-source projects and continue personal development through certifications

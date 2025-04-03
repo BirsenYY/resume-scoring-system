@@ -1,0 +1,97 @@
+```
+    Microsoft
+
+                                                                                    
+
+                 Seattle, US | (+1) 987654321 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | microsoft.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Passionate AI/ML Engineer and Certified Big Data Analyst with 6+ years of experience. Proficient in developing AI solutions,
+
+      leveraging cutting-edge technologies such as GPT-3, BERT, and MetaFlow. Skilled in Python, PySpark, and Apache Flink. Continuously
+
+      updating skills in multimodal architectures, efficient model fine-tuning, and deep reinforcement learning algorithms. Experienced in
+
+      leading cross-functional teams, optimizing data pipelines, and delivering impactful solutions for diverse industries.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, Java, Scala, SQL, HDF5 | PostgreSQL, Cassandra, Redis | GPT-3, BERT, MetaFlow, LangChain, CodaLab,
+
+      streamlit | Fine-tuning, Deep Reinforcement Learning | IoT Integration, Data Governance, Machine Vision, Speech Recognition |
+
+      Flask, Kubernetes | Git, Jenkins, Terraform, Azure                          
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     AI Research Scientist (DataX.ai) - San Francisco, US                          Mar 2020 : Present
+
+    ● Led the development of a novel machine learning framework using CodaLab and Apache Flink, improving model interpretability and
+
+      performance across multiple domains                                           
+
+    ● Spearheaded a deep reinforcement learning project for robotic navigation, achieving a 40% reduction in exploration time and
+
+      enhancing decision-making capabilities                                          
+
+    ● Managed a team of data scientists and engineers, fostering knowledge sharing and collaboration within the research group         
+
+    ● Established partnerships with academia and industry experts, driving innovation and pushing the boundaries of AI research           
+
+     Data Scientist (Tesla) - Palo Alto, US                                        Jan 2018 : Feb 2020
+
+    ● Analyzed vehicle telemetry data using PySpark and Kafka, leading to optimized autonomous driving algorithms and predictive
+
+      maintenance strategies                                                        
+
+    ● Developed machine learning models for anomaly detection and fault diagnosis, improving manufacturing efficiency and product
+
+      quality                                                                        
+
+    ● Collaborated with cross-functional teams to integrate AI solutions into Tesla's production processes, ensuring seamless
+
+      deployment and scalability                                                    
+
+     Software Engineer (IBM) - New York, US                                        Jun 2015 : Dec 2017
+
+    ● Implemented scalable data processing pipelines using Apache Spark and Hadoop, enabling real-time analytics for large-scale
+
+      financial datasets                                                            
+
+    ● Designed and implemented a cloud-native microservices architecture for a blockchain-based supply chain management solution,
+
+      enhancing transparency and traceability                                        
+
+    ● Conducted code reviews, mentored junior developers, and contributed to the adoption of Agile methodologies within the team          
+
+    EDUCATION:                                                                      
+
+    PhD in Artificial Intelligence - Carnegie Mellon University, Pittsburgh (Distinction)   Aug 2010 : May 2015
+
+    BS in Computer Science - University of California, Berkeley (Honors)               Aug 2006 : May 2010
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Big Data Analytics Certification (by DataCamp)                           Apr, 2021
+
+    ● Certified Machine Learning Engineer (MLCert)                              Sept, 2019
+
+    ● Neural Networks and Deep Learning Specialization (by Udacity)            June, 2017
+
+    ● AI Ethics and Bias in Machine Learning (by Stanford Online)              Aug, 2018
+
+    ● Advanced Computer Vision Techniques (by MIT OpenCourseWare)                 Dec, 2016
+```

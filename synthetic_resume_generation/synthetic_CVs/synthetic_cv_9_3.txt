@@ -1,0 +1,97 @@
+Sarah Smith
+
+                                                                                  
+
+                      San Francisco | 0888888 | sarah.smith@email.com | ABC AI | ABC AI
+
+      Professional Summary                                                              
+
+                                                                                  
+
+                                                                                  
+
+      Machine learning engineer with a passion for creating innovative AI solutions. Experienced in developing and deploying complex machine learning models, with a focus on Natural Language Processing (NLP) and reinforcement learning. Skilled in Python, TensorFlow, and AWS, with a track record of leading successful AI projects and collaborating with cross-functional teams.
+
+      CURRENT ENGAGEMENT                                                             
+
+                                                                                  
+
+      ABC AI – Machine Learning Engineer                    Jan 2023 – Present
+
+        ●  Currently leading a team in designing and implementing cutting-edge deep learning models for... (LINK TO GITHUB)                   
+
+                                                                                  
+
+      SIDE PROJECTS                                                                    
+
+                                                                                  
+
+      ABC AI Research – link                                               2022     
+
+      …                                                                           
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      ABC Research Institute – AI Research Scientist           Jan 2021 – Dec 2022
+
+        ●  Conducted research on advanced reinforcement learning algorithms and their applications in autonomous systems.
+
+        ●  Developed novel deep Q-learning and actor-critic models for optimizing complex decision-making processes.
+
+        ●  Implemented MLOps best practices using MLflow and Kubernetes for model deployment and monitoring.        
+
+                                                                                  
+
+      ABC Innovations – AI Engineer                           Mar 2019 – Jan 2021
+
+        ●  Designed and deployed AI-driven predictive maintenance systems for industrial machinery, reducing downtime by 30%.
+
+        ●  Implemented computer vision algorithms for quality control in manufacturing processes, resulting in a 20% increase in efficiency.
+
+        ●  Led workshops on AI fundamentals for non-technical stakeholders to promote AI adoption within the organization.        
+
+                                                                                  
+
+      ABC Technologies – Data Scientist                      Sep 2017 – Mar 2019
+
+        ●  Developed machine learning models for predictive analytics in financial services, achieving a 15% improvement in customer retention.
+
+        ●  Optimized recommendation algorithms for e-commerce platforms, increasing click-through rates by 10%.
+
+        ●  Collaborated with software engineers to integrate AI solutions into existing products and services.        
+
+      XYZ Corp – Data Analyst                                 Jan 2016 – Sep 2017
+
+        ●  Conducted data analysis and visualization to support business decisions and strategic planning.
+
+        ●  Worked on customer segmentation projects using clustering algorithms to improve marketing targeting.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      XYZ University                                         2012 – 2016  
+
+      BSc Computer Science Degree                                                 
+
+        ●  Awarded Certificate in Advanced AI Techniques for final year project       
+
+      CERTIFICATIONS
+
+        1. Certified Machine Learning Engineer (CMLE)
+        2. AWS Certified Solutions Architect - Associate
+        3. Coursera Deep Reinforcement Learning Specialization
+        4. IBM Data Science Professional Certificate
+        5. Google Cloud Professional Data Engineer
+
+      TOOLS AND TECHNOLOGIES
+
+
+
+TensorFlow, PyTorch, Scikit-Learn, AWS SageMaker, Docker, Kubernetes, PySpark, PostgreSQL, Tableau, Git & GitHub, NumPy, Pandas, Matplotlib, JavaScript, React, SQL, Java

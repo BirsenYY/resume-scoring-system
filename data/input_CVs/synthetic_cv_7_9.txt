@@ -1,0 +1,65 @@
+**Alice Johnson**  
+
+---
+
+New York | alice.johnson@email.com | AI Engineer | Tech Innovations   
+
+---
+
+**SUMMARY**  
+
+AI engineer with a strong background in computer science and a passion for developing innovative solutions using artificial intelligence technologies. Experienced in developing AI-driven applications and continuously learning new techniques to improve performance and efficiency.  
+
+---  
+
+**TECHNOLOGIES/SKILLS**  
+
+- Programming Languages: Python, Java, C++, Scala, Bash  
+- Frameworks: PyTorch, TensorFlow, FastAPI, Hugging Face Transformers, Spark  
+- Databases: MySQL, MongoDB, Redis, Cassandra  
+- Tools: Jupyter Notebook, GitLab, Docker, Kubernetes, Jenkins  
+- Cloud Platforms: AWS, Microsoft Azure, IBM Cloud, DigitalOcean  
+- Machine Learning: RNNs, GANs, LSTMs, Transformer Models, Graph Neural Networks  
+- Additional Skills: Meta Learning, AutoML, Hyperparameter Optimization, Causal Inference  
+
+---  
+
+**EXPERIENCE**  
+
+**Lead AI Engineer | Tech Innovations, New York**   Jan 2020 - Present  
+
+- Developed a recommendation system using graph neural networks to personalize content for users, resulting in a 20% increase in user engagement.  
+- Implemented a real-time fraud detection system by leveraging ensemble learning techniques, reducing fraudulent transactions by 15%.  
+- Led a team of data scientists and engineers to create a chatbot powered by GPT-5 for customer support, improving response time by 30%.  
+- Collaborated with the research team to deploy a meta-learning framework for few-shot learning scenarios in a production environment.  
+- Managed the migration of machine learning pipelines to Kubernetes for improved scalability and reliability.  
+
+Tech Stack: Python, PyTorch, DGL, XGBoost, Docker, Kubernetes, GPT-5, Meta-RL  
+
+---  
+
+**Machine Learning Engineer | AI Solutions, California**   Aug 2018 - Dec 2019  
+
+- Developed a natural language processing pipeline for sentiment analysis using BERT, achieving state-of-the-art accuracy on benchmark datasets.  
+- Created a deep reinforcement learning agent for optimizing ad placement strategies in online advertising platforms, increasing click-through rates by 25%.  
+- Designed and implemented an anomaly detection system for network security using autoencoders and LSTM networks.  
+- Conducted A/B testing for recommendation algorithms to enhance user engagement on an e-commerce platform.  
+
+Tech Stack: Python, TensorFlow, BERT, Keras, PySpark, LSTM, Autoencoders  
+
+---  
+
+**EDUCATION**  
+
+- MSc in Artificial Intelligence, Stanford University, California - Sept 2018  
+- BSc in Computer Science (Honors), University of California, Los Angeles - May 2016  
+
+---  
+
+**PROJECTS**  
+
+- Automated Image Captioning (Transformer Models)  
+- Text Summarization using BART  
+- Voice Recognition System (Speech-to-Text)  
+- Multi-Modal Emotion Recognition  
+- Stock Price Prediction with Time Series Analysis and LSTM Networks  

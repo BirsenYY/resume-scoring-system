@@ -1,0 +1,67 @@
+Emily Rodriguez 
+
+New York | 0999999 | emily.rodriguez@email.com | Portfolio: emilyrodriguez.dev | GitHub: github.com/emilyrodriguez
+
+WORDS ABOUT ME
+
+Experienced data scientist with a strong background in machine learning and software engineering. Passionate about leveraging data to drive business decisions 
+and create innovative solutions. Skilled in developing and deploying machine learning models in production environments.
+
+CURRENTLY BUILDING
+
+Online Recommendation Engine – Data Scientist          Aug 2023 – Present
+
+● Developing a recommendation engine using collaborative filtering techniques to personalize user experiences on an e-commerce platform.
+
+PROJECTS
+
+🏆 Data Science Hackathon Winner – Predictive Analytics            2023
+
+● Led a team to victory in a hackathon by developing a predictive model for customer churn in the telecommunications industry.
+
+● Utilized XGBoost and LightGBM algorithms to achieve high accuracy and interpretability.
+
+DataViz360 – Interactive Data Visualization Platform                  2022
+
+● Created an end-to-end data visualization platform that enables users to explore and analyze large datasets.
+
+● Implemented features such as dynamic filters, drill-down capabilities, and customizable dashboards using Dash and Plotly.
+
+AutoInsight – Automated Machine Learning Tool                         2022
+
+● Developed an automated machine learning tool to streamline the model selection and hyperparameter tuning process.
+
+● Integrated popular AutoML libraries such as H2O.ai and TPOT to generate optimized machine learning pipelines.
+
+EXPERIENCE
+
+Data Analyst, ABC Analytics                                   Mar 2021 – Jul 2023
+
+● Analyzed customer behavior data to identify trends and provide actionable insights for marketing campaigns.
+
+● Created visualizations and reports to communicate findings to stakeholders and support strategic decision-making.
+
+Junior Data Scientist, Tech Solutions Inc                     Sep 2019 – Feb 2021
+
+● Built machine learning models for predictive maintenance and anomaly detection in IoT sensor data.
+
+● Collaborated with cross-functional teams to deploy models and monitor performance in production.
+
+EDUCATION
+
+New York University (NYU)                                      2016 – 2020
+
+MSc Data Science                                                                  
+
+● Thesis: "Deep Learning for Image Recognition in Medical Imaging" – achieved state-of-the-art results in classifying X-ray images.
+
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, Keras, XGBoost, LightGBM, Dash, Plotly, Scikit-learn, H2O.ai, TPOT, SQL, Docker, AWS, Tableau, Jupyter Notebook, Git, Matplotlib, Seaborn
+
+CERTIFICATIONS
+
+- AWS Certified Machine Learning Specialty
+- Tableau Desktop Specialist
+- IBM Data Science Professional Certificate
+- Microsoft Certified: Azure AI Fundamentals

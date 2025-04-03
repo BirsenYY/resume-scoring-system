@@ -1,0 +1,70 @@
+Jenna Parker
+Birmingham, UK | (+44) 7903746521 | jenna.parker@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/jennaparker | github.com/JennaParker | companyXYZ.com/JennaParker | medium.com/@jennaparker
+
+PROFESSIONAL SUMMARY:
+
+Dynamic Mechanical Engineer with 8 years of progressive experience in mechanical design, structural analysis, and innovative product development. Proficient in CAD modeling, FEA simulations, and project management, with a focus on delivering sustainable solutions. Skilled in leading diverse teams, optimizing manufacturing processes, and implementing cutting-edge technologies. Currently exploring advancements in robotics and automation for industry applications.
+
+SKILLS:
+
+SolidWorks, CATIA, Pro/ENGINEER, MATLAB, Simulink, Thermal Analysis, Computational Fluid Dynamics, Stress Analysis, CNC Machining, Agile Project Management, Python, Java, MS Office Suite, IoT Integration, Quality Assurance, Technical Writing, Failure Modes and Effects Analysis (FMEA), Root Cause Analysis, Six Sigma
+
+PROFESSIONAL EXPERIENCE:
+
+Lead Mechanical Engineer (Aerospace Dynamics) – Birmingham, UK
+Sep 2018 – Present
+
+Oversaw the design and analysis of aircraft components, achieving a 12% weight reduction while maintaining structural integrity
+
+Conducted FEA simulations using Abaqus and CFD analysis with Fluent, leading to a 25% increase in aerodynamic efficiency
+
+Implemented IoT sensors for real-time monitoring of engine performance, resulting in predictive maintenance solutions
+
+Collaborated with cross-functional teams to optimize supply chain processes and ensure on-time project delivery
+
+Senior Design Engineer (Renewable Energy Solutions) – Bristol, UK
+Jan 2015 – Aug 2018
+
+Designed wind turbine blades and solar panel mounting systems, focusing on renewable energy solutions
+
+Developed 3D models and fabrication drawings using CATIA and Pro/ENGINEER, improving manufacturing efficiency by 20%
+
+Led lean manufacturing initiatives, reducing waste and improving overall productivity by 15%
+
+Contributed to failure analysis investigations and implemented corrective actions to enhance product reliability
+
+Junior Mechanical Engineer (Tech Innovations Ltd) – Manchester, UK
+Jul 2012 – Dec 2014
+
+Collaborated on the design of consumer electronics products, including wearables and smart home devices
+
+Conducted thermal analysis and simulation studies to optimize product performance and reliability
+
+Assisted in prototype testing and validation, ensuring products met quality standards and user requirements
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Manchester, Manchester (Distinction)
+Sep 2008 – Jun 2012
+
+BEng in Mechanical Engineering – University of Liverpool, Liverpool (First Class Honours)
+Sep 2004 – Jun 2008
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Certified Product Lifecycle Management Professional – 2020
+
+Certified Robotics Engineer – 2016
+
+Project Management for Engineers (PMI) – Ongoing
+
+Industrial Automation Fundamentals – 2021
+
+Advanced Materials Science for Engineers (edX) – 2019
+
+Personal Interests & Side Projects:
+
+- Developed a smart irrigation system using IoT sensors for efficient water usage in gardening
+- Conducted a research project on the application of shape memory alloys in medical devices for improved patient care
+- Volunteer work in local community initiatives for promoting STEM education among underprivileged youth

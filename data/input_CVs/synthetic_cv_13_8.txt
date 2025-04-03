@@ -1,0 +1,55 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Profile
+Enthusiastic and detail-oriented Data Scientist blending a strong background in quantitative analysis with a passion for deriving actionable insights through data. Proficient in developing data-driven solutions to complex problems across various industries, particularly in finance and e-commerce.
+
+Technical Expertise
+Programming Languages: Python, Scala, Java, SQL
+Machine Learning: KNN, Naive Bayes, Neural Networks, Dimensionality Reduction
+Data Engineering: Hadoop, Spark, Kafka, Apache Beam, Data Lakes
+Data Visualization: D3.js, Plotly, Bokeh, Dash
+Additional Skills: Experiment Design, Cluster Analysis, Natural Language Processing, Docker
+
+Professional Experience
+Data Scientist
+DataInsight Technologies – London, UK
+Apr 2020 – Present
+
+- Implemented recommendation systems for personalized customer experiences
+- Optimized marketing campaigns using predictive models and segmentation techniques
+- Developed real-time data pipelines for streaming analytics
+- Conducted hypothesis testing and drew actionable insights from A/B experiments
+- Automated reporting processes, saving 20 hours per week
+
+Data Analyst
+RetailTech Innovations – London, UK
+Jun 2018 – Mar 2020
+
+- Analyzed sales data to identify trends and improve inventory management
+- Built interactive dashboards for sales performance tracking
+- Collaborated with cross-functional teams to enhance data-driven decision-making
+- Spearheaded a project on customer segmentation using unsupervised learning techniques
+
+Academic Background
+MSc – Applied Data Science
+University College London, 2016 – 2017
+
+BSc – Computer Science
+University of Manchester, 2013 – 2016
+
+Certifications
+Google Cloud Professional Data Engineer
+AWS Certified Solutions Architect
+Certified Information Systems Security Professional (CISSP)
+Certified Scrum Master (CSM)
+Tableau Desktop Specialist
+
+Side Projects
+1. Created a sentiment analysis tool for social media data
+2. Developed a web scraper to gather public transportation data for predictive analysis
+3. Automated stock price forecasting using Time Series models
+4. Built a recommendation engine for movie streaming services
+
+Feel free to contact me for further details or collaboration opportunities.

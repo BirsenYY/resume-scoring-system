@@ -1,0 +1,96 @@
+
+Rachel Johnson                                   
+
+                                                                                    
+
+      (cid:131) 555-987-6543 — rachel.johnson@email.com — (cid:239) linkedin.com/in/rachel-johnson-90b752164 — ' github.com/racheljohnson
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  Java, Python, C++, Ruby, R                      
+
+   Frameworks: Angular, Vue.js, Flask, Django, PySpark, Apache Flink, Hugging Face, OpenAI, XGBoost
+
+   ML/AI: NLP, Reinforcement Learning, Graph Neural Networks, AutoML, Computer Vision
+
+   Technologies: Kubernetes, IoT, Blockchains, Apache Beam, Redis, Hadoop, Apache Kafka, Consul, Istio, Etcd
+
+   Testing: Selenium, JUnit, pytest
+
+   Certifications: GCP Professional Data Engineer, AWS Certified Solutions Architect - Professional, CKAD - Certified Kubernetes Application Developer, Oracle Certified Professional (OCP) - Java SE Programmer
+
+                                                                                    
+
+   Experience                                                                       
+
+    ACME                                               Jun 2019 – Present
+
+    Senior Machine Learning Engineer                                                                       
+
+      – Developed and deployed a real-time fraud detection system using XGBoost and Apache Kafka.
+
+      – Co-led the implementation of a recommendation engine for improving user engagement by 20%.
+
+      – Initiated and conducted internal workshops on Graph Neural Networks and their applications in finance.
+
+      – Managed a team of 8 data scientists and ML engineers for a successful model deployment project.
+
+    Data Scientist                                                                     
+
+      – Implemented a sentiment analysis tool powered by NLP techniques, resulting in a 15% increase in customer satisfaction.
+
+      – Collaborated with the product team to design and build an interactive dashboard for monitoring KPIs.
+
+    ACME Labs                                                                     
+
+      – Conducted research on AutoML and its impact on democratizing machine learning for non-experts.
+
+      – Developed a prototype using Computer Vision for inventory management, reducing manual errors by 30%.
+
+    Junior Data Analyst                                                              
+
+      – Conducted A/B testing on email marketing campaigns, leading to a 10% increase in click-through rates.
+
+      – Automated data cleaning processes using PySpark, saving 15 hours of manual work per week.
+
+    Startup XYZ                                          Aug 2017 – May 2019
+
+    Software Engineer Intern                                                        
+
+      – Contributed to the development of a health-tracking mobile app, focusing on user experience and data visualization.
+
+      – Integrated IoT devices for real-time data collection and analysis.
+
+   Education                                                                        
+
+    Columbia University — MSc Data Science                2021 – 2023    
+
+    Cornell Tech — Master of Information Systems             2016 – 2017  
+
+    Brown University — BSc Computer Science                   2012 – 2016
+
+   Projects                                                                         
+
+                                                                                    
+
+    Facial Recognition Attendance System                                                   
+
+      – Built a facial recognition attendance system using OpenCV and Deep Learning for automated tracking in educational institutions.
+
+    Quantum Secure Communication Protocol                                                  
+
+      – Researched and implemented a quantum secure communication protocol based on entanglement swapping.
+
+    Stock Price Prediction Model                                                          
+
+      – Developed a stock price prediction model using LSTM networks and reinforcement learning algorithms.
+
+    Smart Home Energy Management System                                                    
+
+      – Created a smart home energy management system using IoT sensors and machine learning to optimize energy consumption.
+
+    Text Summarization Tool                                                              
+
+      – Developed a text summarization tool using Transformer models for condensing lengthy articles into concise summaries.

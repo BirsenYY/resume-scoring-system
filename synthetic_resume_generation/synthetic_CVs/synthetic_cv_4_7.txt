@@ -1,0 +1,97 @@
+    Amazon Web Services (AWS)                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7894561230 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative Data Scientist and Certified AI Engineer with 7 years of experience in machine learning and natural language processing. Skilled
+
+     in developing advanced AI models, optimizing ML pipelines, and leading cross-functional teams. Proficient in Python, PySpark, and
+
+     Apache Hadoop. Currently focusing on transformer models, multimodal architectures, and efficient model fine-tuning techniques. Strong
+
+     track record of delivering scalable solutions and driving business impact.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, R, Java, Scala, JavaScript | SQL, MongoDB | PyTorch, Keras, Hugging Face, GPT-3, LangChain | Transformer Models, Reinforcement
+
+      Learning, Genetic Algorithms | Flask, Django | Git, Kubernetes, Jenkins, AWS                  
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Machine Learning Engineer (DataMinds) - London, UK     Mar 2020 : Present
+
+    ● Led the development of a cutting-edge multimodal AI system using GPT-3 and PyTorch, improving accuracy on image-text tasks by 30%
+
+    ● Implemented advanced reinforcement learning algorithms for optimizing recommendation systems, resulting in a 20% increase in
+
+      user engagement and conversion rates                                          
+
+    ● Spearheaded a collaborative project to build a fraud detection model using deep learning and ensemble techniques, reducing false
+
+      positives by 15% and minimizing financial losses for the organization          
+
+    ● Conducted regular knowledge-sharing sessions and provided mentorship to junior team members, fostering a culture of continuous
+
+      learning and growth                                                           
+
+     Data Scientist (TechSolutions) - New York, US     Sep 2017 : Feb 2020
+
+    ● Developed and deployed ML models for predictive analytics and customer segmentation using PySpark and Apache Hadoop, improving
+
+      marketing campaign effectiveness by 25%                                          
+
+    ● Optimized data pipelines and ETL processes to handle large-scale datasets efficiently, resulting in faster model training and
+
+      deployment times                                                                 
+
+    ● Collaborated with cross-functional teams to integrate AI solutions into customer-facing applications, enhancing user experience and
+
+      driving revenue growth                                                          
+
+     Data Analyst (InfoTech Solutions) - San Francisco, US       Jun 2015 : Aug 2017
+
+    ● Conducted in-depth data analysis and visualization using R and Tableau, providing actionable insights to support strategic decision-
+
+      making processes                                                               
+
+    ● Developed automated reporting tools and dashboards to monitor key performance metrics, streamlining reporting processes and
+
+      improving data accuracy                                                        
+
+    ● Implemented machine learning algorithms for anomaly detection and predictive maintenance, leading to a 15% reduction in equipment
+
+      downtime and maintenance costs                                                  
+
+    EDUCATION:                                                                      
+
+    PhD in Machine Learning - University of Cambridge, Cambridge (Distinction) July 2012 : July 2016
+
+    BSc in Computer Science - Imperial College London, London (First Class Honours) June 2009 : June 2012
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Big Data Certification (by IBM)                                     Jan, 2019
+
+    ● Certified AI Specialist (AI Institute)                                      Aug, 2018
+
+    ● Deep Learning Fundamentals (by Stanford Online)                                      Sept, 2017
+
+    ● Apache Hadoop Certification (Hadoop University)                                   June, 2015
+
+    ● Machine Learning for Business (by Udacity)                                    Dec, 2014

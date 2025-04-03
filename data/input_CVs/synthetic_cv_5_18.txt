@@ -1,0 +1,101 @@
+Sarah Smith                                
+
+                                                                                  
+
+                          555-123-4567 | sarah.smith@email.com             
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                               
+
+    MIT, Cambridge                    Sep 2019 - Jun 2023
+
+      ●  BSc Industrial Engineering: Graduated with distinction (3.9 GPA)                    
+
+      ●  Achieved a perfect 100 in Operations Research, focusing on optimization and decision analysis
+
+      ●  Completed a capstone project on sustainable supply chain management, integrating concepts of IoT and AI
+
+    University of Tokyo, Japan                          Sep 2023 - Dec 2023
+
+      ●  Blockchain Applications Certification Program                
+
+      ●  Coursework: Cryptocurrency, Smart Contracts, DApps Development, Consensus Algorithms
+
+    Queen's University, Kingston                                  Sep 2014 - Jun 2019
+
+      ●  Diploma in Culinary Arts: Specialized in International Cuisine                  
+
+      ●  Co-founded the University Foodies Club, organizing culinary events and workshops
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Data Analyst – Google                           Feb 2024 - Present
+
+      ●  Conducting data analysis on user behavior patterns to optimize ad targeting algorithms
+
+      ●  Implementing machine learning models for predictive analytics on user engagement metrics
+
+      ●  Certifications: Google Data Analytics Professional Certificate, AWS Certified Big Data - Specialty
+
+    Product Manager Intern – Airbnb                           Jun 2023 - Aug 2023
+
+      ●  Assisted in the development and launch of a new feature to enhance user experience
+
+      ●  Worked closely with cross-functional teams to align product goals with business objectives
+
+    Junior Research Scientist – National Institute of Health                           Jan 2020 - Aug 2022
+
+      ●  Contributed to research projects on genetic predispositions to autoimmune diseases
+
+      ●  Published two papers in peer-reviewed journals on immunogenetics and personalized medicine
+
+      ●  Certificate: Certified Clinical Research Professional (CCRP)
+
+                                                                                  
+
+    Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Project Lead – Tech for Social Good          Jan 2021 - Present
+
+      ●  Coordinated tech projects aimed at solving community challenges, such as developing a mobile app for local food banks
+
+    Personal Blog – Data Science Insights              Apr 2022 - Oct 2024
+
+      ●  Authored articles on data science techniques, tools, and case studies
+
+      ●  Developed a data visualization project showcasing global COVID-19 trends using Tableau
+
+    Event Organizer – Startup Weekend               Mar 2021 - Mar 2022
+
+      ●  Facilitated entrepreneurship workshops and pitch competitions for aspiring startup founders
+
+                                                                                  
+
+    Student Mentor & STEM Advocate – Youth Empowerment            Mar 2021 - Present
+
+      ●  Mentoring high school students interested in STEM fields through hands-on projects and career guidance
+
+      ●  Organizing STEM awareness campaigns in underserved communities
+
+    Additional Information                                                        
+
+                                                                                  
+
+    Technical Skills: SQL, Tableau, Python (Pandas, NumPy, Scikit-learn), R, Power BI
+
+    Certifications: Tableau Desktop Specialist, AWS Certified Solutions Architect – Associate, IBM Data Science Professional Certificate
+
+    Activities: Photography, Hiking, Baking, Community Volunteering
+
+    Languages: English (Native), Spanish (Intermediate), French (Basic)
+
+    Interests: Artificial Intelligence, Sustainable Development, Culinary Arts, Traveling, Yoga

@@ -1,0 +1,67 @@
+John Smith
+
+San Francisco | 0999999 | john.smith@email.com | Portfolio: johnsmith.tech | GitHub: github.com/johnsmith
+
+WORDS ABOUT ME
+
+Experienced data scientist and software engineer with a strong passion for leveraging cutting-edge technologies to solve complex problems. Skilled in developing machine learning models, building data pipelines, and creating impactful software solutions. Proficient in Python, JavaScript, and cloud technologies with a proven track record of delivering innovative projects.
+
+CURRENTLY BUILDING
+
+AI-Powered Health Monitoring System - Software Engineer            May 2024 - Present
+
+● Building an AI-driven system to monitor and analyze health data for early disease detection and personalized recommendations.
+
+● Implementing machine learning algorithms for predictive analytics and developing a user-friendly web interface for data visualization.
+
+PROJECTS
+
+🎓 DataHack Challenge Winner – Time Series Forecasting                  2023
+
+● Led a team to victory in a competitive time series forecasting challenge, achieving superior accuracy and performance.
+
+● Developed an ensemble of LSTM and XGBoost models with feature engineering techniques for improved predictions.
+
+CodeInsight – Code Quality Analyzer (codeinsight.ai)                      2023
+
+● Created a tool to analyze code quality metrics and provide actionable insights for developers to enhance software quality.
+
+● Implemented static code analysis algorithms and integrated with popular IDEs for seamless code review.
+
+AutoTranscribe – Speech-to-Text Converter                                      2022
+
+● Designed and deployed a speech recognition system using transformer models to transcribe audio files into text.
+
+● Integrated with Google Cloud Speech-to-Text API and optimized for accuracy and speed.
+
+RoboVision – Autonomous Drone Navigation System                       2022
+
+● Developed a computer vision framework for drone navigation, enabling autonomous flight control and obstacle avoidance.
+
+● Utilized deep learning models for object detection and tracking, enhancing the drone's ability to navigate complex environments.
+
+EXPERIENCE
+
+Software Developer                                           Mar 2021 – Apr 2024
+
+● Spearheaded the development of a real-time data analytics platform for a financial services company, resulting in improved decision-making capabilities.
+
+● Implemented data visualization tools and interactive dashboards for stakeholders to monitor key performance indicators.
+
+Tech Startup Intern                                          Jun 2020 – Feb 2021
+
+● Contributed to the development of a machine learning-based recommendation engine for personalized content delivery.
+
+● Conducted A/B testing experiments and analyzed user engagement metrics to optimize algorithm performance.
+
+EDUCATION
+
+Stanford University                                          2017 – 2021
+
+BSc Computer Science
+
+● Senior Capstone Project: "Autonomous Vehicle Navigation System" – Designed and implemented a self-driving car prototype using sensor fusion techniques and deep learning algorithms.
+
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, PySpark, Flask, AWS, React Native, MongoDB, Kubernetes, Scrapy, D3.js, Keras, NLTK, Apache Kafka, Tableau, Unity3D, Arduino, C++, OpenAI GPT-3

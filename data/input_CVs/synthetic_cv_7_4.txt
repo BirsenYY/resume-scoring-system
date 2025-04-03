@@ -1,0 +1,95 @@
+```
+    Emily Johnson
+
+                        San Francisco | emily.johnson@email.com | Data Science | Data Science
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Data scientist with a strong foundation in statistics and machine learning. Passionate about leveraging data to drive business decisions and create innovative solutions. Experienced in developing predictive models and conducting in-depth data analysis.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, R, SQL, Java, Scala, Hadoop, Tableau 
+
+    • Frameworks: Spark, Pandas, NumPy, scikit-learn, TensorFlow, PySpark
+
+    • Machine Learning: NLP, Time Series Analysis, Ensemble Learning, Anomaly Detection
+
+    • Tools: Jupyter Notebook, Git, Docker, Linux, AWS, Microsoft Azure, Google Cloud Platform
+
+    • Other: Data Visualization, Statistical Analysis, A/B Testing, Data Cleaning, Data Warehousing
+
+                                                                                  
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    Data Scientist | Data Insights Inc., New York              Jan 2020 – Present
+
+    Predictive Maintenance for Manufacturing Industry                    
+
+                                                                                  
+
+    • Developed predictive maintenance models using machine learning algorithms to identify equipment failures in advance.
+
+    • Conducted data analysis on sensor data to optimize maintenance schedules and reduce downtime.
+
+    • Implemented anomaly detection techniques to detect irregularities in machinery performance.
+
+    • Collaborated with cross-functional teams to deploy models into production environment.
+
+    Tech Stack: Python, TensorFlow, Pandas, NumPy, AWS S3, Sagemaker            
+
+    Customer Segmentation and Lifetime Value Analysis                                                   
+
+    • Led a project to segment customers based on purchasing behavior and demographics to improve targeted marketing strategies.
+
+    • Calculated customer lifetime value to prioritize high-value customers and personalize marketing campaigns.
+
+    • Used clustering algorithms and regression analysis to identify key customer segments and predict future purchase trends.
+
+    • Automated data pipelines for seamless data processing and model deployment.
+
+    Tech Stack: Python, scikit-learn, Tableau, AWS Redshift, SQL
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc Data Science, University of Michigan, Ann Arbor               Sept 2019 - May 2021
+
+    BSc Statistics (Honors), University of Texas, Austin                 Sept 2015 - May 2019
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Sentiment Analysis for Social Media Data (NLP)         • Fraud Detection System using Ensemble Learning     
+
+    • Customer Churn Prediction Model (Logistic Regression)  • Price Forecasting with Time Series Analysis        
+
+    • Image Recognition System (CNN)                        • Recommendation Engine using Collaborative Filtering
+
+    • Chatbot Development with NLP                          • Sales Forecasting Model with Prophet
+```

@@ -1,0 +1,77 @@
+James Smith
+
+Los Angeles | 1234567 | james.smith@email.com | ABC AI | ABC AI
+
+WORDS ABOUT ME  
+
+Passionate machine learning engineer with a focus on developing and deploying cutting-edge AI solutions. I have experience leading cross-functional teams and have hands-on experience in developing models using Python and TensorFlow. Skilled in deploying AI models for computer vision and natural language processing applications. Proficient in building scalable applications using Flask and cloud services.
+
+CURRENTLY BUILDING  
+
+ABC AI – Machine Learning Engineer                    Jan 2023 – Present
+
+  ●  Co-founded startup focused on... (LINK TO GITHUB)
+
+PROJECTS  
+
+ABC AI – link                                               2023
+
+...
+
+EXPERIENCE  
+
+XYZ Research Lab – Machine Learning Researcher         Jan 2023 – Mar 2023
+
+  ●  Conducted research on novel attention mechanisms for neural networks.
+
+  ●  Developed deep learning models for anomaly detection in time series data.
+
+  ●  Implemented MLOps practices using MLflow and TensorFlow Extended.
+
+Tech Innovations – AI Software Engineer                           Apr 2021 – Dec 2022
+
+  ●  Developed AI-powered recommendation system for personalized content delivery.
+
+  ●  Implemented reinforcement learning algorithms for optimizing ad placement strategies.
+
+  ●  Led a team of engineers in building a scalable data processing pipeline.
+
+Digital Solutions Co. – Data Scientist                       Jul 2019 – Mar 2021
+
+  ●  Built predictive models for customer churn prediction and sales forecasting.
+
+  ●  Developed computer vision algorithms for object detection in images.
+
+  ●  Deployed machine learning models on AWS using SageMaker.
+
+XYZ Cybersecurity – AI Intern                                     Sep 2018 – Jun 2019
+
+  ●  Researched adversarial attacks on deep learning models.
+
+  ●  Developed prototype for anomaly detection system using autoencoders.
+
+...
+
+EDUCATION  
+
+ABC University                                      2016 – 2020  
+
+BSc Computer Science Degree                                                 
+
+  ●  Graduated with honors and received Dean's List recognition.
+
+CERTIFICATIONS  
+
+1. Certified Machine Learning Engineer (CMLE)
+2. AWS Certified Solutions Architect - Associate
+3. Google Professional Data Engineer
+4. Certified Kubernetes Administrator (CKA)
+
+TOOLS AND TECHNOLOGIES  
+
+Python, TensorFlow, Scikit-Learn, PySpark, Flask, AWS, Docker, Kubernetes, SQL, Tableau, Git & GitHub, JIRA, HTML, CSS, JavaScript, ReactJS
+
+Side Projects:  
+1. Developed a web-based AI chatbot for customer support.
+2. Created a mobile app for real-time language translation using NLP.
+3. Contributed to open-source project for sentiment analysis on social media data.

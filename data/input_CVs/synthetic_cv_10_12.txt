@@ -1,0 +1,70 @@
+Sarah Evans
+Manchester, UK | (+44) 7954827361 | sarah.evans@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/sarahevans | github.com/SarahEvans | medium.com/@sarahevans | engineering.com/sarahevans
+
+PROFESSIONAL SUMMARY:
+
+Dynamic and knowledgeable Mechanical Engineer with 8 years of experience in mechanical design, computational analysis, and sustainable engineering solutions. Skilled in CAD software, FEA simulations, and project management methodologies. Demonstrated success in leading project teams, optimizing manufacturing processes, and applying innovative solutions in the aerospace and automotive industries. Currently exploring advancements in additive manufacturing and sustainable design practices.
+
+SKILLS:
+
+CATIA, Solid Edge, Pro/ENGINEER, COMSOL Multiphysics, LabVIEW, Thermodynamics, Fluid Dynamics, Materials Science, Robotics, Lean Manufacturing, Six Sigma, Agile Project Management, Java, R, Microsoft Project, ERP Systems, Technical Writing, Failure Mode and Effect Analysis (FMEA), Root Cause Analysis
+
+PROFESSIONAL EXPERIENCE:
+
+Lead Mechanical Engineer (Airbus) – Bristol, UK
+Apr 2019 – Present
+
+Directed the design and analysis of composite aircraft structures, resulting in a 10% weight reduction and improved fuel efficiency
+
+Conducted thermal analysis using COMSOL Multiphysics, optimizing cooling systems for avionics components
+
+Implemented lean manufacturing principles to reduce waste and improve production efficiency by 20%
+
+Collaborated with cross-functional teams to develop and launch a next-gen UAV prototype, meeting project milestones ahead of schedule
+
+Mechanical Design Specialist (General Electric) – Birmingham, UK
+Aug 2015 – Mar 2019
+
+Designed gas turbine components and combustion systems, focusing on performance enhancement and emissions reduction
+
+Utilized Pro/ENGINEER for 3D modeling and simulation, ensuring product reliability and efficiency
+
+Led a team in the implementation of Six Sigma methodologies, resulting in a 30% reduction in defects
+
+Participated in field failure investigations and root cause analysis to drive continuous improvement initiatives
+
+Junior Mechanical Engineer (Rolls-Royce) – Derby, UK
+Jan 2013 – Jul 2015
+
+Contributed to the mechanical design of jet engines, including fan blades and combustion chambers
+
+Performed stress analysis and vibration testing to meet industry standards for reliability and performance
+
+Assisted in the development of technical documentation and manufacturing process improvements
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Manchester, Manchester (Distinction)
+Sep 2009 – Jul 2013
+
+BEng in Mechanical Engineering – University of Leeds, Leeds (First Class Honours)
+Sep 2005 – Jun 2009
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Certified Robotics Engineer – 2017
+
+Lean Six Sigma Black Belt – 2019
+
+Fundamentals of Sustainable Engineering (Coursera) – Ongoing
+
+Materials Selection for Additive Manufacturing – 2021
+
+Thermal Management in Electronic Systems – 2018
+
+Side Projects:
+
+- Developed a solar-powered water desalination prototype for remote communities (2019)
+- Led a team in designing an autonomous drone for agricultural monitoring (2021)
+- Collaborated on a research project exploring the use of recycled materials in manufacturing processes (2020)

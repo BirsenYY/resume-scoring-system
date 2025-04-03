@@ -1,0 +1,76 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Coordinates (Who I Am Now)
+Inquisitive and results-oriented Data Scientist with a solid background in mathematical modeling and a keen interest in financial analytics. Proficient in developing data-driven solutions, leveraging machine learning algorithms and statistical methodologies to drive actionable insights. Enthusiastic about applying data science principles to optimize business processes and decision-making.
+
+Toolkit & Weapons of Choice
+Languages: Python, Scala, SQL, Julia
+Machine Learning: CatBoost, LightGBM, Support Vector Machines, Anomaly Detection
+Data Ops: AWS Redshift, Apache Spark, Kafka, Airflow, Databricks
+Visualization: Plotly, D3.js, Bokeh, Altair
+Other Strengths: Bayesian Inference, Natural Language Processing, Genetic Algorithms, Docker, Kubernetes
+
+What I’m Building Now (Recent Role)
+Senior Data Scientist
+FinTech Innovations Co. – London, UK
+May 2020 – Present
+
+Developed predictive models for market trend analysis and risk assessment
+
+Collaborated with finance experts to optimize investment portfolio strategies
+
+Implemented real-time data pipelines for streaming financial data processing
+
+Contributed to building interactive dashboards for executive decision support
+
+Performed feature engineering for fraud detection algorithms
+
+Where I Bridged the Gap (Transitional Role)
+Quantitative Analyst – Hedge Fund
+QuantMetrics Ltd. – London, UK
+Aug 2018 – Apr 2020
+
+Utilized time series analysis to forecast stock price movements
+
+Developed pricing models for complex financial products
+
+Conducted back-testing and performance analysis of trading strategies
+
+Created custom visualization tools for exploring historical market data
+
+Collaborated with traders to refine algorithmic trading systems
+
+Where It All Started (Foundations in Engineering)
+Quantitative Research Analyst
+DataQuant Solutions – London, UK
+Jan 2016 – Jul 2018
+
+Built mathematical models for credit risk assessment in banking sector
+
+Performed data cleaning and normalization for financial datasets
+
+Developed algorithms for predictive analytics on loan default rates
+
+Evaluated data quality and integrity for regulatory reporting compliance
+
+Contributed to the research and development of new data products
+
+The Knowledge Base
+MSc – Financial Engineering
+University College London, 2014 – 2016
+
+BSc – Mathematics with Finance
+King's College London, 2010 – 2014
+
+Digital Badges & Certifications
+Google Certified Professional Data Engineer
+
+Bayesian Statistics in Python – DataCamp
+
+Time Series Analysis – Udemy
+
+Introduction to Quantum Computing – IBM Quantum Experience
+
+AWS Certified Solutions Architect – Associate

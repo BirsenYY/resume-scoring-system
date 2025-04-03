@@ -1,0 +1,116 @@
+Sarah Smith
+
+                                                                                  
+
+                   San Francisco, USA | +1 987 654 3210 | sarah.smith@email.com | Tech Pioneers
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Tech Pioneers – Machine Learning Engineer           Sep 2023 – Present
+
+        ●  Spearheaded research on meta-learning techniques for few-shot learning in computer vision tasks.
+
+        ●  Implemented state-of-the-art models like Swin Transformer, MLP-Mixer, and ViT in various vision recognition projects.
+
+        ●  Utilized PyCaret and Streamlit for model deployment and building interactive ML applications.
+
+        ●  Received recognition for developing a novel ensemble technique combining self-supervised and supervised learning.
+
+                                                                                  
+
+      Tech Pioneers – Data Scientist                                 Jan 2022 – Aug 2023
+
+        ●  Conducted extensive analysis on real-time IoT sensor data to predict equipment failures in manufacturing plants.
+
+        ●  Utilized AutoML tools like H2O.ai and TPOT to optimize machine learning pipelines and improve model performance.
+
+        ●  Collaborated with cross-functional teams to integrate predictive maintenance solutions into existing monitoring systems.
+
+                                                                                  
+
+      Tech Pioneers – AI Research Intern                             Jul 2021 – Dec 2021
+
+        ●  Researched and implemented reinforcement learning algorithms for autonomous navigation in drone swarm systems.
+
+        ●  Collaborated with robotics engineers to deploy RL agents on drones and optimize their decision-making capabilities.
+
+        ●  Published a research paper on optimizing communication protocols for drone coordination using RL techniques.
+
+                                                                                  
+
+      Tech Geniuses – Software Engineer                         Mar 2020 – Dec 2021
+
+        ●  Developed a scalable microservices architecture using Kubernetes for a cloud-based video processing platform.
+
+        ●  Integrated real-time video analytics capabilities using OpenCV and TensorFlow for object detection and tracking.
+
+        ●  Led the migration of legacy monolithic applications to a containerized environment, resulting in improved scalability and reliability.
+
+                                                                                  
+
+      Advanced Tech Solutions – Web Developer                 Sep 2019 – Feb 2020
+
+        ●  Designed and implemented a responsive e-commerce platform using React and GraphQL for seamless user experience.
+
+        ●  Integrated payment gateways like Stripe and PayPal to facilitate secure online transactions for customers.
+
+        ●  Conducted A/B testing and performance optimization to enhance site speed and user engagement metrics.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      AI Institute                                       2018 – 2022  
+
+      AI and Machine Learning, with Distinction                                      
+
+                                                                                  
+
+      Tech College                                         2014 – 2018  
+
+      BSc Computer Science, Magna Cum Laude                                        
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Tech Pioneers – Sentiment Analysis Platform                                       2022     
+
+      AI Robotics Project - Autonomous Navigation System                               2021     
+
+      Tech Pioneers - Image Recognition Model                                      2020     
+
+      AI Chatbot Integration - Customer Support Automation                               2019     
+
+                                                                                  
+
+      CERTIFICATIONS                                                      
+
+                                                                                  
+
+      - Certified Ethical Hacker (CEH)
+
+      - AWS Certified Solutions Architect
+
+      - Google Cloud Professional Data Engineer
+
+      - TensorFlow Developer Certificate
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have proficiency in: Tech Pioneers, AI Genomics, MegaTech, Data Insights, CloudOps, FastAPI, Shell, MongoDB, PostgreSQL, NumPy, Matplotlib, Angular, HTML, CSS, Java, Python, JavaScript, Ruby, C#, C++,
+
+      TypeScript, .NET Core, Vue.js, Nuxt.js, React, Django, Flask, TensorFlow, PyTorch, Keras, Scikit-learn, Docker, Kubernetes, OpenCV, Hadoop, Spark, GraphQL, RESTful APIs, AWS, GCP, Azure, Git, Jenkins,
+
+      Jira, Agile Methodologies, Linux, Bash, Conda, Anaconda, AutoML, H2O.ai, TPOT, Streamlit, PyCaret, GitHub Actions, Selenium, Jupyter Notebook, Tableau, Power BI, Scrum, Kanban. 
+    ```

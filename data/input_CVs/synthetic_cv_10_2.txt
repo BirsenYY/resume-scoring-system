@@ -1,0 +1,64 @@
+Emma Clarke
+Manchester, UK | (+44) 7896543210 | emma.clarke@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/emclarke | github.com/emclarke | companyX.com/emclarke | medium.com/@emclarke
+
+PROFESSIONAL SUMMARY:
+
+Dynamic Mechanical Engineer with over 8 years of experience in product design, structural analysis, and sustainable engineering solutions. Skilled in CAD modeling, FEA simulations, and project management. Proven track record of improving manufacturing processes and delivering innovative solutions in the aerospace and automotive industries. Currently exploring advanced materials and IoT applications in engineering.
+
+SKILLS:
+
+SOLIDWORKS, Creo, NX, COMSOL Multiphysics, LabVIEW, 3D Printing, Machine Learning, Robotics, Materials Science, Quality Control, Supply Chain Management, Agile Methodologies, R&D, Technical Writing, Failure Mode and Effects Analysis (FMEA), Root Cause Analysis, Six Sigma, Lean Manufacturing
+
+PROFESSIONAL EXPERIENCE:
+
+Lead Mechanical Engineer (Airbus) – Bristol, UK
+Apr 2019 – Present
+
+Managed the development of lightweight composite structures for aircraft wings, leading to a 12% weight reduction and improved fuel efficiency
+
+Utilized finite element analysis and computational fluid dynamics to optimize airflow around aircraft components, resulting in a 15% decrease in drag
+
+Pioneered the implementation of Industry 4.0 principles for predictive maintenance in aircraft systems, enhancing operational reliability
+
+Coordinated with cross-functional teams to integrate IoT sensors for real-time performance monitoring of critical aircraft systems
+
+Mechanical Design Specialist (Jaguar Land Rover) – Coventry, UK
+Nov 2015 – Mar 2019
+
+Designed automotive components focusing on aerodynamics and vehicle safety, contributing to a 20% improvement in crash test performance
+
+Developed advanced driver assistance systems (ADAS) leveraging machine learning algorithms for enhanced vehicle automation capabilities
+
+Led the integration of 3D printing technologies for rapid prototyping of new vehicle concepts, reducing design iteration times by 30%
+
+Collaborated with suppliers to implement new lightweight materials for vehicle chassis construction, resulting in a 10% reduction in overall weight
+
+Junior Mechanical Engineer (Renewable Energy Solutions) – Edinburgh, UK
+Aug 2012 – Oct 2015
+
+Contributed to the design and optimization of wind turbine blades for increased energy generation efficiency
+
+Performed structural analysis and material testing to ensure compliance with industry standards and safety regulations
+
+Developed training programs for maintenance technicians on best practices for wind turbine operation and maintenance
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Edinburgh, Edinburgh (Distinction)
+Sep 2008 – Jul 2012
+
+BEng in Mechanical Engineering – University of Manchester, Manchester (First Class Honours)
+Sep 2004 – Jun 2008
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Certified Robotics Engineer – 2020
+
+Advanced MATLAB Programming Certificate – 2017
+
+Renewable Energy Technologies Specialist (RETS) – 2015
+
+Project Management Professional (PMP) – 2021
+
+3D Printing for Aerospace Applications (Udemy) – 2022

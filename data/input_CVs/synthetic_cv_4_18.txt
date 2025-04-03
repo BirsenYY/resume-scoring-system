@@ -1,0 +1,89 @@
+Jane Smith                                  
+
+                                                                                  
+
+                   San Francisco, USA | +1 234 567 8901 | jane.smith@email.com | Tech Solutions
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Tech Solutions – Research Scientist           Jan 2021 – Present
+
+        ●  Conducting research on explainable AI methods in healthcare applications.
+
+        ●  Projects involve developing interpretable machine learning models for medical image analysis and patient risk prediction.
+
+        ●  Utilizing XAI techniques such as SHAP values, LIME, and Integrated Gradients for model interpretation.        
+
+                                                                                  
+
+      Data Innovations – Machine Learning Engineer   Jun 2019 – Dec 2020
+
+        ●  Implemented reinforcement learning algorithms for dynamic pricing optimization in e-commerce.
+
+        ●  Developed recommendation systems using collaborative filtering and deep learning techniques.        
+
+        ●  Deployed machine learning models on cloud infrastructure and monitored performance using Grafana.        
+
+                                                                                  
+
+      AI Dynamics – Data Scientist                    Apr 2018 – May 2019
+
+        ●  Worked on natural language processing projects, including sentiment analysis and text classification.
+
+        ●  Collaborated with cross-functional teams to integrate NLP solutions into chatbots and customer support systems.
+
+        ●  Conducted A/B testing to evaluate model effectiveness and iteratively improve performance.
+
+                                                                                  
+
+      TECHNICAL CERTIFICATIONS
+
+        ●  Certified Kubernetes Administrator (CKA)
+
+        ●  CompTIA Cybersecurity Analyst (CySA+)
+
+        ●  Google Cloud Professional Data Engineer
+
+        ●  AWS Certified Solutions Architect - Associate
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      AI University                                       2015 – 2019  
+
+      AI University Artificial Intelligence, Distinction                                      
+
+                                                                                  
+
+      Science College                                         2011 – 2015  
+
+      BSc Computer Science, First Class                                        
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Data Insights – link                                               2020     
+
+      Healthcare AI Platform - link                                        2019     
+
+      AI Dynamics - link                                        2018     
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: AI Innovations, AI Systems, AI Tools, AI Services, MyAI Tools, AI Platform, AI AI & AI, AIOps, SudoAI,
+
+      Kubernetes, Docker, Python, TensorFlow, PyTorch, Scikit-learn, Keras, SQL, MongoDB, Apache Spark, Hadoop, Tableau, Power BI,
+
+      Flask, Django, React, Node.js, Angular, HTML, CSS, Java, JavaScript, C++, Swift, Kotlin, Git, Jenkins, AWS, GCP, Azure,
+
+      Terraform, Ansible, ELK Stack, Prometheus, Grafana, Splunk, Jupyter, Colab, NLTK, SpaCy, GPT-3, Dialogflow, Rasa, A/B Testing.

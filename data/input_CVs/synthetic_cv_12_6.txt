@@ -1,0 +1,62 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Dedicated Software Engineer with over 4 years of experience in developing robust backend systems and tools. Proficient in multiple programming languages including Python, Java, and JavaScript. Skilled in creating efficient and secure software solutions with a focus on system reliability and user experience improvement.
+
+Technical Skills
+Languages: Python, Java, JavaScript, SQL, Bash
+
+Frameworks & Tools: Node.js, Django, Spring Boot, Flask, Puppeteer, TestNG, Mockito
+
+DevOps & CI/CD: Kubernetes, Docker, Jenkins, GitLab CI/CD, Ansible
+
+Databases: PostgreSQL, MongoDB, Redis, Oracle
+
+Cloud & Platforms: AWS (RDS, ECS, API Gateway), Azure, Unix
+
+Others: GraphQL, Microservices, Agile Methodologies, Test-Driven Development
+
+Professional Experience
+Senior Software Engineer
+DigitalSolve Technologies, London, UK
+Aug 2019 – Present
+
+Developed scalable microservices in Python and Java deployed on AWS ECS and Azure cloud platforms
+
+Architected and implemented GraphQL APIs to enhance data retrieval efficiency for frontend applications
+
+Led the migration of legacy systems to Kubernetes cluster for improved resource utilization
+
+Collaborated with product management to define technical requirements and project timelines
+
+Initiated and led code refactoring initiatives to improve system performance and code maintainability
+
+Software Engineer
+ByteCraft Innovations, London, UK
+Jan 2017 – Jul 2019
+
+Designed and developed automation scripts in Python for infrastructure provisioning and monitoring
+
+Implemented end-to-end testing frameworks using Django and Puppeteer for web applications
+
+Contributed to the implementation of CI/CD pipelines with Jenkins and Ansible for seamless integration
+
+Worked closely with cross-functional teams to deliver high-quality software solutions within deadlines
+
+Provided mentorship to junior developers and assisted in code reviews and technical documentation
+
+Side Projects
+1. Automated Chatbot Development: Created a conversational chatbot using Node.js and Dialogflow for customer support automation.
+2. IoT Data Visualization Tool: Developed a real-time data visualization tool using React and MQTT protocol for IoT devices monitoring.
+
+Education
+MSc in Computer Science
+Imperial College London, UK
+2014 – 2017
+
+Certifications
+Certified Kubernetes Administrator
+Microsoft Certified: Azure Developer Associate
+Oracle Certified Professional, Java SE 8 Programmer
+AWS Certified Solutions Architect – Associate

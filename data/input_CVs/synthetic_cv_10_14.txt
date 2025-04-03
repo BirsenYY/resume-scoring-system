@@ -1,0 +1,64 @@
+Michael Stone
+Manchester, UK | (+44) 7894561230 | michael.stone@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/michaelstone | github.com/michael_stone | medium.com/@michaelstone | twitter.com/michael_stone
+
+PROFESSIONAL SUMMARY:
+
+Dynamic Mechanical Engineer with 7 years of experience in product design, manufacturing optimization, and project management in the automotive and renewable energy industries. Proficient in CAD software, FEA analysis, and lean methodologies. Skilled in leading cross-functional teams, improving production processes, and implementing sustainable engineering solutions. Actively exploring AI applications in mechanical engineering.
+
+SKILLS:
+
+Creo Parametric, Solid Edge, COMSOL Multiphysics, LabVIEW, Renewable Energy Systems, Electric Vehicles, Lean Manufacturing, Six Sigma, Project Management (Waterfall, Kanban), Java, R, SQL, Risk Assessment, Reliability Engineering, Supply Chain Management, Technical Writing, Failure Mode Effects Analysis (FMEA), Quality Control
+
+PROFESSIONAL EXPERIENCE:
+
+Lead Mechanical Engineer (Jaguar Land Rover) – Manchester, UK
+Mar 2019 – Present
+
+Oversaw the design and testing of next-generation electric vehicle chassis structures, achieving a 20% weight reduction and improved crash performance
+
+Performed thermal analysis using COMSOL Multiphysics for battery packs, enhancing cooling system efficiency by 15%
+
+Implemented lean principles in manufacturing, resulting in a 30% reduction in production lead time
+
+Led a team in the implementation of predictive maintenance strategies for production line equipment, reducing downtime by 25%
+
+Mechanical Design Specialist (RenewTech Solutions) – Bristol, UK
+Oct 2015 – Feb 2019
+
+Designed custom solar panel mounting systems for commercial installations, optimizing for durability and cost-efficiency
+
+Utilized advanced FEA simulations to ensure structural integrity and wind load resistance of mounting solutions
+
+Led a project to implement IoT sensors for real-time monitoring of solar panel performance, enhancing system efficiency and maintenance planning
+
+Collaborated with suppliers to introduce sustainable materials in product designs, contributing to the company's eco-friendly initiatives
+
+Junior Mechanical Engineer (Rolls Engineering) – Leeds, UK
+Aug 2013 – Sep 2015
+
+Contributed to the design of high-temperature turbine components, applying thermal barrier coatings for improved durability
+
+Assisted in performing failure mode analysis to identify root causes and implement corrective actions
+
+Participated in cross-departmental projects to streamline manufacturing processes and reduce material waste
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Leeds, Leeds (Merit)
+Sep 2010 – Jun 2013
+
+BEng in Mechanical Engineering – University of Sussex, Brighton (Upper Second Class)
+Sep 2007 – Jun 2010
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Certified Project Management Professional (PMP) – 2021
+
+Renewable Energy Technologies Certificate – 2017
+
+Applied Machine Learning (Stanford Online) – Ongoing
+
+ISO 9001:2015 Quality Management System Auditor – 2022
+
+Wind Energy Fundamentals (edX) – 2019

@@ -1,0 +1,133 @@
+    Royal Free Hospital NHS Trust                                                
+
+                                                                                    
+
+                 London, UK | (+44) 7456234567 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 8+ years of experience in medical device design, clinical systems integration, and computational modeling in healthcare. 
+
+     Proficient in biomedical signal processing, medical image analysis, and AI-driven diagnostics. Skilled in Python, MATLAB, and TensorFlow, with a 
+
+     strong background in data analytics and machine learning applications. Passionate about leveraging technology to improve patient outcomes and 
+
+     enhance healthcare delivery.
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, SciPy | TensorFlow, Keras, Scikit-Image | DICOM, Medical Image Segmentation | xAPI, Mirth Connect |
+
+     EHR/EMR Systems, Healthcare Data Security | Clinical Decision Support Systems | Bioinformatics, Genomic Data Analysis | Git, Docker, Kubernetes |
+
+     RESTful APIs, Microservices Architecture | AWS/GCP, DevOps Tools | Agile Methodologies
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Biomedical Engineer (Royal Free Hospital NHS Trust) - London, UK   Dec 2019 : Present
+
+    ● Spearheaded the development of a smart insulin delivery pump prototype with adaptive dosing algorithms, enhancing patient safety 
+
+      and reducing hypoglycemic events by 25%
+
+    ● Collaborated with radiologists for implementing an automated MRI artifact identification tool, streamlining image quality assurance 
+
+      processes and decreasing re-scans by 20%
+
+    ● Led the integration of wearable biometric sensors with electronic health record systems, enabling continuous remote patient monitoring 
+
+      for chronic disease management
+
+    ● Designed and implemented a scalable data processing pipeline for real-time physiological data streaming, supporting AI-driven 
+
+      predictive analytics for early sepsis detection
+
+    ● Conducted usability studies and clinical validation trials for a telemedicine platform, improving patient engagement and adherence to 
+
+      treatment plans
+
+    
+
+     Healthcare Technology Consultant (Global Health Innovations Ltd.)  Jun 2017 : Nov 2019
+
+    ● Advised on the implementation of interoperable healthcare IT systems compliant with HL7 standards, facilitating seamless data exchange 
+
+      between hospital departments
+
+    ● Conducted gap analyses for EMR/EHR systems to optimize clinical workflows and enhance patient safety through medication reconciliation
+
+    ● Coordinated a cross-functional team to develop a cloud-based telehealth platform for remote consultations, reducing outpatient visit 
+
+      wait times by 30%
+
+    ● Provided training workshops on cybersecurity best practices for healthcare professionals to mitigate data breaches and safeguard 
+
+      patient information
+
+    ● Contributed to the development of a blockchain-enabled consent management solution for secure health data sharing among care providers
+
+    
+
+     Biomedical Engineering Intern (Cambridge University Hospitals NHS Foundation Trust) - Cambridge, UK   Mar 2016 : May 2017
+
+    ● Assisted in the implementation and validation of a novel tele-ICU monitoring system, improving intensive care unit patient outcomes 
+
+      through remote clinical oversight
+
+    ● Conducted usability testing for a digital health app aimed at promoting medication adherence and lifestyle behavior modification 
+
+    ● Supported research projects on AI-based risk prediction models for sepsis detection in pediatric patients
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    MEng in Biomedical Engineering - Imperial College London (Distinction)   Sep 2013 : Sep 2017
+
+    BSc in Electrical Engineering - University of Edinburgh (First Class)   Sep 2009 : Jun 2013
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Advanced Biomedical Signal Processing (edX)                                  Aug, 2022
+
+    ● Certified Healthcare Data Analyst (CHDA)                                     Jan, 2021
+
+    ● Machine Learning for Healthcare (Coursera)                                   Oct, 2020
+
+    ● Clinical Informatics Specialist Certification (ABPM)                        Mar, 2019
+
+    ● Cybersecurity Essentials for Healthcare (ISACA)                             Jul, 2016
+
+    ● Health Information Management Certificate (AHIMA)                          Dec, 2015
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● 3D-Printed Prosthetic Limb: Led a team to design and produce a functional 3D-printed prosthetic limb prototype for individuals 
+
+      with upper limb amputations, incorporating sensors for myoelectric control and EMG signal processing.
+
+    
+
+    ● Wearable Vital Signs Monitor: Developed a wearable device for continuous monitoring of vital signs (ECG, SpO2, HR) with real-time 
+
+     

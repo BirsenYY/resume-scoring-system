@@ -1,0 +1,64 @@
+Jane Smith
+Manchester, UK | (+44) 7482910374 | jane.smith@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/janesmith | github.com/JaneSmith | jane-smith.com | medium.com/@janesmith
+
+PROFESSIONAL SUMMARY:
+
+Dynamic and innovative Mechanical Engineer with over 8 years of experience in product design, structural analysis, and sustainable manufacturing processes. Proficient in CAD modeling, FEA simulations, and implementing advanced engineering solutions. Skilled in leading diverse teams, optimizing production workflows, and integrating cutting-edge technologies in the aerospace and automotive industries. Actively exploring advancements in robotics and renewable energy systems.
+
+SKILLS:
+
+AutoCAD, CATIA, ANSYS, Abaqus, Python, MATLAB, Simulink, Thermodynamics, Fluid Dynamics, Structural Analysis, CNC Machining, Project Management, PLC Programming, Root Cause Analysis, Agile Methodologies, CFD, GD&T, MS Office Suite, Tech Documentation, FMEA, 3D Printing, Renewable Energy Systems, Robotics
+
+PROFESSIONAL EXPERIENCE:
+
+Senior Mechanical Engineer (Tesla) – Amsterdam, Netherlands
+Mar 2018 - Present
+
+Led the design and analysis of next-generation battery systems, resulting in a 20% increase in energy storage capacity
+
+Conducted FEA simulations and CFD analyses on electric vehicle components, achieving 15% weight reduction while maintaining structural integrity
+
+Introduced robotic automation in manufacturing processes, reducing assembly time by 30%
+
+Collaborated with cross-functional teams to implement sustainable practices in production, leading to a 25% reduction in waste
+
+Mechanical Design Engineer (General Electric) – Budapest, Hungary
+Oct 2014 - Feb 2018
+
+Designed innovative gas turbine components and heat exchangers, focusing on efficiency and performance
+
+Utilized CATIA and Ansys for developing 3D models and conducting stress analysis, optimizing component durability
+
+Implemented lean manufacturing principles, resulting in a 20% reduction in production costs
+
+Participated in field testing and root cause analysis to enhance product reliability and performance
+
+Assistant Mechanical Engineer (Airbus) – Toulouse, France
+Jun 2012 - Sep 2014
+
+Contributed to the design and development of aircraft structural components, ensuring compliance with safety standards
+
+Engaged in aerodynamic analysis and performance testing for wing designs, optimizing fuel efficiency
+
+Assisted in the creation of technical manuals and user guides for aircraft systems
+
+EDUCATION:
+
+MEng in Mechanical Engineering – ETH Zurich, Switzerland (Distinction)
+Sep 2009 - Jun 2012
+
+BEng in Mechanical Engineering – University of Manchester, UK (First Class Honours)
+Sep 2005 - Jun 2009
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Certified Robotics Engineer – 2017
+
+Advanced PLC Programming Certificate – 2015
+
+Renewable Energy Technologies Specialist – 2021
+
+Project Management Professional (PMP) – Ongoing
+
+Reliability Engineering Certification – 2019

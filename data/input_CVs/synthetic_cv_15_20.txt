@@ -1,0 +1,121 @@
+Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 9+ years of experience in clinical systems integration, medical device development, and AI applications in healthcare settings. 
+
+     Proficient in biomedical signal processing, medical imaging analysis, and machine learning algorithms. Skilled in Python, MATLAB, and
+
+     PyTorch. Experienced in leading cross-functional teams to deliver innovative healthcare solutions through technology. 
+
+     Enthusiastic about leveraging data science and cutting-edge medical technologies to improve patient outcomes.    
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | PyTorch, Keras, Scikit-Learn | DICOM, SPM | Image Analysis, fMRI/DTI Processing |
+
+     Medical Imaging (PET, SPECT, Ultrasound), Image Fusion | 3D Slicer, MIM Software, Mimics | Biomechanics Models | Git, SVN |
+
+     Health Information Exchange Standards (CDA, CCD) | Django, FastAPI, GraphQL | Google Colab, Apache Spark
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Biomedical Engineer (Oxford University Hospitals NHS Foundation Trust) - Oxford, UK     May 2020 : Present
+
+    ● Spearheaded the development of a deep learning model for automated detection of brain tumors from MRI scans, reducing reporting time by 50%
+
+    ● Implemented a cloud-based PACS system for seamless image sharing and remote diagnostics, enhancing collaboration with external institutions
+
+    ● Collaborated with neurosurgeons to integrate intraoperative neuroimaging tools for real-time guidance during surgeries
+
+    ● Conducted usability studies for a wearable biosensor project, enabling continuous monitoring of physiological parameters in patients
+
+    ● Ensured compliance with ISO 13485 standards for medical device development and participated in regulatory audits
+
+    
+
+     Data Analyst (Liverpool John Moores University - School of Pharmacy and Biomolecular Sciences)  Sep 2018 : Apr 2020
+
+    ● Utilized machine learning algorithms to predict drug-drug interactions from electronic health records, improving medication safety protocols
+
+    ● Automated adverse drug reaction monitoring using natural language processing techniques, reducing manual review efforts by 70%
+
+    ● Developed a data visualization dashboard in Tableau for analyzing prescription patterns and optimizing drug dispensing practices
+
+    ● Led a research project on personalized medicine algorithms incorporating genetic markers and drug response data
+
+    ● Presented research findings at international conferences and contributed to peer-reviewed publications in pharmacogenomics
+
+    
+
+     Biomedical Engineering Intern (Cambridge University Hospitals NHS Foundation Trust) – Cambridge, UK     Jul 2017 : Aug 2018
+
+    ● Assisted in the design and testing of an MRI-compatible cardiac monitoring device for pediatric patients
+
+    ● Conducted performance validation tests on newly acquired bioinformatics software tools for genomics data analysis
+
+    ● Provided technical support for clinical trials involving wearable health devices and remote patient monitoring systems
+
+    ● Collaborated with research teams to optimize protocols for cellular imaging using confocal microscopy techniques
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    PhD in Biomedical Engineering - Imperial College London (Expected 2023)
+
+    MSc in Medical Physics - University of Edinburgh (Distinction)   Sep 2015 : Sep 2016
+
+    BEng in Biomedical Engineering - University of Leeds (First Class)  Sep 2011 : Jun 2015
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified DICOM Specialist (EuroPACS)                        Oct, 2022
+
+    ● Health Informatics Certification – NHS Digital Academy                        Jun, 2021
+
+    ● Clinical Data Management Training (ACRP)                                Apr, 2020
+
+    ● Introduction to Healthcare Analytics with Python (Coursera)                     Jan, 2019
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● Telemedicine Platform Integration: Designed an API connector to streamline integration of telemedicine platforms with electronic health records
+
+      systems for secure and efficient virtual patient consultations. (GitHub: [github.com/[NAME]/telemedicine-integrator])
+
+    
+
+    ● Wearable Health Monitoring System: Developed a smart wristband prototype with biosensors for continuous monitoring of heart rate, blood oxygen
+
+      levels, and activity tracking. Integrated with a mobile app for real-time data visualization and health trend analysis.
+
+    
+
+    ● Drug Interaction Prediction Tool: Created a web-based tool using Django to predict potential drug-drug interactions based on patient medication
+
+      profiles and pharmacokinetic parameters. Implemented data security

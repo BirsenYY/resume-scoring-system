@@ -1,0 +1,119 @@
+    London Health-Tech Solutions Ltd                                                
+
+                                                                                    
+
+                 London, UK | (+44) 6123456789 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 7+ years of experience in healthcare technology innovation, medical imaging analysis, and AI-driven solutions. 
+
+     Proficient in Python, MATLAB, and R for signal processing and ML applications. Skilled in the integration of AI tools with clinical systems
+
+     and interpreting complex datasets to enhance patient care outcomes. Passionate about leveraging technology for improved healthcare delivery.    
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, Keras | DICOM, OpenCV, DicomBrowser | Signal Processing, EEG Analysis |
+
+     Medical Imaging (MRI, Ultrasound, PET) | Radiomics, ITK-SNAP, 3D Slicer | Wearable Health-Tech Devices | Git, Docker, Kubernetes |
+
+     Biomedical Data Standards (HL7, DICOM) | Django, FastAPI, REST APIs | AWS, GCP, Azure
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Senior Biomedical Engineer (London Health-Tech Solutions Ltd) - London, UK     Aug 2019 : Present
+
+    ● Led the development of an AI-powered predictive analytics platform for remote patient monitoring, reducing readmission rates by 25%
+
+    ● Collaborated with medical imaging specialists to deploy an automated brain tumor segmentation algorithm in MRI scans, improving accuracy 
+
+    ● Conducted usability studies and user feedback sessions to enhance the UX/UI of a mobile health app for chronic disease management 
+
+    ● Managed a team of biomedical engineers and data analysts to optimize clinical workflows and ensure compliance with data protection regulations
+
+    ● Spearheaded the integration of wearable sensor data with EMR systems for real-time monitoring of patient vitals
+
+    
+
+     Biomedical Data Scientist (Cambridge Medical Research Institute)  Jun 2016 : Jul 2019
+
+    ● Implemented deep learning models for predicting patient outcomes from ICU data, achieving an AUC of 0.85 for mortality prediction
+
+    ● Developed a scalable data pipeline for processing large-scale genomics data and identifying biomarkers for personalized medicine
+
+    ● Collaborated with geneticists to analyze whole-genome sequencing data and identify disease-causing variants in rare genetic disorders
+
+    ● Published research papers on the application of ML in genomics and presented findings at international bioinformatics conferences
+
+    
+
+     Biomedical Software Engineer (Oxford Biotech Innovations) – Oxford, UK     Mar 2014 : May 2016
+
+    ● Designed and implemented a cloud-based platform for sharing medical imaging data securely across multiple healthcare institutions
+
+    ● Developed a web-based radiology reporting tool with speech recognition capabilities, reducing report turnaround times by 40%
+
+    ● Conducted performance testing and optimization of AI algorithms for image analysis in pathology and histopathology
+
+    ● Collaborated with regulatory affairs to ensure compliance with FDA and CE marking requirements for medical software products
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    MSc in Biomedical Engineering - University College London (Distinction)   Sep 2012 : Sep 2013
+
+    BEng in Biomedical Engineering - University of Cambridge (First Class)  Sep 2008 : Jun 2012
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Healthcare Data Security and Privacy (CISSP)                                  Apr, 2022
+
+    ● Certified Imaging Informatics Professional (CIIP)                           Nov, 2021
+
+    ● Machine Learning for Healthcare (Stanford Online)                           Mar, 2020
+
+    ● Biomedical Signal Processing Specialist (Deloitte Academy)                  Aug, 2019
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● Wearable Health Monitor: Developed a prototype wearable device for continuous ECG monitoring and early detection of cardiac anomalies. 
+
+      Implemented real-time data transmission to a mobile app for remote patient monitoring. (GitHub: [github.com/[NAME]/wearable-health])
+
+    
+
+    ● Virtual Radiology Assistant: Created a virtual assistant powered by NLP and medical image analysis to assist radiologists in report 
+
+      generation and image interpretation. Integrated with PACS systems for seamless workflow optimization.
+
+    
+
+    ● Telemedicine Platform Integration: Collaborated with a telehealth startup to integrate video consultation features into an existing EMR system, 
+
+      enabling virtual visits and remote patient follow-up. Ensured compliance with HIPAA regulations for data security and privacy.
+
+    
+
+    ● Medical IoT Dashboard: Developed a customizable dashboard for visualizing real-time data from

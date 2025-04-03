@@ -1,0 +1,50 @@
+John Park
+
+San Francisco | 0999999 | john.park@email.com | Portfolio: johnpark.dev | GitHub: github.com/johnpark
+
+WORDS ABOUT ME
+
+Computer Science enthusiast with a focus on leveraging data science, artificial intelligence, and full-stack development to tackle complex challenges. Passionate about exploring innovative technologies and creating impactful projects that exhibit strong coding practices. Proficient in Python, Java, and cloud computing tools, always striving to transform concepts into practical solutions.
+
+CURRENTLY BUILDING
+
+Personal Data Science Showcase – Data Scientist                  Sep 2024 – Present
+  ● Developing a comprehensive portfolio showcasing various data science projects with interactive visualizations and detailed case studies (datascience.com/johnpark)
+
+PROJECTS
+
+🏆 Hackathon Winner – Sentiment Analysis and Prediction                2025
+  ● Spearheaded a team to victory in a sentiment analysis challenge, achieving top accuracy in forecasting customer sentiments for a retail dataset.
+  ● Engineered an ensemble model combining LSTM and XGBoost algorithms with advanced text preprocessing and sentiment lexicons.
+
+ByteSaver – File Compression Utility (bytesaver.io)                        2024
+  ● Designed and implemented a file compression tool using Huffman coding and LZ77 algorithms to reduce file sizes efficiently.
+  ● Integrated a user-friendly GUI interface for easy drag-and-drop functionality, supporting multiple file formats.
+
+CodeQuiz – Coding Assessment Platform                                      2023
+  ● Developed an automated coding assessment platform for technical interviews, leveraging a custom ML model for code evaluation.
+  ● Integrated with Slack API for scheduling and notifications, enabling real-time feedback for candidates and interviewers.
+
+VisionScope – Image Classification System                                    2023
+  ● Engineered an image classification system for identifying plant species using transfer learning techniques with a pre-trained ResNet model.
+  ● Deployed the model on AWS for scalability and incorporated a web interface for user-friendly interaction.
+
+EXPERIENCE
+
+Software Developer                                              Feb 2023 – Nov 2024
+  ● Collaborated with cross-functional teams to deliver customized software solutions for clients across industries such as healthcare and finance.
+  ● Led the development of data visualization dashboards and implemented automated data processing pipelines.
+
+ABC Startup – Machine Learning Intern                          Jun 2022 – Dec 2022
+  ● Participated in a 6-month internship program, gaining hands-on experience in building and deploying machine learning models for predictive analytics.
+  ● Contributed to developing recommendation systems and optimizing model performance using various feature engineering techniques.
+
+EDUCATION
+
+Stanford University                                                       2020 – 2024
+BSc Computer Science
+  ● Capstone project: “Predictive Analytics for Energy Consumption” – achieved 15% increase in accuracy using ensemble learning methods on smart meter data.
+
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, Java, Flask, Kubernetes, AWS, MySQL, React, Node.js, GitLab, D3.js, Selenium, Keras, Spark, Elasticsearch, Tableau, Jupyter Notebook, Conda, Jenkins

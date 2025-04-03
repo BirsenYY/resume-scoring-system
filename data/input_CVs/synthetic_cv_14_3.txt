@@ -1,0 +1,89 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Recently graduated Computer Science student with a solid background in software development, database management, and machine learning. A proactive individual with a passion for coding and problem-solving, seeking entry-level positions in software engineering, database administration, or data analysis.
+
+Education
+BSc Computer Science
+University of ABC – London, UK
+Graduated: June 2023
+
+Achieved a First-Class Honours degree
+
+Key Modules: Advanced Algorithms, Database Systems, Artificial Neural Networks, Cybersecurity, Software Architecture
+
+Final Year Project: Automated Traffic Management System using Machine Learning
+
+Technical Skills
+Languages: Java, PHP, Ruby, R, Swift
+Frameworks & Libraries: Django, Spring, TensorFlow, Pandas
+Databases: MySQL, PostgreSQL, Oracle
+Tools & Technologies: Docker, Jenkins, JIRA, Apache Kafka
+Concepts: Data Structures, Cloud Computing, ETL Processes, CI/CD
+
+Projects
+StockPredictor
+An application for predicting stock prices using machine learning models
+
+Implemented in Java with Spring framework
+
+Utilized LSTM neural networks for time series forecasting
+
+Deployed on AWS EC2 for real-time prediction
+
+HealthCareHub
+A web platform connecting patients with healthcare providers
+
+Built with Django framework and PostgreSQL
+
+Integrated SMS notifications for appointment reminders
+
+Implemented role-based access control for security
+
+MovieRecommender
+A collaborative filtering recommender system for movie suggestions
+
+Developed in Python using Pandas and Scikit-learn
+
+Created RESTful APIs for seamless integration
+
+Deployed on Google Cloud Platform
+
+Certifications
+Blockchain Fundamentals, IBM Learning Platform
+
+AWS Certified Solutions Architect – Associate
+
+JavaScript Algorithms and Data Structures, Udemy
+
+Data Engineering Nanodegree, Udacity
+
+Experience
+Software Developer Intern
+TechStartup Ltd., London
+Sept 2022 – Dec 2022
+
+Contributed to the development of a cloud-based HR management system
+
+Worked on front end features using React and backend APIs with Node.js
+
+Participated in code reviews and testing processes
+
+Technical Support Assistant
+ABC Tech Solutions, London
+Jan 2021 – May 2021
+
+Provided troubleshooting assistance for software and hardware issues
+
+Installed and configured operating systems and software applications
+
+Assisted in setting up network infrastructures for small businesses
+
+Career Objectives
+Secure a full-time position in a dynamic tech company to apply and expand technical skills
+
+Collaborate on innovative projects that focus on data analysis and machine learning
+
+Contribute to the tech community through knowledge sharing and participation in hackathons

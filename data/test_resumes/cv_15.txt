@@ -1,0 +1,132 @@
+    Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 6+ years of experience in clinical systems integration, data-driven diagnostics, and AI in healthcare. 
+
+     Skilled in biomedical signal processing, medical imaging analysis, and ML-enhanced diagnostics. Proficient in Python, MATLAB, and
+
+     TensorFlow. Experienced in collaborating with multidisciplinary teams to deliver patient-centered, tech-enabled solutions. 
+
+     Passionate about the intersection of healthcare, data science, and emerging medical technologies.    
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, PyTorch | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis |
+
+     Medical Imaging (MRI, CT, X-ray), Image Segmentation | PyRadiomics, ITK-SNAP, 3D Slicer | Bioinstrumentation | Git, Docker |
+
+     Biomedical Data Standards (HL7, FHIR) | Flask, Streamlit, REST APIs | Jupyter Notebooks, LaTeX
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Biomedical Engineer (Imperial College Healthcare NHS Trust) - London, UK     Mar 2021 : Present
+
+    ● Developed a machine learning model to assist radiologists in detecting lung anomalies from chest X-rays, improving diagnostic
+
+      efficiency by 30%
+
+    ● Integrated AI tools with Picture Archiving and Communication System (PACS), enabling real-time clinical decision support  
+
+    ● Led cross-functional collaborations with clinicians, data scientists, and software teams to deploy a predictive model for early sepsis 
+
+      detection, reducing false positives by 18% 
+
+    ● Standardized biomedical signal acquisition workflows and created automated preprocessing pipelines for ECG and EEG analysis 
+
+    ● Conducted validation studies and regulatory documentation for AI-enhanced diagnostic tools in compliance with MHRA guidelines
+
+    
+
+     Biomedical Data Analyst (King's College London - Department of Imaging Sciences)  Jan 2018 : Feb 2021
+
+    ● Applied computer vision techniques to automate tumor segmentation in MRI images, accelerating radiological assessment by 40%
+
+    ● Built reproducible data pipelines using Python and Jupyter Notebooks to process and analyze large-scale biomedical datasets
+
+    ● Conducted survival prediction research using Cox models and deep learning techniques applied to radiomic features
+
+    ● Collaborated with AI researchers to integrate PyRadiomics features with ML models, achieving 82% classification accuracy
+
+    ● Co-authored peer-reviewed publications on AI in radiology and gave conference presentations on explainability in medical ML tools
+
+    
+
+     Biomedical Engineer (NHS Foundation Trust) – Birmingham, UK     Jun 2016 : Dec 2017
+
+    ● Maintained and calibrated critical care medical equipment including infusion pumps, defibrillators, and ventilators
+
+    ● Designed and tested custom LabVIEW interfaces for physiological monitoring systems used in research settings
+
+    ● Provided technical training to clinical staff on medical device usage and troubleshooting
+
+    ● Collaborated on NHS innovation grant project to digitize respiratory physiotherapy tracking using embedded sensors
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    MSc in Biomedical Engineering - King’s College London (Distinction)   Sep 2014 : Sep 2015
+
+    BEng in Electrical and Biomedical Engineering - University of Manchester (First Class)  Sep 2010 : Jun 2014
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Deep Learning Specialization (Coursera - Andrew Ng)                        Feb, 2023
+
+    ● Certified Associate in Python Programming (PCAP)                           Dec, 2022
+
+    ● Health Informatics Certificate – NHS Digital Academy                        Jun, 2022
+
+    ● Medical Image Analysis with Python (Udemy)                                 Sep, 2021
+
+    ● Introduction to TensorFlow for AI, ML and DL (Coursera)                    May, 2020
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● AI-Powered ECG Analyzer: Built a Streamlit web app that detects arrhythmias from uploaded ECG traces using a trained CNN model.
+
+      Integrated data visualization, anomaly detection, and report generation features. (GitHub: [github.com/[NAME]/ecg-analyzer])
+
+    
+
+    ● Smart Mask Sensor System: Prototyped a real-time respiratory monitoring mask using Arduino, temperature/humidity sensors, and 
+
+      BLE module. Data logged to a local dashboard for further analysis.  
+
+    
+
+    ● Radiomics Dashboard: Created an interactive Dash-based tool for exploring radiomics features extracted from lung CT images. 
+
+      Enabled visualization of feature distributions, correlation matrices, and survival prediction results.
+
+    
+
+    ● COVID-19 X-ray Classifier: Fine-tuned a pre-trained ResNet model to classify chest X-rays as normal, pneumonia, or COVID-19. 
+
+      Achieved 87% F1-score on a test dataset; included Grad-CAM explainability module.
+

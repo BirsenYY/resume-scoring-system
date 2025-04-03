@@ -1,0 +1,61 @@
+John Doe
+
+New York | 0777777 | john.doe@email.com | XYZ Tech | XYZ Tech
+
+WORDS ABOUT ME
+
+Experienced Quality Assurance Engineer with a strong background in ensuring the quality of software products through effective testing strategies. Proficient in manual and automated testing methodologies, I have a track record of implementing robust QA processes and leading cross-functional teams to deliver high-quality software solutions. Skilled in automation tools such as Selenium, Puppeteer, and JMeter, I excel in Agile environments and continuous integration practices.
+
+CURRENTLY BUILDING
+
+XYZ Tech – Quality Assurance Engineer               Mar 2022 – Present
+
+● Developing an innovative test data generation tool to enhance test coverage and efficiency (LINK TO GITHUB)
+
+PROJECTS
+
+API Security Testing Tool – link                                2019
+
+● Designed and implemented a custom API security testing tool using Python and Burp Suite.
+
+● Conducted security assessments on RESTful APIs and identified vulnerabilities for remediation.
+
+EXPERIENCE
+
+XYZ Software Co. – QA Lead                           Nov 2019 – Mar 2022
+
+● Led a team of QA engineers in the development of automated test suites for cloud-based applications using Puppeteer and Cypress.
+
+● Implemented continuous testing processes to support frequent deployments and reduce time-to-market.
+
+XYZ Solutions Inc. – QA Analyst                 May 2017 – Nov 2019
+
+● Executed manual and automated test cases for web and mobile applications, ensuring product quality and performance.
+
+● Collaborated with development teams to identify and resolve software defects in a timely manner.
+
+XYZ Research Center – QA Tester               Sep 2016 – May 2017
+
+● Performed end-to-end testing on research prototypes and conducted regression testing on complex scientific software.
+
+● Documented test plans and results for research publications and grant proposals.
+
+EDUCATION
+
+XYZ University                                      2013 – 2016
+
+BSc in Computer Science
+
+● Graduated with Distinction – Thesis on automated testing strategies for distributed systems.
+
+CERTIFICATIONS
+
+1. ISTQB Certified Tester – Foundation Level
+2. Certified Agile Tester (CAT)
+3. AWS Certified Solutions Architect – Associate
+4. Certified Ethical Hacker (CEH)
+5. Google Associate Cloud Engineer
+
+TOOLS AND TECHNOLOGIES
+
+Selenium, Puppeteer, JMeter, Burp Suite, Python, Java, SQL, API Testing, Docker, Agile Methodologies, Git, CI/CD, XYZ Software Co., XYZ Solutions Inc., XYZ Research Center

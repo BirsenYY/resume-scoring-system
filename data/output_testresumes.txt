@@ -1,0 +1,16 @@
+filename	score
+cv_11.txt	95.0
+cv_7.txt	89.0
+cv_9.txt	89.0
+cv_6.txt	88.0
+cv_1.txt	88.0
+cv_3.txt	88.0
+cv_5.txt	84.0
+cv_15.txt	82.0
+cv_13.txt	78.0
+cv_4.txt	78.0
+cv_12.txt	74.0
+cv_2.txt	63.0
+cv_14.txt	55.0
+cv_8.txt	35.0
+cv_10.txt	20.0

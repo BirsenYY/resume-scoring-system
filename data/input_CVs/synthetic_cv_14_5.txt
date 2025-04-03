@@ -1,0 +1,87 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Recent Computer Science graduate with a solid background in software engineering, data structures, and machine learning concepts. Enthusiastic about applying technical skills to solve real-world problems efficiently. Actively seeking a challenging role in backend development, cloud computing, or data analysis.
+
+Education
+BSc Computer Science
+University of London – London, UK
+Graduated: June 2023
+
+Achieved Distinction with a major GPA of 3.8
+
+Key Courses: Advanced Algorithms, Cloud Computing, Data Mining, Mobile App Development, Cybersecurity
+
+Final Year Project: Intelligent Job Recommender System for IT Professionals
+
+Technical Skills
+Languages: Java, PHP, Ruby, Swift, Kotlin
+Frameworks & Libraries: Spring Boot, Laravel, Ruby on Rails, SwiftUI
+Databases: MySQL, PostgreSQL, Firebase
+Tools & Technologies: Docker, Jenkins, AWS, Tableau
+Concepts: Microservices, DevOps, Data Structures, Design Patterns
+
+Projects
+CodeArena
+An online coding platform for competitive programming enthusiasts to participate in coding challenges
+
+Developed in Java with Spring Boot framework
+
+Implemented user authentication and leaderboard functionalities
+
+Deployed on AWS EC2 instance for scalability
+
+HealthTrack
+A mobile app for tracking daily fitness activities with personalized recommendations
+
+Built using Swift and SwiftUI for iOS devices
+
+Integrated Firebase for real-time data synchronization
+
+Utilized Machine Learning algorithms for activity recognition
+
+TravelBuddy
+Travel planning web application to suggest personalized itineraries based on user preferences
+
+Developed with Ruby on Rails and PostgreSQL database
+
+Implemented RESTful APIs for seamless data retrieval
+
+Deployed on Heroku platform for easy access
+
+Certifications
+AWS Certified Solutions Architect – Associate
+Machine Learning Foundations, Udacity
+Agile Scrum Master, Scrum Alliance
+Data Visualization with D3.js, Coursera
+Cybersecurity Essentials, Cisco Networking Academy
+
+Experience
+Software Developer Intern
+TechGenix Ltd. – London, UK
+Sept 2022 – Dec 2022
+
+Contributed to the development of a cloud-based document management system
+
+Worked on backend functionalities using Laravel PHP framework
+
+Collaborated with senior developers on improving system performance
+
+Projects Assistant
+OpenData Initiative – London, UK
+Jan 2022 – May 2022
+
+Assisted in data cleaning and analysis for a public health research project
+
+Designed interactive dashboards using Tableau for data visualization
+
+Supporter of open-source initiatives for data transparency
+
+Career Objectives
+Pursue further specialization in cloud computing and distributed systems
+
+Contribute to projects that promote data privacy and security
+
+Expand knowledge in emerging technologies through continuous learning

@@ -1,0 +1,111 @@
+Sarah Smith
+
+                                                                                  
+
+                   San Francisco, USA | +1 234 567 8901 | sarah.smith@email.com | TechPro
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      TechPro – Machine Learning Researcher        Jan 2023 – Mar 2024
+
+        ●  Conducted research on interpretability in deep learning models.
+
+        ●  Developed projects focusing on Explainable AI techniques and Interpretable Neural Networks.
+
+        ●  Explored causal inference and counterfactual explanations for model predictions.                                
+
+        ●  Implemented MLOps strategies using MLflow and DVC for reproducibility.        
+
+                                                                                  
+
+      TechPro – Data Scientist                                Apr 2021 – Dec 2022
+
+        ●  Utilized Bayesian optimization for hyperparameter tuning in XGBoost and LightGBM models.
+
+        ●  Designed anomaly detection algorithms using Isolation Forest and Local Outlier Factor.
+
+        ●  Collaborated on a team project to develop a recommendation system based on collaborative filtering.        
+
+      TechPro – Junior Data Analyst                               Jun 2020 – Mar 2021
+
+        ●  Conducted exploratory data analysis on customer churn datasets.
+
+        ●  Built predictive models using logistic regression and random forests.
+
+        ●  Developed and maintained SQL queries for data extraction and analysis.
+
+      AceTech Solutions – Software Engineer                        Sep 2018 – May 2020
+
+        ●  Built a real-time chat application using Socket.io and React.
+
+        ●  Designed APIs with Node.js and Express for seamless communication between front-end and back-end.
+
+        ●  Implemented OAuth authentication for enhanced security measures.
+
+                                                                                  
+
+      DataBrain AI – Data Analyst                                  Aug 2017 – Apr 2018
+
+        ●  Implemented clustering algorithms for customer segmentation.
+
+        ●  Analyzed social media data to derive insights for marketing campaigns.
+
+        ●  Automated data cleaning and preprocessing tasks using Python scripts.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Tech Institute                                       2017 – 2021  
+
+      Tech Institute Data Science, Highest Honors                                      
+
+                                                                                  
+
+      Data Science Academy                                         2014 – 2017  
+
+      BS Computer Science, Magna Cum Laude
+
+                                                                                  
+
+      CERTIFICATIONS                                                                    
+
+                                                                                  
+
+      - AWS Certified Solutions Architect
+      - CompTIA Security+
+      - Certified Scrum Master
+      - Google Professional Data Engineer
+      - Microsoft Certified: Azure Data Scientist Associate
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      TechPro – Chatbot Project                                     2022     
+
+      DataBrain AI - Customer Segmentation                   2018     
+
+      AceTech Solutions – Real-time Chat App               2019     
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: TechPro, AceTech Solutions, DataBrain AI, DataTech, AI Solutions, BigData Tools, Data Analytics Co., DataOps,
+
+      AWS, Azure, GCP, TensorFlow, Keras, PyTorch, Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, Matplotlib, Seaborn, Flask, Django,
+
+      React, Angular, Node.js, Express, Socket.io, SQL, NoSQL, MongoDB, Firebase, Docker, Kubernetes, Git, Jira, Confluence,
+
+      Tableau, Power BI, Databricks, Hadoop, Spark, Hive, Kafka, Jenkins, Selenium, Postman, REST API, JSON, XML, YAML.
+
+    ```

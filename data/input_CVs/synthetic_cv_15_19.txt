@@ -1,0 +1,71 @@
+Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+PROFESSIONAL SUMMARY:                                                           
+
+Biomedical Engineer with 8+ years of experience in medical device innovation, healthcare systems optimization, and AI-based diagnostics. Well-versed in biomedical signal processing, medical imaging analysis, and leveraging ML for clinical decision-making. Proficient in Python, MATLAB, and TensorFlow, with a track record of successful cross-functional collaborations to deliver impactful healthcare solutions. Passionate about leveraging technology to enhance patient care and streamline healthcare processes.
+
+SKILLS:                                                                         
+
+Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, PyTorch | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis |
+
+Medical Imaging (MRI, CT, X-ray), Image Segmentation | PyRadiomics, ITK-SNAP, 3D Slicer | Bioinstrumentation | Git, Docker |
+
+Biomedical Data Standards (HL7, FHIR) | Flask, Streamlit, REST APIs | Jupyter Notebooks, LaTeX
+
+PROFESSIONAL EXPERIENCE :                                                       
+
+Biomedical Engineer (St. Thomas' Hospital - London, UK)                    Apr 2019 : Present
+
+- Spearheaded the integration of AI-powered predictive maintenance algorithms into critical care monitoring systems, reducing equipment downtime by 25%
+- Collaborated with software developers to deploy a remote patient monitoring platform, enhancing post-discharge care and reducing readmission rates
+- Led the implementation of a blockchain-based data management system for secure sharing of patient health records among healthcare providers
+- Conducted user training sessions for clinical staff on new medical devices and software applications
+- Participated in a joint research project with a university to develop a brain-computer interface for paralyzed patients
+
+Biomedical Data Analyst (Oxford University Hospitals NHS Foundation Trust)    Jul 2016 : Mar 2019
+
+- Engineered a deep learning model for automated detection of breast cancer from mammograms, achieving 90% accuracy in clinical trials
+- Managed a multi-center study on the impact of AI in radiology departments, coordinating data collection and analysis efforts across sites
+- Implemented a data governance framework to ensure compliance with GDPR regulations for handling sensitive patient information
+- Conducted statistical analysis of healthcare utilization patterns to optimize resource allocation and improve operational efficiencies
+
+Biomedical Engineer (Cambridge University Hospitals NHS Foundation Trust)     Nov 2013 : Jun 2016
+
+- Designed and implemented a telemedicine platform for remote consultations between healthcare professionals and patients in rural areas
+- Spearheaded the development of a low-cost ventilator prototype for use in emergency response situations, receiving commendation from NHS Innovation
+- Optimized the workflow for medical device recalls and maintenance, resulting in a 20% reduction in servicing costs and downtime
+- Conducted usability testing and feedback sessions with clinicians to iterate on software interfaces for medical equipment control systems
+
+EDUCATION:                                                                      
+
+MEng in Biomedical Engineering - Imperial College London (Distinction)         Sep 2010 : Sep 2014
+
+BSc in Biomedical Sciences - University of Edinburgh (First Class)              Sep 2007 : Jun 2010
+
+PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+- Advanced Machine Learning Specialization (Stanford Online)                  Jan, 2023
+
+- Certified Health Data Analyst (CHDA)                                        Nov, 2022
+
+- Radiological Imaging Informatics Certification (RIIC)                      Aug, 2021
+
+- Clinical Research Coordinator Certification (ACRP)                          Mar, 2020
+
+- Healthcare Technology Innovator Certificate (MIT)                           Jun, 2019
+
+SIDE PROJECTS:                                                                  
+
+- Wearable Respiratory Monitor: Developed a wearable device for continuous respiratory rate monitoring, integrating accelerometers and pulse oximeters for real-time feedback and alerts.
+
+- Virtual Reality Pain Management: Built a VR simulation for pain distraction therapy in pediatric patients undergoing medical procedures, collaborating with psychologists and child life specialists.
+
+- Malaria Cell Detection App: Created a mobile app using image analysis algorithms to detect malaria parasites in blood smears, enabling rapid diagnosis in resource-limited settings.
+
+- Surgical Robotic Arm Control: Programmed a robotic arm interface for surgical procedures, incorporating haptic feedback mechanisms and gesture recognition for precise control during operations.

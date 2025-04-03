@@ -1,0 +1,78 @@
+**Jane Doe**
+
+---
+
+New York | jane.doe@email.com | AI Engineer | AI Innovations
+
+---
+
+**SUMMARY**
+
+AI engineer with a strong foundation in computer science and expertise in developing innovative AI-driven solutions. Dedicated to continuous learning and exploration in the field of machine learning.
+
+---
+
+**TECHNOLOGIES/SKILLS**
+
+- **Programming:** Python, Java, JavaScript, Scala, C++
+- **Frameworks:** PyTorch, TensorFlow, FastAPI, Hugging Face Transformers, Scikit-learn
+- **Tools:** Jupyter Notebook, VS Code, Git, Docker, Kubernetes, Linux
+- **Machine Learning:** NLP, Computer Vision, Reinforcement Learning, Generative Adversarial Networks (GANs), XGBoost, RNNs, CNNs, SVMs
+- **Cloud Services:** AWS, Azure, Google Cloud Platform (GCP), Heroku
+- **Databases:** MongoDB, Cassandra, Redis, Neo4j
+
+---
+
+**EXPERIENCE**
+
+AI Engineer | AI Innovations, New York | Jan 2020 - Present
+
+**Projects:**
+
+1. Multi-modal Emotion Recognition System
+   - Developed a multi-modal emotion recognition system using deep learning models for analyzing facial expressions and speech patterns.
+   - Integrated pre-trained Transformers models for contextual understanding of emotions.
+   - Implemented real-time emotion detection for application in customer service interactions.
+
+2. Fraud Detection System
+   - Designed and implemented a fraud detection system utilizing ensemble learning techniques and anomaly detection algorithms.
+   - Engineered feature transformations and implemented XGBoost for fraud prediction.
+   - Achieved a significant decrease in false positives through feature selection and model optimization.
+
+3. AI-Powered Virtual Assistant
+   - Created an AI-powered virtual assistant capable of natural language understanding and task automation.
+   - Leveraged NLP models for intent classification and response generation.
+   - Deployed the virtual assistant on AWS Lambda for scalability and cost-efficiency.
+
+**Tech Stack:** Python, TensorFlow, Hugging Face Transformers, XGBoost, AWS, NLP, Docker
+
+---
+
+**EDUCATION**
+
+- MSc in Artificial Intelligence, New York University, New York | Sept 2018 - June 2020
+- BSc in Computer Science, Columbia University, New York | Sept 2014 - June 2018
+
+---
+
+**CERTIFICATIONS**
+
+1. Certified Machine Learning Engineer (CMLE)
+2. AWS Certified Solutions Architect - Associate
+3. Certified Kubernetes Administrator (CKA)
+4. Google Professional Data Engineer
+5. Neo4j Certified Professional
+
+---
+
+**PROJECTS**
+
+- Image Captioning with Transformer Models
+- Music Genre Classification using GANs
+- Sentiment Analysis on Twitter Data with LSTM
+- Fraud Detection in E-commerce Transactions
+- Chatbot Development with Rasa NLU
+
+--- 
+
+This CV highlights an experienced AI engineer with a diverse skill set, relevant certifications, a mix of innovative projects, and a strong educational background, all within the tech industry domain.

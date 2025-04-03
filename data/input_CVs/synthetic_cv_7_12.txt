@@ -1,0 +1,125 @@
+```
+    Emily Johnson
+
+                        San Francisco | emily.johnson@email.com | AI Engineer | InfraTech Ltd
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Data scientist specializing in artificial intelligence with a strong foundation in machine learning algorithms and applications. Continuously expanding knowledge in deep learning and computer vision.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, Java, Scala, C++, Go, Docker, Flask, Rust             
+
+    • Frameworks: Scikit-learn, PyTorch, TensorFlow, FastAPI, Apache Spark        
+
+    • Machine Learning: XGBoost, GANs, Transformer Architectures, Graph Neural Networks, Meta-Learning, Bayesian Methods, Transfer Learning
+
+    • Tools: Jupyter Notebook, PyCharm, Git, Linux, Kubernetes, AWS, Azure, Heroku, DigitalOcean
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    AI Engineer | InfraTech Ltd, San Francisco                         June 2019 – Present
+
+    Anomaly Detection System                                                  
+
+                                                                                  
+
+    • Spearheaded the development of an anomaly detection system using GANs to identify irregular patterns in sensor data for infrastructure monitoring.
+
+    • Implemented Bayesian methods to improve anomaly detection accuracy and reduce false positives.
+
+    • Integrated Transfer Learning techniques to enhance model performance on new data domains.
+
+    • Collaborated with cross-functional teams to deploy the system on AWS for real-time monitoring.
+
+    Tech Stack: Python, PyTorch, GANs, Bayesian Methods, AWS, PyCharm
+
+    Image Captioning AI                                                         
+
+    • Designed and deployed an image captioning AI model using Transformer architectures to generate descriptive captions for images.
+
+    • Utilized Graph Neural Networks for context extraction and understanding in image-caption pairs.
+
+    • Leveraged Meta-Learning to improve model adaptation to different image domains.
+
+    • Ensured model scalability by deploying on Kubernetes clusters in cloud environments.
+
+    Tech Stack: Python, TensorFlow, Transformer Architectures, Graph Neural Networks, Kubernetes
+
+                                                                                  
+
+    Data Scientist | DataTech Inc, New York                           Jan 2017 – May 2019
+
+    Predictive Maintenance System                                               
+
+                                                                                  
+
+    • Developed a predictive maintenance system using XGBoost for early fault detection in industrial machinery.
+
+    • Implemented Generative Adversarial Networks (GANs) for synthetic data generation to augment the training dataset.
+
+    • Explored Bayesian Optimization for hyperparameter tuning and model optimization.
+
+    • Deployed the system on Azure for continuous monitoring of equipment health.
+
+    Tech Stack: Python, XGBoost, GANs, Bayesian Optimization, Azure
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc in Computer Science (Artificial Intelligence), Columbia University, New York     Sept 2016
+
+    BSc in Mathematics and Statistics, University of Pennsylvania, Philadelphia         May 2014
+
+                                                                                  
+
+                                                                                  
+
+    CERTIFICATIONS                                                                 
+
+                                                                                  
+
+    • Certified Natural Language Processing Specialist (CNLPS)                      
+
+    • Deep Reinforcement Learning Expert (DRLE)                                   
+
+    • Blockchain Developer Certification (BCDC)                                  
+
+    • Cloud Security Professional (CSP)                                         
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Voice Emotion Recognition (RNNs) • Document Summarization System (BERT)       
+
+    • Style Transfer (CycleGAN)       • Emotion Detection in Text (LSTM)           
+
+    • Fraud Detection System (Isolation Forest) • Time Series Forecasting (LSTMs)   
+
+    • Image Super Resolution (SRGAN) • Sentiment Analysis (BERT)                  
+
+    • Object Tracking System (SORT)  • Disease Prediction (Xception)               
+    ```

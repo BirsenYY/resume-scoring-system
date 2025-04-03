@@ -1,0 +1,52 @@
+Jane Smith
+
+New York City | 0888888 | jane.smith@email.com | ABC Innovations | ABC Innovations
+
+WORDS ABOUT ME
+
+Data scientist with a passion for leveraging machine learning to solve complex problems. Skilled in developing predictive models, deploying machine learning pipelines, and implementing data-driven strategies. Proficient in Python, TensorFlow, and Scikit-Learn, with experience in computer vision and natural language processing applications.
+
+CURRENTLY BUILDING
+
+ABC Innovations – Data Scientist                              Jan 2023 – Present
+- Spearheading data science projects to optimize business operations and enhance decision-making processes.
+- Implementing machine learning algorithms and cloud-based solutions to drive innovation and business growth.
+
+PROJECTS
+
+ABC Innovations – Customer Segmentation Project          2023
+- Developed a customer segmentation model using unsupervised learning techniques to improve targeted marketing strategies.
+
+EXPERIENCE
+
+ABC Data Analytics – Machine Learning Engineer           Jul 2020 – Jan 2023
+- Led projects on developing recommendation systems and fraud detection models.
+- Implemented advanced machine learning algorithms for data analysis and predictive modeling.
+- Collaborated with cross-functional teams to integrate machine learning solutions into production systems.
+
+XYZ AI Solutions – Data Scientist                                Mar 2018 – Jul 2020
+- Conducted research on deep learning architectures and optimization algorithms.
+- Developed computer vision models for image classification and object detection.
+- Worked on natural language processing projects, including sentiment analysis and text summarization.
+
+Side Projects:
+- Open-source project on GitHub implementing a custom neural network architecture for time series forecasting.
+- Kaggle competition participant, achieving top 10% in a machine learning challenge on predicting stock prices.
+
+EDUCATION
+
+ABC University                                    2014 – 2018
+BSc in Data Science                                                          
+- Recipient of the Data Science Excellence Award for outstanding academic performance.
+
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, Scikit-Learn, PyTorch, Keras, NumPy, Pandas, Matplotlib, SQL, AWS, Docker, Git & GitHub, Tableau, Apache Spark, Hadoop, Selenium, Flask
+
+CERTIFICATIONS
+
+1. AWS Certified Machine Learning - Specialty
+2. Google Professional Data Engineer
+3. IBM Data Science Professional Certificate
+4. Microsoft Certified: Azure AI Engineer Associate
+5. Certified Blockchain Developer by Blockchain Council

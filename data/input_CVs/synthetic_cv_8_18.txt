@@ -1,0 +1,66 @@
+John Doe
+
+San Francisco | 0999999 | john.doe@email.com
+
+Quality Assurance Engineer with a strong background in building and implementing automated testing solutions for web and mobile applications. Skilled in developing test strategies, utilizing various automation tools, and ensuring high-quality software delivery in Agile environments.
+
+CURRENTLY BUILDING
+
+XYZ Innovations - Quality Assurance Engineer
+
+Oct 2023 – Present
+
+Co-leading the QA efforts at XYZ Innovations, focusing on enhancing test automation frameworks and strategies to improve product quality.
+
+
+PROJECTS
+
+Data Validation Automation Project
+
+2023 – 2024
+
+- Developed a data validation automation framework using Java and TestNG.
+- Achieved 90% coverage in validating data integrity across multiple databases and APIs.
+
+
+EXPERIENCE
+
+XYZ Tech Solutions - QA Automation Engineer
+
+Mar 2021 – Oct 2023
+
+- Implemented end-to-end test automation using Selenium and Appium for mobile applications.
+- Collaborated with developers to integrate automated tests into CI/CD pipelines, reducing release cycles by 30%.
+- Conducted training sessions on automation best practices for the QA team.
+
+
+XYZ Software - QA Tester
+
+Sep 2019 – Mar 2021
+
+- Executed manual and automated tests for web applications, identifying critical defects before release.
+- Established test plans and strategies for new product features in Agile sprints.
+- Utilized JIRA for issue tracking and collaborated with cross-functional teams to ensure product quality.
+
+
+EDUCATION
+
+XYZ University
+
+2016 – 2019
+
+Bachelor of Science in Computer Science
+
+- Awarded with the Best Capstone Project for developing a predictive analytics tool for performance testing.
+
+
+CERTIFICATIONS
+
+1. ISTQB Certified Tester - Foundation Level
+2. Certified Scrum Master (CSM)
+3. AWS Certified Solutions Architect - Associate
+
+
+TOOLS AND TECHNOLOGIES
+
+Selenium, Appium, TestNG, JIRA, Git, Java, Python, RESTful APIs, CI/CD, Agile Scrum, XYZ Tech Solutions, XYZ Software, XYZ Innovations, SQL

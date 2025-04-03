@@ -1,0 +1,66 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Seasoned Software Engineer with over 7 years of experience in designing and implementing scalable backend systems and applications. Proficient in developing clean and efficient code in Python, Java, and C++. Extensive experience in building and deploying solutions with a strong focus on system reliability, test automation, and CI/CD pipelines. Committed to delivering high-quality, user-centric software products.
+
+Technical Skills
+Languages: Python, Java, C++, SQL, Shell Scripting
+
+Frameworks & Tools: Django, Spring Boot, Angular, Puppeteer, Mockito, TestNG
+
+DevOps & CI/CD: Kubernetes, Docker, Jenkins, GitHub Actions, GitLab, Helm
+
+Databases: Oracle, SQLite, Redis, Cassandra
+
+Cloud & Platforms: AWS (RDS, ECS, SNS), Azure, Ubuntu
+
+Others: GraphQL, WebSockets, Design Patterns, Agile Methodologies
+
+Professional Experience
+Senior Software Engineer
+BrightWave Technologies, London, UK
+Sep 2019 - Present
+
+- Lead the development of microservices architecture using Django and Kubernetes, resulting in a 40% improvement in system scalability
+
+- Integrated GraphQL APIs to existing services, enhancing data retrieval efficiency by 25%
+
+- Implemented real-time data processing using WebSockets for instant notifications within the platform
+
+- Spearheaded a migration project from on-premises servers to AWS cloud infrastructure, optimizing costs and performance
+
+- Mentored junior developers on best practices, code reviews, and architectural decisions
+
+Software Developer
+CyberNautics Ltd., London, UK
+Jul 2016 - Aug 2019
+
+- Developed a custom ORM framework in C++ for efficient database operations, reducing query execution time by 20%
+
+- Automated deployment pipelines using Jenkins and Helm charts, streamlining the release process
+
+- Collaborated with UI/UX designers to create responsive web applications with Angular and RESTful APIs
+
+- Conducted performance tuning on database queries, leading to a 30% reduction in response time
+
+- Led the design and implementation of a real-time dashboard for monitoring system metrics
+
+Side Projects
+1. CryptoTracker App
+- Built a mobile application using React Native to track and visualize cryptocurrency prices in real-time
+
+2. SmartHome Automation System
+- Designed a Raspberry Pi-based system to automate home appliances and monitor energy consumption
+
+Education
+MSc in Software Engineering
+Imperial College London, UK
+2014 - 2016
+
+Certifications
+- Certified Kubernetes Administrator
+- Microsoft Certified: Azure Solutions Architect
+- Certified Ethical Hacker (CEH)
+- MongoDB Certified Developer
+- CompTIA Security+

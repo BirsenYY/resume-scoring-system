@@ -1,0 +1,55 @@
+Jane Smith
+
+New York | 555-123-4567 | jane.smith@email.com | DEF Corp | LMN Corp
+
+SUMMARY
+
+Data scientist with a strong background in machine learning and software engineering. Experienced in developing end-to-end machine learning systems using Python and TensorFlow ecosystem. Skilled in computer vision and NLP model deployment. Proficient in building microservices architecture using FastAPI and Docker on cloud platforms.
+
+EXPERIENCE
+
+LMN Corp Oct 2021 - Present
+
+- Conducted research and implemented advanced deep learning techniques, achieving state-of-the-art results in image recognition tasks.
+- Led the development and deployment of an anomaly detection system using LSTM neural networks.
+- Implemented MLOps practices with tools like MLflow, DVC, and Nvidia Triton for model tracking and serving.
+
+PROJECTS
+
+Image Style Transfer Project 2022
+
+- Created an end-to-end image style transfer system using CycleGAN to seamlessly transform images from one style to another.
+
+Sentiment Analysis Dashboard 2022
+
+- Developed a real-time sentiment analysis dashboard using BERT embeddings and Streamlit for visualizing sentiment trends.
+
+Secure Chat Application 2022
+
+- Designed and implemented a secure chat application with end-to-end encryption using RSA and AES algorithms.
+
+DEF Corp Recommender System 2021
+
+- Built a content-based recommender system using TF-IDF and cosine similarity for personalized product recommendations on DEF Corp's platform.
+
+LMN Corp Data Visualization Tool 2021
+
+- Developed a data visualization tool using Plotly and Dash to create interactive visualizations for exploring and analyzing large datasets.
+
+CERTIFICATIONS
+
+- AWS Certified Solutions Architect - Associate
+- Google Cloud Professional Data Engineer
+- Certified Scrum Master
+- CompTIA Security+
+- Certified Kubernetes Administrator
+
+EDUCATION
+
+LMN University 2017 - 2021
+
+BSc Computer Science
+
+TOOLS AND TECHNOLOGIES
+
+Proficient in Python, TensorFlow, PyTorch, Scikit-Learn, Keras, Docker, FastAPI, PostgreSQL, SQL, NumPy, Pandas, Git, GitHub, Streamlit, Plotly, Dash, AWS, Google Cloud, Kubernetes, Scrum, Linux.

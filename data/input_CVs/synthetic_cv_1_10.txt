@@ -1,0 +1,100 @@
+Oliver Thompson
+
+                                                                                    
+
+      (cid:131) 555-987-6543 — oliver.thompson@email.com — (cid:239) linkedin.com/in/oliver-thompson-87b654321 — ' github.com/oliverthompson
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  C++, R, Ruby, Swift, Scala                                  
+
+   Frameworks: Vue.js, Svelte, Flask, Express.js, Hugging Face, XGBoost, LightGBM, CatBoost, Plotly, Dash, Monai,
+
+               Vercel                                                   
+
+   ML/AI:      GANs, Xception, AutoML, Model Interpretability                  
+
+   Technologies: Azure, San Francisco, Kubernetes, Prometheus, Argo, Consul, Vault, Istio, ArgoCD, Terraform, Zappa,
+
+               Molecula, Prefect                                  
+
+   Testing:    pytest, JUnit, Cypress                  
+
+   Certifications: AWS Certified Solutions Architect, Google Professional Data Engineer, CCNA CyberOps, CompTIA Security+, IBM Data Science Professional Certificate                                           
+
+                                                                                    
+
+   Experience                                                                       
+
+    San Francisco                                               Sep 2019 – Present
+
+    AI Engineer                                                                     
+
+      – Spearheaded the development of a machine learning pipeline for real-time fraud detection in financial transactions.
+
+      – Championed the implementation of a recommendation engine leveraging GANs to enhance personalization.
+
+      – Collaborated with data engineers to optimize data processing speed by 20% using Kubernetes and Prometheus.
+
+    Data Scientist                                                                        
+
+      – Conducted advanced statistical analysis on customer behavior data, leading to a 10% increase in customer retention.
+
+      – Built and deployed a predictive model for inventory forecasting, reducing excess inventory by 15%.
+
+      – Mentored junior data scientists on best practices in data visualization and model interpretation.
+
+    Junior Software Engineer                                              
+
+      – Developed a mobile application using Swift that integrated with an existing backend API, improving user engagement.
+
+      – Implemented automated testing with Cypress, reducing bug count by 30% in the production environment.
+
+      – Assisted in the migration of legacy systems to a microservices architecture using Istio and ArgoCD.
+
+    Seattle                                            Jan 2018 – Aug 2019
+
+    Software Developer                                                              
+
+      – Led the migration of on-premises applications to Azure Cloud services, enhancing scalability and reliability.
+
+      – Designed and implemented a chatbot system for customer support, reducing response time by 40%.
+
+      – Streamlined the CI/CD pipeline using Terraform and Jenkins, resulting in a 25% decrease in deployment errors.
+
+   Education                                                                        
+
+    University of Washington — MS Data Science                2022    
+
+    University of Cambridge — MPhil Machine Learning (Distinction)  2020 – 2021  
+
+    University of Oxford — BSc Computer Engineering (2:1)         2015 – 2018  
+
+    Imperial College London — BEng Software Engineering (First Class) 2014 – 2015
+
+   Projects                                                                         
+
+                                                                                    
+
+    Fraud Detection System                                                '     
+
+      – Implemented a fraud detection system using XGBoost and LightGBM models, achieving a precision of 95%.
+
+    Anomaly Detection in Time Series Data                                             '     
+
+      – Developed algorithms for detecting anomalies in time series data, improving detection accuracy by 20%.
+
+    Music Recommender System                                                              '     
+
+      – Built a music recommendation system based on user preferences and music genres using collaborative filtering.
+
+    Sentiment Analysis Tool                                           '     
+
+      – Created a sentiment analysis tool using BERT for social media sentiment analysis.
+
+    Chatbot for Customer Support                                     '     
+
+      – Developed a chatbot using Rasa framework to handle customer queries and provide automated responses.
+    ```

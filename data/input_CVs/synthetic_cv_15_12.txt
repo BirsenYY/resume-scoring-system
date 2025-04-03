@@ -1,0 +1,113 @@
+Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 8+ years of experience in clinical systems integration, medical imaging analysis, and AI applications in healthcare. Skilled in biomedical signal processing, machine learning diagnostics, and data-driven solutions. Proficient in Python, MATLAB, and TensorFlow. Collaborative team player with a passion for leveraging technology to enhance patient care and outcomes.    
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, NumPy, Pandas | TensorFlow, Keras, Scikit-Learn | DICOM, ImageJ | Signal Processing, EEG/EMG Analysis | 
+
+     Medical Imaging (PET, Ultrasound, Mammography) | PyRadiomics, 3D Slicer, SimpleITK | Bioinformatics | Git, Docker | RESTful APIs | 
+
+     Biomedical Data Standards (DICOM, HL7) | Flask, Dash, Power BI | LaTeX, Markdown
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Biomedical Engineer (St. George's Hospital NHS Trust) - London, UK     Apr 2019 : Present
+
+    ● Implemented a convolutional neural network (CNN) for automated breast cancer detection in mammograms, increasing accuracy by 25%
+
+    ● Integrated machine learning algorithms for predicting patient outcomes in intensive care units, reducing manual workload by 40%
+
+    ● Co-led the development of a cloud-based medical image storage solution compliant with GDPR and ISO 13485 standards
+
+    ● Collaborated with radiologists to enhance MRI image reconstruction methods, resulting in a 30% reduction in scan time
+
+    ● Conducted usability studies for a mobile EHR app to improve clinician workflow and enhance patient data security
+
+    
+
+     Healthcare Data Analyst (Oxford University Hospitals NHS Foundation Trust)      Jul 2016 : Mar 2019
+
+    ● Utilized natural language processing (NLP) techniques to extract clinical insights from unstructured patient records
+
+    ● Designed and implemented a data pipeline for processing wearable sensor data to optimize remote monitoring of cardiac patients
+
+    ● Developed predictive models for readmission risk assessment, achieving an AUC of 0.82 using logistic regression and random forests
+
+    ● Contributed to the development of a cloud-based data analytics platform for population health management initiatives
+
+    ● Presented findings on the impact of telehealth interventions on chronic disease management at national healthcare conferences
+
+    
+
+     Clinical Systems Engineer (University Hospitals Coventry and Warwickshire)    Dec 2013 : Jun 2016
+
+    ● Managed the deployment and maintenance of equipment interfaces in an electronic health record (EHR) system
+
+    ● Conducted performance testing and validation of hospital information systems (HIS) to ensure data integrity and system reliability
+
+    ● Provided technical support for integrating point-of-care testing devices with existing laboratory information systems (LIS)
+
+    ● Implemented HL7 messaging standards for interoperability between radiology systems and EHR platforms
+
+    ● Collaborated with IT security teams to implement data encryption protocols for protecting sensitive patient information
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    MSc in Biomedical Engineering - University College London (Distinction)   Sep 2011 : Aug 2012
+
+    BEng in Electrical and Biomedical Engineering - University of Leeds (First Class)  Sep 2007 : Jun 2011
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Artificial Intelligence in Healthcare (Stanford Online)                        Jan, 2023
+
+    ● Certified Imaging Informatics Professional (CIIP)                              Nov, 2022
+
+    ● Healthcare Data Security and Privacy Certification (HIMSS)                     May, 2021
+
+    ● Clinical Research Coordinator Certification (ACRP)                             Aug, 2019
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● Remote Monitoring App for COPD Patients: Developed a mobile app for tracking symptoms and sharing real-time data with healthcare providers. Implemented a personalized action plan feature for early intervention. 
+
+    
+
+    ● Wearable ECG Monitor Prototype: Designed a portable ECG monitoring device with real-time arrhythmia detection and cloud connectivity. Conducted user testing to gather feedback for future enhancements.
+
+    
+
+    ● Telemedicine Platform Integration: Integrated teleconsultation capabilities into an existing EHR system to enable remote patient care during the COVID-19 pandemic. Collaborated with telemedicine providers to ensure seamless workflow integration.
+
+    
+
+    ● Radiomics Research Tool: Created a web-based tool for analyzing radiomics features in lung CT scans. Implemented machine learning models

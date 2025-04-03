@@ -1,0 +1,73 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Innovative Software Engineer with over 7 years of experience in designing and implementing efficient backend systems and tools. Proficient in Python, Java, and C++, with a strong focus on system reliability and scalability. Skilled in developing clean and robust code to deliver high-quality software solutions.
+
+Technical Skills
+Languages: Python, Java, C++, SQL, Bash
+
+Frameworks & Tools: Node.js, Django, Angular, Docker, JUnit, PyTest, Puppet
+
+DevOps & CI/CD: Kubernetes, Jenkins, GitLab CI/CD, Terraform, Helm
+
+Databases: PostgreSQL, Redis, Cassandra, Oracle
+
+Cloud & Platforms: AWS (RDS, ECS, EKS), Azure, Ubuntu
+
+Others: RESTful APIs, Microservices, Agile/Scrum, Test-Driven Development (TDD)
+
+Professional Experience
+Senior Software Engineer
+CodeCrafters Ltd., London, UK
+Apr 2019 – Present
+
+Led the development of scalable microservices in Python and Java deployed on AWS ECS and EKS
+
+Implemented a real-time data pipeline using Kafka for event-driven architecture
+
+Collaborated with UX/UI designers to enhance user interfaces with Angular and implemented data visualization tools
+
+Introduced chaos engineering practices to improve system resilience and fault tolerance
+
+Mentored junior developers and conducted workshops on best coding practices and design patterns
+
+Software Developer
+ByteSolvers Inc., London, UK
+Sep 2016 – Mar 2019
+
+Designed and maintained internal developer tools in C++ and Python, optimizing build processes
+
+Automated end-to-end testing using Puppet for configuration management
+
+Collaborated with the cybersecurity team to implement secure coding practices and threat modeling
+
+Developed RESTful APIs for integrating legacy systems with modern applications
+
+Initiated a side project to create a custom chatbot using natural language processing for internal communication
+
+Software Engineering Intern
+TechGenius Labs, London, UK
+Jun 2015 – Aug 2016
+
+Contributed to the development of a cloud-based customer relationship management (CRM) system
+
+Implemented unit tests using JUnit for Java components of the CRM
+
+Assisted in database migration from MySQL to Oracle for improved scalability and performance
+
+Education
+MSc in Computer Science
+Imperial College London, UK
+2014 – 2015
+
+BSc in Software Engineering
+University of Edinburgh, UK
+2011 – 2014
+
+Certifications
+Red Hat Certified Engineer (RHCE)
+Certified Kubernetes Application Developer (CKAD)
+Google Professional Cloud Architect
+Python for Data Science (Coursera)
+Certified Scrum Master (CSM)

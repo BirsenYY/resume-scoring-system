@@ -1,0 +1,99 @@
+```
+    Amazon                                                              
+
+                                                                                    
+
+                 London, UK | (+44) 7836290873 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative AI/ML Engineer and Certified Microsoft Azure Architect with 7 years of experience. Expertise in developing cutting-edge
+
+      AI solutions using GANs, Decision Trees, and Gaussian Processes. Proficient in Python, PyTorch, and scikit-learn. Currently
+
+      honing skills in generative adversarial networks and anomaly detection in time series data. Demonstrated success in leading
+
+      cross-functional teams, optimizing ML workflows, and delivering tangible business outcomes in various sectors.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python , Java , Scala , SQL, MongoDB | PostgreSQL, Neo4j, Elasticsearch | PyTorch, Keras, Hugging Face, OpenCV, PolyCoder |
+
+      GANs, Decision Trees, Gaussian Processes | Flask, Django | Git, Kubernetes, Jenkins, AWS                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Machine Learning Engineer (Datapulse) - London, UK   Aug 2020 : Present
+
+    ● Developed a high-performance face recognition system using GANs and transfer learning techniques, achieving a 30% improvement
+
+      in accuracy compared to existing systems                                              
+
+    ● Designed and implemented anomaly detection algorithms using Gaussian Processes for real-time monitoring of industrial equipment,
+
+      leading to a 20% reduction in maintenance costs and downtime                          
+
+    ● Architected scalable data pipelines using Kafka and Spark for processing large volumes of streaming data from IoT devices,
+
+      enabling real-time predictive analytics and decision-making                             
+
+    ● Mentored junior team members, conducted technical workshops, and collaborated with stakeholders to drive innovation and continual
+
+      improvement initiatives                                                             
+
+     AI Research Intern (Quantum Labs) - San Francisco, US (Contract)    Mar 2018 : Sep 2018
+
+    ● Investigated the application of quantum-inspired computing techniques in optimizing ML algorithms for image recognition tasks,
+
+      achieving competitive performance gains over classical approaches                   
+
+    ● Implemented a prototype for a sentiment analysis tool using deep learning models, contributing to the company's research efforts
+
+      in natural language processing and sentiment analysis                                 
+
+    ● Collaborated with research scientists to design experiments, collect and analyze data, and present findings to key stakeholders                     
+
+     Data Science Consultant (TechSolutions) - Berlin, Germany (Freelance)   Jan 2015 : Nov 2017
+
+    ● Developed a recommendation engine using collaborative filtering and matrix factorization techniques for an e-commerce platform,
+
+      resulting in a 15% increase in conversion rates and customer engagement                
+
+    ● Conducted in-depth data analysis and visualization to identify actionable insights for optimizing marketing campaigns and customer
+
+      segmentation strategies                                                                
+
+    ● Provided technical expertise and strategic guidance to clients on implementing data-driven solutions for business growth and
+
+      competitive advantage                                                                   
+
+    EDUCATION:                                                                      
+
+    MSc in Machine Learning - University of Cambridge, Cambridge (Distinction) Sep 2011 : Sep 2013
+
+    BSc in Computer Science - University College London (First Class Honors) Sep 2008 : Sep 2011
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Information Security Manager (CISM) - ISACA                        Oct, 2022
+
+    ● Deep Learning Specialization (by Stanford University, Coursera)             Mar, 2021  
+    
+    ● Cloud Computing Foundations (by AWS Educate)                               Sep, 2020
+
+    ● Machine Learning for Security Professionals (by IBM)                        Jul, 2020
+
+    ● Data Engineering Nanodegree (by Udacity)                                    Jan, 2019
+```

@@ -1,0 +1,56 @@
+Emma Thompson
+
+San Francisco | 0777777 | emma.thompson@email.com | Portfolio: emmathompson.com | GitHub: github.com/emmathompson
+
+WORDS ABOUT ME
+
+Computer Science enthusiast with a strong interest in applying data science, artificial intelligence, and software development to tackle complex challenges. 
+
+Engaged in various open-source projects and passionate about building impactful solutions that leverage cutting-edge technologies. Proficient in Python, Java, and cloud computing services. Committed to transforming innovative concepts into practical solutions.
+
+CURRENTLY BUILDING
+
+AI Ethics Framework – Data Scientist                           Sept 2024 – Present
+
+- Designing an ethical framework for AI decision-making processes and implementing explainable AI algorithms for transparency (LINK TO GITHUB)
+
+PROJECTS
+
+🥇 Hackathon Winner – Sentiment Analysis Tool                        2024
+
+- Collaborated in a team to develop a sentiment analysis tool for social media posts, achieving high accuracy and interpretability.
+- Utilized BERT embeddings and LSTM networks to capture context and nuances of text data.
+
+CodeCleaner – Automated Code Review Assistant                         2024
+
+- Created a tool that automatically reviews and provides suggestions to improve code quality based on best practices and style guidelines.
+- Implemented a user-friendly interface with Python and React to streamline the code review process.
+
+VisionaryMap – 3D Object Detection Framework                              2023
+
+- Engineered a robust framework for real-time 3D object detection using LiDAR data and deep learning techniques.
+- Integrated with ROS for autonomous driving applications and showcased at a robotics conference.
+
+EXPERIENCE
+
+Software Engineer Intern                                      May 2023 – Aug 2023
+
+- Contributed to building scalable microservices and optimizing data processing pipelines for a tech startup in the e-commerce sector.
+- Implemented unit tests and participated in code reviews to maintain code quality and performance.
+
+ABC Research Lab – Machine Learning Research Assistant         Sept 2022 – Dec 2022
+
+- Conducted research on reinforcement learning algorithms and their applications in robotics and control systems.
+- Collaborated on a project to optimize the performance of autonomous drones using deep Q-learning.
+
+EDUCATION
+
+Stanford University                                                2020 – 2024
+
+BSc Computer Science
+
+- Senior project: "Automated Fraud Detection in Financial Transactions" – developed a machine learning model to identify fraudulent patterns in transaction data.
+
+TOOLS AND TECHNOLOGIES
+
+Python, Java, TensorFlow, Keras, Flask, AWS, Azure, MongoDB, Spring Boot, Angular, Docker, Kubernetes, Scikit-learn, Spark, Tableau, JIRA, Selenium, Unity3D, C++

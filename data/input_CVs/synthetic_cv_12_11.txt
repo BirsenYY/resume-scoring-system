@@ -1,0 +1,58 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Innovative Software Engineer with 6+ years of experience in developing robust backend systems and tools. Proficient in creating scalable solutions with a focus on efficiency and security. Skilled in multiple programming languages including Python, Java, and TypeScript. Experienced in implementing DevOps practices and ensuring high system reliability through automated testing.
+
+Technical Skills
+Languages: Python, Java, TypeScript, SQL, Ruby
+
+Frameworks & Tools: Node.js, Express, Spring Boot, Flask, Angular, Mockito, Cypress
+
+DevOps & CI/CD: Kubernetes, Helm, GitLab CI/CD, Jenkins, Terraform
+
+Databases: PostgreSQL, Cassandra, Redis, SQLite
+
+Cloud & Platforms: AWS (RDS, Fargate, API Gateway), Azure, Docker, Linux
+
+Others: RESTful APIs, Microservices Architecture, Agile Methodologies, Test-Driven Development (TDD)
+
+Professional Experience
+Senior Software Engineer
+CodeCrafters Ltd., London, UK
+Oct 2020 – Present
+
+- Led the development of microservices architecture using Node.js and Express, deployed on AWS Fargate
+- Implemented CI/CD pipelines with GitLab for automated testing and deployment processes
+- Collaborated with cross-functional teams to design and implement new features in Angular applications
+- Conducted code reviews, performance optimizations, and mentored junior developers
+
+Software Engineer
+DataPulse Technologies, London, UK
+Aug 2018 – Sep 2020
+
+- Developed RESTful APIs in Flask and integrated with PostgreSQL and Redis databases
+- Automated testing workflows with Cypress for end-to-end testing and monitoring
+- Orchestrated containerized applications with Kubernetes for scalability and manageability
+- Contributed to the migration of on-premises services to Azure cloud platform
+
+Side Projects
+1. Chat Application with End-to-End Encryption (2020)
+- Built a secure chat application using TypeScript and Node.js with cryptographic libraries
+- Implemented end-to-end encryption for messages exchanged between users
+
+2. Personal Budget Tracker Web App (2019)
+- Developed a budget tracking web application using Angular, which allows users to manage their expenses and incomes
+- Integrated data visualization tools to provide insights into spending patterns
+
+Education
+MSc in Computer Science
+Imperial College London, UK
+2016 – 2018
+
+Certifications
+- Certified Kubernetes Administrator
+- Ruby on Rails Developer Certification
+- AWS Certified Solutions Architect – Associate
+- MongoDB Certified Developer
+- Certified Scrum Master (CSM)

@@ -1,0 +1,99 @@
+Sarah Smith
+
+                                                                                  
+
+123-555-6789 | sarah.smith@email.com             
+
+                                                                                  
+
+Education                                                                     
+
+            (in order of relevance)                                               
+
+    Yale University, New Haven                    Sep 2020 - May 2024
+
+      ●  BSc Data Science: Attained high 2:1 (68.5) overall                    
+
+      ●  Awarded a certificate in Cybersecurity, including modules on Network Security and Ethical Hacking
+
+      ●  Achieved top scores in statistical analysis, machine learning algorithms, and data visualization
+
+    MIT, Massachusetts                          Oct 2025 - Dec 2025
+
+      ●  Blockchain Technology Certificate Program (< 5% acceptance rate)             
+
+      ●  Relevant Content: Cryptography, Smart Contracts, Decentralized Applications, Consensus Algorithms
+
+    Manchester Grammar School, Manchester                          Sep 2010 - Jun 2018
+
+      ●  GCSEs: Mathematics (A*), Physics (A), Computer Science (A)                  
+
+      ●  Activities and Societies: President of Computer Club, Member of Environmental Society
+
+                                                                                  
+
+Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Junior Data Analyst – Amazon                           Jul 2024 - Sep 2024
+
+    Amazon is a multinational technology company; 0.5% job acceptance rate.
+
+      ●  Analyzed customer behavior data to optimize product recommendations, resulting in a 15% increase in click-through rates
+
+      ●  Implemented A/B testing strategies to evaluate the effectiveness of marketing campaigns
+
+      ●  Collaborated with the software development team to integrate machine learning algorithms for predictive analytics
+
+    Research Assistant – Johns Hopkins University                           Jan 2026 - May 2026
+
+    Johns Hopkins University is a renowned research institution, focusing on healthcare and biomedical sciences.
+
+      ●  Conducted literature reviews and data collection for a study on personalized medicine in cancer treatment
+
+      ●  Utilized R programming for statistical analysis and visualization of genomic data
+
+      ●  Assisted in preparing research manuscripts for publication in peer-reviewed journals
+
+    Data Science Intern – IBM Jun 2023 - Aug 2023
+
+    IBM is a global technology company specializing in hardware, software, and cloud services.
+
+      ●  Developed a predictive maintenance model for industrial machinery using sensor data and machine learning algorithms
+
+      ●  Collaborated with cross-functional teams to deploy the model in production environments
+
+      ●  Presented findings and recommendations to senior management in a final project presentation
+
+                                                                                  
+
+Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Project Manager – Code for Good Initiative          Sep 2021 - Feb 2023
+
+      ●  Led a team of developers to build a web application for a local non-profit organization
+
+      ●  Implemented data visualization tools and interactive features to enhance user experience
+
+    Personal Project – Udacity Nanodegree in AI Ethics              Mar 2026 - Jun 2026
+
+      ●  Explored ethical considerations in artificial intelligence and machine learning applications
+
+      ●  Completed a capstone project on bias mitigation in algorithmic decision-making systems
+
+    Event Coordinator – Tech Symposium               Apr 2022 - Apr 2023
+
+      ●  Organized panel discussions, workshops, and networking sessions for industry professionals and students
+
+                                                                                  
+
+    Tech Skills: Tableau, SQL, TensorFlow, AWS, Power BI
+
+    Activities: Certified Scuba Diver, Hackathon Winner, 4 years of competitive robotics (multiple regional championships)
+
+    Languages: English (Native), French (Intermediate), Mandarin (Basic)
+
+    Interests: Data Privacy, Virtual Reality, Photography, Brazilian Jiu-Jitsu, Cooking

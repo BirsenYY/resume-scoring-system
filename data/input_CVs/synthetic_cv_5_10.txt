@@ -1,0 +1,76 @@
+Jane Smith
+
+                           555-123-4567 | jane.smith@email.com
+
+Education
+
+- University of California, Berkeley                        Sep 2019 - May 2023
+
+   **BS Computer Science**: Graduated with honors, specialized in Artificial Intelligence
+
+   - Dean's List for 4 consecutive semesters
+   - Awarded 1st place in the AI Hackathon for developing a chatbot using Transformer models
+   - Completed coursework in Reinforcement Learning, Computer Vision, and Natural Language Processing
+
+- Certifications:
+   - **AWS Certified Machine Learning - Specialty**
+   - **CompTIA PenTest+**
+
+- Stanford University, California                        Jun 2025 - Aug 2025
+
+   **Blockchain and Cryptocurrency Technologies Online Program**
+
+   - Learned about distributed systems, smart contracts, consensus algorithms, and decentralized applications
+   - Implemented a blockchain project using Solidity and deployed on the Ethereum network
+
+- St. Petersburg State University, Russia                        Sep 2015 - Jun 2019
+
+   **BA Economics**: Graduated magna cum laude
+
+   - Conducted research on the impact of cryptocurrency adoption on traditional banking systems
+
+Employment History
+
+- Machine Learning Engineer – Tesla                        Jul 2023 - Present
+
+   - Developing computer vision algorithms for autonomous vehicles
+   - Collaborating with cross-functional teams to optimize neural network models for object detection
+   - Implemented a real-time anomaly detection system using LSTM networks for production line monitoring
+
+- Data Science Intern – NASA                        Feb 2022 - May 2022
+
+   - Analyzed satellite imagery data using machine learning techniques for climate change research
+   - Assisted in developing a predictive model for identifying potential areas of natural disasters
+   - Presented findings to a team of researchers and received commendation for innovative solutions
+
+- Product Manager – Microsoft                        Sep 2020 - Jan 2022
+
+   - Led the launch of a new productivity tool integrated with Microsoft 365 suite
+   - Conducted market research and user interviews to define product requirements
+   - Increased user engagement by 25% within the first quarter of product release
+
+Side Projects
+
+- Personal Blog on AI Ethics & Bias in ML Models               Nov 2023 - Present
+
+- Open Source Contribution to Scikit-learn Library                        Jan 2024 - Feb 2024
+
+   - Implemented a new feature for handling imbalanced datasets in classification tasks
+
+Extracurriculars
+
+- Co-Founder – Women in Tech Society                        Sep 2024 - Present
+
+   - Organizing workshops and networking events to promote gender diversity in tech
+
+- Volunteer Tutor – Code for All Initiative                        Mar 2023 - Aug 2023
+
+   - Teaching coding fundamentals to underprivileged youth in local communities
+
+Additional Information
+
+Technical Skills: Python (Advanced), TensorFlow, PyTorch, Docker, Kubernetes, SQL
+
+Languages: English (Fluent), Spanish (Intermediate)
+
+Interests: Robotics, Data Privacy, Hiking, Photography, Yoga

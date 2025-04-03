@@ -1,0 +1,74 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Coordinates (Who I Am Now)
+Data enthusiast with a solid research background in computational biology, transitioning into a Data Scientist role. Skilled in developing data pipelines, conducting predictive modeling, and problem-solving through data-driven insights. Passionate about leveraging data to drive impactful decisions in the fields of biotech and environmental science.
+
+Toolkit & Weapons of Choice
+Languages: Python, SQL, Java
+Machine Learning: Keras, Support Vector Machines, Neural Networks, Natural Language Processing
+Data Ops: MongoDB, Apache Spark, Apache Hadoop, AWS S3
+Visualization: D3.js, Plotly, Bokeh
+Other Strengths: Bayesian Statistics, Data Wrangling, Flask API Development, Version Control (Git)
+
+What I’m Building Now (Recent Role)
+Data Scientist
+Insightful Discoveries Ltd. – London, UK
+May 2021 – Present
+
+Developed predictive models for market trends leveraging machine learning algorithms
+
+Collaborated with cross-functional teams to interpret complex data for business strategy
+
+Implemented real-time data processing solutions for dynamic data streams
+
+Utilized A/B testing to evaluate the effectiveness of strategies and optimizations
+
+Automated data extraction and cleansing processes for improved efficiency
+
+Where I Bridged the Gap (Transitional Role)
+Data Analyst – Computational Biology
+BioTech Innovations Ltd. – London, UK
+Aug 2018 – Apr 2021
+
+Analyzed genetic sequences using data mining techniques to identify mutations and patterns
+
+Designed Python scripts for preprocessing genomic data and feature extraction
+
+Developed interactive visualization tools for researchers to explore genomic information
+
+Contributed to regulatory submissions and compliance audits for research studies
+
+Supported machine learning projects for personalized medicine initiatives
+
+Where I Cultivated My Skills (Early Career)
+Research Assistant
+Genomics Research Institute – London, UK
+Mar 2016 – Jul 2018
+
+Conducted experiments to investigate gene expression patterns in cancer cells
+
+Analyzed RNA-seq data to identify key genetic markers for cancer prognosis
+
+Collaborated with bioinformatics team to interpret complex biological datasets
+
+Participated in scientific conferences to present research findings
+
+The Knowledge Base
+MSc – Data Analytics and Visualization
+University College London, 2018 – 2020
+
+BSc – Computational Biology
+King's College London, 2014 – 2018
+
+Digital Badges & Certifications
+Google Certified Professional Data Engineer
+
+AWS Certified Solutions Architect
+
+Data Engineering on Google Cloud Platform Specialization – Coursera
+
+Deep Reinforcement Learning in Action Certificate
+
+Statistics for Data Science Certificate

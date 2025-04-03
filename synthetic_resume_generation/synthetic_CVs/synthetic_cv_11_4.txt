@@ -1,0 +1,58 @@
+Sophia Lee
+
+New York | 987-654-3210 | sophialee@email.com | DEF Tech | UVW Solutions
+
+SUMMARY
+
+Passionate machine learning engineer with a focus on developing and implementing innovative solutions using Python and TensorFlow. Skilled in deploying computer vision and reinforcement learning models. Experienced in building end-to-end machine learning systems and microservices architecture.
+
+EXPERIENCE
+
+DEF Tech                           Jan 2023 - Present
+
+- Led the development of an AI-powered recommendation system for personalized content delivery.
+- Implemented MLOps practices using Argo, MLflow, and Docker for model deployment and monitoring.
+
+Side projects:
+
+- Real-time Object Detection System                       2022
+
+  - Developed and deployed an object detection system using YOLO and OpenCV for real-time video analysis.
+  
+- Sentiment Analysis Tool                                           2021
+
+  - Built a sentiment analysis tool using BERT and Flask to analyze customer feedback data.
+
+UVW Solutions                 Aug 2020 - Dec 2022
+
+- Collaborated with a team to build a scalable machine learning platform for predictive maintenance in manufacturing.
+
+PROJECTS
+
+Audio Emotion Recognition                                           2024
+
+- Designed and trained a deep learning model to recognize emotions from audio signals.
+
+Blockchain-Based Supply Chain Tracker                        2023
+
+- Implemented a blockchain solution for tracking goods across the supply chain.
+
+AI-Powered Chatbot for Customer Support                       2022
+
+- Developed a chatbot using transformers for automated customer support.
+
+EDUCATION
+
+ABC University                                      2018 - 2022
+
+BSc in Computer Engineering
+
+CERTIFICATIONS
+
+- AWS Certified Machine Learning - Specialty
+- Microsoft Certified: Azure AI Engineer Associate
+- Certified Information Systems Security Professional (CISSP)
+
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, PyTorch, Scikit-Learn, Keras, Docker, Kubernetes, SQL, Flask, FastAPI, React, Angular, HTML, CSS, JavaScript, Git, Jupyter, NumPy, Pandas, Matplotlib, Tableau, Linux, AWS, Azure, Blockchain, OpenCV, YOLO, BERT.

@@ -1,0 +1,58 @@
+John Doe
+New York | 0999999 | john.doe@email.com | Portfolio: johndoe.io | GitHub: github.com/johndoe
+
+WORDS ABOUT ME
+
+Passionate Computer Science professional with a strong interest in leveraging data science, artificial intelligence, and software development to tackle real-world challenges. Experienced in building innovative projects and exploring cutting-edge technologies. Proficient in Python, Java, and cloud computing solutions, with a focus on delivering high-quality, scalable solutions.
+
+CURRENTLY BUILDING
+
+Personal AI Portfolio – AI Engineer                         Aug 2023 – Present
+
+● Developing a diverse portfolio of AI and data projects showcasing advanced machine learning models and interactive visualizations (johndoe.io/portfolio).
+
+PROJECTS
+
+🎓 AI for Education – Certificate in Online Learning                2023
+
+● Led a project team to create a personalized online learning platform using AI algorithms to recommend relevant courses based on user preferences.
+
+● Implemented collaborative filtering and natural language processing techniques to enhance user engagement and course recommendations.
+
+MediTrack – Healthcare Data Management System                2023
+
+● Developed a healthcare data management system to track patient information, medical records, and appointments using secure cloud storage and encryption techniques.
+
+● Integrated data visualization tools for healthcare professionals to analyze trends and improve patient care outcomes.
+
+QueueMaster – Intelligent Queue Management System                2022
+
+● Designed an AI-powered queue management system to optimize service queues at busy establishments by predicting wait times and adjusting staff allocation in real-time.
+
+● Implemented computer vision algorithms for facial recognition and customer tracking to enhance operational efficiency.
+
+EXPERIENCE
+
+Software Engineer                                       Mar 2021 – Jul 2023
+
+● Contributed to the development of enterprise software solutions for a leading tech company, focusing on backend system architecture and API integrations.
+
+● Collaborated with cross-functional teams to deliver scalable, high-performance applications and improve system reliability.
+
+ABC Startup – AI Intern                                 Sep 2020 – Feb 2021
+
+● Supported AI research projects and prototype development, working closely with senior engineers to implement machine learning algorithms and analyze experimental results.
+
+● Assisted in the deployment of AI models for business use cases, contributing to improved decision-making processes and customer experiences.
+
+EDUCATION
+
+New York University (NYU)                    2017 – 2021
+
+BSc Computer Science
+
+● Capstone project: "AI-Driven Fraud Detection in Financial Transactions" – developed a fraud detection system using machine learning algorithms to identify suspicious activities in real-time.
+
+TOOLS AND TECHNOLOGIES
+
+Java, TensorFlow, Keras, AWS, Scala, Apache Spark, Flask, PostgreSQL, React Native, GraphQL, Docker, Kubernetes, Jupyter Notebook, Selenium, D3.js, GitLab CI/CD.

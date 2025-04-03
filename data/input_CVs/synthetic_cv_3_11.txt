@@ -1,0 +1,46 @@
+Alice Johnson
+
+New York | 555-123-4567 | alicejohnson@email.com | DEF Corp | LMN Corp
+
+SUMMARY
+
+Passionate machine learning engineer with a focus on developing and deploying cutting-edge AI solutions. Proficient in Python, TensorFlow, and Scikit-Learn, with hands-on experience in computer vision, NLP, and speech recognition models. Skilled in building microservices architectures using FastAPI and Docker on cloud platforms.
+
+EXPERIENCE
+
+DEF Corp                           Mar 2022 – Present
+  - Led a team in developing a recommendation system for personalized content delivery, increasing user engagement by 20%.
+  - Implemented MLOps practices including ML model versioning, automated testing, and continuous integration using TensorFlow Extended.
+  - Collaborated with data engineers to optimize data pipelines and ensure real-time model training and inference.
+
+PROJECTS
+
+Image Translator                                             2023
+  - Developed an image translator application that converts text in images to different languages using OpenCV and Tesseract OCR.
+
+Speech Emotion Recognition                              2023
+  - Created a speech emotion recognition system that accurately classifies emotions in real-time audio streams using PyTorch and Librosa.
+
+Handwritten Digit Recognition                             2022
+  - Built a deep learning model to recognize handwritten digits from the MNIST dataset using TensorFlow and Convolutional Neural Networks.
+
+DEF Corp Chatbot                                         2022
+  - Designed and deployed a chatbot for internal use at DEF Corp to automate common HR inquiries and streamline employee communication.
+
+Fraud Detection System                                  2021
+  - Developed a fraud detection system using machine learning algorithms to detect anomalous patterns in financial transactions.
+
+EDUCATION
+
+LMN University                                          2018 – 2022
+BSc in Computer Science
+
+TOOLS AND TECHNOLOGIES
+
+Proficient in TensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV, Tesseract OCR, Docker, FastAPI, Kubernetes, PostgreSQL, NumPy, Pandas, Matplotlib, Librosa, React, NodeJS, HTML, CSS, JavaScript, C++. 
+
+CERTIFICATIONS
+
+- AWS Certified Machine Learning - Specialty
+- Google Cloud Professional Data Engineer
+- Microsoft Certified: Azure AI Engineer Associate

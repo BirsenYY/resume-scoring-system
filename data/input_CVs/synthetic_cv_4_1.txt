@@ -1,0 +1,51 @@
+Jane Smith
+
+New York, USA | +1 234 567 8901 | jane.smith@email.com | FutureTech
+
+EXPERIENCE
+
+FutureTech – Data Scientist                        Jan 2023 – Present
+
+- Conducting research on neural architecture search algorithms and their applications in computer vision.
+- Implemented state-of-the-art models such as BigGAN and Swin Transformer for image generation tasks.
+- Utilizing MLOps tools like MLflow and DVC for model tracking and version control.
+- Deploying models using Kubernetes and serving predictions via REST API endpoints.
+
+FutureTech – Machine Learning Engineer        May 2021 – Dec 2022
+
+- Developed anomaly detection algorithms for industrial IoT sensors using Isolation Forest and One-Class SVM.
+- Integrated ML models with Apache Kafka for real-time data processing and alerting.
+- Collaborated with cross-functional teams to optimize model performance and scalability.
+- Implemented automated data labeling pipelines using Snorkel for enhancing model training data quality.
+
+FutureTech – Software Developer                       Sep 2020 – Apr 2021
+
+- Designed and implemented a microservices architecture using Docker and Kubernetes.
+- Built a recommendation system based on collaborative filtering techniques for e-commerce platforms.
+- Conducted extensive A/B testing to measure the impact of algorithm changes on user engagement.
+- Enhanced system security by implementing JWT authentication and role-based access control.
+
+Tech Solutions – Software Engineer                     Jun 2019 – Aug 2020
+
+- Developed a customer relationship management (CRM) system using React and Node.js.
+- Integrated cloud services such as AWS S3 for data storage and retrieval.
+- Implemented CI/CD pipelines with Jenkins for automated testing and deployment processes.
+- Conducted code reviews and mentored junior developers on best practices and design patterns.
+
+EDUCATION
+
+Future University                                      2016 – 2020
+
+BSc Computer Science, Honors
+
+PROJECTS
+
+FutureTech – AI Chatbot                                      2023
+
+FutureTech Labs Website                                    2022
+
+SmartHome Automation System – link                2019
+
+TOOLS AND TECHNOLOGIES
+
+I have worked with: FutureTech, NextGen Systems, DataCraft, TechGenius, AI Innovations, Quantum Labs, PySpark, Apache Flink, Hadoop, TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, Docker, Kubernetes, AWS, GCP, Azure, Flask, Django, Spring Boot, Angular, React, Vue.js, MongoDB, PostgreSQL, MySQL, Redis, Apache Kafka, Elasticsearch, RabbitMQ, Jenkins, Git, Jira, Selenium, Jupyter, Conda, Linux, Bash, Docker, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scrapy, NLTK, Gensim, OpenAI GPT-3, FastAPI, Pydantic, Kafka Streams.

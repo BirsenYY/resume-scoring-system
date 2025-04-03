@@ -1,0 +1,56 @@
+Sarah Johnson
+
+San Francisco, USA | +1 321 654 9870 | sarah.johnson@email.com | AI Innovations
+
+EXPERIENCE
+
+AI Innovations - Machine Learning Engineer     Apr 2021 - Present
+
+- Conducted research on meta-learning techniques for few-shot learning in computer vision.
+- Developed a project for self-supervised learning using SimCLR and BYOL algorithms.
+- Implemented reinforcement learning algorithms for autonomous navigation in robotic systems.
+- Used MLOps tools such as MLflow and DVC for model versioning and experiment tracking.
+
+AI Innovations - Data Scientist                            Sep 2019 - Mar 2021
+
+- Built a recommendation system using matrix factorization and collaborative filtering.
+- Conducted sentiment analysis on social media data using natural language processing techniques.
+- Developed a time series forecasting model for predicting stock prices using LSTM networks.
+- Worked on anomaly detection in IoT sensor data using unsupervised learning techniques.
+
+AI Innovations - AI Research Intern                     Jun 2018 - Aug 2019
+
+- Implemented computer vision algorithms for object detection and image segmentation.
+- Conducted experiments on adversarial attacks and defenses for deep neural networks.
+- Collaborated on a research project for generative adversarial networks (GANs) in image synthesis.
+- Presented findings at internal research seminars and industry conferences.
+
+EDUCATION
+
+AI Institute                                      2015 - 2019
+
+Master of Science in Artificial Intelligence, Distinction
+
+Science Academy                             2011 - 2015
+
+BSc Computer Science, First Class
+
+CERTIFICATIONS
+
+- Certified Deep Learning Specialist (CDLS)
+- AWS Certified Machine Learning - Specialty
+- Coursera Machine Learning for Everyone
+- NVIDIA Deep Learning Institute - Fundamentals of Deep Learning
+- IBM Data Science Professional Certificate
+
+PROJECTS
+
+AI Innovations - Chatbot Assistant                        2020
+
+AI-Powered E-Commerce Recommendation System               2019
+
+AI Innovations - Human Pose Estimation                   2018
+
+TOOLBOX
+
+Proficient with: AI Innovations, Data Solutions, NeuralTech, AI Metrics, PyTech, TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, NumPy, Pandas, Matplotlib, FastAPI, Django, Flask, Docker, Kubernetes, AWS, Google Cloud Platform, SQL, NoSQL, Git, Jupyter Notebook, Linux, Bash, MATLAB, Tableau, Power BI.

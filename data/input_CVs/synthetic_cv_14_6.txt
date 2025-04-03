@@ -1,0 +1,78 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Final-year Computer Science student with a focus on software development, algorithms, and emerging technologies. Demonstrated ability to tackle complex problems and implement innovative solutions. Actively seeking opportunities in backend development, cloud computing, or data engineering.
+
+Education
+BSc Computer Science
+University of XYZ – London, UK
+Graduated: June 2024
+
+Relevant Modules: Cloud Computing, Data Mining, Mobile App Development, Cybersecurity, Parallel Programming
+
+Final Year Project: AI-Driven Personalized News Aggregator
+
+Technical Skills
+Languages: Java, PHP, Ruby, Swift, Kotlin
+Frameworks & Libraries: Spring Boot, Laravel, Ruby on Rails, SwiftUI
+Tools & Technologies: Docker, Kubernetes, Jenkins, Firebase, Apache Hadoop
+Databases: MySQL, PostgreSQL, Redis
+Concepts: Microservices, DevOps, Data Warehousing, CI/CD
+
+Projects
+CodeIQ
+An educational platform offering coding challenges and tutorials for aspiring programmers
+
+Implemented using Spring Boot, MySQL, and Angular
+
+Designed RESTful APIs for user interaction and assessment
+
+Deployed on AWS EC2 with automated testing pipelines
+
+MusicGen
+Machine learning project generating music playlists based on user preferences and mood
+
+Utilized Python, scikit-learn, and Spotify API
+
+Trained models for recommendation using collaborative filtering
+
+Developed a web interface for playlist visualization
+
+Certifications
+AWS Certified Solutions Architect – Associate
+
+Certified Information Systems Security Professional (CISSP)
+
+Data Engineering with Google Cloud Professional Certificate
+
+Unity Certified Associate Programmer
+
+Experience
+Software Developer Intern
+Tech Startup X, London
+Sept 2023 – Dec 2023
+
+Contributed to the development of a cloud-based CRM system using Ruby on Rails
+
+Implemented data encryption features for enhanced security compliance
+
+Collaborated with cross-functional teams in an Agile environment
+
+Freelance App Developer
+Various Clients
+Jan 2022 – Aug 2023
+
+Created custom mobile applications for small businesses and individuals
+
+Provided end-to-end solutions from design to deployment on app stores
+
+Received positive feedback on app functionality and user experience
+
+Career Objectives
+Pursue a career in data engineering or cloud computing post-graduation
+
+Seek opportunities to work on projects utilizing AI and machine learning techniques
+
+Contribute to open-source initiatives and explore emerging technologies

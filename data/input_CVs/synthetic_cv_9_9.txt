@@ -1,0 +1,55 @@
+Ella Thompson
+
+City: San Francisco  
+Phone: 0999999  
+Email: ella.thompson@email.com  
+Portfolio: ellathompson.tech  
+GitHub: github.com/ellathompson
+
+WORDS ABOUT ME  
+
+Computer Science enthusiast with a strong interest in utilizing data analytics, artificial intelligence, and software development to tackle complex challenges. Passionate about continuously learning and experimenting with cutting-edge technologies to create innovative solutions.
+
+CURRENTLY BUILDING  
+
+Personal AI Showcase – AI Engineer  Jan 2026 – Present  
+• Developing a diverse collection of AI projects showcasing applications in NLP, computer vision, and reinforcement learning with interactive visualizations and APIs.    
+
+PROJECTS  
+
+🏆 Data Science Olympics Winner – Sentiment Analysis Challenge  2025  
+• Led a team to victory in a sentiment analysis competition by achieving state-of-the-art accuracy on a dataset of unstructured social media text.  
+• Implemented an ensemble model combining BERT and LSTM architectures along with extensive data preprocessing techniques.  
+
+DevTrackr – Personal Development Tracker (devtrackr.com)  2025  
+• Designed and built a web application to monitor personal growth metrics and habits with integrations across multiple devices for seamless tracking.  
+• Features include personalized goal setting, progress visualization, and a gamified reward system using MongoDB and React Native.  
+
+AutoQA – Automated Quality Assurance Tool  2024  
+• Developed an automated testing tool powered by deep neural networks to analyze software quality metrics and identify potential bugs.  
+• Integrated with Jira and Jenkins for seamless issue tracking and CI/CD pipeline deployment.
+
+DeepVision – Deep Learning Image Processing Toolset  2024  
+• Engineered a comprehensive suite of deep learning tools for image classification, object detection, and image generation using PyTorch and OpenCV.  
+• Leveraged transfer learning and fine-tuning techniques to achieve high accuracy on custom image datasets.
+
+EXPERIENCE  
+
+Software Engineer Intern  Jun 2023 – Nov 2024  
+• Collaborated with a team of developers to enhance existing software products and implement new features based on user feedback.  
+• Contributed to the design and implementation of RESTful APIs, database schema optimizations, and unit testing procedures.
+
+ABC Tech Startup – AI Research Assistant  Jan 2022 – May 2023  
+• Conducted research on cutting-edge AI algorithms and models, including transformer architectures and unsupervised learning techniques.  
+• Developed prototype AI solutions for business use cases in natural language processing and recommendation systems.
+
+EDUCATION  
+
+Stanford University  2020 – 2024  
+BSc in Computer Science  
+• Senior Capstone Project: "AI-Driven Fraud Detection in Financial Transactions" – Achieved 25% increase in fraud detection accuracy using deep learning models.
+
+TOOLS AND TECHNOLOGIES  
+
+Python, TensorFlow, Keras, NLTK, MongoDB, React Native, AWS, Flask, Git & GitHub, MySQL, Docker, Tableau, JavaScript, NumPy, SciPy, Seaborn, Kaggle, Jupyter, Jenkins
+

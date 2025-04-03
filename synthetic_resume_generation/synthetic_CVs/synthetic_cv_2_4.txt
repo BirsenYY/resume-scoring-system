@@ -1,0 +1,69 @@
+Alice Johnson
+
+                                                                                  
+
+New York | 987-654-3210 | alicejohnson@email.com | DEF Corp | UVW Corp
+
+SUMMARY                                                                        
+
+Machine learning engineer specializing in developing and deploying innovative machine learning solutions. Proficient in Python and TensorFlow ecosystem, with expertise in computer vision and natural language processing applications. Experienced in building scalable applications using Django within a microservices architecture on cloud infrastructure.
+
+EXPERIENCE                                                                    
+
+DEF Corp                             Jan 2023 – Mar 2026
+
+- Implemented machine learning pipelines for real-time anomaly detection in IoT devices using TensorFlow and Kubernetes.
+- Conducted research on novel GAN architectures for image synthesis and contributed to a paper published in a top machine learning conference.
+- Developed and deployed a recommendation system for e-commerce platform leveraging collaborative filtering techniques.
+
+PROJECTS                                                                    
+
+Medical Image Segmentation                                     2026     
+
+- Implemented U-Net architecture for medical image segmentation tasks using TensorFlow and Keras.
+
+Sentiment Analysis Platform                                   2025     
+
+- Designed and deployed a sentiment analysis platform for social media data processing and visualization.
+
+Multi-label Text Classification                                2025     
+
+- Developed a multi-label text classification model to categorize support tickets in a customer service application.
+
+DEF Corp Health Monitoring App                                    2025     
+
+- Led a team to create a health monitoring app that predicts early signs of health issues based on user input data.
+
+Secure Document Encryption                                    2024     
+
+- Implemented a secure document encryption tool using advanced cryptographic algorithms.
+
+Microservices Monitoring Tool                                    2024     
+
+- Built a microservices monitoring tool to track performance metrics and alerts in a distributed system environment.
+
+Music Genre Classification                                    2023     
+
+- Developed a music genre classification model using deep learning techniques and audio signal processing.
+
+Chatbot for Customer Support                                    2022     
+
+- Created a chatbot using natural language processing to automate customer support interactions.
+
+EDUCATION                                                                   
+
+UVW University                                           2018 – 2022  
+
+BSc Computer Engineering                                                        
+
+CERTIFICATIONS                                                   
+
+- AWS Certified Machine Learning Specialist
+- Certified Blockchain Developer
+- CompTIA Security+
+- Google Cloud Professional Data Engineer
+- Red Hat Certified Engineer
+
+TOOLS AND TECHNOLOGIES                                                      
+
+I have experience with PyTorch, OpenCV, Scikit-Learn, GCP AI Platform, Flask, AWS Lambda, MongoDB, Kafka, Tableau, Docker, Kubernetes, React Native, Angular, Java, Scala, SQL.

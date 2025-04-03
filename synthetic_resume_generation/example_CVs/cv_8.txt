@@ -1,0 +1,112 @@
+Jane Smith                                                                        
+
+                                                                                  
+
+                      San Francisco | 0888888 | jane.smith@email.com | ABC Solutions | ABC Solutions
+
+      WORDS ABOUT ME                                                              
+
+                                                                                  
+
+                                                                                  
+
+      Quality Assurance Engineer with a passion for delivering high-quality software through rigorous testing and automation. I’ve led QA teams
+
+      and built robust automated test suites for web and mobile applications. My core skills include test strategy design, automation with Selenium,
+
+      Cypress, and API testing with Postman. I thrive in Agile environments and excel at integrating CI/CD pipelines with quality gates to ensure
+
+      bug-free releases.
+
+      CURRENTLY BUILDING                                                          
+
+                                                                                  
+
+      ABC Solutions – Quality Assurance Engineer                  Oct 2024 – Present
+
+        ●  Co-founded ABC Solutions and currently developing a robust QA framework (LINK TO GITHUB)                   
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Test Automation Framework – link                                     2024     
+
+        ●  Designed a scalable test automation framework using Pytest and Selenium integrated with GitHub Actions.
+
+        ●  Achieved 95% regression test coverage for a multi-platform SaaS product.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      ABC Research Lab – QA Consultant                           Oct 2024 – Dec 2024
+
+        ●  Collaborated on QA strategies for AI-powered applications in NLP and Computer Vision.
+
+        ●  Set up automated pipelines to test and validate ML model predictions and APIs.
+
+        ●  Used Docker, Pytest, and Swagger to test microservices and streamline debugging.
+
+                                                                                  
+
+      ABC Tech – QA Automation Engineer                            Jan 2023 – Oct 2024
+
+        ●  Built E2E automated test suites for React and Angular web apps using Cypress and Playwright.
+
+        ●  Reduced manual regression effort by 80% through automation.
+
+        ●  Mentored junior testers and conducted workshops on writing maintainable test scripts.
+
+                                                                                  
+
+      ABC Software – QA Engineer                                        Sep 2020 – Jan 2023
+
+        ●  Developed comprehensive test cases, test plans, and test data strategies for web, mobile, and API layers.
+
+        ●  Integrated Selenium test suites into Jenkins for nightly builds.
+
+        ●  Worked closely with developers to conduct root cause analysis and ensure defect resolution.
+
+                                                                                  
+
+      ABC Retail – QA Analyst                                           Sep 2018 – Sep 2020
+
+        ●  Created manual test plans for large-scale e-commerce platforms.
+
+        ●  Participated in UAT sessions and collaborated with business stakeholders for feature validation.
+
+        ●  Tracked bugs using JIRA and worked within Agile Scrum teams.
+
+                                                                                  
+
+      ABC Biotech – Intern QA Tester                             May 2018 – Sep 2018
+
+        ●  Performed functional and UI testing for internal inventory software.
+
+        ●  Documented bugs and created knowledge base articles for onboarding.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      ABC University                                            2015 – 2018  
+
+      BSc (Hons) Software Engineering                                             
+
+        ●  Graduated with First Class Honours – Capstone project on test-driven development in enterprise systems.
+
+      TOOLS AND TECHNOLOGIES
+
+
+
+Selenium, Cypress, Playwright, Postman, REST APIs, Jenkins, JIRA, Git & GitHub, TestRail, Python, JavaScript, Java,
+
+      SQL, Pytest, Robot Framework, Docker, CI/CD, Agile Scrum, ABC Tech, ABC Solutions, ABC Research Lab, ABC Software
+

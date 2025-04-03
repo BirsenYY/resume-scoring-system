@@ -1,0 +1,58 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Seasoned Software Engineer with over 7 years of experience designing and implementing robust backend systems and tools. Proficient in Python, Java, and JavaScript, with a strong focus on ensuring code quality and system reliability. Skilled in automation, CI/CD, and enhancing overall software efficiency. Committed to delivering secure and user-friendly solutions.
+
+Technical Skills
+Languages: Python, Java, JavaScript, SQL, Ruby
+
+Frameworks & Tools: Node.js, Django, Angular, Puppeteer, TestNG, Postman
+
+DevOps & CI/CD: Kubernetes, Jenkins, Travis CI, GitLab, Helm
+
+Databases: Cassandra, Redis, SQLite, Firebase
+
+Cloud & Platforms: Azure (Functions, Blob Storage), Heroku, Docker, Windows Server
+
+Others: GraphQL, Machine Learning basics, Kanban, Unit Testing
+
+Professional Experience
+Senior Software Engineer
+ByteSprint Technologies, London, UK
+Aug 2019 – Present
+
+- Led the development of scalable microservices in Python and Java, hosted on Kubernetes clusters
+- Spearheaded the integration of GraphQL for optimized data fetching and management
+- Implemented automated testing with Puppeteer and TestNG, improving test coverage by 40%
+- Mentored junior developers, conducted code reviews, and contributed to Agile ceremonies
+- Initiated a side project to build a Slack bot for automating internal team communications
+
+Software Engineer
+DataNexa Labs, London, UK
+Mar 2016 – Jul 2019
+
+- Designed and maintained backend systems using Django and Flask frameworks
+- Enhanced CI/CD pipelines with Jenkins and GitLab, streamlining the deployment process
+- Implemented Redis caching and data structure optimizations, reducing query response times
+- Collaborated with cross-functional teams to align software releases with business objectives
+- Developed a side project involving a data visualization tool for real-time performance monitoring
+
+Junior Software Developer
+TechVista Solutions, London, UK
+Nov 2014 – Feb 2016
+
+- Contributed to the development of RESTful APIs and frontend features using Angular
+- Automated testing suites with Postman and performed API endpoint testing
+- Assisted in migrating legacy databases to Cassandra for improved scalability
+- Participated in sprint planning, backlog grooming, and regular knowledge sharing sessions
+
+Education
+MSc in Computer Engineering
+Imperial College London, UK
+2012 – 2014
+
+Certifications
+Certified Ruby Programmer
+Google Cloud Professional Data Engineer
+MongoDB Certified Developer Associate

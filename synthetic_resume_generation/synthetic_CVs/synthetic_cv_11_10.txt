@@ -1,0 +1,67 @@
+Alison Smith
+
+San Francisco | 0777777 | alison.smith@email.com | Portfolio: alisonsmith.com | GitHub: github.com/alisonsmith
+
+WORDS ABOUT ME
+
+Data Science professional with a strong background in leveraging data analytics, machine learning, and big data technologies to drive impactful business decisions. Experienced in developing end-to-end data pipelines and implementing scalable solutions that optimize processes and enhance business performance.
+
+CURRENTLY BUILDING
+
+AI-Driven Healthcare Solutions – Data Scientist          March 2026 - Present
+
+● Developing AI models to predict patient outcomes and optimize treatment plans in collaboration with healthcare professionals.
+
+PROJECTS
+
+🏆 Data Science Hackathon Winner – Fraud Detection                2025
+
+● Led a team to develop a fraud detection system using ensemble methods and anomaly detection algorithms on financial transaction data.
+
+● Achieved top accuracy and presented the solution at a national data science conference.
+
+AI Art Generator – Creative Project                                     2024
+
+● Created a deep learning model to generate unique artworks inspired by famous artists using GANs and style transfer techniques.
+
+● Showcased the project at a local art gallery and received positive feedback from art enthusiasts.
+
+Stock Market Predictor – Machine Learning Model                2023
+
+● Built a predictive model using LSTM networks to forecast stock prices based on historical data and market trends.
+
+● Implemented a dashboard for real-time visualization of predictions and accuracy metrics.
+
+EXPERIENCE
+
+Data Analyst at Tech Innovators Inc.                             July 2024 - Present
+
+● Conduct data analysis to identify trends, patterns, and insights that drive strategic decision-making for product development.
+
+● Collaborate with cross-functional teams to optimize data processes and improve data quality.
+
+Junior Data Scientist at Insightful Analytics                       Feb 2023 - Jun 2024
+
+● Developed machine learning models for predictive analytics and recommendation systems in the e-commerce domain.
+
+● Worked on data preprocessing, feature engineering, and model evaluation using Python and SQL.
+
+EDUCATION
+
+Stanford University                                             2020 - 2024
+
+MSc in Data Science
+
+● Thesis: "Predictive Analytics for Customer Churn Prediction in Subscription-Based Services"
+
+● Graduated with distinction and actively participated in research projects related to natural language processing.
+
+CERTIFICATIONS
+
+1. AWS Certified Machine Learning - Specialty
+2. Google Professional Data Engineer
+3. Microsoft Certified: Azure AI Engineer Associate
+
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, PySpark, Tableau, AWS, SQL, Hadoop, Jupyter, Scikit-learn, Power BI, Keras, MongoDB, Flask, Docker, NumPy, Pandas, Matplotlib, Seaborn, Plotly

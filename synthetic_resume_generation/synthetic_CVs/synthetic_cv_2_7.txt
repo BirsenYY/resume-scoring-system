@@ -1,0 +1,75 @@
+```
+LinkedIn                                       
+
+                                                                                    
+
+                 Sydney, Australia | (+61) 412345678 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+          linkedin.com/in/janesmith | github.com/JaneSmith | twitter.com/@janesmith | medium.com/@janesmith
+
+PROFESSIONAL SUMMARY:                                                           
+
+     Skilled AI/ML Engineer and Certified Data Scientist with 6 years of experience in building innovative machine learning solutions. Proficient in NLP, computer vision, and model optimization techniques including synthetic gradients and ensemble methods. Currently expanding expertise in generative adversarial networks (GANs) and reinforcement learning algorithms. Proven track record of delivering high-impact projects and leading cross-functional teams to success.        
+
+SKILLS:                                                                         
+
+      Python , Java , R , MATLAB, Scala | PostgreSQL, Cassandra, Redis | Keras, XGBoost, Hugging Face, MetaFlow, SwiftAI, HoloPerf,
+
+      PolyGlue | GANs, Reinforcement Learning, MLOps, Agile AI | Automated Machine Learning, Causal Inference, Quantum Computing,
+
+      Sentiment Analysis | Django, Kubernetes | GitLab, Jenkins, Azure              
+
+                                                                                    
+
+PROFESSIONAL EXPERIENCE :                                                       
+
+     Machine Learning Engineer (AI Innovators) - Sydney, Australia    Jan 2022 : Present
+
+    ● Developed state-of-the-art computer vision models using Keras and SwiftAI, achieving a 30% improvement in object detection accuracy
+
+    ● Led the implementation of a real-time sentiment analysis system using HoloPerf and PolyGlue, resulting in a 40% increase in customer engagement
+
+    ● Spearheaded the integration of automated machine learning tools for model selection and hyperparameter tuning, reducing model deployment time by 50%
+
+    ● Collaborated with cross-functional teams to deploy machine learning models on Kubernetes clusters, ensuring scalability and reliability of AI applications
+
+    ● Initiated side project in collaboration with research team to explore applications of quantum computing in optimizing neural network architectures
+
+     Data Scientist (DataMinds) - San Francisco, US   Apr 2019 : Dec 2021
+
+    ● Built end-to-end machine learning pipelines for predictive analytics using XGBoost and MetaFlow, resulting in 20% increase in customer retention
+
+    ● Implemented causal inference techniques to evaluate marketing campaign effectiveness and optimize resource allocation, leading to 15% increase in ROI
+
+    ● Developed and deployed sentiment analysis models for social media monitoring using Hugging Face Transformers, improving brand reputation management
+
+    ● Conducted A/B testing experiments and statistical analysis to drive data-driven decision making across the organization
+
+     Research Assistant (Innovation Lab) - Cambridge, UK      Sep 2016 : Mar 2019
+
+    ● Explored the applications of synthetic gradients in deep learning models to improve convergence speed and stability
+
+    ● Collaborated with professors on research projects in the areas of ensemble learning and explainable artificial intelligence
+
+    ● Published research papers in top conferences and journals on topics related to machine learning and optimization
+
+EDUCATION:                                                                      
+
+    PhD in Machine Learning - University of Oxford, Oxford (Distinction) Aug 2013 : July 2016
+
+    MSc in Data Science - Imperial College London, London (First Class-Honours) Sep 2011 : July 2013
+
+    BSc in Computer Science - University of Melbourne, Melbourne (First Class-Honours) Feb 2008 : Dec 2010
+
+PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Natural Language Processing Specialization (by Deeplearning.ai)       Ongoing  
+
+    ● Certified Quantum Computing Professional (QC Institute)               June, 2022
+
+    ● Agile AI Practitioner (by AgileAI Institute)                            Nov, 2021  
+
+    ● Advanced Neural Networks Course (by AI Academy)                      April, 2020
+```

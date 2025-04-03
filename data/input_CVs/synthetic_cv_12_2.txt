@@ -1,0 +1,66 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Dynamic Software Engineer with over 6 years of experience in developing robust backend systems and innovative tools. Skilled in creating efficient and scalable solutions using Python, Java, and JavaScript. Proven track record in promoting reliability through test automation, CI/CD implementation, and enhanced system performance.
+
+Technical Skills
+Languages: Python, Java, JavaScript, SQL, Bash
+
+Frameworks & Tools: Node.js, Spring Boot, Flask, React, Selenium, JUnit, PyTest
+
+DevOps & CI/CD: Docker, Jenkins, GitLab CI/CD, Kubernetes, Git
+
+Databases: PostgreSQL, MongoDB, MySQL
+
+Cloud & Platforms: AWS (EC2, S3, Lambda), GCP, Linux
+
+Others: REST APIs, Microservices, Agile/Scrum, TDD
+
+Certifications
+Google Professional Cloud Architect
+ISTQB Certified Tester Foundation Level
+VMware Certified Professional - Network Virtualization
+
+Professional Experience
+Senior Software Developer
+TechCraft Innovations, London, UK
+Mar 2019 – Present
+
+Developing high-performance microservices in Python and Java deployed on AWS Lambda and EC2 instances
+
+Collaborating with UI/UX designers to implement APIs and enhance user interactions using React
+
+Implementing advanced database optimization techniques, resulting in a 25% decrease in query latency
+
+Leading initiatives on automated testing practices and monitoring solutions to ensure system reliability and performance
+
+Participating in sprint planning, conducting code reviews, and providing guidance to junior team members
+
+Software Engineer (Backend Systems)
+DataPulse Technologies, London, UK
+Aug 2016 – Feb 2019
+
+Designing and maintaining custom backend solutions using Python and Bash to streamline development workflows
+
+Automating testing processes and integrating them into CI/CD pipelines with Jenkins and GitLab CI
+
+Creating APIs and scripts for system validation, data processing, and performance analysis
+
+Collaborating with cross-functional teams to uphold build stability, code quality, and deployment efficiency
+
+Refactoring legacy scripts into modular components, significantly reducing technical debt and improving maintainability
+
+Side Projects
+- Developed a personal finance management web application using React and MongoDB
+- Created a weather data analysis tool in Python to visualize climate patterns
+- Contributed to an open-source Python library for data encryption
+
+Education
+MSc in Computer Science
+Imperial College London, UK
+2014 – 2016
+
+BSc in Software Engineering
+University of Leeds, UK
+2010 – 2013

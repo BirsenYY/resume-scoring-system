@@ -1,0 +1,97 @@
+    Samantha Johnson                                  
+
+                        San Francisco | sam.johnson@email.com | AI Engineer | Data Science Co.   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Data scientist with a strong background in artificial intelligence and machine learning. Proficient in developing AI applications and passionate about solving complex problems with data-driven solutions.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, R, SQL, Scala, Docker, Flask, Django                  
+
+    • Frameworks: PyTorch, TensorFlow, Hugging Face Transformers, CatBoost, Dask         
+
+    • Machine Learning: AutoML, Bayesian Methods, Graph Neural Networks, Self-Supervised Learning, Meta-Learning          
+
+    • Tools: Jupyter Notebook, PyCharm, GitLab, Kubernetes, Docker Swarm, AWS, Azure      
+
+                                                                                  
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    AI Engineer | Data Science Co., San Francisco              Mar 2021 – Present
+
+    Fraud Detection System for Banking Industry                                 
+
+                                                                                  
+
+    • Developed a state-of-the-art fraud detection system using XGBoost and Bayesian methods to identify potential fraudulent activities in real-time transactions.
+
+    • Implemented Explainable AI techniques to enhance the interpretability of the model's decisions.
+
+    • Deployed the system on Azure Kubernetes Service for scalability and efficiency.
+
+    • Conducted regular model performance evaluations and optimizations to improve detection accuracy.
+
+    Tech Stack: Python, XGBoost, Bayesian Methods, Azure, Kubernetes, Scikit-learn            
+
+    Sentiment Analysis Platform                                                  
+
+    • Built a sentiment analysis platform for social media monitoring using Hugging Face Transformers and Dask for distributed processing.
+
+    • Utilized self-supervised learning methods to train robust sentiment classifiers.
+
+    • Integrated the platform with real-time data streams from Twitter and Reddit APIs.
+
+    • Conducted A/B testing and performance monitoring to ensure reliable sentiment predictions.
+
+    Tech Stack: Python, Hugging Face Transformers, Dask, Twitter API, Reddit API, NLP              
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    PhD in Machine Learning, Carnegie Mellon University, Pittsburgh              Sept 2017 – May 2022
+
+    MSc Data Science, University of Washington, Seattle                     Sept 2015 – June 2017
+
+    BSc Mathematics (Honors), University of Michigan, Ann Arbor                  Sept 2011 – May 2015
+
+    BSc Computer Science, California Institute of Technology                  Sept 2010 – Feb 2011
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Stock Price Prediction (LSTMs)          • Image Captioning (Transformer)        
+
+    • Fraud Detection Dashboard (CatBoost)   • Chatbot Development (BERT)            
+
+    • Customer Segmentation (Mean-Shift Clustering)   • Speech Recognition (LibriSpeech Dataset)          
+
+                                                                                  
+
+    • Anomaly Detection (Isolation Forest)  • Recommender System (Graph Neural Networks)

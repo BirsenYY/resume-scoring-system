@@ -1,0 +1,105 @@
+Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 8+ years of experience in developing innovative healthcare solutions through data-driven diagnostics and AI integration. Expertise in biomedical signal processing, medical imaging analysis, and predictive analytics. Proficient in Python, MATLAB, and TensorFlow with a strong focus on enhancing patient outcomes with technology.
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, Keras | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis |
+
+     Medical Imaging (MRI, CT, Ultrasound), Image Segmentation | PyRadiomics, 3D Slicer, MIPAV | Biostatistics, Data Visualization | Git, Docker |
+
+     FHIR, HL7, DICOM Standards | Flask, Django, FastAPI | Cloud Computing (AWS, GCP) | LaTeX, Markdown
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Biomedical AI Specialist (St. Thomas' Hospital NHS Trust) - London, UK     Sep 2019 : Present
+
+    ● Spearheaded the development of an AI-powered predictive model for early sepsis detection, leading to a 25% reduction in false positives
+
+    ● Collaborated with radiologists to implement an automated lung nodule detection system from CT scans, improving detection rates by 35%
+
+    ● Conducted research on explainable AI techniques in healthcare, contributing to improved model interpretability and clinician trust
+
+    ● Managed a multidisciplinary team to deploy a cloud-based clinical decision support system for oncology treatment planning
+
+    
+
+     Data Scientist (Cambridge Health Alliance)  Mar 2016 : Aug 2019
+
+    ● Leveraged machine learning algorithms to predict patient readmission risk, achieving a model accuracy of 82%
+
+    ● Implemented natural language processing tools to extract valuable insights from unstructured clinical notes, enhancing decision-making
+
+    ● Led a data governance initiative to establish robust data quality standards and ensure compliance with HIPAA regulations
+
+    ● Designed and deployed a real-time dashboard for monitoring hospital key performance indicators using Tableau and Power BI
+
+    
+
+     Biomedical Research Assistant (University College London) – London, UK     Jun 2013 : Feb 2016
+
+    ● Conducted research on brain-computer interfaces for motor rehabilitation in stroke patients, publishing findings in peer-reviewed journals
+
+    ● Collaborated with neurologists to develop personalized EEG-based therapy protocols for neurological disorders
+
+    ● Assisted in securing research grants and ethical approvals for clinical trials involving wearable biosensors for health monitoring
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    PhD in Biomedical Engineering - Imperial College London (Ongoing)   Sep 2016 - Present
+
+    MEng in Biomedical Engineering - University of Edinburgh (First Class)  Sep 2012 : Jun 2016
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Health Informatics Professional (CHIP)                           May, 2023
+
+    ● Advanced Machine Learning Specialization (Stanford Online)               Sep, 2022
+
+    ● Clinical Data Management Certification (CDM)                              Jan, 2022
+
+    ● Advanced Medical Image Analysis Workshop (Radboud University)            Mar, 2021
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● Personalized Health Tracker: Developed a mobile app to track daily health metrics, including activity levels, sleep patterns, and nutrition. Integrated data visualization and goal setting features.
+
+    
+
+    ● Wearable ECG Monitoring Device: Designed a wearable ECG sensor for continuous heart monitoring, alerting users to irregularities and syncing data to a secure cloud platform for remote monitoring.
+
+    
+
+    ● Malaria Detection using AI: Created a convolutional neural network model to detect malaria parasites in blood smear images, achieving an accuracy of 95%. The project aimed to assist in rapid diagnosis in resource-limited settings.
+
+    
+
+    ● Telemedicine Platform: Built a secure telemedicine platform for virtual consultations, enabling patients to connect with healthcare providers remotely. Integrated scheduling, video calls, and prescription management functionalities.

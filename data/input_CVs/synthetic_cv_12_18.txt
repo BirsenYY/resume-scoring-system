@@ -1,0 +1,58 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Dynamic Software Engineer with over 4 years of experience in designing and implementing backend solutions while focusing on scalability and efficiency. Proficient in Python, Java, and C++. Demonstrated expertise in test automation, CI/CD implementation, and ensuring system reliability. Dedicated to crafting secure and high-performance software applications.
+
+Technical Skills
+Languages: Python, Java, C++, SQL, Shell Scripting
+
+Frameworks & Tools: Django, Spring, Express.js, Vue.js, Puppeteer, TestNG, Robot Framework
+
+DevOps & CI/CD: Kubernetes, Jenkins, GitHub Actions, Ansible, Docker
+
+Databases: Oracle, SQLite, Redis, Firebase
+
+Cloud & Platforms: Azure, Heroku, Ubuntu
+
+Others: GraphQL, RabbitMQ, Kanban, Pair Programming, BDD
+
+Professional Experience
+Senior Software Engineer
+SkyBridge Technologies, London, UK
+Mar 2020 - Present
+
+- Spearheaded the development of microservices in Python and Java deployed on Kubernetes clusters, resulting in a 20% improvement in response time
+- Led the migration and optimization of legacy systems to cloud-based solutions on Azure, enhancing system scalability and performance
+- Implemented CI/CD pipelines with GitHub Actions for automated testing and deployment, reducing manual errors by 25%
+- Initiated regular code reviews and knowledge-sharing sessions to enhance team collaboration and code quality
+
+Software Developer
+ByteCraft Solutions, London, UK
+Sept 2017 - Feb 2020
+
+- Designed and implemented REST APIs in Django and Spring for seamless integration with frontend applications
+- Automated testing workflows using Puppeteer for end-to-end testing and validating frontend functionalities
+- Developed reusable components in Vue.js for modular frontend architecture, improving code maintainability
+- Collaborated with cross-functional teams to troubleshoot production issues and ensure smooth deployment processes
+
+Side Projects
+1. Personal Finance Tracker (2020)
+   - Created a web application to track and categorize personal expenses using Django and SQLite
+   - Implemented data visualization features to provide users with insights into their spending habits
+
+2. Recipe Recommender Chatbot (2019)
+   - Designed a chatbot using Node.js and Firebase to recommend recipes based on user preferences
+   - Integrated natural language processing to enhance user interactions and personalize recommendations
+
+Education
+MSc in Computer Engineering
+Imperial College London, UK
+2015 - 2017
+
+Certifications
+- Certified Kubernetes Administrator
+- MongoDB Certified Developer Associate
+- Certified Scrum Master
+- AWS Certified Solutions Architect – Associate
+- CCNA Routing and Switching

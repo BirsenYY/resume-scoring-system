@@ -1,0 +1,65 @@
+[Full Name]
+[City, Country] | [Email Address] | [Phone Number] | [LinkedIn] | [GitHub/Portfolio]
+
+PROFILE
+Accomplished technology executive with over 10 years of experience in artificial intelligence, software development, and team leadership. Currently serving as a VP of Engineering at a cutting-edge tech startup, driving innovation, building scalable systems, and overseeing cross-functional product development initiatives. Proven expertise in guiding technical teams, launching AI products, and aligning technology strategies with business objectives.
+
+EXPERIENCE
+VP of Engineering
+TechNexa AI | San Francisco, USA | Aug 2018 – Present
+
+- Led the development and execution of AI solutions for diverse industries, including healthcare and e-commerce.
+- Managed a team of 30+ engineers and data scientists, fostering a culture of innovation and collaboration.
+- Engineered ML pipelines for computer vision, anomaly detection, and chatbot applications.
+- Orchestrated the deployment of AI models on multiple cloud platforms, optimizing performance by 30%.
+- Instrumental in securing $15M in Series A funding through strategic partnerships and product advancements.
+
+Senior AI Research Scientist
+DataVisionaries | Toronto, Canada | Jan 2015 – Jul 2018
+
+- Spearheaded research projects on explainable AI, generative modeling, and reinforcement learning.
+- Developed state-of-the-art deep learning algorithms for speech recognition and adversarial training.
+- Implemented MLOps best practices, enhancing model reproducibility and deployment efficiency.
+- Collaborated with academia on AI publications, presenting findings at international conferences.
+
+Data Science Team Lead
+InfoTech Solutions | Singapore | May 2011 – Dec 2014
+
+- Led a team of data scientists in building predictive models for marketing campaign optimization.
+- Utilized advanced feature engineering techniques to boost model accuracy by 20%.
+- Conducted A/B tests and performance evaluations to drive data-driven decision-making.
+- Initiated the adoption of cloud-based ML solutions, reducing infrastructure costs by 25%.
+
+EDUCATION
+Ph.D. in Machine Learning
+University of California, Berkeley | 2010
+
+MSc in Computer Engineering
+École Polytechnique Fédérale de Lausanne | 2006
+
+SKILLS
+Languages: Python, R, Scala, Julia
+
+Frameworks: PyTorch, XGBoost, Hugging Face, Apache Spark
+
+ML Ops: Kubeflow, DVC, Polyaxon
+
+Cloud: Google Cloud AI Platform, IBM Watson, Tencent Cloud
+
+Other: AutoML, Reinforcement Learning, Graph Neural Networks, Time Series Forecasting
+
+CERTIFICATIONS
+Google Cloud Certified Professional Data Engineer
+
+Certified Ethical AI Practitioner (CEAIP)
+
+Applied Machine Learning for Healthcare Certificate
+
+Digital Marketing Analytics Specialist
+
+SPEAKING & PUBLICATIONS
+Keynote Speaker at AI World Expo and ML Summit
+
+Co-author of "Interpretable AI Models in Healthcare" - Springer (2021)
+
+Contributor to AI ethics blogs and research papers

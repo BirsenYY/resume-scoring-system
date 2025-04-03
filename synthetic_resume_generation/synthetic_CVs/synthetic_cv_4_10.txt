@@ -1,0 +1,67 @@
+Alice Lee
+
+San Francisco | 0888888 | alice.lee@email.com | Portfolio: alicel.dev | GitHub: github.com/alicelee
+
+WORDS ABOUT ME
+
+Computer Science enthusiast with a strong interest in leveraging machine learning, data analysis, and software development to tackle complex challenges. 
+
+Recently earned the Data Engineering Specialist certification from Microsoft. I am passionate about exploring cutting-edge technologies and designing innovative projects that showcase my technical skills and creativity. Proficient in Java, R, and cloud computing tools. Committed to transforming innovative ideas into practical solutions.
+
+CURRENTLY BUILDING
+
+Personal Data Science Portfolio – Data Scientist         Mar 2024 – Present
+
+● Crafting an extensive portfolio showcasing data analysis and machine learning projects, including interactive visualizations and in-depth reports (portfolio.alicelee.dev)
+
+PROJECTS
+
+🏆 Data Science Competition Winner – Predictive Modeling       2023
+
+● Led a team in a predictive modeling competition, achieving top results by developing a custom ensemble of XGBoost, LightGBM, and CatBoost models.
+
+● Implemented advanced feature engineering techniques and hyperparameter tuning to optimize model performance.
+
+CodeGuard – Code Quality Analyzer (codeguard.io)           2024
+
+● Designed and implemented a web application to analyze code quality metrics and identify areas for improvement using static code analysis tools.
+
+● Integrated with GitHub API for seamless repository scanning and provided detailed reports with actionable insights for developers.
+
+AutoTranscribe – Automatic Transcription Tool             2023
+
+● Engineered an end-to-end solution for converting audio files to text using deep learning models for speech recognition.
+
+● Utilized Google Cloud Speech-to-Text API and deployed the tool as a user-friendly web application with Flask backend.
+
+VisionQuest – Image Recognition System                      2022
+
+● Developed a custom image recognition system with transfer learning techniques for identifying objects in images with high accuracy.
+
+● Leveraged pre-trained models and fine-tuning on specific datasets to achieve superior performance on diverse image categories.
+
+EXPERIENCE
+
+Software Developer                                          Jan 2022 – Dec 2023
+
+● Created bespoke software solutions and automation scripts for clients across various industries, specializing in healthcare and finance sectors.
+
+● Projects ranged from data processing pipelines and predictive analytics tools to cloud-based applications for data visualization.
+
+ABC Analytics – Data Analyst                           Jul 2021 – Dec 2021
+
+● Contributed to data analysis projects, crafting actionable insights and visualizations from large datasets for clients in retail and marketing sectors.
+
+● Conducted statistical analysis, built predictive models, and presented findings to stakeholders.
+
+EDUCATION
+
+Stanford University                                 2018 – 2022
+
+BSc in Computer Science                                                 
+
+● Thesis project: "Optimizing Neural Networks for Text Classification" – achieved a 15% increase in model accuracy through novel architecture design and hyperparameter tuning.
+
+TOOLS AND TECHNOLOGIES
+
+Java, R, TensorFlow, XGBoost, Flask, Google Cloud Platform, GitHub Actions, SQL, Docker, AWS, React, JavaScript, OpenAI, NumPy, Pandas, Matplotlib, Jupyter Notebook

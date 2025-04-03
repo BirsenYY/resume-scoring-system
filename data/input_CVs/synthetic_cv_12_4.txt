@@ -1,0 +1,55 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Motivated Software Engineer with 4+ years of experience in developing efficient backend solutions and tools. Skilled in utilizing Python, Java, and Node.js to create scalable and reliable systems. Dedicated to implementing best practices in software development, test automation, and continuous integration to deliver high-quality products.
+
+Technical Skills
+Languages: Python, Java, Node.js, Ruby, C++
+
+Frameworks & Tools: Express.js, Django, Spring Boot, Vue.js, Puppeteer, TestNG, RSpec
+
+DevOps & CI/CD: Kubernetes, Terraform, CircleCI, GitHub Actions, SVN
+
+Databases: Oracle, Redis, SQLite, Neo4j
+
+Cloud & Platforms: Azure (App Services, Functions, Cosmos DB), Heroku, Windows Server
+
+Others: GraphQL, WebSockets, Kanban, Pair Programming, BDD
+
+Professional Experience
+Software Engineer
+NewTech Innovations, London, UK
+Mar 2020 – Present
+
+- Developed RESTful APIs and backend services using Node.js and Express.js, deployed on Azure App Services
+- Collaborated with cross-functional teams to improve user interfaces by integrating Vue.js components
+- Enhanced database performance by optimizing queries and implementing caching mechanisms
+- Implemented automated testing suites and monitoring solutions to maintain system stability
+- Facilitated knowledge sharing through code reviews, tech talks, and internal workshops
+
+Software Development Engineer
+DataWare Solutions, London, UK
+Sep 2017 – Feb 2020
+
+- Designed and maintained internal tools and utilities in Java and Ruby to streamline development processes
+- Automated testing workflows with TestNG and RSpec, integrating them with CI/CD pipelines on CircleCI
+- Created RESTful APIs for data processing, validation, and reporting purposes
+- Ensured code quality and release readiness through comprehensive testing and feedback loops
+- Mentored new team members and led initiatives to improve code maintainability and performance
+
+Side Projects
+1. Cryptocurrency Price Tracker (2020) – Developed a web scraper in Python to collect real-time data from multiple sources and display price trends.
+2. Recipe Recommendation Bot (2019) – Built a chatbot using Node.js and MongoDB to suggest recipes based on user preferences.
+3. Volunteer Management System (2018) – Led a team to create a web application in React for coordinating volunteer activities and tracking participation.
+
+Education
+BEng in Software Engineering
+Imperial College London, UK
+2014 – 2017
+
+Certifications
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Solutions Architect – Associate
+- Microsoft Certified: Azure Developer Associate
+- ISTQB Certified Tester – Foundation Level

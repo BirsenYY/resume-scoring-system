@@ -1,0 +1,83 @@
+    Microsoft
+
+                                                                                    
+
+                 Redmond, US | (+1) 202-555-0192 | jane_smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | microsoft.com/JaneSmith | blog.janesmith.com
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative AI/ML Engineer with 7 years of experience and AWS Certified Solutions Architect with a strong background in developing
+
+      AI-driven solutions. Proficient in deep learning frameworks such as PyTorch, TensorFlow, and Scikit-Learn. Currently exploring
+
+      cutting-edge techniques in multimodal architectures, transformer models, and reinforcement learning. Known for leading cross-functional
+
+      teams and delivering scalable and impactful AI solutions.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, R, Java, Scala, SQL | MySQL, Cassandra, Redis | PyTorch, TensorFlow, Scikit-Learn, Hugging Face, GPT-3, ElastikNN,
+
+      FastText | Transformer Models, Genetic Algorithms, Neural Architecture Search | Flask, Django | Git, Jenkins, Kubernetes, Azure                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Machine Learning Engineer (NeuralDynamics) - San Francisco, US     Mar 2020 : Present
+
+    ● Spearheaded the development of a novel content recommendation system using FastText and GPT-3, increasing user engagement by 30%
+
+    ● Led a project implementing ElasticNN for efficient nearest neighbor search, resulting in a 40% reduction in query response time
+
+    ● Contributed to building a multimodal AI chatbot for customer support, integrating transformer models for improved conversational AI
+
+    ● Conducted code reviews, mentored junior team members, and actively participated in knowledge-sharing sessions to foster a collaborative
+
+      team environment                                                     
+
+     Data Scientist (TechVision) - New York, US     Jan 2017: Feb 2020
+
+    ● Developed and deployed machine learning models using Scikit-Learn, TensorFlow, and Keras for predictive analytics in financial services
+
+    ● Designed and implemented data pipelines using Apache Kafka and Spark to process real-time streaming data for fraud detection
+
+    ● Conducted A/B testing to optimize model performance and improve key metrics such as accuracy and precision
+
+    ● Collaborated with cross-functional teams to integrate machine learning solutions into existing business processes
+
+    ● Implemented containerization using Docker and Kubernetes for scalable deployment of ML models
+
+     Research Assistant (InnoTech Labs) - Chicago, US     Jun 2015 : Dec 2016
+
+    ● Conducted research on neural architecture search algorithms for efficient model optimization
+
+    ● Developed a prototype for a healthcare recommendation system using deep reinforcement learning
+
+    ● Published research papers in top-tier AI conferences and journals
+
+    EDUCATION:                                                                      
+
+    MS in Artificial Intelligence - Carnegie Mellon University, Pittsburgh (Distinction)     Aug 2013 : May 2015
+
+    BS in Computer Science - University of California, Berkeley (Honors)     Sept 2009 : May 2013
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Machine Learning Engineer Nanodegree (Udacity)       April, 2022
+
+    ● AWS Certified Solutions Architect - Associate (AWS)     June, 2019
+
+    ● Deep Learning Specialization (by deeplearn.js)     Aug, 2018
+
+    ● AI Ethics Certification (by AI Ethics Institute)     Jan, 2018

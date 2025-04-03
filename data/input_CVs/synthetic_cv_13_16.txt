@@ -1,0 +1,74 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Coordinates (Who I Am Now)
+Dynamic and results-oriented Data Scientist with a solid background in research-based engineering and a keen interest in leveraging data for informed decision-making. Proficient in data processing, predictive analysis, and algorithm development. Committed to extracting meaningful insights to drive advancements across healthcare and technology sectors.
+
+Toolkit & Weapons of Choice
+Languages: Python, R, SQL, Java
+Machine Learning: Neural Networks, SVM, K-means Clustering, LSTM models
+Data Ops: MongoDB, AWS, Apache Kafka, Spark, Hadoop
+Visualization: D3.js, Bokeh, Plotly, Dash
+Other Strengths: Bayesian Statistics, Natural Language Processing, Docker, Kubernetes
+
+What I’m Building Now (Recent Role)
+Lead Data Scientist
+HealthTech Innovations Ltd. – London, UK
+Apr 2021 – Present
+
+Developing personalized treatment prediction models for chronic illness management
+
+Collaborating with medical experts to extract actionable insights from complex healthcare data
+
+Implementing scalable data pipelines and real-time monitoring solutions
+
+Conducting rigorous statistical analysis and A/B testing for experimental treatments
+
+Automating data processing workflows for efficient decision-making support
+
+Where I Bridged the Gap (Transitional Role)
+Machine Learning Engineer
+MediAnalytix Ltd. – London, UK
+Aug 2018 – Mar 2021
+
+Utilized machine learning algorithms to optimize disease diagnosis from imaging data
+
+Developed AI-driven tools for early detection of medical anomalies
+
+Contributed to building interactive dashboards for research teams
+
+Ensured data quality and integrity in compliance with regulatory standards
+
+Facilitated training sessions on advanced analytics for the internal team
+
+Where It All Started (Foundations in Engineering)
+Biomedical Research Engineer
+MediTech Solutions – London, UK
+Jan 2016 – Jul 2018
+
+Conducted experiments and data analysis to improve medical imaging techniques
+
+Supported the design and implementation of software algorithms for medical devices
+
+Collaborated with healthcare professionals to enhance patient monitoring systems
+
+Contributed to research publications and presentations at industry conferences
+
+The Knowledge Base
+MSc – Machine Learning & Artificial Intelligence
+University of Oxford, 2018 – 2020
+
+BSc – Biomedical Engineering
+University College London, 2014 – 2018
+
+Digital Badges & Certifications
+AWS Certified Machine Learning - Specialty
+
+Certified Apache Spark Developer
+
+Deep Learning Specialization - NVIDIA AI Developer Program
+
+Coursera Natural Language Processing Certification
+
+MongoDB Certified Developer Associate

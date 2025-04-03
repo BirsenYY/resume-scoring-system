@@ -1,0 +1,101 @@
+John Johnson
+
+                                                                                  
+
+                      San Diego | 0999999 | john.johnson@email.com | XYZ Innovations | XYZ Innovations
+
+      SUMMARY                                                                       
+
+                                                                                  
+
+                                                                                  
+
+      Experienced Quality Assurance Engineer with a strong background in creating and implementing effective testing strategies to ensure top-notch
+
+      software quality. Skilled in building automated test suites for web and mobile applications, specializing in API testing and CI/CD integration.
+
+      Proven track record of collaborating with cross-functional teams in Agile environments to deliver bug-free software solutions.
+
+      CURRENT PROJECT                                                           
+
+                                                                                  
+
+      XYZ Innovations - Quality Assurance Engineer                Jan 2023 – Present
+
+        ●  Spearheading the development of a cutting-edge QA framework for XYZ’s flagship product (LINK TO GITHUB).                    
+
+                                                                                  
+
+      SIDE PROJECTS                                                              
+
+                                                                                  
+
+      Automated Performance Testing Tool – link                             2022     
+
+        ●  Designed and implemented a custom performance testing tool utilizing JMeter and Grafana for real-time monitoring.
+
+        ●  Successfully identified and resolved performance bottlenecks, leading to a 30% improvement in application speed.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      XYZ Tech Solutions – QA Lead                                     Sep 2021 – Jan 2023
+
+        ●  Led a team of QA engineers in designing and executing test plans for web applications built on React and Vue.js.
+
+        ●  Implemented automated testing using Playwright and conducted load testing with JMeter to optimize application performance.
+
+        ●  Introduced quality gates in CI/CD pipelines to ensure each code commit met the required standards before deployment.
+
+                                                                                  
+
+      XYZ Digital Agency – QA Engineer                             Mar 2020 – Sep 2021
+
+        ●  Developed and maintained automated test scripts for mobile apps on Android and iOS platforms using Appium.
+
+        ●  Conducted API testing with SoapUI and Swagger to validate RESTful services and data integrity.
+
+        ●  Collaborated with product managers and developers to prioritize and resolve critical defects in a timely manner.
+
+                                                                                  
+
+      XYZ Software House – QA Analyst                                 Jun 2018 – Mar 2020
+
+        ●  Created end-to-end test scenarios and executed manual tests for e-commerce websites on Magento and Shopify.
+
+        ●  Worked closely with UX/UI designers to ensure a seamless user experience across different devices and browsers.
+
+        ●  Utilized TestRail for test case management and defect tracking, enhancing overall team efficiency.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      XYZ College of Technology                         2015 – 2018  
+
+      Bachelor of Science in Computer Science                                              
+
+        ●  Graduated with a specialization in Software Quality Assurance – Final project focused on test automation for IoT devices.
+
+      CERTIFICATIONS                                                              
+
+                                                                                  
+
+        ●  Certified Agile Tester (CAT)
+
+        ●  ISTQB Certified Tester – Foundation Level
+
+        ●  AWS Certified Solutions Architect – Associate
+
+        ●  Certified Scrum Master (CSM)
+
+      TOOLS AND TECHNOLOGIES                                                    
+
+                                                                                  
+
+      Selenium, Appium, JMeter, Postman, SoapUI, Git & GitHub, JIRA, TestRail, Python, Java, JavaScript, SQL, CI/CD, Agile Scrum, XYZ Tech Solutions, XYZ Digital Agency, XYZ Software House, XYZ Innovations

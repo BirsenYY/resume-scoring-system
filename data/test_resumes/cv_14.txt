@@ -1,0 +1,83 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Final-year Computer Science student with a strong foundation in software development, algorithms, and web technologies. Proactive and self-motivated, with hands-on experience building real-world projects and a solid grasp of programming principles. Actively seeking an internship or graduate role in software engineering, backend development, or applied machine learning.
+
+Education
+BSc Computer Science (In Progress)
+University of XYZ – London, UK
+Expected Graduation: July 2025
+
+Achieving a First-Class average
+
+Relevant Modules: Algorithms & Data Structures, Software Engineering, Web Development, Databases, Operating Systems, Artificial Intelligence
+
+Final Year Project: Smart Budgeting Assistant Using Natural Language Commands
+
+Technical Skills
+Languages: Python, JavaScript, C++, SQL, HTML/CSS
+Frameworks & Libraries: Flask, Node.js, Express, React
+Tools & Technologies: Git, Linux, VS Code, MySQL, MongoDB, WebSocket
+Concepts: OOP, REST APIs, MVC, Testing, Debugging, Agile Development
+
+Projects
+StudySync
+A collaborative platform for university students to share notes and schedule group sessions
+
+Built with React, Node.js, and MongoDB
+
+Implemented real-time messaging with WebSocket
+
+Integrated Google OAuth and deployed via Heroku
+
+DevTracker
+Productivity tool for developers to track coding sessions and analyze language use
+
+Developed with Flask and SQLite; CLI and web versions available
+
+Visualized activity using Matplotlib
+
+Gained recognition in a student developer community
+
+TerminalGPT
+A course-specific chatbot for answering queries using custom-trained content
+
+Built with OpenAI’s API and LangChain
+
+Used vector search to retrieve relevant answers from lecture notes
+
+Designed a minimal terminal UI for seamless interaction
+
+Certifications
+CS50x – Introduction to Computer Science, Harvard (edX)
+
+Google IT Automation with Python, Coursera
+
+Responsive Web Design, freeCodeCamp
+
+HackForChange 2024 – Best Student Team, Hackathon Winner
+
+Experience
+Tech Lead – University Coding Society
+Sept 2023 – Present
+
+Organized and led coding workshops on Git, Python, and web dev fundamentals
+
+Mentored junior students on team projects and coding best practices
+
+Student Volunteer – Digital Literacy Support
+XYZ Local Library, London
+Jun 2022 – Aug 2022
+
+Provided digital training to older adults on using email, internet, and devices
+
+Developed easy-to-follow guides for ongoing use
+
+Career Objectives
+Gain practical experience through internships in software or AI
+
+Continue contributing to open-source projects and developing side projects
+
+Build a strong post-graduation portfolio with industry-ready skills

@@ -1,0 +1,108 @@
+    Sarah Johnson
+
+                        San Francisco | sarah.johnson@email.com | AI Engineer | AI and Data Science
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Experienced AI engineer specializing in machine learning and data science, with a strong foundation in computer science and a passion for innovation and problem-solving. Skilled in developing AI-driven applications and implementing cutting-edge algorithms. 
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, Java, Scala, C++, R, SQL, Docker, Flask, Django       
+
+      • Frameworks: PyTorch, TensorFlow, scikit-learn, FastAPI, XGBoost, Hugging Face
+
+      • Cloud Platforms: AWS, Microsoft Azure, IBM Cloud, DigitalOcean            
+
+      • Machine Learning: GANs, Graph Neural Networks, AutoML, Explainable AI      
+ 
+      • Tools: Jupyter Notebook, Git, Docker, Kubernetes, Tableau, Apache Spark    
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    AI Engineer | Data Insights Co., San Francisco                Jan 2020 – Present
+
+    Fraud Detection System                                                       
+
+                                                                                  
+
+    • Developed and deployed a real-time fraud detection system using GANs and XGBoost, resulting in a 20% decrease in fraudulent activities.
+
+    • Implemented Graph Neural Networks for network analysis and anomaly detection in financial transactions.
+
+    • Integrated Explainable AI techniques for transparent decision-making processes.
+
+    • Collaborated with cross-functional teams to optimize model performance and data pipelines.
+
+    • Conducted A/B testing to evaluate model effectiveness and iterate on improvements.   
+
+    Tech Stack: Python, GANs, XGBoost, Graph Neural Networks, Explainable AI, AWS, Docker
+
+    Unsupervised Learning Platform                                                 
+
+    • Engineered an unsupervised learning platform for anomaly detection in sensor data streams.
+
+    • Utilized AutoML to automate feature engineering and model selection processes.
+
+    • Deployed the platform on Microsoft Azure for scalability and real-time monitoring.
+
+    • Conducted performance evaluations and fine-tuning to ensure high accuracy and minimal false positives.
+
+    • Collaborated with data engineers to optimize data ingestion and processing pipelines.                   
+
+    Tech Stack: Python, scikit-learn, FastAPI, AutoML, Microsoft Azure, Apache Kafka
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc in Artificial Intelligence, Stanford University, California              Sept 2018 - June 2020 
+
+    BSc in Computer Science, University of California, Los Angeles              Sept 2014 - June 2018
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Image Segmentation (U-Net)        • Recommendation System                  
+
+    • Sentiment Analysis (LSTM)         • Chatbot Development (BERT)            
+
+    • Time Series Forecasting (Prophet) • Customer Churn Prediction (Random Forest)
+
+    • Fraud Detection (Isolation Forest)• E-commerce Recommendation Engine      
+  
+    CERTIFICATES
+
+    - Certificate in Applied Machine Learning Algorithms (University of Toronto, 2022)
+    
+    - Certified Data Science Professional (National University, 2021)
+    
+    - Blockchain and Cryptocurrency Certification (Stanford Online, 2023)
+    
+    - Natural Language Processing Specialization (Coursera, 2020)
+    
+    - Quantum Computing Fundamentals (MIT Professional Education, 2022)
+    ```

@@ -1,0 +1,89 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Recent graduate with a Bachelor's degree in Software Engineering and a keen interest in backend development and cloud computing. Well-versed in software development methodologies and experienced in designing and implementing scalable solutions. Actively seeking opportunities to contribute to cutting-edge projects in software engineering.
+
+Education
+BEng Software Engineering
+Imperial College London – London, UK
+Graduated: June 2023
+
+Graduated with Honors
+
+Relevant Courses: Distributed Systems, Cloud Computing, Cybersecurity, Mobile App Development, User Interface Design
+
+Final Year Project: Secure File Storage System Using Blockchain Technology
+
+Technical Skills
+Languages: Java, C#, PHP, Kotlin, Swift
+Frameworks & Platforms: Spring Boot, ASP.NET, Laravel, Android Studio, iOS Development, AWS
+Databases: MySQL, PostgreSQL, Firebase
+Tools & Technologies: JIRA, Docker, Jenkins, GitLab, RESTful APIs
+Concepts: Microservices, CI/CD, Agile Methodologies, DevOps
+
+Projects
+DocuShare
+Collaborative platform for sharing and managing documents securely within a team
+
+Developed backend with Spring Boot and front end with Angular
+
+Implemented end-to-end encryption for data security
+
+Deployed on AWS cloud platform
+
+GroceryHelper
+Mobile app to manage grocery lists and suggest recipes based on available ingredients
+
+Built for Android using Kotlin and integrated Firebase for real-time updates
+
+Utilized machine learning algorithms for recipe recommendations
+
+Received positive feedback in user testing sessions
+
+PolyChat
+Group messaging application with voice and video call capabilities
+
+Utilized WebRTC for real-time communication
+
+Developed backend and frontend using Node.js and React
+
+Implemented push notifications for new messages
+
+Certifications
+AWS Certified Solutions Architect – Associate
+
+Certified Blockchain Developer – Hyperledger Fabric
+
+SCRUM Fundamentals Certified (SFC)
+
+HackTheFuture 2022 – Best Design Award, Hackathon Winner
+
+Experience
+Software Engineer Intern
+TechStart Innovations, London
+Sept 2022 – Dec 2022
+
+Contributed to the development of a microservices-based e-commerce platform
+
+Participated in code reviews and unit testing to ensure code quality
+
+Collaborated with cross-functional teams to deliver project milestones
+
+Junior Developer
+InnovateNow Solutions, London
+June 2021 – Aug 2021
+
+Designed and implemented RESTful APIs for a client project
+
+Worked on database optimization and performance tuning
+
+Assisted in troubleshooting and resolving technical issues
+
+Career Objectives
+Pursue a career in backend development and cloud computing
+
+Enhance skills in cybersecurity and blockchain technologies
+
+Contribute to open-source projects and engage in continuous learning and professional development

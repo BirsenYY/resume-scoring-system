@@ -1,0 +1,65 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Dynamic Software Engineer with over 6 years of experience in developing scalable backend systems and tools. Proficient in Python, Java, and JavaScript, with a focus on enhancing system reliability and test automation. Adept at optimizing database performance and implementing CI/CD pipelines. Passionate about delivering secure and efficient software solutions that meet user needs.
+
+Technical Skills
+Languages: Python, Java, JavaScript, SQL, Ruby
+
+Frameworks & Tools: Node.js, Django, Express.js, Angular, Puppeteer, TestNG, Mockito
+
+DevOps & CI/CD: Kubernetes, Helm, Travis CI, Bitbucket Pipelines, Ansible
+
+Databases: SQLite, Redis, Cassandra, Neo4j
+
+Cloud & Platforms: Azure, Heroku, Docker Swarm, Ubuntu
+
+Others: GraphQL, Web Services, Kanban, DDD
+
+Professional Experience
+Senior Software Engineer
+Veritech Innovations, London, UK
+Mar 2019 – Present
+
+Implemented microservices architecture in Python and Java, hosted on Azure and Heroku platforms
+
+Led the integration of GraphQL to streamline API development and improve data retrieval efficiency
+
+Developed a real-time analytics dashboard using Django and Angular for monitoring system performance
+
+Collaborated with DevOps to automate deployment processes using Kubernetes and Helm charts
+
+Mentored new team members and conducted code reviews to ensure best practices and quality standards
+
+Software Engineer
+TechScape Solutions, London, UK
+Oct 2016 – Feb 2019
+
+Designed and maintained backend systems in Ruby on Rails, enhancing application scalability
+
+Implemented Redis caching to optimize database queries and reduce response times by 40%
+
+Integrated Puppeteer for end-to-end testing and automated browser interactions, improving test coverage
+
+Contributed to the development of a custom CMS using Angular for content management and delivery
+
+Participated in Agile ceremonies, including sprint planning, stand-ups, and retrospectives
+
+Side Projects
+1. Personal Finance Tracker
+Developed a web application to track expenses and generate financial reports using Django and SQLite
+
+2. Recipe Recommendation Engine
+Built a machine learning model to recommend recipes based on user preferences using Pandas and Scikit-learn
+
+Education
+MSc in Software Engineering
+Imperial College London, UK
+2014 – 2016
+
+Certifications
+Certified Kubernetes Administrator
+MongoDB Certified Developer Associate
+Ruby on Rails Certified Professional
+CompTIA Cloud Essentials+

@@ -1,0 +1,59 @@
+Sarah Lee
+
+New York | 123-456-7890 | sarah.lee@email.com | Portfolio: sarahlee.dev | GitHub: github.com/sarahlee
+
+WORDS ABOUT ME
+
+Data enthusiast with a strong background in data science and machine learning. Passionate about leveraging data-driven insights to solve complex business problems and drive impactful decision-making. Proficient in Python, R, and cloud computing platforms. Experienced in developing end-to-end ML solutions and implementing scalable data pipelines.
+
+CURRENTLY BUILDING
+
+Personal Data Science Blog – Data Scientist        March 2023 – Present
+
+● Publishing articles on various data science topics including predictive modeling, data visualization, and natural language processing.
+
+PROJECTS
+
+🏆 Hackathon Winner – Fraud Detection System          2022
+
+● Led a team to develop a fraud detection system using ensemble learning techniques and feature engineering, achieving high precision and recall scores.
+
+● Integrated the model into a real-time monitoring dashboard for fraud alerts and visualization.
+
+SmartRecruit – AI-powered Recruitment Platform           2021
+
+● Designed and implemented a machine learning algorithm to match job seekers with relevant job listings based on skills and experience.
+
+● Developed a recommendation engine using collaborative filtering to personalize job recommendations for users.
+
+CryptoAnalyzer – Cryptocurrency Price Prediction Tool      2021
+
+● Built a deep learning model to forecast cryptocurrency prices based on historical data and market trends.
+
+● Deployed the model as a web application with interactive visualizations for users to explore and analyze predictions.
+
+EXPERIENCE
+
+Data Analyst at TechStartup Inc.             Jan 2020 – Present
+
+● Conducting data analysis to uncover insights and trends in user behavior and product performance.
+
+● Collaborating with cross-functional teams to drive data-driven decision-making and improve product features.
+
+Research Assistant at Data Science Lab, University XYZ            Jun 2018 – Dec 2019
+
+● Conducted research on machine learning algorithms for anomaly detection in healthcare data.
+
+● Published research papers in peer-reviewed journals and presented findings at conferences.
+
+EDUCATION
+
+New York University (NYU)             2016 – 2020
+
+Master of Science in Data Science
+
+● Thesis: "Predictive Modeling for Customer Churn Prediction in E-Commerce Industry"
+
+TOOLS AND TECHNOLOGIES
+
+R, SQL, Tableau, TensorFlow, AWS, Apache Spark, Jupyter Notebook, Scrapy, Flask, D3.js, Plotly, MongoDB, Kubernetes, Scala, MATLAB, SAS, Power BI

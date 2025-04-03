@@ -1,0 +1,63 @@
+Jane Smith
+
+San Francisco, USA | +1 987 654 3210 | jane.smith@email.com | AI Innovations
+
+EXPERIENCE
+
+AI Innovations - Data Scientist                          Apr 2023 - Present
+
+- Conducted research on GANs and reinforcement learning for synthetic data generation in medical imaging.
+- Implemented a pipeline for data augmentation using CutMix and Mixup techniques.
+- Worked on anomaly detection with Isolation Forest and Local Outlier Factor algorithms.
+- Utilized MLOps tools such as MLflow and DVC for experiment tracking and model versioning.
+
+AI Innovations - Machine Learning Engineer        Jul 2021 - Mar 2023
+
+- Developed a recommendation system using collaborative filtering and matrix factorization.
+- Implemented natural language processing models for sentiment analysis and text classification.
+- Integrated ML models with Flask APIs for real-time prediction services.
+- Conducted A/B testing to optimize model performance and user experience.
+
+AI Innovations - Research Assistant                       Dec 2019 - Jun 2021
+
+- Assisted in researching explainable AI techniques for model interpretability.
+- Contributed to projects involving meta-learning and few-shot learning algorithms.
+- Collaborated on implementing computer vision algorithms for object detection and image segmentation.
+- Engaged in weekly seminars and journal clubs to keep up-to-date with the latest AI research.
+
+Tech Solutions - Junior Data Analyst                          Sep 2018 - Nov 2019
+
+- Analyzed customer behavior data to identify trends and provide insights for marketing strategies.
+- Built interactive dashboards using Tableau for data visualization and reporting.
+- Conducted A/B testing on website features to optimize user engagement and conversion rates.
+- Prepared reports and presentations for stakeholders to communicate data-driven recommendations.
+
+EDUCATION
+
+AI University                                               2017 - 2021
+
+Master of Science in Artificial Intelligence, Distinction
+
+Science College                                            2013 - 2017
+
+BSc Computer Science, First Class
+
+CERTIFICATIONS
+
+- AWS Certified Machine Learning Specialty
+- Google TensorFlow Developer Certificate
+- DataRobot Certified Data Scientist
+- IBM Certified Data Engineer
+- Microsoft Certified Azure AI Engineer Associate
+
+PROJECTS
+
+AI Innovations - Image Captioning Model                   2023
+
+Chatbot for Mental Health Support - link                           2022
+
+AI Innovations - Fraud Detection System                         2022
+
+TOOLS AND TECHNOLOGIES
+
+I have worked with: AI Innovations, NeuralNet Technologies, Insight AI, BuildBot, AI Logic, DataViz Tools, AI Forge, ML Ops Pro, Kubeflow, FastAPI, Docker, Kubernetes, PyTorch, scikit-learn, Keras, TensorFlow, SQL, NoSQL, MongoDB, Neo4j, Redis, HTML, CSS, JavaScript, Python, Java, R, Scala, TypeScript, React, Flask, Django, Bootstrap, AWS, Azure, Google Cloud Platform, Jupyter, Git, Jenkins, Airflow, Elasticsearch, Grafana, Prometheus, Splunk, Selenium, Postman, DVC, MLflow.

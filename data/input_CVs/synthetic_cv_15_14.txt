@@ -1,0 +1,131 @@
+    XYZ Healthcare Technologies                                           
+
+                                                                                 
+
+                 London, UK | (+44) 6123456789 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                          
+
+                                                                                  
+
+     Biomedical Engineer with 8+ years of experience in clinical informatics, medical device innovation, and AI applications in healthcare. 
+
+     Specialized in biomedical signal processing, medical image analysis, and predictive modeling. Proficient in Python, MATLAB, and
+
+     PyRadiomics. Skilled in collaborative problem-solving and project management for healthcare technology solutions. 
+
+     Passionate about leveraging data-driven insights to enhance patient outcomes and healthcare delivery.   
+
+    SKILLS:                                                                         
+
+                                                                                  
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | PyRadiomics, ITK-SNAP, 3D Slicer | TensorFlow, Keras, Scikit-Learn | DICOM, Bioconductor |
+
+     Biomedical Image Segmentation | Biosignal Processing (EEG, ECG) | Medical Device Prototyping | Git, Docker | HL7, FHIR Standards |
+
+     Flask, Django, RESTful APIs | Data Visualization, Statistical Analysis
+
+                                                                                  
+
+    PROFESSIONAL EXPERIENCE :                                                     
+
+                                                                                  
+
+     Senior Biomedical Engineer (XYZ Healthcare Technologies) - London, UK        Apr 2019 : Present
+
+    ● Led the development of an AI-driven predictive analytics platform for remote patient monitoring, reducing readmission rates by 25%
+
+    ● Designed and implemented a cloud-based image processing pipeline for automated tumor detection in PET/CT scans, streamlining 
+
+      radiologist workflows
+
+    ● Managed cross-functional teams to integrate HL7/FHIR standards into EHR systems, enhancing interoperability for healthcare data 
+
+      exchange
+
+    ● Spearheaded the validation and regulatory compliance of a wearable biosensor device for continuous vital signs monitoring in 
+
+      clinical trials
+
+    
+
+     Biomedical Informatics Specialist (ABC Medical Solutions) - Manchester, UK    Aug 2015 : Mar 2019
+
+    ● Implemented a real-time EHR data analytics solution using SQL and Power BI, enabling clinicians to identify trends and outliers 
+
+      for quality improvement initiatives
+
+    ● Conducted usability studies and user training for a mobile app prototype for medication adherence tracking, collaborating with 
+
+      patients and healthcare providers
+
+    ● Contributed to the development of a health information exchange platform, facilitating secure data sharing among regional 
+
+      healthcare providers
+
+    ● Coordinated the transition to a new PACS system, managing data migration and training sessions for radiology staff
+
+    
+
+     Clinical Engineering Intern (University Hospital Trust) – Leeds, UK          Jun 2014 : Jul 2015
+
+    ● Assisted in the installation and maintenance of infusion pumps, patient monitors, and surgical equipment in clinical settings
+
+    ● Conducted performance testing and calibration of medical devices to ensure accuracy and compliance with regulatory standards
+
+    ● Participated in a quality improvement project to optimize inventory management of medical supplies and equipment
+
+    
+
+    EDUCATION:                                                                    
+
+                                                                                  
+
+    MEng in Biomedical Engineering - University of Edinburgh (Distinction)        Sep 2012 : Sep 2013
+
+    BSc in Electrical Engineering - University of Bristol (First Class)           Sep 2008 : Jun 2012
+
+                                                                                  
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                   
+
+                                                                                  
+
+    ● Certified Healthcare Data Analyst (CHDA)                                    Jan, 2023
+
+    ● AWS Certified Solutions Architect - Associate                              Aug, 2022
+
+    ● Bioinformatics Certificate – Wellcome Genome Campus                         Mar, 2021
+
+    ● Radiological Safety Officer (RSO) Certification                              Nov, 2020
+
+    
+
+    SIDE PROJECTS:                                                                
+
+                                                                                  
+
+    ● Wearable Health Monitor: Developed a prototype wrist-worn device for continuous SpO2 and heart rate monitoring, integrated with 
+
+      a mobile app for personalized health insights and alerts.
+
+    
+
+    ● Telemedicine Platform Enhancement: Implemented a virtual consultation feature within an existing telemedicine platform, enabling 
+
+      secure video calls and file sharing between patients and healthcare providers.
+
+    
+
+    ● Medical IoT Sensor Network: Designed a network of wireless sensors for real-time environmental monitoring in hospital 
+
+      environments, ensuring compliance with regulatory standards and patient safety.
+
+    
+
+    ● Voice-Activated Medical Assistant: Built a voice-controlled AI assistant for medical professionals to access patient information, 
+
+      drug references, and treatment guidelines hands-free, improving workflow efficiency.

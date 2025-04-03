@@ -1,0 +1,109 @@
+Emily Smith                                  
+
+                                                                                  
+
+                          555-123-4567 | emily.smith@email.com             
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                               
+
+    Oxford University, Oxford                    Sep 2017 - Jun 2021
+
+      ●  BSc Applied Mathematics: First Class Honours with Distinction                    
+
+      ●  Achieved a Certificate in Advanced Data Analysis with top marks
+
+      ●  Completed modules in Network Theory, Stochastic Processes, and Mathematical Modeling
+
+    Imperial College London, London                          Oct 2021 - Jul 2022
+
+      ●  Cybersecurity Essentials Certification (CompTIA Security+)             
+
+      ●  Relevant Content: Threats, Attacks & Vulnerabilities, Technologies & Tools, Architecture & Design, Identity & Access Management
+
+    Queen's University Belfast, Belfast                                   Sep 2013 - Jun 2020
+
+      ●  A-Levels: Physics (A*), Computer Science (A*), Geography (A)                  
+
+      ●  Activities and Societies: Secretary of Computer Science Society, Treasurer of Geography Club
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Data Analyst Intern – DataSolve                           Aug 2022 - Sep 2022
+
+    DataSolve is a data analytics consulting firm specializing in market research and business intelligence.
+
+      ●  Conducted data cleaning and preprocessing tasks using SQL and Python, ensuring data integrity and accuracy
+
+      ●  Developed and implemented machine learning models for predictive analytics on customer behavior patterns
+
+      ●  Collaborated with senior data analysts to create visualizations and reports for client presentations
+
+    Research Assistant – Quantum Research Institute                          Jan 2023 - Jun 2023
+
+    Quantum Research Institute focuses on quantum computing research and development.
+
+      ●  Assisted in conducting experiments and analyzing data for quantum cryptography projects
+
+      ●  Wrote technical reports on research findings and presented results to the research team
+
+      ●  Contributed to the development of quantum algorithms for encryption and decryption processes
+
+    IT Support Specialist – TechGenius Jun 2021 - Dec 2021
+
+    TechGenius is a tech support company providing IT solutions for small businesses and individuals.
+
+      ●  Provided technical assistance to clients with hardware and software issues, resolving issues promptly 
+
+      ●  Managed network configurations and performed system upgrades for clients
+
+      ●  Conducted training sessions for clients on cybersecurity best practices and data backup procedures
+
+                                                                                  
+
+    Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Lead Developer – Open Source Project          Mar 2022 - Dec 2023
+
+      ●  Contributed code to an open-source project for data visualization tools
+
+      ●  Collaborated with a team of developers to enhance the project's features and functionality
+
+    Online Course Project – Udacity Machine Learning Engineer Nanodegree              Apr 2024 - Sep 2024
+
+      ●  Completed a hands-on project on building a recommendation system using collaborative filtering techniques
+
+      ●  Implemented machine learning algorithms in Python to analyze and classify text data for sentiment analysis
+
+    Charity Fundraiser – Local Community Initiative               Mar 2021 - Mar 2022
+
+      ●  Organized fundraising events and campaigns to support local charities and community projects
+
+                                                                                  
+
+    Student Mentor & STEM Ambassador – UK            Mar 2022 - Jun 2023
+
+      ●  Mentored students interested in STEM fields and encouraged participation in science fairs and competitions
+
+      ●  Led workshops on robotics, coding, and electronics for school groups and community organizations
+
+    Additional Information                                                        
+
+                                                                                  
+
+    Technical Skills: R Programming, Tableau, AWS Certified Developer, Certified Ethical Hacker
+
+    Activities: Photography Enthusiast, CrossFit Athlete, Volunteer at Animal Shelter
+
+    Languages: English (Native), Spanish (Intermediate), French (Basic)
+
+    Interests: Artificial Intelligence, Data Privacy, Hiking, Cooking, Board Games

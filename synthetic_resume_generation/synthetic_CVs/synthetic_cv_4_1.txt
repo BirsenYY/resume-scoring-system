@@ -1,0 +1,57 @@
+Sarah Blake
+Manchester, UK | (+44) 7458123901 | sarah.blake@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/sarahblake | github.com/sarahblake | bae.com/sarahblake | medium.com/@sarahblake
+
+PROFESSIONAL SUMMARY:
+
+Dedicated Mechanical Engineer with 7 years of experience in product design, analysis, and project management within the aerospace and defence industries. Proficient in CAD modelling, FEA simulations, and manufacturing process optimization. Skilled in leading technical teams, implementing sustainable engineering solutions, and enhancing performance through innovative design strategies. Actively expanding expertise in robotics and automation technologies.
+
+SKILLS:
+
+SolidWorks, CATIA, CREO, MSC Nastran, Fluent, Python, MATLAB, Robotics, Automation, Project Management, Technical Drawings, Design Analysis, CNC Machining, Agile Development, Root Cause Analysis, Six Sigma, Microsoft Office Suite, SAP, PLM Software, FMEA, Reliability Engineering
+
+PROFESSIONAL EXPERIENCE:
+
+Lead Mechanical Engineer (BAE Systems) – Glasgow, UK
+Mar 2019 – Present
+
+- Oversaw the design and optimization of advanced radar systems for naval platforms, resulting in a 10% reduction in power consumption
+- Conducted structural analysis and vibration testing of missile guidance components, ensuring compliance with stringent military standards
+- Led a cross-functional team in the development of autonomous underwater vehicles for surveillance missions, reducing operational costs by 15%
+- Implemented efficient logistics processes, improving component sourcing and reducing lead times by 20%
+
+Senior Mechanical Design Engineer (Airbus Defence and Space) – Bristol, UK
+Jul 2015 – Feb 2019
+
+- Designed lightweight composite structures for satellite payloads, enhancing structural integrity while reducing overall weight by 12%
+- Utilized advanced thermal analysis software to optimize heat dissipation in electronic components, increasing system reliability by 25%
+- Managed the integration of additive manufacturing techniques into production processes, reducing manufacturing waste by 30%
+- Collaborated with international teams on joint research projects related to space exploration and satellite communications
+
+Mechanical Engineer (Rolls-Royce) – Derby, UK
+Oct 2013 – Jun 2015
+
+- Contributed to the development of next-generation aircraft engine components through detailed CAD modelling and simulation analysis
+- Conducted thermal stress analyses of turbine blades using ANSYS software, resulting in a 15% improvement in component lifespan
+- Coordinated with suppliers and external partners to implement cost-effective manufacturing solutions, reducing production costs by 8%
+- Participated in continuous improvement initiatives focusing on lean manufacturing principles and process optimization
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Manchester, Manchester (Distinction)
+Sep 2009 – Jul 2013
+
+BEng in Mechanical Engineering – University of Sheffield, Sheffield (First Class Honours)
+Sep 2005 – Jun 2009
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Chartered Engineer (Institution of Mechanical Engineers) – 2018
+
+Certified CATIA Professional – 2016
+
+Six Sigma Black Belt Certification – 2020
+
+Robotics Fundamentals (Udacity) – 2021
+
+Fundamentals of Reliability Engineering (ASQ) – 2023

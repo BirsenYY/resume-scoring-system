@@ -1,0 +1,97 @@
+    Amazon
+
+                                                                                    
+
+                 Seattle, US | (+1) 9876543210 | jane.smith@email.com | Work Rights: Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Creative AI/ML Engineer and Data Science Specialist with 7 years of experience. Proficient in developing NLP solutions,
+
+      unsupervised learning, and interpretable AI models. Skilled in Python, scikit-learn, and Apache Spark. Currently focused on
+
+      reinforcement learning algorithms, graph neural networks, and model interpretability. Recognized for optimizing data pipelines,
+
+      leading cross-functional teams, and delivering innovative AI solutions for diverse industries.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, R, Java, SQL, ORM | PostgreSQL, Cassandra, Redis | PyTorch, XGBoost, Hugging Face, Spark NLP, Optuna | Reinforcement
+
+      Learning, Graph Neural Networks, Federated Learning | Flask, Django | Git, Kubernetes, Jenkins, AWS                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Machine Learning Engineer (DataTech Solutions) - San Francisco, US (Senior Role)    Sep 2020 : Present
+
+    ● Designed and implemented a deep learning-based recommendation system, resulting in a 30% increase in user engagement and
+
+      personalized content delivery                                             
+
+    ● Led a team of data scientists to develop a fraud detection model using XGBoost and ensemble methods, reducing false positives by
+
+      25% and optimizing the detection process                                      
+
+    ● Spearheaded the implementation of a scalable data processing pipeline using Apache Spark, improving data ingestion, processing, and
+
+      model training efficiency                                                   
+
+    ● Conducted regular code reviews, mentored junior team members, and collaborated with stakeholders to align AI initiatives with business
+
+      goals                                                                         
+
+     Data Scientist (TechGenix) - New York, US Jan 2018 : Aug 2020
+
+    ● Developed predictive models for customer churn prediction and product recommendations using scikit-learn and TensorFlow,
+
+      increasing customer retention by 20% and enhancing personalized recommendations        
+
+    ● Utilized natural language processing techniques to analyze customer feedback and sentiment, providing valuable insights for product
+
+      improvements and marketing strategies                                           
+
+    ● Collaborated with cross-functional teams to integrate machine learning models into production systems, ensuring seamless deployment
+
+      and monitoring of model performance                                             
+
+    ● Conducted A/B testing and statistical analysis to evaluate model effectiveness and drive data-driven decision-making processes                          
+
+     Data Analyst (Innovate Analytics) - Chicago, US    Jan 2015 : Dec 2017
+
+    ● Extracted, cleaned, and analyzed large datasets to uncover actionable insights for client projects in healthcare and finance sectors   
+
+    ● Built interactive dashboards using Tableau and Power BI to visualize data trends, enabling stakeholders to make informed decisions  
+
+    ● Developed predictive models for demand forecasting and trend analysis, contributing to improved resource allocation and business
+
+      planning                                                                         
+
+    EDUCATION:                                                                      
+
+    Ph.D. in Data Science - University of California, Berkeley (Summa Cum Laude)    Aug 2011 : July 2015
+
+    MSc in Artificial Intelligence - Carnegie Mellon University, Pittsburgh (With Distinction)  Sep 2008 : July 2010
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Deep Learning Specialist (by DeepLearning.AI)        June 2022
+
+    ● Data Engineering Certification (by Google Cloud)                          Oct 2021
+
+    ● Advanced Natural Language Processing (NLP) Certification (by Udacity)   April 2021
+
+    ● Graph Neural Networks Certification (by Stanford Online)               Nov 2020
+
+    ● Big Data Analytics and Optimization (by IBM Data Science Community)    July 2019

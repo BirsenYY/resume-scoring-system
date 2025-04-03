@@ -1,0 +1,88 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Motivated Computer Science graduate with a solid background in software development, algorithms, and machine learning applications. Currently seeking opportunities in backend development, software engineering, or data science to apply skills gained through academic projects and relevant work experience.
+
+Education
+BSc Computer Science
+University of XYZ – London, UK
+Graduated: July 2023
+
+Received top grades for dissertation on "Enhanced Image Classification with Convolutional Neural Networks"
+
+Key Modules: Cryptography, Human-Computer Interaction, Computer Vision, Cloud Computing, Distributed Systems
+
+Final Year Project: AI-Powered Chatbot for Medical Consultations
+
+Technical Skills
+Languages: Java, PHP, Ruby, R, Swift
+Frameworks & Libraries: Django, TensorFlow, PyTorch, Laravel
+Tools & Technologies: Docker, AWS, Jupyter Notebook, Jenkins, Tableau
+Concepts: Machine Learning, Deep Learning, Natural Language Processing, Agile Methodologies
+
+Projects
+EventPlanner
+An event management system for seamless planning and coordination
+
+Built with Django, PostgreSQL, and Bootstrap
+
+Incorporated AI-driven recommendations for venue selection
+
+Implemented user authentication and role-based access control
+
+SentimentAnalyzer
+A sentiment analysis tool for social media monitoring and opinion mining
+
+Developed using TensorFlow and NLTK
+
+Deployed RESTful API for real-time sentiment detection
+
+Utilized React for frontend visualization
+
+AR Navigation App
+Augmented reality-based indoor navigation application for large campuses
+
+Utilized Unity and Vuforia SDK for AR features
+
+Integrated Google Maps API for geo-location services
+
+Enhanced user experience through interactive 3D markers
+
+Certifications
+AWS Certified Solutions Architect – Associate
+
+Data Science MicroMasters, edX
+
+Blockchain Fundamentals, IBM
+
+HackNow 2022 – Best Use of Emerging Tech, Hackathon Winner
+
+Experience
+Software Developer Intern
+TechStartup Ltd. – London, UK
+Oct 2022 – Mar 2023
+
+Contributed to the development of a data analytics platform using Django and PostgreSQL
+
+Collaborated with senior developers on feature implementation and testing
+
+Participated in daily stand-ups and sprint planning meetings
+
+Research Assistant – Computer Vision Lab
+University of ABC – London, UK
+Jun 2021 – Sept 2021
+
+Assisted in image preprocessing and dataset curation for deep learning research projects
+
+Conducted experiments to evaluate object detection algorithms
+
+Published research paper on "Enhancing Object Recognition in Noisy Environments"
+
+Career Objectives
+Pursue a career in cutting-edge technologies like AI, blockchain, or cloud computing
+
+Engage in continuous learning and specialization in emerging fields
+
+Contribute to impactful projects and open-source initiatives for societal benefit

@@ -1,0 +1,84 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Computer Science graduate with a solid background in software engineering, backend development, and machine learning applications. Experienced in creating innovative projects and applications while applying modern programming concepts. Actively searching for opportunities in software development or AI engineering roles to leverage technical skills and contribute to impactful projects.
+
+Education
+BSc Computer Science
+University of ABC – London, UK
+Graduated: June 2023
+
+Relevant Modules: Data Mining, Cybersecurity, Cloud Computing, Embedded Systems, IoT Technologies, Machine Learning
+
+Final Year Project: Personalized Health Monitoring System with Predictive Analysis
+
+Technical Skills
+Languages: Java, Ruby, PHP, R, Swift
+Frameworks & Libraries: Django, Angular, TensorFlow, PyTorch
+Tools & Technologies: Docker, Kubernetes, AWS, Tableau, Jenkins
+Concepts: Microservices, Big Data, CI/CD, Neural Networks, DevOps
+
+Projects
+HealthCareHub
+An integrated platform for patients to access medical records and receive personalized health recommendations
+
+Developed using Django, Angular, and AWS services
+
+Implemented predictive analytics for early disease detection
+
+Ensured HIPAA compliance for data security
+
+CodeCrafters
+An online coding platform for competitive programming enthusiasts to practice coding challenges
+
+Created with Ruby on Rails and Docker containerization
+
+Integrated real-time code compilation and execution
+
+Supported multiple programming languages
+
+RoboVision
+A vision-based robotic system for object recognition and autonomous navigation in indoor environments
+
+Utilized TensorFlow for object detection and OpenCV for image processing
+
+Implemented path planning algorithms for obstacle avoidance
+
+Winner of the Innovation in Robotics Challenge 2022
+
+Certifications
+Cloud Architect, Microsoft Azure
+Cybersecurity Essentials, CompTIA
+Advanced Data Visualization, IBM Data Science Professional Certificate
+Mobile App Development, App Academy
+Blockchain Fundamentals, Udacity
+
+Experience
+Software Engineer Intern
+TechStart Innovations – London, UK
+Jul 2022 – Dec 2022
+
+Contributed to the development of a cloud-based SaaS platform for project management
+
+Collaborated with cross-functional teams to implement new features and optimize performance
+
+Participated in code reviews and testing processes
+
+Coding Mentor
+CodeMates Online Learning Platform
+Feb 2021 – May 2022
+
+Provided personalized coding guidance and mentorship to aspiring programmers
+
+Assisted learners in mastering programming concepts and achieving coding proficiency
+
+Organized coding challenges and workshops to enhance student engagement
+
+Career Objectives
+Pursue a full-time position in software development with a focus on AI applications
+
+Further enhance expertise in cloud technologies and cybersecurity through practical experience
+
+Contribute to open-source projects and engage in continuous learning to stay updated with industry trends

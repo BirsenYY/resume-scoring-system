@@ -1,0 +1,83 @@
+Sarah Smith
+
+                      Los Angeles | 0888888 | sarah.smith@email.com | ABC Innovations | ABC Innovations
+
+WORDS ABOUT ME                                                              
+
+Machine learning engineer with experience in developing and deploying machine learning systems. Skilled in Python and TensorFlow ecosystem, with expertise in computer vision and natural language processing models. Proficient in building applications using Flask and microservices architecture, deployed on cloud platforms like AWS and Google Cloud.
+
+CURRENTLY BUILDING                                                          
+
+ABC Innovations – Machine Learning Engineer                    Mar 2023 – Present
+
+   ● Working on cutting-edge projects to revolutionize AI in healthcare... (LINK TO GITHUB)                   
+
+PROJECTS                                                                    
+
+ABC Innovations – Medical Image Analysis                                     2023     
+
+Building deep learning models for medical image analysis to assist radiologists in diagnosing diseases more accurately and efficiently.
+
+EXPERIENCE                                                                  
+
+ABC AI Lab – Research Scientist           Jan 2023 – Mar 2023
+
+   ● Conducted research on state-of-the-art models in image classification and object detection.
+
+   ● Implemented architectures like EfficientNet and YOLO for real-time applications.
+
+   ● Utilized MLOps tools such as MLflow and Kubeflow for model versioning and automation.
+
+DEF Technologies – Machine Learning Engineer                           Sep 2020 – Jan 2023
+
+   ● Developed a recommendation engine using collaborative filtering techniques to improve user engagement on the platform.
+
+   ● Led a team of data scientists in building and deploying machine learning models for personalized content recommendations.
+
+   ● Collaborated with cross-functional teams to integrate AI solutions into existing platforms.
+
+GHI Automation – Automation Engineer                      Feb 2018 – Sep 2020
+
+   ● Designed and implemented automated systems using PLC programming and industrial robots.
+
+   ● Implemented computer vision algorithms for quality control in manufacturing processes.
+
+   ● Led projects to optimize production efficiency and reduce operational costs.
+
+JKL Robotics – Robotics Engineer                                 Jul 2016 – Feb 2018
+
+   ● Developed control algorithms for industrial robotic arms to improve precision and accuracy in manufacturing processes.
+
+   ● Integrated sensors and vision systems for object recognition and manipulation tasks.
+
+   ● Provided training and technical support to production teams for successful robot implementation.
+
+XYZ Manufacturing – Automation Technician                Mar 2015 – Jul 2016
+
+   ● Maintained and troubleshooted automated systems on the production floor.
+
+   ● Assisted in the installation and commissioning of new industrial machinery.
+
+   ● Conducted preventive maintenance to ensure uninterrupted production operations.
+
+EDUCATION                                                                   
+
+ABC University                                         2011 – 2015  
+
+BEng (Hons) Robotics and Automation Engineering
+
+   ● Awarded for Outstanding Academic Achievement in robotics coursework.
+
+CERTIFICATES                                                                  
+
+   ● AWS Certified Solutions Architect - Associate
+
+   ● Microsoft Certified: Azure AI Engineer Associate
+
+   ● IBM Data Science Professional Certificate
+
+   ● Google Cloud Platform Professional Data Engineer
+
+TOOLS AND TECHNOLOGIES
+
+TensorFlow, PyTorch, Scikit-Learn, Flask, Docker, Kubernetes, AWS, Google Cloud, PostgreSQL, Pandas, NumPy, Matplotlib, HTML, CSS, Java, C++

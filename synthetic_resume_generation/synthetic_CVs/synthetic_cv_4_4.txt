@@ -1,0 +1,55 @@
+
+Alice Smith
+
+New York | 987-654-3210 | alicesmith@email.com | DEF Inc | LMN Corp
+
+SUMMARY
+
+Experienced machine learning and software engineer with a focus on developing and deploying end-to-end machine learning solutions. Proficient in Python and the TensorFlow ecosystem, with hands-on experience in computer vision and natural language processing models. Skilled in building applications using Flask within microservices architecture on cloud platforms.
+
+EXPERIENCE
+
+DEF Inc                              Jan 2022 – Present
+
+- Developed and deployed custom deep learning models for image classification and object detection tasks.
+- Implemented MLOps practices using Kubernetes, Kubeflow, and Apache Airflow for scalable model training and deployment.
+
+PROJECTS
+
+Speech Emotion Recognition                         2023
+
+- Developed a deep learning model using TensorFlow for real-time speech emotion recognition.
+
+Chatbot with Personality                           2023
+
+- Built a chatbot with a personality using Natural Language Processing techniques and neural networks.
+
+Secure File Sharing Platform                       2023
+
+- Designed and implemented a secure file sharing platform with end-to-end encryption.
+
+Virtual Assistant for Healthcare                   2022
+
+- Created a virtual assistant for healthcare applications using voice recognition and machine learning.
+
+Side Projects
+
+- Text-Based Adventure Game                       2021
+  - Developed a text-based adventure game using Python and object-oriented programming principles.
+- Sentiment Analysis Web App                       2020
+  - Built a web application for sentiment analysis of social media data using Flask and Vader Sentiment.
+
+EDUCATION
+
+LMN University                        2018 – 2022
+BSc Computer Science
+
+CERTIFICATIONS
+
+- AWS Certified Solutions Architect          2022
+- Google Cloud Professional Data Engineer    2021
+- Certified Kubernetes Administrator         2020
+
+TOOLS AND TECHNOLOGIES
+
+Proficient in TensorFlow, PyTorch, Scikit-Learn, Flask, Docker, PostgreSQL, NumPy, Pandas, Matplotlib, Git & GitHub, Jupyter, HTML, CSS, JavaScript, AWS, Google Cloud, Kubernetes.

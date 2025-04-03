@@ -1,0 +1,67 @@
+John Doe
+
+San Francisco | 0888888 | john.doe@email.com | XYZ Labs | XYZ Labs
+
+PROFILE
+
+Quality Assurance Engineer specializing in creating efficient testing strategies and automated test suites to ensure high-quality software. Skilled in Selenium, JMeter, and API testing tools. Proficient in Agile methodologies and CI/CD integration to deliver bug-free releases on time.
+
+CURRENT WORK
+
+XYZ Labs – Quality Assurance Engineer Present
+
+Co-founded XYZ Labs and leading the QA team in developing an innovative testing framework.
+
+PROJECTS
+
+Load Testing Suite - link 2023
+
+Designed and implemented a scalable load testing suite using JMeter for a high-traffic e-commerce website.
+
+Carried out performance testing and optimization recommendations that led to a 30% reduction in page load times.
+
+EXPERIENCE
+
+XYZ Tech – QA Consultant 2022 – 2023
+
+Collaborated with development teams on testing strategies for IoT devices and cloud-based applications.
+
+Implemented automated testing solutions using Kubernetes to orchestrate containerized test environments.
+
+XYZ Software – QA Automation Engineer 2020 – 2022
+
+Developed end-to-end automated test scripts using Robot Framework for a cloud-based CRM platform.
+
+Integrated test suites with Jenkins pipelines, resulting in a 70% reduction in release cycle time.
+
+Provided training sessions on test automation best practices for new QA team members.
+
+XYZ Solutions – QA Analyst 2018 – 2020
+
+Conducted manual testing for a mobile banking application, ensuring compliance with industry regulations.
+
+Created test documentation and collaborated with stakeholders to verify user stories and acceptance criteria.
+
+XYZ Biotech – Intern QA Tester 2017 – 2018
+
+Executed functional testing on a proprietary lab management system, identifying and reporting software defects.
+
+EDUCATION
+
+XYZ University 2014 – 2017
+
+BSc in Computer Science
+
+Graduated with Distinction – Thesis on performance testing methodologies for web applications.
+
+CERTIFICATIONS
+
+1. Certified Agile Tester (CAT)
+2. ISTQB Certified Tester – Foundation Level
+3. AWS Certified Solutions Architect – Associate
+4. Microsoft Certified: Azure AI Engineer Associate
+5. Certified Scrum Master (CSM)
+
+TOOLS AND TECHNOLOGIES
+
+Selenium, JMeter, Postman, REST APIs, Jenkins, JIRA, Git & GitHub, Docker, Kubernetes, Robot Framework, SQL, Python, Java, CI/CD, Agile Scrum, XYZ Tech, XYZ Labs, XYZ Software

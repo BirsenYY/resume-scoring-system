@@ -1,0 +1,96 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+A highly motivated Computer Science graduate with a solid background in software development and a keen interest in machine learning applications. Eager to leverage skills in backend engineering and AI to drive innovative solutions. Actively seeking opportunities to contribute to challenging projects in a professional setting.
+
+Education
+BSc Computer Science
+Imperial College London – London, UK
+Graduated: June 2023
+
+Secured Distinction with Honors
+
+Key Courses: Cloud Computing, Cryptography, Parallel Computing, Robotics, Human-Computer Interaction
+
+Graduation Project: Autonomous Drone Delivery System with Computer Vision
+
+Technical Skills
+Languages: Java, PHP, Ruby, Swift, Kotlin
+Frameworks & Libraries: Spring Boot, Laravel, Ruby on Rails, SwiftUI
+Tools & Technologies: Docker, Jenkins, AWS, Firebase, Redis
+Concepts: Microservices, Blockchain, User Experience Design, Agile Methodologies
+
+Projects
+CodePair
+Pair programming platform for developers to practice coding interviews together
+
+Utilized Docker containers for isolated coding environments
+
+Implemented real-time code sharing with WebSocket
+
+Deployed on AWS EC2 instances with Jenkins CI/CD pipeline
+
+FinanceGuard
+Expense tracking app with predictive analytics for personal finance management
+
+Developed backend services using Spring Boot and MySQL
+
+Utilized Firebase ML Kit for expense trend predictions
+
+Integrated with Plaid API for real-time transaction updates
+
+AIHealthBot
+AI-powered virtual health assistant for symptom checking and medical queries
+
+Built chatbot using Google Dialogflow and TensorFlow
+
+Implemented NLP algorithms for symptom analysis and medical recommendations
+
+Designed a mobile app interface with Swift and SwiftUI
+
+Certifications
+AWS Certified Solutions Architect – Associate
+Certified Blockchain Developer (CBD)
+Red Hat Certified Engineer (RHCE)
+Mobile App Development with Flutter, Udemy
+Data Science and Machine Learning Bootcamp, Coursera
+
+Experience
+Software Engineer Intern
+TechStart Innovations, London
+Jan 2022 – Apr 2022
+
+Contributed to the development of a scalable microservices architecture
+
+Collaborated with cross-functional teams to optimize cloud resources
+
+Implemented automated testing with JUnit and Selenium
+
+Open Source Contributor
+GitHub Projects
+2019 – Present
+
+Contributed to various projects focusing on blockchain and AI technologies
+
+Collaborated with global developers to enhance open-source tools
+
+Participated in code reviews and issue tracking
+
+Side Projects
+HomelyRecipes
+Recipe management app for organizing and sharing cooking recipes
+
+Built with React Native and Firebase for real-time syncing
+
+Incorporated OCR technology for ingredient scanning from images
+
+Achieved 10,000+ downloads on Google Play Store
+
+Career Objectives
+Secure a full-time role in backend software development or AI engineering
+
+Contribute to cutting-edge projects that drive technological innovation
+
+Expand expertise in emerging technologies through continuous learning and hands-on experience

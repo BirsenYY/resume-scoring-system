@@ -1,0 +1,60 @@
+John Doe
+
+San Francisco | 123-456-7890 | john.doe@email.com
+
+Objective:
+
+Experienced Quality Assurance Engineer with a focus on building efficient testing frameworks and ensuring high-quality software delivery. Skilled in test automation, CI/CD integration, and API testing. Looking for opportunities to leverage my expertise in a dynamic tech environment.
+
+Experience:
+
+TechGenius Inc - QA Automation Engineer                Jan 2022 - Present
+
+- Led the development of an automated testing framework using Robot Framework and Jenkins.
+- Achieved 90% test coverage for a suite of microservices in a cloud-based application.
+- Implemented quality gates in CI/CD pipelines to improve release stability.
+
+SoftwareSolutions Co - QA Analyst                         Apr 2019 - Dec 2021
+
+- Conducted manual and automated testing for web and mobile applications.
+- Created comprehensive test plans and test cases for product features.
+- Collaborated with development teams to resolve defects and ensure product quality.
+
+InnovateTech Lab - Intern QA Tester                         Aug 2018 - Mar 2019
+
+- Assisted in functional and regression testing of a machine learning model deployment platform.
+- Documented test results and provided feedback on user interface improvements.
+- Contributed to the creation of automated test scripts using Python and Postman.
+
+Projects:
+
+Side Project - Test Automation Dashboard               2021
+
+- Developed a dashboard application to monitor test execution results and trends.
+- Integrated with TestRail API for real-time test case management.
+
+Side Project - Mobile App Performance Testing     2020
+
+- Conducted load and stress testing on a mobile e-commerce app to optimize performance.
+- Utilized JMeter and Apache Kafka for simulating user traffic spikes.
+
+Education:
+
+XYZ University                                      2015 - 2019
+
+BSc in Computer Science                                                  
+
+- Received certification in Agile Testing methodologies.
+- Completed a capstone project on automated testing in IoT devices.
+
+Certificates:
+
+- ISTQB Certified Tester Foundation Level
+- Certified Scrum Master
+- AWS Certified Solutions Architect - Associate
+- Google Cloud Professional Data Engineer
+- Blockchain Council Certified Blockchain Developer
+
+Tools and Technologies:
+
+Selenium, JIRA, Git & GitHub, Java, SQL, Pytest, Docker, REST APIs, CI/CD, Agile Scrum, Robot Framework, Kubernetes, Apache Kafka, TestNG

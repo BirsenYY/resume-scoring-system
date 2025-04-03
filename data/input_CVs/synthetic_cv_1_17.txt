@@ -1,0 +1,74 @@
+Ellen Thompson
+
+Phone: (cid:131) 555-987-6543 | Email: ellen.thompson@email.com | LinkedIn: linkedin.com/in/ellenthompson | GitHub: github.com/ellenthompson
+
+Skills
+
+Languages: Python, C++, JavaScript, R, SQL
+Frameworks: Django, Flask, Vue.js, D3.js, Symfony
+ML/AI: Reinforcement Learning, GANs, Neural Architecture Search
+Technologies: Kubernetes, Apache Kafka, RabbitMQ, Redis, Apache Beam, Elastic Stack
+Testing: PyTest, Selenium
+
+Certifications
+
+- AWS Solutions Architect Associate
+- Google Professional Data Engineer
+- Oracle Certified Professional, Java SE Programmer
+- Certified Kubernetes Administrator (CKA)
+- CompTIA Security+
+
+Experience
+
+ACME Enterprises   May 2019 – Present
+
+Senior Software Engineer
+
+- Architected a scalable data processing pipeline using Apache Kafka and Redis, increasing throughput by 30%.
+- Implemented a real-time anomaly detection system leveraging machine learning algorithms.
+- Mentored junior engineers on best practices in software development and design patterns.
+
+Software Developer Intern
+
+- Contributed to the development of a microservices architecture using Docker and Kubernetes.
+- Automated deployment processes leading to a 50% reduction in deployment time.
+- Collaborated with the data science team to deploy ML models in production.
+
+Side Projects
+
+Fraud Detection System
+
+- Built a fraud detection system using Random Forest and XGBoost to identify fraudulent transactions.
+- Integrated the system with a real-time data feed to detect anomalies.
+
+Semantic Search Engine
+
+- Developed a semantic search engine using Elasticsearch and natural language processing techniques.
+- Improved search relevancy by implementing word embeddings and entity recognition.
+
+Education
+
+- Carnegie Mellon University — MS in Machine Learning and Data Science | 2018 – 2020
+- University of California, Berkeley — BS in Computer Science | 2014 – 2018
+
+Projects
+
+Real-time Stock Market Prediction Model
+
+- Developed a machine learning model to predict stock prices in real-time using historical data and sentiment analysis of news articles.
+
+Algorithmic Trading Bot
+
+- Created an algorithmic trading bot using deep reinforcement learning techniques to make buy/sell decisions in the stock market.
+
+Flight Delay Prediction System
+
+- Built a system to predict flight delays using weather data, flight schedules, and historical delay information.
+
+Automated Instagram Bot
+
+- Programmed a bot to automate engagement on Instagram by liking posts, following users, and sending direct messages.
+
+Speech Recognition System
+
+- Designed a speech recognition system using deep learning models to transcribe audio inputs into text accurately.

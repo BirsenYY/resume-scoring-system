@@ -1,0 +1,121 @@
+```
+    Emily Johnson                                  
+
+                        San Francisco | emily.johnson@email.com | AI Engineer | AI Innovations   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    AI engineer specialized in computer vision applications and deep learning algorithms. Experienced in developing innovative solutions
+
+    and passionate about leveraging AI for real-world impact.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, C++, JavaScript, Go, Rust, Docker, Flask, • Frameworks: OpenCV, PyTorch, FastAPI, Hugging Face,
+
+     MLflow, Scikit-Optimize, MongoDB, Apache Spark                          
+
+    • Machine Learning: VGG16, U-Net, Mask R-CNN, Siamese Networks, • Tools: TensorFlow, Keras, DVC, CUDA, AWS SageMaker,
+
+     TPOT, XNNPACK, Kornia, ONNX, Apache Kafka, MXNet, Weights & Biases, Tech Innovators, AllenNLP, Ludwig,
+
+     Label Studio, Apple Core ML, Deep Java Library, Horovod, HyperNetX, PolyNet, BeamNG                
+
+     Jupyter Lab, Visdom, Kubeflow, Ray Tune                                         
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    AI Engineer | AI Innovations, San Francisco              May 2021 – Present
+
+    Autonomous Drone Navigation                                                   
+
+                                                                                  
+
+    • Led the development of an autonomous drone navigation system using Siamese Networks for obstacle detection and avoidance.
+
+    • Implemented Mask R-CNN for object tracking and VGG16 for image classification in real-time.
+
+    • Integrated Apache Kafka for real-time stream processing of drone telemetry data.
+
+    • Experimented with transfer learning techniques to enhance drone navigation in dynamic environments.
+
+    • Collaborated with the hardware team to optimize the system for low-latency operation.      
+
+    Tech Stack: Python, Siamese Networks, Mask R-CNN, VGG16, Apache Kafka, TensorFlow, CUDA          
+
+    Personalized Health Monitoring                                                
+
+    • Designed an AI-based personalized health monitoring system to analyze medical images for early disease detection.
+
+    • Utilized U-Net for medical image segmentation and implemented a custom object detection model for anomaly detection.
+
+    • Deployed the system on AWS SageMaker for scalability and real-time inference.
+
+    • Conducted model explainability studies to enhance trust and interpretability of the AI predictions.
+
+    • Ensured compliance with healthcare data regulations and privacy standards.        
+
+    Tech Stack: Python, U-Net, AWS SageMaker, Deep Java Library, Weights & Biases, Apache Spark            
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc Computer Vision & AI, Stanford University, California Oct 2019 - May 2021  
+
+    BSc Cognitive Science (Neuroscience), University of California, Los Angeles Sept 2016 
+
+    BSc Mathematics, University of Texas at Austin                                    Sept 2013 
+
+                                                                                  
+
+                                                                                  
+
+    CERTIFICATIONS                                                                 
+
+                                                                                  
+
+    • AWS Certified Machine Learning Specialist (2020)                               
+
+    • Microsoft Certified: Azure AI Engineer Associate (2022)                      
+
+    • Coursera: Deep Learning Specialization (2019)                                
+
+    • NVIDIA Deep Learning Institute: Fundamentals of Deep Learning for Computer Vision (2021)      
+
+    • CompTIA IT Fundamentals (ITF+) Certification (2018)                                       
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Augmented Reality App (Unity, ARCore)  • Image Super-Resolution (ESRGAN)      
+
+    • Gesture Recognition System (LSTM)     • Unsupervised Image Clustering (K-Means)    
+
+    • Video Anomaly Detection (Autoencoders) • Facial Emotion Recognition (FER)      
+
+    • Voice Command Translation (WaveNet)   • Data Privacy in Face Recognition     
+
+                                                                                  
+```

@@ -1,0 +1,64 @@
+Sarah Cooper
+Manchester, UK | (+44) 7562890421 | sarah.cooper@gmail.com | Work Rights: Yes/Full-Time
+linkedin.com/in/sarahcooper | github.com/SarahCoop | airbus.com/SarahCoop | medium.com/@sarahcoop
+
+PROFESSIONAL SUMMARY:
+
+Dynamic and skilled Mechanical Engineer with 8 years of experience in mechanical design, structural analysis, and renewable energy systems. Proficient in CAD modeling, FEA simulations, and sustainable product development practices. Strong expertise in leading project teams, optimizing manufacturing processes, and implementing innovative engineering solutions within the aerospace and green energy sectors. Currently expanding knowledge in robotics and AI integration in engineering projects.
+
+SKILLS:
+
+SolidWorks, NX Unigraphics, Pro/ENGINEER, LS-DYNA, Computational Fluid Dynamics, Renewable Energy Systems, Robotics, AI, 3D Printing, Lean Manufacturing, Project Management (Waterfall, Kanban), Java, R, LabVIEW, Risk Assessment, Failure Mode and Effects Analysis, Technical Writing, Supply Chain Management, Six Sigma, IoT, Data Analysis
+
+PROFESSIONAL EXPERIENCE:
+
+Senior Mechanical Engineer (Airbus) – Manchester, UK
+Oct 2018 – Present
+
+Led the design and simulation of advanced aircraft components, achieving a 12% increase in fuel efficiency and a 15% reduction in emissions
+
+Conducted FEA and CFD analyses on aerodynamic structures using LS-DYNA and STAR-CCM+, resulting in a 25% reduction in drag
+
+Implemented AI-powered predictive maintenance strategies to enhance aircraft operational performance and reduce downtime
+
+Collaborated with global engineering teams to streamline supply chain processes and ensure timely project delivery
+
+Mechanical Design Engineer (General Electric Renewable Energy) – Birmingham, UK
+Jun 2014 – Sep 2018
+
+Designed wind turbine blades and tower structures, focusing on enhancing energy capture efficiency and sustainability
+
+Created detailed 3D models and manufacturing drawings using NX Unigraphics and Pro/ENGINEER, optimizing production workflows
+
+Implemented IoT solutions for real-time monitoring of wind turbine performance, leading to a 20% increase in energy output
+
+Participated in failure mode analysis and risk mitigation strategies to improve wind turbine reliability and operational safety
+
+Junior Mechanical Engineer (Jaguar Land Rover) – Coventry, UK
+Aug 2012 – May 2014
+
+Supported the development of automotive chassis and suspension systems, focusing on structural integrity and vehicle performance
+
+Conducted finite element analysis and simulation studies to optimize component designs and reduce weight
+
+Contributed to new product launches and prototype testing activities, ensuring compliance with industry regulations
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Manchester, Manchester (Merit)
+Sep 2008 – Jul 2012
+
+BEng in Mechanical Engineering – University of Liverpool, Liverpool (First Class Honours)
+Sep 2004 – Jun 2008
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Licensed Professional Engineer (Institution of Mechanical Engineers) – 2019
+
+Certified NX CAD Specialist – 2016
+
+Renewable Energy Technologies (Stanford Online) – Ongoing
+
+Certified Lean Manufacturing Professional – 2015
+
+Industrial Robotics Fundamentals (Udacity) – 2021

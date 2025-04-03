@@ -1,0 +1,47 @@
+John Doe
+
+New York | 0999999 | john.doe@email.com | XYZ Innovations | XYZ Innovations
+
+WORDS ABOUT ME
+
+Experienced Quality Assurance Engineer dedicated to ensuring the delivery of high-quality software products through effective testing methodologies and automation practices. Proficient in developing and executing test strategies, building automated test suites, and integrating quality assurance processes into Agile workflows. Skilled in utilizing tools such as Selenium, JIRA, and Docker to drive continuous improvement in software quality.
+
+CURRENTLY BUILDING
+
+XYZ Innovations – Quality Assurance Engineer                 May 2022 - Present
+
+● Leading the design and implementation of a cutting-edge AI-driven testing framework for XYZ Innovations.
+
+PROJECTS
+
+Performance Testing Suite – link                                            2023
+
+● Developed a performance testing suite using JMeter and Gatling for analyzing the scalability of a cloud-based SaaS platform.
+
+● Identified and resolved performance bottlenecks resulting in a 30% increase in system efficiency.
+
+EXPERIENCE
+
+XYZ Tech – QA Engineer                                       Sep 2020 - May 2022
+
+● Spearheaded the automation of regression tests for XYZ Tech's Android and iOS mobile applications using Appium and TestNG.
+
+● Collaborated with development teams to introduce shift-left testing practices, reducing the time to market by 20%.
+
+XYZ Solutions – QA Analyst                                       Jan 2019 - Sep 2020
+
+● Implemented a comprehensive test strategy for XYZ Solutions' microservices architecture, utilizing Postman and Newman for API testing.
+
+● Conducted security testing using OWASP ZAP and participated in security compliance audits.
+
+EDUCATION
+
+XYZ College                                           2015 - 2019
+
+BSc in Computer Science
+
+● Awarded the Certificate in Software Quality Assurance for proficiency in software testing methodologies.
+
+TOOLS AND TECHNOLOGIES
+
+Selenium, JIRA, Docker, Postman, Git & GitHub, Jenkins, Appium, TestNG, JMeter, Gatling, OWASP ZAP, Python, Java, REST APIs, CI/CD, Agile Scrum, XYZ Tech, XYZ Solutions, XYZ Innovations, XYZ College

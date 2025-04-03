@@ -1,0 +1,62 @@
+Sophia Thompson
+
+123-456-7890 | sophia.thompson@email.com
+
+Education
+
+- MIT, Cambridge                     Sep 2018 - May 2022
+  - BSc Computer Science: Graduated with honors
+  - Courses included Machine Learning, Artificial Intelligence, Data Structures, and Algorithms
+  - Thesis on "Optimizing Neural Networks using Genetic Algorithms"
+
+- Oxford Brookes University                Sep 2014 - Jun 2018
+  - HND Web Development: Distinction
+  - Specialized in Frontend Development and User Experience Design
+
+Employment History
+
+- Software Engineer - Google                          Jul 2022 - Present
+  - Developed scalable web applications using ReactJS and Node.js
+  - Implemented machine learning models for personalized search recommendations
+  - Collaborated with cross-functional teams to optimize performance and user experience
+
+- UX Designer - IBM                            Jan 2019 - Jun 2022
+  - Led the design and prototyping of user interfaces for enterprise software products
+  - Conducted user research and usability testing to iterate on designs
+  - Worked closely with developers to ensure design feasibility and consistency
+
+Side Projects
+
+- Personal Portfolio Website                     Feb 2020 - Mar 2020
+  - Designed and developed a responsive portfolio website to showcase projects and skills
+  - Implemented animations and interactive elements using CSS and JavaScript
+
+- Mobile App Development - Freelance                        Sep 2018 - Dec 2019
+  - Collaborated with a startup to design and develop a mobile app for event management
+  - Integrated location-based services and push notifications for enhanced user engagement
+
+Certifications
+
+- AWS Certified Solutions Architect - Associate
+
+- Certified Scrum Master
+
+- Google Analytics Individual Qualification
+
+Extracurriculars
+
+- Hackathon Participant - Tech Challenge                     Mar 2019
+  - Developed a real-time chat application using Socket.io and React Native
+
+- Volunteer - Code for Good                         Sep 2020 - Dec 2021
+  - Contributed to building a website for a non-profit organization to promote environmental sustainability
+
+Additional Information
+
+Technical Skills: JavaScript, HTML/CSS, React, Node.js, Python, SQL
+
+Activities: Photography, Guitar, Hiking, Yoga
+
+Languages: English (Native), Spanish (Intermediate)
+
+Interests: Virtual Reality, Cryptocurrency, Travel, Cooking

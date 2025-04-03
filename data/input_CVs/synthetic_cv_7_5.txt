@@ -1,0 +1,92 @@
+    Amanda Lee                                  
+
+                        San Francisco | amanda.lee@email.com | Data Science | Data Science   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Data scientist specializing in natural language processing and predictive analytics. Skilled in developing machine learning models for various applications. Passionate about continuous learning and innovation in the field of data science.                                         
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, R, SQL, Scala, SAS, • Frameworks: Hugging Face Transformers, fastText, XGBoost,
+
+     Scrapy, Flask, MongoDB, Tableau, Spark                                      
+
+    • Machine Learning: BERT, ELMO, ULMFiT, • Tools: Databricks, Airflow, Docker, Git, AWS,
+
+     KNN, Decision Trees, LDA, Gradient Boosting Machines, Feature Engineering      GCP, Jenkins, Azure, Snowflake                      
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    Data Science Lead | Data Science Co., New York                     Jan 2020 – Present
+
+    Customer Churn Prediction for Telco Industry                                
+
+                                                                                  
+
+    • Developed a customer churn prediction model using XGBoost to identify at-risk customers and reduce churn rate.
+
+    • Implemented feature engineering techniques to enhance model performance and interpretability.        
+
+    • Utilized Hugging Face Transformers for sentiment analysis of customer interactions.
+
+    • Collaborated with cross-functional teams to deploy the model into production using Kubernetes on GCP.            
+
+    Tech Stack: Python, XGBoost, Hugging Face Transformers, Kubernetes, GCP, SQL                 
+
+    Fraud Detection System                                                       
+
+    • Built a fraud detection system using deep learning techniques such as LSTM and autoencoders.
+
+    • Conducted anomaly detection on transactional data to identify fraudulent patterns.
+
+    • Integrated the model into real-time processing pipelines using Apache Kafka and Snowflake.
+
+    • Automated model retraining and deployment with CI/CD pipelines on Azure DevOps.            
+
+    Tech Stack: Python, TensorFlow, PyTorch, LSTM, Autoencoders, Apache Kafka, Snowflake, Azure DevOps    
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc Data Science, Stanford University, California                     Oct 2019 - May 2021
+
+    BSc Mathematics (Honors), University of California, Los Angeles         Sept 2015  
+
+    BSc Economics, Harvard University, Massachusetts                        June 2013  
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Sentiment Analysis of Social Media Posts  • Image Captioning with CNNs          
+
+    • Time Series Forecasting for Stock Prices  • Customer Segmentation using K-Means  
+
+    • Recommendation System with Collaborative Filtering  • Topic Modeling with LDA        
+
+    • Chatbot Development with RASA Framework  • Predictive Maintenance using Random Forests
+    ```

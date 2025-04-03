@@ -1,0 +1,77 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Results-oriented Software Engineer with over 4 years of experience in backend system design and development. Skilled in creating efficient code in Python, Java, and C++. Experienced in contributing to test automation, CI/CD pipelines, and ensuring system reliability. Committed to delivering secure and user-centric software solutions.
+
+Technical Skills
+Languages: Python, Java, C++, JavaScript, Ruby
+
+Frameworks & Tools: Django, Express.js, Spring Boot, Flask, React, Puppet, Apache Kafka
+
+DevOps & CI/CD: Docker, Jenkins, GitLab CI/CD, Kubernetes, Ansible
+
+Databases: SQLite, Cassandra, Redis, MariaDB
+
+Cloud & Platforms: AWS (EC2, RDS, S3, Lambda), Azure, Ubuntu
+
+Others: GraphQL, RESTful APIs, Microservices Architecture, Agile Methodologies, Behavioral Testing
+
+Professional Experience
+Senior Software Engineer
+TechCraft Innovations, London, UK
+Sep 2019 – Present
+
+Led the development of microservices in Python and Ruby, hosted on AWS EC2 and RDS
+
+Collaborated with cross-functional teams to integrate APIs and enhance user experiences using React
+
+Implemented a caching mechanism that reduced database querying time by 25%
+
+Introduced behavioral testing practices and monitoring solutions to ensure system stability
+
+Contributed to sprint planning, conducted code reviews, and mentored junior team members
+
+Software Engineer
+VibeNet Technologies, London, UK
+Mar 2017 – Aug 2019
+
+Developed internal engineering tools in C++ and Python to streamline developer workflows
+
+Automated testing processes and integrated them into CI/CD pipelines using Jenkins and Ansible
+
+Designed and implemented APIs for system validation and data processing tasks
+
+Worked closely with development and release teams to maintain code quality and build stability
+
+Refactored legacy scripts, enhancing modularity and test coverage
+
+Side Projects
+1. Created a chatbot using Node.js and MongoDB for automated customer support (2021)
+2. Developed a web scraping tool in Python to collect real-time data for analysis (2018)
+
+Engineering Intern
+CloudWorks Ltd., London, UK
+Oct 2016 – Feb 2017
+
+Assisted in validating software components in distributed systems
+
+Contributed to the development of automated test frameworks using Java, Selenium, and TestNG
+
+Participated in code reviews and collaborated with software engineers on feature enhancements
+
+Education
+MSc in Computer Science
+Imperial College London, UK
+2014 – 2017
+
+Certifications
+- Certified ScrumMaster (CSM)
+- MongoDB Certified Developer
+- Linux Foundation Certified System Administrator
+
+Languages
+English (Native), French (Intermediate)
+
+References
+Available upon request

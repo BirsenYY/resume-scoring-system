@@ -1,0 +1,54 @@
+John Doe
+San Francisco | 0999999 | john.doe@email.com | XYZ Technologies | XYZ Technologies
+
+PROFILE
+
+Experienced Quality Assurance Engineer with a strong background in designing and implementing test strategies for web and mobile applications. Proficient in automation using tools like Robot Framework, TestNG, and SoapUI. Skilled at working in Agile environments and integrating testing processes with CI/CD pipelines to ensure seamless software delivery.
+
+CURRENT POSITION
+
+XYZ Technologies – Quality Assurance Engineer                    Apr 2022 – Present
+
+Co-leading QA efforts and automation initiatives for a fintech product, ensuring high-quality releases and optimal test coverage.
+
+SIDE PROJECTS
+
+Automation Script Library – link                                         2023     
+
+- Curated a library of reusable automation scripts in Python and Java for common testing scenarios.
+- Implemented a Slack bot for script suggestions and version control management.
+
+EXPERIENCE
+
+XYZ Digital Solutions – QA Automation Engineer               Sep 2020 – Apr 2022
+
+- Developed end-to-end automated test suites for React Native apps using Appium and Espresso.
+- Automated API testing with Newman and Swagger to enhance backend validation processes.
+- Conducted load testing using JMeter to evaluate system performance under various scenarios.
+
+XYZ Innovations – QA Analyst                                              Jan 2019 – Sep 2020
+
+- Created comprehensive test plans for a cloud-based CRM platform.
+- Executed manual and automated tests, ensuring the reliability and functionality of critical features.
+- Collaborated with cross-functional teams to prioritize test scenarios and resolve issues promptly.
+
+EDUCATION
+
+XYZ University                                              2015 – 2019
+
+BSc in Computer Science                                                        
+
+- Awarded the Best Capstone Project for developing a scalable automation framework using RPA.
+- Conducted research on the impact of AI-driven testing tools on software quality assurance practices.
+
+CERTIFICATIONS
+
+1. Certified Scrum Master (CSM)
+2. ISTQB Certified Tester – Foundation Level
+3. AWS Certified Solutions Architect – Associate
+4. Google Cloud Professional Data Engineer
+5. Certified Blockchain Developer (CBD)
+
+TOOLS AND TECHNOLOGIES
+
+Appium, Espresso, Newman, SoapUI, TestNG, JMeter, RPA, Java, Python, SQL, Git, CI/CD, Agile Scrum, XYZ Digital Solutions, XYZ Innovations, XYZ Technologies

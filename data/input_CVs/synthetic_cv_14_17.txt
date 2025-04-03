@@ -1,0 +1,104 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Passionate Computer Science graduate with a solid background in software engineering and a keen interest in backend development and data analysis. Experienced in designing and implementing innovative projects while adhering to programming best practices and fostering teamwork. Actively seeking challenging opportunities in software development or applied data science.
+
+Education
+BSc Computer Science
+King's College London – London, UK
+Graduated: June 2023
+
+Attained First-Class Honors with Distinction
+
+Key Courses: Advanced Algorithms, Cloud Computing, Data Visualization, Machine Learning, Cybersecurity
+
+Final Year Project: Autonomous Traffic Management System using IoT Sensors
+
+Technical Skills
+Programming Languages: Java, R, PHP, Swift, TypeScript
+Frameworks & Tools: Spring Boot, TensorFlow, Laravel, SwiftUI
+Databases: MySQL, PostgreSQL, Firebase
+Version Control: Git, SVN
+Methodologies: Agile, Scrum, Kanban, TDD
+
+Projects
+DataHub
+Web application for analyzing financial market trends and recommending investment strategies
+
+Utilized R for data processing and analysis
+
+Implemented predictive modeling with TensorFlow
+
+Deployed on AWS for scalability
+
+HealthMonitor+
+Mobile app for tracking fitness metrics and providing personalized workout plans
+
+Developed using Swift and Firebase
+
+Integrated machine learning algorithms for health prediction
+
+Featured in the top health apps on the App Store
+
+LearningBuddy
+AI-powered study companion to recommend personalized learning resources
+
+Implemented natural language processing using NLTK
+
+Utilized collaborative filtering for content recommendation
+
+Deployed as a web service using Spring Boot
+
+Certifications
+AWS Certified Solutions Architect – Associate
+Microsoft Certified: Data Analyst Associate
+CompTIA Security+
+
+Experience
+Software Developer Intern – TechStartup Ltd
+London, UK
+Jul 2022 – Dec 2022
+
+Collaborated with the development team on building features for a SaaS platform
+
+Participated in code reviews and testing procedures
+
+Contributed to optimizing database queries for performance improvement
+
+Junior Data Analyst – DataTech Solutions
+London, UK
+Jan 2021 – Jun 2021
+
+Cleaned and preprocessed large datasets for analysis
+
+Created interactive visualizations for client presentations
+
+Collaborated with senior analysts on machine learning projects
+
+Side Projects
+CodeBuddies
+Online platform connecting aspiring programmers for collaborative coding sessions
+
+Developed using Django and Vue.js
+
+Implemented real-time code sharing and video chat functionalities
+
+Helped beginner coders improve their skills through mentorship
+
+CloudNotes
+Web-based note-taking application with cloud synchronization
+
+Built with Angular and Node.js
+
+Integrated OAuth2 for secure user authentication
+
+Available as a PWA for seamless cross-device usage
+
+Career Objectives
+Pursue advanced studies in artificial intelligence and gain expertise in natural language processing
+
+Contribute to socially impactful projects involving data analysis and predictive modeling
+
+Build a strong professional network through industry collaborations and community involvement

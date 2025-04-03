@@ -1,0 +1,83 @@
+    Amazon                                    
+
+                                                                                    
+
+                 Seattle, US | (+1) 987-654-3210 | jane.smith@email.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Detail-oriented Data Scientist and Certified Cloud Architect with 6 years of experience. Specialized in data analytics, cloud infrastructure,
+
+      and DevOps. Proficient in Python, SQL, and Apache Spark. Currently expanding expertise in deep learning models, serverless computing,
+
+      and CI/CD pipelines. Skilled in leading cross-functional teams, optimizing data workflows, and delivering scalable solutions for diverse
+
+      industries.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, R, Scala, Java, SQL | PostgreSQL, Redis, Cassandra | PySpark, Hadoop, Kubeflow | Deep Learning, Serverless Computing, 
+
+      CI/CD Pipelines | Docker, Kubernetes | GitHub, Jenkins, Terraform, AWS                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Data Engineer (Datalytics Inc.) - San Francisco, US     March 2022 : Present
+
+    ● Designed and implemented scalable data pipelines using Apache Spark and Kafka, reducing data processing time by 30%
+
+    ● Developed real-time analytics solutions for IoT data using Apache Flink and AWS Lambda, improving data accuracy and timeliness
+
+    ● Collaborated with cross-functional teams to deploy CI/CD pipelines for automated testing and deployment processes
+
+    ● Led the migration of on-premises data infrastructure to AWS cloud, resulting in cost savings and improved scalability
+
+     Machine Learning Specialist (IBM) - New York, US      Jan 2020 : Feb 2022
+
+    ● Built and deployed machine learning models for predictive maintenance in manufacturing industries, reducing downtime by 20%
+
+    ● Implemented anomaly detection algorithms using unsupervised learning techniques for fraud detection in financial transactions
+
+    ● Optimized model training and deployment processes using Kubernetes and Docker containers
+
+    ● Conducted data analysis and visualization to derive actionable insights for business stakeholders
+
+     Data Analyst (DataInsight) - Chicago, US      May 2018 : Nov 2019
+
+    ● Performed exploratory data analysis on customer behavior data to identify patterns and trends
+
+    ● Developed predictive models for customer churn prediction using machine learning algorithms
+
+    ● Automated data cleaning and preprocessing tasks using Python scripts and pandas library
+
+    ● Created interactive dashboards and reports for data visualization and reporting purposes
+
+    EDUCATION:                                                                      
+
+    MS in Data Science - Columbia University, New York (Distinction) July 2015 : June 2017
+
+    BS in Computer Engineering - Georgia Tech, Atlanta (Honors) June 2011 : May 2015
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Cloud Security Professional (CCSP)                          May, 2022
+
+    ● Google Cloud Professional Data Engineer Certification               Nov, 2021
+
+    ● Data Engineering with AWS (by A Cloud Guru)                          Aug, 2020
+
+    ● Apache Spark Developer Certification (by Databricks)               July, 2019
+
+    ● Certified Kubernetes Administrator (CKA)                                  Feb, 2018

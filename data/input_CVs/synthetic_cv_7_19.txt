@@ -1,0 +1,99 @@
+    Alice Johnson                                  
+
+                        San Francisco | alice.johnson@email.com | AI Specialist | AI Solutions   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    AI specialist with a strong foundation in computer science. Experienced in developing AI-driven applications and continuous learning in the field of artificial intelligence.                                          
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, C, Scala, Go, Docker, Flask, • Frameworks: Apache MXNet, CatBoost, Hugging Face Transformers, FastAPI, MySQL, PostgreSQL                          
+
+    • Machine Learning: LSTMs, Transformer-XL, Capsule Networks, Self-Organizing Maps, Kernel Methods, Decision Trees, Bayesian Networks, Isolation Forests, AutoML, Gradient Boosting Machines, Differential Privacy, Transfer Learning, Evolutionary Algorithms, Natural Language Generation                        
+
+    • Tools: Jupyter Notebook, PyCharm, GitLab, Jenkins, Kubernetes, Prometheus, Grafana, Seldon Core, AWS Sagemaker, Microsoft Azure Machine Learning, Google Cloud AI Platform, IBM Watson Studio, Oracle Data Science, Pachyderm, BigML, Metaflow, Ludwig                                
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    AI Engineer | AI Solutions, San Francisco              July 2020 – Present
+
+    Facial Recognition System Integration with AR Technology                    
+
+                                                                                  
+
+    • Integrated facial recognition system with augmented reality technology for seamless user authentication and personalized experiences.
+
+    • Developed novel Transformer-XL models for text-to-image generation and real-time facial recognition.
+
+    • Leveraged Differential Privacy techniques to enhance user data protection and privacy compliance.
+
+    • Collaborated with UX designers to create intuitive AR interfaces for enhanced user engagement and retention.
+
+    • Implemented Continuous Deployment pipelines using Kubernetes for efficient model deployment and monitoring.                     
+
+                                                                                  
+
+    Tech Stack: Python, Transformer-XL, Nikola, TensorFlow Extended, Google ARCore, Facial Recognition API, Docker, Kubernetes, Prometheus, Grafana                         
+
+    AI-Driven Anomaly Detection Platform                                                   
+
+    • Created an AI-driven anomaly detection platform for real-time monitoring of system metrics and performance.
+
+    • Utilized Isolation Forests and AutoML techniques for anomaly detection with minimal false positives.
+
+    • Designed and implemented interpretable machine learning models for root cause analysis of anomalies.
+
+    • Automated model retraining pipelines using Seldon Core and GitLab CI/CD for continuous model improvement.
+
+    • Integrated anomaly detection platform with alerting systems for timely incident response and mitigation.                        
+
+                                                                                  
+
+    Tech Stack: Python, Scikit-learn, CatBoost, Seldon Core, GitLab CI/CD, Prometheus, Grafana, Kubernetes, ARIMA, Prophet                          
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    PhD in Artificial Intelligence, Stanford University, California     Sept 2018 - Present
+
+    MSc Computer Science, University of California, Los Angeles                     Sept 2015 
+
+    BSc Mathematics (Honors), University of Pennsylvania, Pennsylvania                  Sept 2012 
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • IoT Sensor Data Analysis (Capsule Networks)          • Image Segmentation with Self-Organizing Maps
+
+    • Stock Price Prediction (Kernel Methods)              • Recommender System with Bayesian Networks
+
+    • Sentiment Analysis (Gradient Boosting Machines)      • Video Generation with Evolutionary Algorithms
+
+    • Chatbot Development (Transfer Learning)              • Fraud Detection using AutoML
+
+    • Personalized Content Recommendations (Natural Language Generation)                  • AI Art Generation using GANs

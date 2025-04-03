@@ -1,0 +1,51 @@
+
+Johnathan Smith
+
+Phone: (cid:131) 555-987-6543  
+Email: john.smith@email.com  
+LinkedIn: linkedin.com/in/johnsmith  
+GitHub: github.com/johnsmith
+
+Skills:
+- Languages: C++, Python, JavaScript, Ruby, SQL
+- Frameworks: Vue.js, Django, Flask, Sinatra, Node.js
+- ML/AI: GANs, XGBoost, AutoML, Neural Architecture Search
+- Technologies: Kubernetes, AWS, Azure, Google Cloud, RabbitMQ, Redis, GraphQL
+- Testing: Selenium, JUnit, PyTest
+
+Certifications:
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Azure AI Engineer Associate
+- Certified Blockchain Developer - Hyperledger Fabric
+- CompTIA Secure Infrastructure Specialist
+- Certified Kubernetes Application Developer (CKAD)
+
+Experience:
+ACME                                            Mar 2020 – Present
+Machine Learning Engineer
+
+- Spearheaded development of a real-time anomaly detection system for IoT devices, reducing false positives by 20%.
+- Implemented a recommendation engine using collaborative filtering techniques, boosting user engagement by 15%.
+- Coordinated a cross-functional team to deploy a scalable microservices architecture on Kubernetes.
+
+ACME                                            Sep 2018 – Feb 2020
+Software Developer
+
+- Led the migration of legacy systems to modern cloud infrastructure, improving system performance by 30%.
+- Developed a data visualization dashboard for monitoring system health and performance metrics.
+- Automated deployment processes using CI/CD pipelines, reducing deployment time by 50%.
+
+Side Projects:
+- Sentiment Analysis Twitter Bot: Developed a Twitter bot that performs sentiment analysis on tweets using NLP techniques.
+- Image Captioning AI: Implemented an image captioning model using deep learning to generate descriptive captions for images.
+
+Education:
+- University of Toronto — MSc Artificial Intelligence & Machine Learning   2022
+- University of California, Berkeley — BSc Computer Science (Honors)    2015 – 2019  
+
+Projects:
+- Facial Recognition System: Designed a facial recognition system using OpenCV and deep learning for identity verification.
+- Stock Price Prediction Model: Built a machine learning model to predict stock prices based on historical data and market trends.
+- Chatbot for Customer Support: Created a chatbot using natural language processing to handle customer inquiries and provide support.
+- Fraud Detection System: Developed a fraud detection system using machine learning algorithms to identify suspicious transactions.
+- E-commerce Recommendation Engine: Implemented a recommendation engine for an e-commerce platform to personalize product recommendations for users.

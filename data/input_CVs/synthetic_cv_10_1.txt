@@ -1,0 +1,60 @@
+Sarah Brooks
+Manchester, UK | (+44) 7462183091 | sarah.brooks@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/sarahbrooks | github.com/SarahBrooks | sarahbrooks.com | medium.com/@sarahbrooks
+
+PROFESSIONAL SUMMARY:
+
+Dynamic Mechanical Engineer with 8 years of hands-on experience in product design, structural analysis, and sustainable engineering solutions. Proficient in CAD modeling, FEA simulations, and project management within the aerospace and automotive industries. Skilled in leading cross-functional teams, optimizing manufacturing processes, and implementing innovative technologies for enhanced operational efficiency.
+
+SKILLS:
+
+SolidWorks, AutoCAD, CATIA, ANSYS, MATLAB, CFD, Thermodynamics, Structural Analysis, Root Cause Analysis, CNC Machining, Agile Project Management, Python, Technical Documentation, SAP, PLM Systems, 3D Printing, Six Sigma, GD&T, MS Office Suite, Innovation Management
+
+PROFESSIONAL EXPERIENCE:
+
+Senior Mechanical Engineer (Airbus UK) – Manchester, UK
+Mar 2018 – Present
+
+Led the design and development of advanced composite structures, improving aircraft fuel efficiency by 12% and reducing weight by 15%
+
+Conducted FEA simulations and CFD analysis to optimize wing aerodynamics, resulting in a 20% reduction in drag
+
+Implemented additive manufacturing techniques for rapid prototyping, reducing lead times by 30% while ensuring product quality
+
+Collaborated with cross-functional teams to implement lean methodologies, enhancing production processes and ensuring on-time project delivery
+
+Mechanical Design Engineer (Jaguar Land Rover) – Coventry, UK
+Aug 2014 – Feb 2018
+
+Designed innovative automotive components, focusing on lightweight materials and aerodynamic performance
+
+Created detailed CAD models and engineering drawings for vehicle chassis and powertrain assemblies, improving overall vehicle efficiency
+
+Implemented Kaizen principles to streamline assembly processes, reducing production costs by 18% and enhancing product quality
+
+Participated in failure mode and effects analysis (FMEA) to identify potential design weaknesses and ensure product reliability
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Birmingham, Birmingham (First Class Honours)
+Sep 2010 – Jun 2014
+
+BSc in Aerospace Engineering – University of Manchester, Manchester (Distinction)
+Sep 2006 – Jun 2010
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Chartered Engineer (Institution of Mechanical Engineers) – 2019
+
+Certified CATIA Professional – 2017
+
+Advanced Robotics and Automation (Stanford Online) – Ongoing
+
+Lean Six Sigma Black Belt – 2020
+
+Innovative Product Development (Harvard Extension School) – 2022
+
+Side Projects:
+
+1. Autonomous Drone Project - Developed a prototype autonomous drone system for aerial surveillance using Raspberry Pi and OpenCV
+2. Green Energy Initiative - Led a team in designing a sustainable energy storage solution using recycled materials for community use

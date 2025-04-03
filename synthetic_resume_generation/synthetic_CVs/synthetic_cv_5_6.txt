@@ -1,0 +1,99 @@
+Emily Smith                                
+
+                          555-123-4567 | emily.smith@email.com             
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                               
+
+    Yale University, New Haven                    Sep 2018 - May 2022
+
+      ●  BSc Computer Science: Graduated with Honors in Computer Science                      
+
+      ●  Achieved top marks in AI & Robotics, including projects on Reinforcement Learning and Computer Vision
+
+      ●  Awarded a certificate in Cybersecurity and Ethical Hacking from Cisco Networking Academy
+
+    University of Tokyo, Japan                          Sep 2023 - Dec 2023
+
+      ●  Quantum Computing Fundamentals Workshop (< 5% acceptance rate)             
+
+      ●  Explored topics such as Quantum Entanglement, Quantum Gates, Quantum Algorithms, and Quantum Cryptography
+
+    Paris Institute of Technology, France                                   Sep 2015 - Jun 2018
+
+      ●  Major in Mathematics: Focus on Number Theory and Cryptography                   
+
+      ●  Activities and Societies: President of Mathematics Club, Volunteer Tutor for Underprivileged Students
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Software Developer – Google                           Mar 2024 - Present
+
+    Google is a multinational technology company specializing in Internet-related services and products.
+
+      ●  Developed scalable software solutions for Google Cloud Platform, focusing on data analysis and visualization
+
+      ●  Collaborated with cross-functional teams to implement machine learning models for predictive analytics
+
+      ●  Recognized for outstanding performance and received the Google Innovation Award for a project on automated testing
+
+    Data Science Intern – IBM                           Jun 2022 - Aug 2022
+
+    IBM is a global technology company offering hardware, software, and consulting services.
+
+      ●  Conducted data analysis and visualization on customer behavior patterns using Python and SQL
+
+      ●  Contributed to a machine learning project aimed at optimizing supply chain processes
+
+      ●  Presented findings to senior executives, leading to the implementation of data-driven decision-making strategies
+
+    Teaching Assistant – MIT                           Sep 2021 - Dec 2021
+
+    Massachusetts Institute of Technology is a prestigious research university known for its programs in science and engineering.
+
+      ●  Assisted professors in delivering lectures and grading assignments for a graduate-level course in Artificial Intelligence
+
+      ●  Led weekly discussion sessions on advanced topics in machine learning and neural networks
+
+      ●  Mentored students on their final projects, resulting in innovative solutions and research contributions
+
+                                                                                  
+
+    Side Projects                                                              
+
+                (in order of relevance)                                           
+
+    Personal Blog on Data Science Trends          Jan 2023 - Present
+
+      ●  Published articles on emerging trends in data science, machine learning, and AI
+
+      ●  Engaged with a growing audience through social media and networking events
+
+    Open Source Contribution – GitHub              Apr 2022 - Sep 2022
+
+      ●  Contributed to open-source projects related to natural language processing and computer vision
+
+      ●  Collaborated with developers worldwide to enhance the functionality and performance of the projects
+
+    Mobile App Development – React Native              Jun 2021 - Dec 2021
+
+      ●  Designed and developed a mobile app for language learning, implementing interactive exercises and quizzes
+
+      ●  Conducted user testing and feedback sessions to iterate on the app's features and usability
+
+                                                                                  
+
+    Technical Skills: Java, Python, SQL, TensorFlow, Tableau, AWS
+
+    Activities: Competitive Coding, Toastmasters International, Hiking, Photography
+
+    Languages: English (Native), French (Fluent), Japanese (Intermediate), Spanish (Elementary)
+
+    Interests: Artificial Intelligence Ethics, Blockchain Technology, Traveling, Yoga, Cooking

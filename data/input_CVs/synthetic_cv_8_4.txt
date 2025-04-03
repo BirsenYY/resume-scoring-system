@@ -1,0 +1,57 @@
+Alice Johnson
+
+San Francisco | 0999999 | alice.johnson@email.com | XYZ Innovations | XYZ Innovations
+
+WORDS ABOUT ME
+
+Quality Assurance Engineer with a strong background in developing and implementing innovative testing strategies for web and mobile applications. Proficient in building automated test suites and ensuring high-quality software delivery. Skilled in test automation using tools like Appium, TestNG, and JUnit, with a keen interest in enhancing testing processes through continuous improvement.
+
+CURRENTLY BUILDING
+
+XYZ Innovations – Quality Assurance Engineer              Mar 2023 – Present
+
+- Spearheading the development of a cutting-edge testing framework for XYZ Innovations (LINK TO GITHUB)
+
+PROJECTS
+
+Mobile Test Automation Suite – link                                       2023
+
+- Orchestrated the creation of a mobile test automation suite using Appium and TestNG.
+- Achieved 90% test coverage for iOS and Android platforms on a flagship mobile application.
+
+Side Project: Load Testing Tool Integration – link                2022
+
+- Integrated JMeter and Gatling for load testing automation across multiple projects.
+- Improved system performance by identifying and rectifying bottlenecks.
+
+EXPERIENCE
+
+XYZ Quality Solutions – QA Engineer                                   Sep 2021 – Mar 2023
+
+- Innovated testing strategies for IoT devices and cybersecurity software solutions.
+- Implemented automated test scripts using Robot Framework for end-to-end testing.
+- Collaborated with cross-functional teams to enhance product quality and user experience.
+
+XYZ Software Labs – Test Automation Specialist                   Jan 2020 – Sep 2021
+
+- Developed robust test scripts using Java and Selenium for web applications.
+- Conducted compatibility testing on various browsers to ensure seamless user experience.
+- Identified and resolved critical defects through thorough regression testing procedures.
+
+XYZ Tech - Test Analyst                                                       Apr 2018 – Jan 2020
+
+- Executed manual and automated testing for cloud-based SaaS platforms.
+- Conducted performance testing using JMeter to assess system scalability.
+- Participated in sprint planning meetings to align testing activities with development timelines.
+
+EDUCATION
+
+XYZ State University                                                     2014 – 2018
+
+BSc in Computer Science                                                            
+
+- Graduated with Distinction – Final year project on AI-driven test automation in software development.
+
+TOOLS AND TECHNOLOGIES
+
+Appium, TestNG, JUnit, Robot Framework, JMeter, Gatling, Git & GitHub, TestLink, Java, Python, RESTful APIs, Docker, CI/CD, Agile Scrum, XYZ Tech, XYZ Software Labs

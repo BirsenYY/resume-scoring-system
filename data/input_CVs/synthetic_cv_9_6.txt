@@ -1,0 +1,65 @@
+Maria Rodriguez
+
+San Francisco | 0888888 | maria.rodriguez@email.com | Portfolio: mariarodriguez.tech | GitHub: github.com/mariarodriguez
+
+WORDS ABOUT ME
+
+Computer Science enthusiast with a knack for leveraging data science and software engineering to tackle complex challenges. Adept at developing innovative solutions, with a passion for exploring cutting-edge technologies and creating impactful projects. Skilled in Python, Java, and cloud computing tools, dedicated to translating ideas into tangible, efficient tools.
+
+CURRENTLY BUILDING
+
+OpenAI GPT-3 Chatbot – Software Engineer                Sep 2024 – Present
+
+● Developing a conversational AI chatbot powered by OpenAI's GPT-3 model for natural language processing and generation.
+
+PROJECTS
+
+🏆 AI Ethics Certification – Tech for Good Initiative               2025
+
+● Spearheaded a project to raise awareness of ethical considerations in AI development, achieved certification from a reputable organization.
+
+● Implemented AI fairness, transparency, and accountability principles in datasets and models.
+
+CyberSecure – Network Security Monitoring Tool              2024
+
+● Designed and implemented a network security monitoring tool to detect and mitigate cybersecurity threats in real-time.
+
+● Integrated with Wireshark and Splunk for data analysis and visualization.
+
+HealthMate – Personalized Healthcare Assistant                 2023
+
+● Developed a healthcare assistant using machine learning to provide personalized recommendations for a healthy lifestyle.
+
+● Utilized natural language processing to understand user queries and TensorFlow for model training.
+
+CodeCraft – Agile Project Management Tool                         2023
+
+● Created an agile project management tool to streamline the software development process and enhance team collaboration.
+
+● Integrated with Jira and Trello for task tracking and automated sprint planning.
+
+EXPERIENCE
+
+Software Engineer                                            Apr 2023 – Aug 2024
+
+● Contributed to the development of a scalable e-commerce platform, focusing on backend services and API integrations.
+
+● Implemented microservices architecture using Spring Boot and Docker for containerization.
+
+Startup Intern – Data Analytics                               Oct 2022 – Mar 2023
+
+● Conducted data analysis on user behavior and engagement metrics to optimize marketing strategies.
+
+● Assisted in implementing machine learning models for personalized recommendations.
+
+EDUCATION
+
+Stanford University                                             2020 – 2024
+
+BSc Computer Science
+
+● Senior Capstone Project: "AI-Powered Fraud Detection System" – achieved 95% accuracy in detecting fraudulent transactions.
+
+TOOLS AND TECHNOLOGIES
+
+Java, Spring Boot, Python, TensorFlow, Docker, AWS, SQL, Tableau, Jira, Trello, Wireshark, Splunk, Agile Methodologies, GPT-3

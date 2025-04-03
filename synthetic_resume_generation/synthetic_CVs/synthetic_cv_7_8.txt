@@ -1,0 +1,102 @@
+```
+    Anna Chen                                  
+
+                        San Francisco | anna.chen@email.com | AI Engineer | AdvancedTech AI   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Experienced AI engineer with a strong foundation in computer science. Specializing in developing cutting-edge AI applications and a continuous pursuit of knowledge in machine learning.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, C#, Scala, Go, Docker, Flask, • Frameworks: FastAI, Hugging Face, Ludwig, Catboost, 
+
+     Scikit-Optimize                          
+
+    • Machine Learning: Transformer Architectures, GANs, Hyperparameter Optimization, Time Series Analysis, Graph Neural Networks, 
+
+     Active Learning, Imbalanced Learning, Recommender Systems, Adversarial Attacks, Multi-Instance Learning                          
+
+    • Tools: Colab, PyCharm, GitHub, Kubernetes,
+
+     Azure Machine Learning, IBM Watson, Caffe, Airflow, OpenShift, Dynatrace,                          
+     KubeFlow, Apache NiFi, Gradle                                         
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    AI Engineer | AdvancedTech AI, Silicon Valley              Mar 2021 – Present
+
+    Neural Network for Image Restoration                                          
+
+                                                                                  
+
+    • Developed a deep neural network for image restoration using GANs and CycleGAN architecture.
+
+    • Implemented hyperparameter optimization techniques to enhance network performance.
+
+    • Conducted extensive time series analysis to predict image sequence reconstruction.
+
+    • Explored graph neural networks for improved pattern recognition in image restoration.
+
+    • Secured models against adversarial attacks using robust multi-instance learning strategies.
+
+    Tech Stack: Python, PyTorch, GANs, CycleGAN, Hyperopt, Graph Neural Networks, 
+
+    API Services (Azure), Adversarial Defense                                       
+
+    Multi-Sensor Fusion System                                                     
+
+    • Engineered a multi-sensor fusion system to integrate and process data from diverse sources for object detection.
+
+    • Utilized Active Learning to improve the system's ability to adapt and learn from new data.
+
+    • Optimized recommender systems to enhance fusion system recommendations based on sensor inputs.
+
+    • Implemented graph neural networks to detect anomalies in sensor data for enhanced accuracy.
+
+    • Ensured data integrity and quality through rigorous imbalanced learning techniques.
+
+    Tech Stack: Python, Hugging Face, Ludwig, Active Learning, Recommender Systems, Graph Neural Networks
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc Machine Learning and AI, Stanford University, California              Sept 2021 - May 2023
+
+    BSc Computer Science (First-Class), Carnegie Mellon University, Pittsburgh                  Sept 2018 
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Voice Emotion Recognition (GANs)  • Anomaly Detection System using Graph Neural Networks   
+
+    • Sentiment Analysis Bot (Ludwig)   • Financial Risk Prediction Model (Catboost)        
+
+    • Music Genre Classification (Hugging Face)  • Dynamic Pricing Algorithm (Adversarial Attacks) 
+
+    • Facial Recognition System (Active Learning)  • Chatbot Customer Support (Multi-Instance Learning)
+    ```

@@ -1,0 +1,63 @@
+Alice Brown
+Manchester, UK | (+44) 7561238974 | alice.brown@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/alicebrown | github.com/AliceBrown | medium.com/@alicebrown
+
+PROFESSIONAL SUMMARY:
+
+Results-driven Mechanical Engineer with 7 years of experience in mechanical design, structural analysis, and sustainable product development. Specialised in CAD modeling, FEA simulations, and advanced manufacturing techniques. Skilled in project management, team leadership, and innovative engineering solutions within the aerospace and automotive industries. Currently expanding expertise in robotics and machine learning applications.
+
+SKILLS:
+
+SolidWorks, CATIA, NX, Abaqus, MathCAD, Thermodynamics, Fluid Dynamics, Composite Materials, CNC Machining, Project Management, Six Sigma, Java, R, SAP, PLM, Technical Writing, Failure Mode Analysis, Root Cause Investigations
+
+PROFESSIONAL EXPERIENCE:
+
+Lead Mechanical Engineer (Airbus) – Manchester, UK
+Sept 2018 – Present
+
+Managed design and analysis of composite aircraft structures, resulting in a 12% weight reduction and enhanced fuel efficiency
+
+Executed FEA simulations and fluid flow analysis using NX and ANSYS, improving structural integrity by 18%
+
+Implemented machine learning algorithms to predict maintenance schedules, reducing downtime by 15%
+
+Collaborated with international teams to deliver projects on time and within budget, ensuring quality and safety standards
+
+Mechanical Design Specialist (Jaguar Land Rover) – Coventry, UK
+Apr 2014 – Aug 2018
+
+Developed innovative vehicle chassis designs focusing on durability and lightweight construction
+
+Utilised advanced CAD tools like CATIA and Abaqus to create detailed 3D models and conduct virtual simulations
+
+Led cross-functional teams in process improvement initiatives, increasing production efficiency by 20%
+
+Participated in field tests and prototype evaluations to validate design performance and reliability
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Manchester, Manchester (Merit)
+Sept 2010 – Jun 2014
+
+BSc in Mechanical Engineering – University of Leeds, Leeds (Upper Second Class Honours)
+Sept 2007 – Jun 2010
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Certified Advanced Composite Materials Engineer – 2017
+
+Project Management Professional (PMP) – 2019
+
+Machine Learning Fundamentals (Stanford Online) – Ongoing
+
+ISO 9001 Lead Auditor Training – 2022
+
+Lean Manufacturing Practitioner – 2016
+
+SIDE PROJECTS:
+
+1. Autonomous Quadcopter Project:
+   Built and programmed a quadcopter prototype for autonomous flight using Arduino and ROS
+
+2. Renewable Energy Generator Design:
+   Designed a portable wind turbine system for off-grid applications, focusing on efficiency and durability

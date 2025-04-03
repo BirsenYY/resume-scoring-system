@@ -1,0 +1,102 @@
+
+Amy Roberts
+
+                                                                                    
+
+      (cid:131) 555-987-6543 — amy.roberts@email.com — (cid:239) linkedin.com/in/amy-roberts-27jfkd7 — ' github.com/amyroberts
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  JavaScript, Ruby, C++, SQL, R                                          
+
+   Frameworks: Django, Flask, Vue.js, Bulma, D3.js, PySpark, XGBoost, LightGBM, Hugging Face Transformers,
+
+               Plotly, Dash                                                   
+
+   ML/AI:      LSTM, Reinforcement Learning, Computer Vision, Model Interpretability      
+
+   Technologies: Kubernetes, AWS, Azure, Google Cloud Platform, Kafka, RabbitMQ, Redis, Apache Beam, 
+
+               Apache Flink, ElastiCache, Consul, Consul-Terraform-Sync, Pulumi, Terraform, 
+
+               CircleCI, Travis CI, ArgoCD, Prometheus                                  
+
+   Testing:    Selenium, JUnit, TestNG, Pytest, Pact.io                  
+
+   Certifications: AWS Certified Solutions Architect - Associate, Google Cloud Professional Data Engineer,
+
+                  Microsoft Certified: Azure AI Fundamentals, CompTIA Security+,
+
+                  Certified Kubernetes Administrator                                 
+
+                                                                                    
+
+   Experience                                                                       
+
+    XYZ Corp                                           Jan 2019 – Present
+
+    Senior Machine Learning Engineer                                               
+
+      – Spearheaded the deployment of a real-time fraud detection model on Kubernetes, resulting in a 30% reduction in fraudulent transactions.
+
+      – Developed a customer churn prediction model using XGBoost, boosting retention rates by 20%.          
+
+      – Led a team in deploying a recommendation engine on Azure Cloud leveraging collaborative filtering techniques.
+
+    Data Science Consultant                                                        
+
+      – Analyzed customer sentiment data using NLP techniques, leading to improved customer satisfaction scores by 15%.
+
+      – Implemented a computer vision system for defect detection in manufacturing processes, reducing defects by 25%.
+
+      – Conducted in-depth A/B testing for a retail client, optimizing pricing strategies and increasing revenue by 10%.
+
+    Junior Data Analyst                                                             
+
+      – Collaborated with the marketing team to create customer segmentation models, improving targeted marketing campaigns.
+
+      – Automated data cleaning and preprocessing tasks, saving the team 15 hours per week.
+
+      – Assisted in building a dashboard for real-time monitoring of key performance indicators.
+
+    ABC Solutions                                      May 2017 – Dec 2018
+
+    Data Engineer                                                                   
+
+      – Designed and implemented scalable data pipelines using Apache Beam and Apache Flink, reducing processing time by 40%.
+
+      – Managed data warehouses on Google Cloud Platform, ensuring data integrity and accessibility for stakeholders.
+
+      – Implemented stream processing architectures for real-time analytics using Kafka and Redis.
+
+   Education                                                                        
+
+    Columbia University — MS in Data Science                                       2018 – 2020    
+
+    University of California, Berkeley — BSc Computer Engineering                     2014 – 2018  
+
+   Projects                                                                         
+
+                                                                                    
+
+    Stock Price Prediction System                                                '     
+
+      – Built a stock price prediction system using LSTM models and financial news sentiment analysis.
+
+    Privacy-Preserving Machine Learning                                        '     
+
+      – Explored techniques for privacy-preserving machine learning, focusing on federated learning and homomorphic encryption.
+
+    Sudoku Solver                                                               '     
+
+      – Developed a Sudoku solver in Python using backtracking algorithms.
+
+    Recipe Recommendation System                                                '     
+
+      – Created a recipe recommendation system based on user preferences and ingredient similarities.
+
+    Chatbot for Customer Support                                                '     
+
+      – Designed and implemented a chatbot using Rasa NLU for automated customer support.

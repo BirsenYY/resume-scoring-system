@@ -1,0 +1,101 @@
+
+James Smith
+
+                      
+
+                   Los Angeles, USA | +1 987 654 3210 | james.smith@email.com | Tech Geniuses
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Tech Geniuses – Machine Learning Engineer         Feb 2023 – Present
+
+        ●  Led projects focused on deploying self-supervised learning techniques for computer vision tasks.
+
+        ●  Implemented novel models such as Meta Pseudo Labels and Contrastive Multiview Coding.
+
+        ●  Utilized Knowledge Distillation to enhance model performance on low-resource platforms.        
+
+        ●  Deployed MLOps tools such as MLflow and Dagster for model versioning and pipeline orchestration.
+
+                                                                                  
+
+      Tech Geniuses – Data Scientist                           Sep 2021 – Jan 2023
+
+        ●  Developed predictive maintenance models using AutoML techniques and ensemble learning.
+
+        ●  Leveraged Bayesian optimization for hyperparameter tuning of XGBoost and LightGBM models.
+        
+        ●  Conducted anomaly detection on IoT sensor data using Isolation Forest and One-Class SVM.
+
+      DataTech Solutions – Data Analyst                      Jun 2020 – Aug 2021
+
+        ●  Analyzed customer behavior data using SQL and Pandas to optimize marketing strategies.
+
+        ●  Built interactive dashboards with Tableau for real-time performance monitoring.
+
+        ●  Collaborated with cross-functional teams to implement data-driven decision-making processes.
+
+                                                                                  
+
+      Tech Dynamics – Junior Software Developer         Mar 2019 – May 2020
+
+        ●  Spearheaded the development of a mobile application using Flutter for seamless customer engagement.
+
+        ●  Implemented RESTful APIs with Node.js and Express for backend data handling.
+
+        ●  Integrated biometric authentication features using Face ID and Touch ID.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Tech Institute                                       2016 – 2020  
+
+      Bachelor of Science in Computer Engineering, Honors                                      
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Tech Geniuses – Image Analysis Platform                   2022     
+
+      Digital Art Gallery - Virtual Reality Experience           2021     
+
+      AI-driven Health Monitoring System                      2020     
+
+                                                                                  
+
+      CERTIFICATIONS                                                      
+
+                                                                                  
+
+      1. Certified Blockchain Developer (CBD) - Blockchain Institute of Technology
+      2. AWS Certified Solutions Architect – Associate
+      3. Google Cloud Professional Data Engineer
+      4. Certified Ethical Hacker (CEH) - EC-Council
+      5. Red Hat Certified Engineer (RHCE)
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: Tech Geniuses, DataTech Solutions, Tech Dynamics, Cloud Systems Inc., Data Insights Co., CodeCrafters, QuantumTech, DevOps Pro,
+
+      TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, Docker, Kubernetes, Redis, Apache Kafka, Apache Spark, Hadoop,
+
+      ELK Stack, MySQL, PostgreSQL, MongoDB, Amazon RDS, Google BigQuery, Apache Airflow, Tableau, Power BI,
+
+      Git, Jenkins, JIRA, Selenium, AWS, Google Cloud Platform, Azure, Linux, Unix, Windows, Python, Java, JavaScript,
+
+      Node.js, React, Angular, Vue.js, Django, Flask, Ruby on Rails, Swift, Kotlin, Xamarin, Firebase, RESTful API,
+
+      WebSockets, OAuth, OAuth2, JWT, CI/CD, Agile methodologies.
+    ```

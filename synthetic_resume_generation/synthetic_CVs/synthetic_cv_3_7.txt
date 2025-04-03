@@ -1,0 +1,77 @@
+```
+    Amazon                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7982613547 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative AI/ML Engineer and GCP Certified Machine Learning Specialist with 8 years of experience. Proficient in building
+
+      Transformer models, multimodal architectures, and efficient model fine-tuning methods. Skilled in Python, PyTorch, and
+
+      Scikit-Learn. Demonstrated expertise in leading cross-functional teams, optimizing AI pipelines, and delivering impactful solutions
+
+      in business and academia.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python , R , Java , SQL, MongoDB | BigQuery, Cassandra, Redis | PyTorch, Hugging Face, OpenAI, LangChain, VisionZoom,
+
+      Streamlit | Transformer Models, Reinforcement Learning, Genetic Algorithms | Flask, Kubernetes | Git, Jenkins, AWS, Azure                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Senior AI/ML Engineer (AI Labs) - London, UK    Oct 2020 : Present
+
+    ● Developed cutting-edge multimodal architecture for image and text processing, achieving a 30% increase in model performance
+
+    ● Led the implementation of a scalable AI pipeline using Kubernetes, improving deployment efficiency by 40%
+
+    ● Spearheaded a side project on explainable AI, collaborating with NLP experts to enhance model interpretability and trust
+
+    ● Mentored junior team members and conducted workshops on GCP best practices to foster team growth and learning        
+
+     Data Scientist (IBM Research) - New York, US    Apr 2018 : Sep 2020
+
+    ● Designed and implemented a real-time fraud detection system using deep learning techniques, reducing false positives by 20%
+
+    ● Collaborated with IoT specialists to develop predictive maintenance models for industrial equipment, resulting in 15% cost savings 
+
+    ● Initiated a side project on anomaly detection in time series data, utilizing unsupervised learning methods to identify patterns and outliers
+
+     AI Research Intern (DeepMind) - London, UK    Jan 2017 : Mar 2018
+
+    ● Contributed to research on generative adversarial networks (GANs) and their applications in image synthesis 
+
+    ● Developed a novel reinforcement learning algorithm for game playing agents, achieving state-of-the-art performance in online competitions
+
+     EDUCATION:                                                                      
+
+    PhD in Machine Learning - University College London, London, UK (Distinction) Sep 2012 : July 2016
+
+    BSc in Computer Science - University of Manchester, Manchester, UK (First Class Honours) Sep 2009 : July 2012
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Google Cloud Professional Machine Learning Engineer          March, 2022
+
+    ● Certified AI Ethics Practitioner (AI Ethics Institute)         June, 2023
+
+    ● Mastering Generative Adversarial Networks (by Stanford Online)  August, 2023
+
+    ● Advanced Natural Language Processing (NLP Academy) September, 2023
+```  

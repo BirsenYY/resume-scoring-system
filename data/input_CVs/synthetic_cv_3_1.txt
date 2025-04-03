@@ -1,0 +1,53 @@
+Jane Smith
+
+New York | 555-123-4567 | janesmith@email.com
+
+SUMMARY
+
+Machine learning and software engineer specializing in developing and deploying complex machine learning solutions. Proficient in Python, TensorFlow, and Scikit-Learn for building end-to-end ML systems. Experienced in computer vision and natural language processing models deployment. Skilled in developing microservices architecture with FastAPI on cloud platforms.
+
+EXPERIENCE
+
+XYZ Corp | Jan 2023 – Present
+
+- Implemented a scalable recommendation system using collaborative filtering techniques and deployed it on AWS.
+
+- Developed and deployed an image recognition system for detecting anomalies in medical images using PyTorch and FastAPI.
+
+- Led a team to optimize MLOps workflows by integrating CI/CD pipelines with Kubernetes and Argo.
+
+- Conducted performance tuning on deep learning models utilizing TensorRT for real-time inference.
+
+CERTIFICATES
+
+- AWS Certified Machine Learning Specialty (2022)
+- Google Cloud Professional Data Engineer (2021)
+- Certified Information Systems Security Professional (CISSP) (2020)
+
+PROJECTS
+
+Blockchain Voting System | 2023
+
+- Created a secure and transparent blockchain-based voting system for a non-profit organization.
+
+Multi-Modal Emotion Recognition | 2022
+
+- Developed a deep learning model to recognize emotions from both text and images and deployed it as a REST API.
+
+Distributed Image Processing System | 2021
+
+- Designed and implemented a distributed image processing system using Apache Spark for large-scale image analysis.
+
+XYZ Corp Chatbot Integration | 2020
+
+- Integrated a chatbot into XYZ Corp's customer service portal for automated support queries handling.
+
+EDUCATION
+
+ABC University | 2016 – 2020
+
+BSc in Computer Science
+
+TOOLS AND TECHNOLOGIES
+
+Proficient in PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, Jupyter Notebook, Docker, Kubernetes, Apache Spark, Flask, AWS, GCP, SQL, Git, HTML, CSS, JavaScript, React, Java, Scala.

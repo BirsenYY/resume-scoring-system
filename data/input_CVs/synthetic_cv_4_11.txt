@@ -1,0 +1,115 @@
+Maria Garcia
+
+                                                                                  
+
+                   Los Angeles, USA | +1 234 567 8901 | maria.garcia@email.com | Tech Geniuses
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Tech Geniuses – Machine Learning Engineer         Jul 2022 – Present
+
+        ●  Led research on novel implementations of generative adversarial networks in medical image synthesis.
+
+        ●  Developed and fine-tuned GAN models for MRI reconstruction and CT image segmentation.
+
+        ●  Implemented efficient data augmentation techniques and ensemble learning for improved model performance.                                
+
+        ●  Utilized MLOps tools such as MLflow and DVC for experiment tracking and model versioning.        
+
+                                                                                  
+
+      Tech Geniuses – Data Scientist                      Apr 2020 – Jun 2022
+
+        ●  Managed large-scale data pipelines for real-time analytics using Kafka and Spark.
+
+        ●  Applied Monte Carlo simulations for risk analysis in financial datasets.
+
+        ●  Utilized reinforcement learning algorithms for dynamic pricing optimization in e-commerce platforms.
+
+      Tech Geniuses – Junior Software Developer           Nov 2018 – Mar 2020
+
+        ●  Developed a sentiment analysis tool integrating BERT embeddings for social media sentiment tracking.
+
+        ●  Implemented RESTful APIs using FastAPI for data retrieval and processing.
+
+        ●  Collaborated on a chatbot project using Rasa NLU for customer support automation.
+
+                                                                                  
+
+      InnovateTech – Software Engineer                    Sep 2016 – Oct 2018
+
+        ●  Designed and implemented a cloud-based IoT platform for remote device monitoring.
+
+        ●  Utilized AWS services for scalable data storage and processing.
+
+        ●  Integrated machine learning models for anomaly detection in sensor data streams.
+
+                                                                                  
+
+      QuantumSolve – Research Intern                      Jan 2015 – Aug 2016
+
+        ●  Conducted research on quantum error correction codes and fault-tolerant quantum computation.
+
+        ●  Implemented Shor's algorithm on IBM Qiskit for integer factorization experiments.
+
+        ●  Contributed to writing technical reports and research papers on quantum computing advancements.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Tech University                                       2014 – 2018  
+
+      BSc Computer Science, Magna Cum Laude                                      
+
+                                                                                  
+
+      Science Institution                                         2010 – 2013  
+
+      BSc Physics, First Class                                        
+
+                                                                                  
+
+      CERTIFICATIONS                                                                    
+
+                                                                                  
+
+      - Certified Kubernetes Administrator (CKA)
+
+      - Licensed Data Scientist (LDS)
+
+      - Certified Blockchain Developer (CBD)
+
+      - AWS Certified Solutions Architect – Associate
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Tech Geniuses – Quantum Computing Simulator                                       2023     
+
+      HealthTrack App - Remote Health Monitoring Platform                          2022     
+
+      AI-Powered Chatbot - Customer Service Automation                               2021     
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: Tech Geniuses, InnovateTech, QuantumSolve, DataTech Solutions, CloudWare, AI Tech Innovations, MyTech Tools, Tech Platform,
+
+      SudoTech, Kubeflow, TensorFlow, PyTorch, Scikit-learn, Apache Spark, Hadoop, Kafka, NumPy, Matplotlib, Plotly, ReactJS, Node.js, Angular,
+
+      GraphQL, Java, Python, JavaScript, C++, C#, TypeScript, .NET, Flask, Django, Rasa NLU, MLflow, DVC, AWS, GCP, Docker, Kubernetes, Jenkins,
+
+      Jupyter, IBM Qiskit, Quantum Development Kit, Q# Programming Language, SQL, NoSQL, MongoDB, Redis, Firebase, Tableau, Power BI, Git,
+      
+      Selenium, Jira, Trello, Agile Methodologies, CI/CD, RESTful API, WebSockets, OAuth, OAuth2, JWT, Cybersecurity Best Practices.

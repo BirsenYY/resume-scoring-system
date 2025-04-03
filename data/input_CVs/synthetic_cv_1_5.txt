@@ -1,0 +1,84 @@
+
+**Alice Martinez**
+
+---
+
+📞 (cid:131) 555-789-0123  —  alice.martinez@email.com  —   linkedin.com/in/alicemartinez  —   github.com/alicemartinez
+
+---
+
+**Skills**
+
+Languages:  Java, Python, C#, Ruby, R
+
+Frameworks: Vue.js, Django, Flask, Ruby on Rails, TensorFlow, PySpark
+
+ML/AI: Random Forest, XGBoost, Generative Adversarial Networks (GANs), AutoML, NLP
+
+Technologies: Kubernetes, Apache Kafka, Redis, RabbitMQ, Grafana, Splunk, AWS, Azure
+
+Testing: JUnit, Jest, Selenium, PyTest
+
+Certifications: AWS Certified Solutions Architect - Associate, Google Cloud Professional Data Engineer, Certified Kubernetes Administrator (CKA), CompTIA Security+
+
+---
+
+**Experience**
+
+**ACME**  Feb 2019 – Present
+
+*Senior Software Engineer*
+
+- Spearheaded the migration of legacy systems to a microservices architecture, resulting in a 30% reduction in API response time.
+- Implemented a real-time dashboard using Splunk and Grafana to monitor system performance and health.
+- Led the integration of Apache Kafka for event-driven architecture, improving data processing efficiency by 40%.
+
+*Software Engineer*
+
+- Collaborated with cross-functional teams to develop a scalable data ingestion pipeline using Apache Spark and PySpark.
+- Automated CI/CD pipelines with Jenkins and Kubernetes, reducing deployment time by 50%.
+- Designed and implemented a recommendation engine using TensorFlow for personalized user experiences.
+
+**XYZ Corp**  Oct 2017 – Jan 2019
+
+*Software Developer*
+
+- Developed RESTful APIs with Django and Flask for a customer engagement platform, increasing user engagement by 20%.
+- Integrated RabbitMQ for asynchronous message processing, improving system reliability and scalability.
+- Conducted code reviews and mentored junior developers to enhance coding standards and best practices.
+
+---
+
+**Education**
+
+*University of Washington* — MSc in Computer Science (Specialization in Machine Learning)  2015 – 2017
+
+*University of California, Berkeley* — BSc in Electrical Engineering  2011 – 2015
+
+---
+
+**Projects**
+
+*Fraud Detection System*
+
+- Built a fraud detection system using XGBoost and anomaly detection techniques to identify fraudulent transactions in real-time.
+
+*Sentiment Analysis Dashboard*
+
+- Created a sentiment analysis dashboard with Vue.js and NLP models to analyze customer feedback and sentiment trends.
+
+*Image Recognition App*
+
+- Developed an image recognition app with Generative Adversarial Networks (GANs) for generating realistic images from textual descriptions.
+
+*E-commerce Recommendation Engine*
+
+- Implemented a recommendation engine using collaborative filtering and matrix factorization techniques to personalize product recommendations for users.
+
+*Blockchain Voting System*
+
+- Designed a blockchain-based voting system using smart contracts for transparent and secure voting processes.
+
+---
+
+References available upon request.

@@ -1,0 +1,97 @@
+    Alice Johnson                                  
+
+                        San Francisco | alice.johnson@email.com | Data Science | AI & ML Engineer   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Data scientist specializing in artificial intelligence and machine learning. Skilled in developing cutting-edge AI applications and continuously expanding knowledge in the field.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, R, Scala, SQL, Bash, • Frameworks: Fastai, MXNet, Hugging Face, Ludwig, 
+
+     Docker, Flask, Apache Flink, Apache Beam, Apache Kafka, Apache Spark, Kubernetes, Cassandra                        
+
+    • Machine Learning: Transformer Architectures, Bayesian Methods, Reinforcement Learning, Gaussian Processes, 
+
+     AutoML, Time Series Forecasting, Graph Neural Networks, Anomaly Detection, Monte Carlo Simulations, 
+
+     Transfer Learning, Self-Supervised Learning, Active Learning, Explainable AI, Federated Learning
+
+    • Tools: DVC, MLflow, Prefect, Airflow, Pachyderm, Seldon Core, Kubeflow, Horovod, Numba, Vaex, JAX
+
+    • Cloud Platforms: IBM Cloud, Alibaba Cloud, Oracle Cloud, Tencent Cloud, OVH                    
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    Data Science Engineer | AI & ML Innovations, Seattle              Jan 2021 – Present
+
+    AI-Powered Personalized Shopping Recommendation System                    
+
+                                                                                  
+
+    • Developed an AI-driven recommendation system utilizing graph neural networks for personalized shopping experiences.
+
+    • Implemented reinforcement learning algorithms to optimize product suggestions based on user interactions.
+
+    • Applied Bayesian methods for user preference modeling and adaptive recommendations.
+
+    • Deployed the system on Kubernetes for scalable and reliable performance.
+
+    Tech Stack: Python, Tensorflow, PyTorch, Apache Flink, Kubernetes, Graph Neural Networks, Bayesian Methods            
+
+    Anomaly Detection Platform                                                   
+
+    • Designed and implemented an anomaly detection platform using Monte Carlo simulations and self-supervised learning techniques.
+
+    • Utilized time series forecasting models and autoencoders for pattern recognition in streaming data.
+
+    • Integrated the platform with Apache Kafka for real-time data processing.
+
+    • Enhanced platform explainability through feature engineering and XAI techniques.
+
+    Tech Stack: Python, Apache Kafka, Apache Spark, MLflow, Anomaly Detection Models, Time Series Forecasting, Autoencoders
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc in Data Science, Carnegie Mellon University, Pennsylvania  Sept 2020 - May 2022
+
+    BSc in Mathematics (Honors), University of Michigan, Ann Arbor         Sept 2016 - May 2020
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Fraud Detection System using Bayesian Inference  • Sentiment Analysis on Social Media Data
+
+    • Image Captioning with Transformer Models         • Time Series Forecasting for Stock Prices
+
+    • Object Detection in Satellite Imagery            • Customer Segmentation with Graph Neural Networks
+
+    • AI Chatbot Development for Customer Support      • Predictive Maintenance System using Anomaly Detection
+
+    • Voice Emotion Recognition System                  • Disease Diagnosis Support System using ML Algorithms

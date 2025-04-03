@@ -1,0 +1,125 @@
+Alice Smith
+
+                                                                                  
+
+                   San Francisco, USA | +1 234 567 8901 | alice.smith@email.com | Data Experts
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Data Experts – Data Scientist           Nov 2022 – Present
+
+        ●  Conducted research on explainable AI algorithms and their applications in healthcare and finance.
+
+        ●  Developed machine learning models for predicting patient outcomes and stock market trends.
+
+        ●  Implemented MLOps practices using MLflow and DVC for model tracking and versioning.
+
+                                                                                  
+
+      Data Experts – Machine Learning Engineer                                 Jan 2021 – Oct 2022
+
+        ●  Developed anomaly detection algorithms for cybersecurity applications using Isolation Forest and One-Class SVM.
+
+        ●  Optimised neural network architectures for image classification tasks, achieving state-of-the-art accuracy.
+
+        ●  Deployed ML models on cloud platforms like AWS and GCP, ensuring scalability and reliability.
+
+      Data Experts – Data Analyst                                Apr 2020 – Dec 2020
+
+        ●  Conducted exploratory data analysis on customer behavior data to identify key trends and insights.
+
+        ●  Built dashboards using Tableau for visualising sales performance metrics and KPIs.
+
+        ●  Collaborated with cross-functional teams to develop data-driven strategies for business growth.
+
+                                                                                  
+
+      Tech Solutions – Data Analyst                         Jul 2018 – Mar 2020
+
+        ●  Automated data cleansing and preprocessing tasks using Python and Pandas.
+
+        ●  Created predictive models for customer churn prediction and sales forecasting.
+
+        ●  Presented insights to stakeholders through interactive data visualisations and reports.
+
+                                                                                  
+
+      CODETech – Data Intern                         May 2017 – Feb 2018
+
+        ●  Assisted in developing recommendation systems for e-commerce platforms using collaborative filtering.
+
+        ●  Conducted A/B testing to evaluate the effectiveness of marketing campaigns.
+
+        ●  Contributed to the development of an internal data analysis tool using SQL and Python.
+
+      Data Experts – Data Engineer                                 Mar 2016 – Dec 2016
+
+        ●  Designed and implemented ETL pipelines to extract, transform, and load data from various sources.
+
+        ●  Developed data warehousing solutions using technologies like Apache Spark and Hadoop.
+
+        ●  Collaborated with data scientists to streamline data processing workflows.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Data Institute                                       2016 – 2020  
+
+      Data Institute Data Science, Distinction                                      
+
+                                                                                  
+
+      Cloud University                                         2012 – 2016  
+
+      BSc Computer Science, Second Class Upper Division                                      
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Data Experts – Recommendation System                                              
+
+      E-commerce Analytics Dashboard                                       
+
+      Personal Finance App                                            
+
+      Health Data Visualization Tool                                     
+
+                                                                                  
+
+      CERTIFICATIONS                                                      
+
+                                                                                  
+
+      - Data Engineering Professional Certificate (Coursera)                                                                
+
+      - Advanced Machine Learning Specialisation (Udacity)                                                                
+
+      - Certified Business Intelligence Professional (TDWI)                                                                
+
+      - Tableau Desktop Specialist                                                                
+
+      - IBM Data Science Professional Certificate                                                                
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: Data Experts, Data Solutions, Data Systems, Data Services, MyData Tools, Data Platform, DataOps, SudoData,
+
+      MLflow, DVC, AWS, GCP, TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Keras, Tableau, SQL, MySQL, PostgreSQL, MongoDB, Pandas, NumPy, Matplotlib, Seaborn,
+
+      Jupyter, Docker, Kubernetes, Flask, FastAPI, REST API, Git, GitHub, BigQuery, Snowflake, Apache Spark, Hadoop, Hive, Kafka, ELK Stack, AWS S3, Azure Blob Storage,
+
+      Google Cloud Storage, Data Lake, Data Warehouse, ETL, Machine Learning, Deep Learning, Neural Networks, NLP, Computer Vision, Time Series Analysis, A/B Testing,
+
+      Data Visualisation, Business Intelligence, Data Analytics, Data Engineering, Data Science, Data Mining, Statistics.

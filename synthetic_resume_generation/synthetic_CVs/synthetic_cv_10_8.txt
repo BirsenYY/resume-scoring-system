@@ -1,0 +1,54 @@
+Natalie Johnson
+
+Los Angeles | natalie.johnson@email.com | Data Scientist | Data Xplorers
+
+SUMMARY
+
+Experienced data scientist with a strong background in statistics and data analysis. Skilled in developing machine learning models and leveraging big data for business insights. Enthusiastic about continuous learning and exploring cutting-edge technologies in the field.
+
+TECHNOLOGIES/SKILLS
+
+• Programming Languages: Python, R, SQL, Scala, MATLAB
+• Frameworks: H2O, XGBoost, CatBoost, LightGBM, Prophet
+• Tools: Tableau, Power BI, Databricks, AWS Sagemaker, Azure ML
+• Machine Learning: Time Series Forecasting, Anomaly Detection, Recommender Systems
+• Data Manipulation: Pandas, NumPy, Spark, DataRobot
+• Statistical Analysis: Hypothesis Testing, Regression Analysis, Clustering Algorithms
+
+EXPERIENCE
+
+Data Scientist | Data Xplorers, San Francisco          Jan 2021 - Present
+
+Customer Segmentation Analysis
+• Led a project to segment customers based on purchasing behavior using clustering algorithms.
+• Developed a recommendation system to personalize marketing strategies for each customer segment.
+• Implemented anomaly detection techniques to identify and address potential data quality issues.
+
+Tech Stack: Python, Pandas, Scikit-learn, KMeans, Isolation Forest, Collaborative Filtering
+
+Predictive Maintenance Model
+• Built a predictive maintenance model to forecast equipment failures and optimize maintenance schedules.
+• Utilized time series forecasting techniques to predict failure probabilities and estimate remaining useful life.
+• Integrated the model with IoT sensor data to enable real-time monitoring and alerts for maintenance teams.
+
+Tech Stack: Python, Prophet, LSTM, Time Series Analysis, Apache Spark, AWS IoT
+
+EDUCATION
+
+MSc Data Science, University of California, Los Angeles         Oct 2018 - Dec 2020
+
+BSc Statistics (Honors), University of Michigan, Ann Arbor               Sept 2014
+
+PROJECTS
+
+• Sentiment Analysis on Social Media Data
+• Fraud Detection Using Machine Learning
+• Customer Churn Prediction Model
+• Image Recognition with Convolutional Neural Networks
+• Stock Price Prediction using Time Series Analysis
+
+• Movie Recommender System
+• Text Summarization Tool
+• E-commerce Product Recommendation Engine
+• Chatbot Development with Natural Language Processing
+• Predictive Analytics for Healthcare Data

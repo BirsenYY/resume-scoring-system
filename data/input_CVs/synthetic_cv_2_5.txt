@@ -1,0 +1,64 @@
+Sarah Smith
+
+Los Angeles | 123-456-7890 | sarah.smith@email.com
+
+Machine Learning Engineer
+
+WORDS ABOUT ME
+
+Experienced machine learning engineer with a passion for developing and deploying innovative AI solutions. Skilled in leading cross-functional teams and proficient in Python, TensorFlow, and Spark. Specialize in computer vision and natural language processing applications, with a keen interest in building scalable and efficient ML models for real-world problems.
+
+CURRENTLY BUILDING
+
+ABC AI Technologies – Machine Learning Engineer              Dec 2021 – Present
+
+  ● Spearheading the development of cutting-edge AI models for image recognition and sentiment analysis.
+
+PROJECTS
+
+ABC AI Technologies – Sentiment Analyzer                2022
+
+  ● Developed a sentiment analysis tool that accurately predicts user emotions from text inputs.
+
+EXPERIENCE
+
+XYZ Research Institute – Machine Learning Researcher        Jul 2020 – Dec 2021
+
+  ● Led research projects focusing on transfer learning in CNNs and LSTM models for time series forecasting.
+
+  ● Implemented state-of-the-art models for image classification and sentiment analysis.
+
+  ● Utilized MLOps tools such as MLflow and DVC for model versioning and deployment.
+
+LMN Solutions – Data Scientist                            Jan 2019 – Jul 2020
+
+  ● Designed and implemented ML algorithms for predictive maintenance in manufacturing processes.
+
+  ● Collaborated with engineering teams to integrate AI solutions into production systems.
+
+  ● Conducted data analysis and visualization to identify actionable insights from large datasets.
+
+OPQ Technologies – Junior Data Analyst                   Aug 2017 – Jan 2019
+
+  ● Assisted in building recommendation engines using collaborative filtering techniques.
+
+  ● Developed interactive dashboards for visualizing sales trends and customer behavior.
+
+EDUCATION
+
+ABC University                                       2014 – 2017
+
+BSc in Computer Science                                                     
+
+  ● Recipient of the Data Science Excellence Award for outstanding performance in data mining projects.
+
+CERTIFICATIONS
+
+1. Certified Machine Learning Engineer (CMLE)
+2. Advanced Natural Language Processing Specialist (ANLPS)
+3. Deep Learning for Computer Vision (DLCV)
+4. Certified AI Ethics Practitioner (CAIEP)
+
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, PySpark, OpenCV, Scikit-Learn, Flask, Git & GitHub, Docker, AWS S3, SQL, Tableau, JavaScript, React, Node.js

@@ -1,0 +1,63 @@
+Sarah Johnson
+
+New York City | 0888888 | sarah.johnson@email.com | ABC AI | ABC AI
+
+WORDS ABOUT ME
+
+Machine learning engineer with a focus on developing and implementing innovative machine learning solutions. Skilled in Python and TensorFlow ecosystem, with experience in computer vision and natural language processing models. Proficient in building applications using Flask and microservices architecture, deployed across cloud platforms.
+
+CURRENTLY BUILDING
+
+ABC AI – Machine Learning Engineer                    Jan 2023 – Present
+
+- Co-founded startup focused on developing AI-powered tools for optimizing supply chain operations.
+
+PROJECTS
+
+ABC AI – link                                               2023
+
+- Developing a real-time demand forecasting model for retail partners.
+
+EXPERIENCE
+
+XYZ Robotics – Machine Learning Engineer           Oct 2021 – Jan 2023
+
+- Spearheaded the development of reinforcement learning algorithms for robotic control systems.
+- Implemented computer vision solutions for object detection and tracking in autonomous robots.
+- Utilized MLOps tools such as MLflow and Argo for model deployment and monitoring.
+
+ABC Innovations – Data Scientist                           Mar 2020 – Oct 2021
+
+- Implemented machine learning models to optimize manufacturing processes.
+- Developed predictive maintenance systems for industrial equipment.
+- Led a team in creating anomaly detection algorithms for quality control.
+
+DEF Technologies – AI Research Intern                     Aug 2019 – Mar 2020
+
+- Conducted research on explainable AI techniques for model interpretability.
+- Collaborated with senior researchers on deep learning projects for image classification.
+- Presented findings at internal seminars and workshops.
+
+PQR Industries – Machine Learning Intern                  Jan 2019 – Aug 2019
+
+- Worked on developing recommendation systems for personalized customer experiences.
+- Assisted in deploying machine learning models in a production environment.
+- Contributed to a team project on sentiment analysis for social media data.
+
+XYZ Corporation – AI Apprentice                                Jun 2018 – Jan 2019
+
+- Participated in training programs on machine learning concepts and algorithms.
+- Assisted senior engineers in data preprocessing and model evaluation tasks.
+- Worked on a side project to implement a chatbot using natural language processing.
+
+EDUCATION
+
+XYZ University                                         2015 – 2019
+
+BSc in Artificial Intelligence                                                  
+
+- Awarded for Best Research Project in AI for developing a deep learning model for medical image analysis.
+
+TOOLS AND TECHNOLOGIES
+
+TensorFlow, PyTorch, Scikit-Learn, Flask, Keras, Reinforcement Learning, Flask, Docker, Kubernetes, AWS SageMaker, PySpark, MySQL, Tableau, React, JavaScript, Python

@@ -1,0 +1,74 @@
+Jane Smith
+
+Chicago, USA | +1 234 567 8901 | jane.smith@email.com | Tech Wizards
+
+EXPERIENCE
+
+Tech Wizards – Data Scientist                   Jan 2023 – Present
+
+- Conducted research on interpretability techniques for deep learning models in computer vision.
+- Implemented object detection algorithms using YOLOv5 and SSD models.
+- Developed a recommendation system using collaborative filtering and content-based filtering.
+- Utilized MLOps tools such as MLflow and DVC for experiment tracking and model versioning.
+
+Tech Innovators – Machine Learning Engineer         Aug 2020 – Dec 2022
+
+- Built a sentiment analysis tool for social media posts using BERT and LSTM models.
+- Optimized transformer models for text summarization tasks with Hugging Face Transformers.
+- Developed a machine learning pipeline for anomaly detection in time series data.
+- Implemented automated feature engineering using Featuretools and EvalML.
+
+Tech Wizards – Software Developer                    Mar 2019 – Jul 2020
+
+- Created a web application for online tutoring using React.js and Node.js.
+- Integrated Stripe payment gateway for secure payment processing.
+- Designed and implemented a dashboard for tracking student progress and scheduling sessions.
+- Collaborated with UX/UI designers to ensure a seamless user experience.
+
+Impactful Tech – Software Engineer                   Sep 2016 – Feb 2019
+
+- Led the development of a mobile app for event planning and networking.
+- Implemented geolocation features using Google Maps API.
+- Integrated push notifications for real-time updates and reminders.
+- Conducted performance testing and optimization to enhance app responsiveness.
+
+EDUCATION
+
+Tech University                        2015 – 2019
+
+BSc Computer Science, Honours Degree
+
+Science Academy                         2011 – 2015
+
+High School Diploma
+
+CERTIFICATIONS
+
+- AWS Certified Machine Learning - Specialty (2021)
+- Certified Kubernetes Application Developer (CKAD)
+- Google Professional Data Engineer
+- Microsoft Certified: Azure AI Engineer Associate
+- Certified Scrum Master (CSM)
+
+PROJECTS
+
+Tech Wizards – Chatbot Platform                                2023
+
+E-commerce Website Redesign - link                         2022
+
+Tech Wizards - Customer Segmentation Project         2020
+
+Deep Learning Image Classification App - link           2019
+
+TOOLS AND TECHNOLOGIES
+
+- Python, R, SQL, Java, JavaScript, C++, MATLAB
+- TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV
+- Docker, Kubernetes, Jenkins, GitLab CI/CD
+- Tableau, Power BI, Matplotlib, Seaborn
+- Google Cloud Platform, Azure, AWS
+- Django, Flask, Angular, Vue.js, Bootstrap
+- Apache Spark, Hadoop, Kafka, ElasticSearch
+- JIRA, Confluence, Slack, Trello
+- Linux, Windows, macOS
+- Agile, Scrum, Kanban, DevOps

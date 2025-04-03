@@ -1,0 +1,83 @@
+[Full Name]
+[City, Country] | [Email Address] | [Phone Number] | [LinkedIn] | [GitHub/Portfolio]
+
+PROFILE
+Accomplished technology executive with over 18 years of experience in machine learning, AI strategy, and software engineering. Currently, holding a key role as the Head of AI Innovation at a prominent tech firm, driving the development of cutting-edge AI solutions, scalable architectures, and overseeing multi-disciplinary product initiatives. Demonstrated expertise in team leadership, product delivery, and aligning technological advancements with business objectives.
+
+EXPERIENCE
+Head of AI Innovation
+TechGenius Solutions | San Francisco, USA | Apr 2018 – Present
+
+Lead the strategic planning and execution of AI initiatives across diverse platforms and domains.
+
+Managed a team of 30+ engineers, fostering innovation and implementing agile methodologies.
+
+Designed and deployed robust ML pipelines for dynamic pricing algorithms, chatbot systems, and computer vision applications.
+
+Championed the integration of AI models on various cloud platforms and edge devices, resulting in a 35% reduction in operational costs.
+
+Instrumental in securing $15M in Series C funding through successful pitch presentations and strategic partnerships.
+
+Senior Machine Learning Engineer
+
+DataSphere Corp. | Singapore | Nov 2014 – Mar 2018
+
+Led a high-performing team in the development of anomaly detection and customer segmentation ML models.
+
+Utilized advanced algorithms in PyCaret and LightGBM for improved predictive analytics.
+
+Implemented end-to-end MLOps pipelines and established performance monitoring frameworks.
+
+Enhanced model accuracy by 30% through comprehensive feature selection and model tuning techniques.
+
+Data Scientist
+
+IntelliSense Analytics | Sydney, Australia | Jun 2010 – Oct 2014
+
+Executed data science projects in retail and telecommunications sectors, focusing on churn prediction and demand forecasting.
+
+Designed interpretable ML models and interactive dashboards for visualization and decision-making.
+
+Conducted rigorous A/B testing and validation procedures to ensure model robustness and reliability.
+
+Software Developer
+TechNex Solutions | Toronto, Canada | Aug 2006 – May 2010
+
+Developed scalable web applications using Java and Ruby on Rails.
+
+Implemented initial ML algorithms for sentiment analysis and customer clustering.
+
+EDUCATION
+Ph.D. in Computer Science – Machine Learning
+Stanford University | 2006
+
+MSc in Data Science
+University of California, Berkeley | 2004
+
+BSc in Computer Engineering
+University of Toronto | 2001
+
+SKILLS
+Languages: Python, R, Scala, MATLAB
+
+Frameworks: XGBoost, H2O.ai, CatBoost, Apache Spark
+
+ML Ops: DVC, Polyaxon, Kubeflow, Jenkins
+
+Cloud: IBM Cloud, Alibaba Cloud, DigitalOcean
+
+Other: Time Series Analysis, Reinforcement Learning, Graph Analytics, IoT
+
+CERTIFICATIONS
+Certified Reinforcement Learning Specialist
+
+Spark Certified Big Data Developer
+
+FastAPI Fundamentals
+
+SPEAKING & PUBLICATIONS
+Keynote Speaker at DataWeek Conference, MLConf
+
+Co-author of "Scalable Machine Learning Applications" – Springer (2021)
+
+Regular contributor to AI publications on ethical AI, data privacy, and emerging trends.

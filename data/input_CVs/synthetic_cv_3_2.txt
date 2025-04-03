@@ -1,0 +1,56 @@
+Jane Smith
+
+Los Angeles | 987-654-3210 | janesmith@email.com | EFG Solutions | LMN Innovations
+
+**SUMMARY**
+
+Machine learning and software engineer with a focus on developing scalable machine learning systems. Proficient in Python and TensorFlow framework, with hands-on experience in computer vision and natural language processing models deployment. Skilled in building microservices architecture using FastAPI and leveraging both cloud and on-premise infrastructure.
+
+**EXPERIENCE**
+
+EFG Solutions | March 2022 – Present
+
+- Led a team of data scientists and engineers in developing cutting-edge deep learning models for image recognition tasks.
+- Implemented MLOps practices including Kubernetes, MLflow, and DVC to streamline model deployment and monitoring pipelines.
+- Collaborated with cross-functional teams to integrate machine learning models into production-grade applications.
+
+**CERTIFICATES**
+
+- Certified Data Science Professional (CDSP) 
+- AWS Certified Solutions Architect – Associate
+- Neural Network Specialist (NNS)
+- Certified Blockchain Developer (CBD)
+
+**PROJECTS**
+
+Stock Price Prediction Model | 2023
+
+- Developed and deployed a machine learning model to predict stock prices using LSTM networks and sentiment analysis.
+
+Real-time Object Detection | 2022
+
+- Built a real-time object detection system using YOLOv4 on a Jetson Nano for edge computing applications.
+
+Speech Emotion Recognition | 2022
+
+- Created a deep learning model to recognize emotions in speech recordings using PyTorch and Librosa.
+
+**SIDE PROJECTS**
+
+Optical Character Recognition App | 2021
+
+- Designed an OCR mobile application using Tesseract and Flutter for extracting text from images.
+
+Blog Sentiment Analysis | 2021
+
+- Conducted sentiment analysis on blog posts using natural language processing techniques like tokenization and sentiment lexicons.
+
+**EDUCATION**
+
+LMN University | 2017 – 2021
+
+BSc in Computer Engineering
+
+**TOOLS AND TECHNOLOGIES**
+
+Proficient in TensorFlow, PyTorch, Scikit-Learn, Keras, Docker, Kubernetes, MLflow, SQL, NumPy, Pandas, Flask, React, Flutter, AWS, GCP, Git, Jupyter, HTML, CSS, JavaScript, Java, Swift.

@@ -1,0 +1,52 @@
+JANE SMITH
+
+New York | 987-654-3210 | janesmith@email.com | DEF Tech | UVW Solutions
+
+SUMMARY
+
+Experienced machine learning engineer with a focus on developing and deploying end-to-end solutions. Proficient in Python and TensorFlow ecosystem, with expertise in computer vision and natural language processing models. Skilled in building applications using Flask within a microservices architecture on scalable cloud platforms.
+
+EXPERIENCE
+
+DEF Tech                                   Jan 2022 – Present
+
+- Led a team in developing custom deep learning models for image recognition tasks, achieving a 10% improvement in accuracy.
+- Implemented MLOps processes utilizing Docker, Kubernetes, and MLflow for model deployment and monitoring.
+
+PROJECTS
+
+Fraud Detection System                                   2022
+
+- Developed and deployed a fraud detection system using XGBoost and feature engineering techniques for a financial services client.
+
+Sentiment Analysis Platform                                   2021
+
+- Designed and trained a sentiment analysis platform using BERT for social media data classification.
+
+Blockchain Voting System                                        2020
+
+- Built a secure blockchain-based voting system for a university election process using Ethereum smart contracts.
+
+Real-time Object Detection                                          2020
+
+- Implemented an object detection system using YOLOv3 for real-time video analysis.
+
+RNN Language Translator                                             2019
+
+- Created an LSTM-based language translation model to convert English text to French.
+
+Certificate in Applied Data Engineering                            2018
+
+Certificate in Machine Learning Operations                        2017
+
+Certificate in Blockchain Development                                  2016
+
+EDUCATION
+
+UVW University                                         2015 – 2019
+
+BSc in Computer Engineering
+
+TOOLS AND TECHNOLOGIES
+
+Proficient in TensorFlow, PyTorch, Scikit-Learn, Keras, FastAPI, Docker, Kubernetes, MLflow, Flask, AWS, GCP, SQL, Git, Jupyter, HTML, CSS, JavaScript, React, Solidity, C.

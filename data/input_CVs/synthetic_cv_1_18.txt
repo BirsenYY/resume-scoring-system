@@ -1,0 +1,99 @@
+**Emma Wilson**                                   
+
+                                                                                    
+
+   (cid:131) 555-987-6543 — emma.wilson@email.com — (cid:239) linkedin.com/in/emmawilson123 — ' github.com/emmawilson
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  Java, Python, C++, Ruby, Scala                                         
+
+   Frameworks: Vue.js, Flask, Django, Gatsby, Symfony, CakePHP, Express.js, Bulma, Svelte, Dropwizard                
+
+   ML/AI:      GANs, XGBoost, MLOps, AutoML, MC.AI                   
+
+   Technologies: Kafka, Redis, Apache Flink, Kubernetes, RabbitMQ, Celery, Apache Beam, Istio, Argo, DVC, Dask        
+
+   Testing:    Pytest, JUnit, RSpec, TestNG, Jest
+
+   Certifications: AWS Certified Solutions Architect, CKAD - Certified Kubernetes Application Developer, CompTIA Security+,
+
+                  Certified Scrum Master, Unity Certified Developer                                             
+
+                                                                                    
+
+   Experience                                                                       
+
+    TechCorp                                        May 2019 – Present
+
+    Senior Software Engineer                                                       
+
+      – Spearheaded the development of a scalable microservices architecture using Kafka and Redis for event-driven processing.
+
+      – Introduced Apache Flink for real-time data processing, resulting in a 30% increase in system performance. 
+
+      – Mentor to junior team members, providing guidance on best practices and architectural design.
+
+    Software Engineer                                                              
+
+      – Implemented a Kubernetes-based infrastructure for deploying and managing containerized applications.
+
+      – Collaborated with the data science team to deploy machine learning models with Kubernetes and DVC for version control.
+
+      – Conducted load testing using Apache JMeter to optimize application performance under heavy traffic. 
+
+    Associate Software Engineer                                                   
+
+      – Developed RESTful APIs using Flask and SQLAlchemy, enhancing data retrieval and manipulation capabilities.
+
+      – Integrated RabbitMQ for asynchronous communication between microservices, reducing dependencies and improving scalability.
+
+      – Participated in daily stand-ups and sprint planning meetings as part of an Agile development team.
+
+    Side Projects                                                                   
+
+    Real-time Stock Dashboard                                                      '     
+
+      – Built a real-time dashboard using Vue.js and Kafka Streams to display live stock market data and analytics.
+
+    Speech Recognition Tool                                                        '     
+
+      – Developed a speech recognition tool in Python using GStreamer and PocketSphinx for offline voice recognition.
+
+    Secure File Sharing Platform                                                    '     
+
+      – Created a secure file sharing platform with end-to-end encryption using AES and RSA algorithms.
+
+   Education                                                                        
+
+    University of California, Berkeley — MSc Data Science                    2015 – 2017    
+
+    Stanford University — BSc Computer Engineering (2:1)                         2011 – 2015  
+
+    MIT — BSc Informatics (Cert. of Higher Education)                        2010 – 2011
+
+   Projects                                                                         
+
+                                                                                    
+
+    Fraud Detection System                                                        '     
+
+      – Implemented a fraud detection system using XGBoost and data from Kaggle, achieving a precision rate of 95%.
+
+    E-commerce Recommendation Engine                                              '     
+
+      – Developed an e-commerce recommendation engine using collaborative filtering and matrix factorization techniques.
+
+    Chatbot with NLP Integration                                                  '     
+
+      – Integrated natural language processing (NLP) into a chatbot application for improved conversational interactions.
+
+    Personal Finance Tracker                                                      '     
+
+      – Created a personal finance tracker web app with Django to manage expenses, income, and budgeting.
+
+    Music Genre Classification                                                    '     
+
+      – Implemented a music genre classification model using CNNs and spectrogram data for audio analysis.

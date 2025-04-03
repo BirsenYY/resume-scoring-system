@@ -1,0 +1,109 @@
+Emma Thompson                                
+
+                                                                                  
+
+                      987-654-3210 | emma.thompson@email.com             
+
+                                                                                  
+
+  Education                                                                     
+
+          (in order of relevance)                                               
+
+  University of Oxford, Oxford                    Oct 2019 - Jun 2023
+
+    ●  BSc Biomedical Engineering: Graduated with First Class Honours                    
+
+    ●  Achieved a Distinction in Advanced Biomechanics, including modules on Biomaterials & Tissue Engineering
+
+    ●  Completed a research project on Neural Implants, investigating the impact of electrode materials on signal fidelity
+
+  Google Cloud Professional Data Engineer Certification                         
+
+    ●  Obtained certification in Data Engineering on Google Cloud Platform
+
+  IBM Certified Data Science Professional                                      
+
+    ●  Successfully completed the Data Science Professional Certificate program offered by IBM on Coursera
+
+  AWS Certified Solutions Architect - Associate                                         
+
+    ●  Certified in designing distributed systems on Amazon Web Services
+
+  Certified Blockchain Developer - Hyperledger Fabric                              
+
+    ●  Accredited as a developer specializing in enterprise blockchain solutions
+
+  Oracle Certified Professional, Java SE 11 Developer                                   
+
+    ●  Certified Java developer with expertise in Java Standard Edition 11
+
+  Employment History                                                            
+  
+                  (in order of relevance)                                       
+
+  Biotech Research Assistant – Genentech                           Aug 2023 - Present
+
+  Genentech is a leading biotechnology company known for drug discovery and development.
+
+    ●  Conducting experiments on a novel drug candidate targeting Alzheimer's disease, analyzing data using Python and R
+
+    ●  Collaborating with cross-functional teams to design and execute in vitro and in vivo assays
+
+    ●  Contributing to research publications and presentations at scientific conferences
+
+  Data Analyst – McKinsey & Company                          Jan 2024 - Jun 2024
+
+  McKinsey & Company is a global management consulting firm.
+
+    ●  Analyzed large datasets to derive insights and support strategic decision-making for client projects
+
+    ●  Developed data visualization dashboards using Tableau to effectively communicate findings to stakeholders
+
+    ●  Led a team of analysts in the successful completion of a project for a Fortune 500 company in the retail sector
+
+  Research Intern – National Institutes of Health Jun 2022 - Aug 2022
+
+  NIH is the primary agency for biomedical and public health research in the United States.
+
+    ●  Investigated the role of genetic variations in cancer susceptibility using bioinformatics tools
+
+    ●  Presented findings at lab meetings and contributed to a research paper published in a peer-reviewed journal
+
+  Extracurriculars                                                              
+
+              (in order of relevance)                                           
+
+  Project Lead – Biomedical Engineering Society          Jan 2021 - Jun 2023
+
+    ●  Organized workshops on emerging technologies in healthcare and facilitated networking events with industry professionals
+
+  Personal Project – AI Chatbot Development              Apr 2024 - Oct 2024
+
+    ●  Built a conversational AI chatbot using natural language processing techniques
+
+    ●  Integrated the chatbot with a website to provide customer support services
+
+  Event Coordinator – International Science Fair               Mar 2021 - Mar 2022
+
+    ●  Managed logistics for a science fair showcasing innovative projects from students worldwide
+
+                                                                                  
+
+  Volunteer Tutor & STEM Advocate – Local Community            Mar 2021 - Jun 2023
+
+    ●  Mentored high school students in STEM subjects and encouraged participation in science competitions
+
+    ●  Organized science outreach programs to promote interest in STEM fields among underprivileged youth
+
+  Additional Information                                                        
+
+                                                                                  
+
+  Technical Skills: MATLAB, TensorFlow, SQL, Hadoop, Power BI
+
+  Activities: Violinist in community orchestra, Hackathon participant, Hiking enthusiast
+
+  Languages: English (Native), Spanish (Intermediate), French (Elementary)
+
+  Interests: Digital Health, Artificial Intelligence, Sustainable Technologies, Photography, Yoga

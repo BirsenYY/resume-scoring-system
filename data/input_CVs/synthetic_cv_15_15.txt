@@ -1,0 +1,103 @@
+Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Experienced Biomedical Engineer with 8+ years of expertise in clinical systems integration, medical data analysis, and AI applications in healthcare. Skilled in biomedical signal processing, medical imaging analysis, and machine learning diagnostics. Proficient in Python, MATLAB, and TensorFlow, with a track record of collaborating with interdisciplinary teams to deliver innovative healthcare solutions. Passionate about leveraging technology to enhance patient care and outcomes.
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, Keras | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis |
+
+     Medical Imaging (MRI, PET, Ultrasound), Image Segmentation | ITK-SNAP, 3D Slicer, OsiriX | Biostatistics | Git, Docker |
+
+     HL7, FHIR, DICOM Standards | Flask, Django, REST APIs | Jupyter Notebooks, MATLAB Simulink
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Biomedical Engineer (Imperial College Healthcare NHS Trust) - London, UK     Apr 2019 : Present
+
+    ● Spearheaded the development of a deep learning model for automated brain tumor detection in MRI scans, reducing interpretation time by 35%
+
+    ● Implemented AI algorithms for predictive analytics in an ICU setting, resulting in a 20% decrease in sepsis misdiagnosis
+
+    ● Collaborated with radiologists to enhance the accuracy of MRI image segmentation for tumor delineation
+
+    ● Designed and executed validation studies for new medical devices, ensuring compliance with regulatory standards
+
+    
+
+     Data Scientist (Cambridge University Hospitals NHS Foundation Trust) - Cambridge, UK   Aug 2016 : Mar 2019
+
+    ● Led a team to develop a predictive model for early detection of diabetic retinopathy using retinal image analysis
+
+    ● Conducted research on leveraging wearable sensor data for personalized healthcare monitoring
+
+    ● Optimized data storage and retrieval processes for large-scale healthcare datasets using cloud-based solutions
+
+    ● Presented findings at national conferences and contributed to academic publications on healthcare analytics
+
+    
+
+     Biomedical Technician (York Teaching Hospital NHS Foundation Trust) – York, UK     Jan 2014 : Jul 2016
+
+    ● Maintained and repaired medical equipment including infusion pumps, defibrillators, and patient monitors
+
+    ● Implemented cybersecurity measures for medical devices to ensure data privacy and protection
+
+    ● Provided technical training to hospital staff on equipment operation and troubleshooting procedures
+
+    ● Supported clinical trials by setting up specialized monitoring systems and ensuring data accuracy
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    MSc in Biomedical Engineering - University College London (Distinction)   Sep 2012 : Sep 2013
+
+    BSc in Electrical and Biomedical Engineering - University of Edinburgh (First Class)  Sep 2008 : Jun 2012
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Biomedical Informatics Certificate - Harvard Medical School                        Jun, 2021
+
+    ● Healthcare Data Analytics Specialist (HDAS) Certification                           Mar, 2020
+
+    ● Advanced Medical Image Processing (AMIP) Course                                     Aug, 2019
+
+    ● Certified Health Technology Specialist (CHTS) Certification                          Jan, 2018
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● Wearable Vital Signs Monitor: Developed a wearable device with sensors for continuous monitoring of vital signs such as heart rate and blood oxygen levels. Integrated data transmission to mobile app for real-time tracking.
+
+    
+
+    ● Health Chatbot Application: Created a chatbot using natural language processing to provide instant responses to medical queries. Incorporated symptom checker and medication reminders for user convenience.
+
+    
+
+    ● Remote Ultrasound Imaging: Built a remote ultrasound imaging system using IoT technology for telemedicine applications. Enabled real-time image sharing between remote locations for expert diagnosis and consultation.

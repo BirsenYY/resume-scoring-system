@@ -1,0 +1,61 @@
+Alice Johnson
+
+San Francisco | 0999999 | alice.johnson@email.com | XYZ Innovations | XYZ Innovations
+
+WORDS ABOUT ME
+
+Software QA Engineer with a strong dedication to ensuring exceptional quality in software products. Skilled in creating and implementing effective test strategies, developing automation frameworks, and conducting thorough testing across various platforms. Specialized in API testing, performance testing, and continuous integration. Experienced in Agile methodologies and collaborating with cross-functional teams to deliver top-notch software solutions.
+
+CURRENTLY BUILDING
+
+XYZ Innovations – Software QA Engineer             Nov 2023 – Present
+
+● Leading the development of an innovative QA process incorporating AI-powered testing tools. 
+
+PROJECTS
+
+API Performance Testing Suite - link                                     2023
+
+● Designed and implemented a performance testing suite using JMeter and Grafana for analyzing API response times.
+
+● Improved system scalability by 30% through performance optimizations.
+
+EXPERIENCE
+
+XYZ Software Solutions – QA Lead                              Jan 2022 – Nov 2023
+
+● Spearheaded the QA team in creating end-to-end test suites for cloud-based applications using Gatling and Selenium.
+
+● Implemented a CI/CD pipeline with Jenkins for automated testing and deployment.
+
+XYZ Tech Group – QA Automation Engineer                  Mar 2020 – Jan 2022
+
+● Developed automated test scripts for mobile applications leveraging Appium and Calabash frameworks.
+
+● Achieved a 50% reduction in critical bugs through rigorous test automation.
+
+XYZ Digital Agency – QA Analyst                                       Sep 2018 – Mar 2020
+
+● Conducted manual testing of web and mobile applications to ensure functionality and user experience.
+
+● Collaborated with UX/UI designers to enhance product usability based on user feedback.
+
+EDUCATION
+
+XYZ University                                              2015 – 2019
+
+BSc Computer Science                                                         
+
+● Graduated Magna Cum Laude - Dissertation on AI-driven test automation in software development.
+
+CERTIFICATIONS
+
+1. ISTQB Certified Tester - Foundation Level
+2. AWS Certified Developer - Associate
+3. Google Cloud Professional Cloud Architect
+4. Red Hat Certified Engineer (RHCE)
+5. Certified ScrumMaster (CSM)
+
+TOOLS AND TECHNOLOGIES
+
+JMeter, Gatling, Appium, Selenium, Grafana, Jenkins, GitLab, Python, Java, Ruby, REST APIs, Docker, Kubernetes, Agile Scrum, XYZ Tech Group, XYZ Innovations, XYZ Software Solutions

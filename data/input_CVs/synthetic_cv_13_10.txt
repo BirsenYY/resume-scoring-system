@@ -1,0 +1,76 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Coordinates (Who I Am Now)
+Inquisitive and results-oriented Data Scientist with a solid background in computational neuroscience and a keen eye for data-driven solutions. Experienced in building robust data pipelines, crafting predictive models, and tackling complex problems using innovative approaches. Committed to leveraging data insights for impactful decision-making, particularly within the realms of neuroscience and artificial intelligence.
+
+Toolkit & Weapons of Choice
+Languages: Python, Java, Scala, Julia
+Machine Learning: Neural Networks, SVM, NLP, Anomaly Detection, Reinforcement Learning
+Data Ops: MongoDB, Apache Spark, Kafka, TensorFlow, Airflow
+Visualization: D3.js, Dash, Bokeh, Plotly
+Other Strengths: Bayesian Statistics, Graph Theory, Causal Inference, Docker, Kubernetes
+
+What I’m Building Now (Recent Role)
+Senior Data Scientist
+NeuroTech Innovations Ltd. – London, UK
+Apr 2021 – Present
+
+Developed algorithms for brain-computer interfaces to assist in motor function recovery
+
+Collaborated with neuroscientists to extract meaningful insights from large-scale EEG data
+
+Implemented real-time data processing systems for brain signal analysis
+
+Utilized reinforcement learning for optimizing treatment strategies in neurological disorders
+
+Managed end-to-end machine learning projects to enhance patient outcomes
+
+Where I Bridged the Gap (Transitional Role)
+Data Engineer – Neuroinformatics
+Cognitive Computing Solutions – London, UK
+Sep 2018 – Mar 2021
+
+Processed and analyzed neuroimaging data (fMRI, DTI) for cognitive mapping projects
+
+Developed scalable data pipelines for handling multi-modal brain data sets
+
+Designed and implemented data quality monitoring procedures to ensure data integrity
+
+Contributed to the development of a brain-inspired artificial intelligence platform
+
+Facilitated knowledge transfer between neuroscience and machine learning teams
+
+Innovative Side Projects
+1. "NeuroViz": A web-based tool for interactive visualization of brain connectivity networks
+2. "DeepDreamGen": Image generator using neural network hallucination techniques
+
+Where It All Started (Foundations in Research)
+Research Assistant – Computational Neuroscience
+NeuroScience Lab – London, UK
+Dec 2016 – Aug 2018
+
+Performed data analysis on neuronal firing patterns to understand cognitive processes
+
+Implemented computational models of neural networks for studying learning mechanisms
+
+Assisted in research publications and conference presentations
+
+Supported experimental design and data collection for neurophysiological studies
+
+The Knowledge Base
+PhD – Computational Neuroscience
+King's College London, 2012 – 2016
+
+MSc – Artificial Intelligence
+University of Edinburgh, 2010 – 2012
+
+Digital Badges & Certifications
+Certified Big Data Professional by Data Science Council of America
+
+AWS Certified Solutions Architect – Associate
+
+Certified Information Systems Security Professional (CISSP)
+
+Certified Blockchain Professional by Blockchain Council

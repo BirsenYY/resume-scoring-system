@@ -1,0 +1,68 @@
+Emily Ward
+Manchester, UK | (+44) 7936528176 | emily.ward@hotmail.com | Work Rights: Yes/Full-Time
+linkedin.com/in/emilyward | github.com/EmilyWard | company-x.com/emilyward | medium.com/@emilyward
+
+PROFESSIONAL SUMMARY:
+
+Results-driven Mechanical Engineer with over 7 years of experience in mechanical design, structural analysis, and sustainable product development. Skilled in CAD modeling, FEA simulations, and project management. Proficient in leading teams, optimizing manufacturing processes, and implementing innovative engineering solutions in the automotive and renewable energy sectors. Currently expanding expertise in robotics and mechatronics.
+
+SKILLS:
+
+SolidWorks, Inventor, Pro/Engineer, COMSOL, Mathcad, LabVIEW, Robotics, Mechatronics, Vibration Analysis, Computational Fluid Dynamics, Six Sigma, Lean Manufacturing, Agile Project Management, Java, R, Tableau, Oracle ERP, Technical Writing, Failure Mode and Effects Analysis (FMEA), Technical Presentations
+
+PROFESSIONAL EXPERIENCE:
+
+Senior Mechanical Engineer (Bentley Motors) – Crewe, UK
+Mar 2018 – Present
+
+Managed the design and optimization of luxury car chassis components, achieving a 10% weight reduction while maintaining structural integrity
+
+Conducted thermal analysis using COMSOL Multiphysics to enhance cooling systems efficiency by 15%
+
+Implemented robotics in assembly lines, resulting in a 20% increase in production speed
+
+Collaborated with cross-functional teams to integrate IoT sensors for real-time vehicle performance monitoring
+
+Mechanical Design Engineer (Dyson) – Malmesbury, UK
+Nov 2014 – Feb 2018
+
+Designed innovative vacuum cleaner components, focusing on efficiency and durability
+
+Utilized Vibration Analysis to enhance product reliability, reducing failure rates by 25%
+
+Led a team in the development of a new robotic vacuum model, from concept to production
+
+Implemented Six Sigma methodologies in product development processes, resulting in a 30% decrease in defects
+
+Junior Mechanical Engineer (Jaguar Land Rover) – Birmingham, UK
+Sep 2012 – Oct 2014
+
+Supported the design and testing of automotive suspensions for premium vehicles
+
+Performed structural analysis using Pro/Engineer and FEA simulations, ensuring compliance with safety standards
+
+Assisted in developing technical reports and presentations for executive stakeholders
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Manchester, Manchester (Distinction)
+Sep 2008 – Jul 2012
+
+BEng in Mechanical Engineering – University of Leeds, Leeds (First Class Honours)
+Sep 2005 – Jun 2008
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Certified Inventor Professional – 2017
+
+Certified Robotics Engineer (Robotics Institute) – 2019
+
+Tableau Desktop Specialist – 2021
+
+Lean Six Sigma Black Belt – 2020
+
+Oracle ERP Cloud Fundamentals – 2022
+
+GitHub Profile: github.com/EmilyWard
+
+LinkedIn Profile: linkedin.com/in/emilyward

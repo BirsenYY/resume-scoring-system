@@ -1,0 +1,69 @@
+Emma Barnes
+Manchester, UK | (+44) 7904563210 | emma.barnes@gmail.com | Work Rights: Yes/Full-Time
+linkedin.com/in/emmabarnes | github.com/EmmaBarnes | bmw.com/EmmaBarnes | medium.com/@emmabarnes
+
+PROFESSIONAL SUMMARY:
+
+Results-driven Mechanical Engineer with 7 years of experience in product design, thermal analysis, and sustainable engineering solutions. Proficient in CAD modelling, FEA simulations, and project management. Skilled in collaborating with cross-functional teams, optimizing manufacturing processes, and implementing innovative engineering practices within the automotive and renewable energy industries. Actively enhancing knowledge in IoT applications and renewable energy systems.
+
+SKILLS:
+
+SolidWorks, CATIA, ANSYS, AutoCAD, Python, MATLAB, Siemens NX, Thermodynamics, Fluid Dynamics, Structural Analysis, Renewable Energy Systems, Project Management, Agile Methodologies, Root Cause Analysis, CNC Machining, GD&T, Microsoft Office Suite, SAP, Technical Documentation, Failure Mode and Effects Analysis (FMEA), IoT Applications
+
+PROFESSIONAL EXPERIENCE:
+
+Lead Mechanical Engineer (BMW Group) – Manchester, UK
+Mar 2019 – Present
+
+Oversaw the design and testing of electric vehicle battery packs, resulting in a 20% increase in energy density
+
+Conducted thermal analysis using Siemens NX and ANSYS, leading to a 15% improvement in cooling efficiency
+
+Managed a team of engineers to implement Industry 4.0 practices in manufacturing, reducing production lead times by 30%
+
+Collaborated with suppliers to optimize component sourcing, achieving a 10% cost saving on production materials
+
+Mechanical Design Specialist (Renewable Engineering Solutions) – Birmingham, UK
+Sep 2015 – Feb 2019
+
+Designed solar panel mounting systems and wind turbine components, focusing on sustainability and cost-effectiveness
+
+Utilized CAD software to create detailed 3D models for manufacturing, improving design accuracy by 20%
+
+Implemented Lean Six Sigma methodology in process improvement projects, resulting in a 25% reduction in defects
+
+Led a cross-functional team in root cause analysis of equipment failures, enhancing system reliability and performance
+
+Junior Mechanical Engineer (Jaguar Land Rover) – Coventry, UK
+Jun 2013 – Aug 2015
+
+Contributed to the development of lightweight vehicle structures for improved fuel efficiency and performance
+
+Performed structural analysis and material selection for automotive components, ensuring compliance with safety regulations
+
+Assisted in the creation of technical documentation and risk assessments for vehicle testing and validation processes
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Manchester, Manchester (Distinction)
+Sep 2010 – Jul 2013
+
+BEng in Mechanical Engineering – University of Warwick, Coventry (First Class Honours)
+Sep 2006 – Jun 2010
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Certified Siemens NX Professional – 2017
+
+Lean Manufacturing Certification – 2016
+
+Renewable Energy Systems Specialist (RESA) – 2018
+
+IoT Applications in Engineering (Udemy) – Ongoing
+
+Additive Manufacturing Techniques for Engineers – 2021
+
+Side Projects:
+1. Developed a solar-powered water desalination prototype for rural communities (2017)
+2. Implemented a predictive maintenance system for industrial pumps using IoT sensors (2019)
+3. Designed and fabricated a prototype of an autonomous drone for agricultural monitoring (2021)

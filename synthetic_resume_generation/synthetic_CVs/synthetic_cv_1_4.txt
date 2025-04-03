@@ -1,0 +1,113 @@
+```
+Emma Johnson                                    
+
+                                                                                  
+
+                      Los Angeles | 987-654-3210 | emmajohnson@email.com | RST Technologies | MNO Solutions
+
+      SUMMARY                                                                     
+
+                                                                                  
+
+      Data scientist and machine learning engineer specializing in developing and deploying scalable machine learning solutions. Proficient in Python and TensorFlow, with expertise in computer vision, natural language processing, and reinforcement learning. Experienced in building microservices using FastAPI and deploying on cloud platforms.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      RST Technologies                             Jan 2020 – Present
+
+        ●  Developed deep learning pipelines for image recognition projects, achieving a 10% increase in accuracy by implementing custom loss functions.
+
+        ●  Implemented MLOps practices, including CI/CD pipelines with Jenkins, Docker, and Kubernetes, to automate model deployment and monitoring.
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Fraud Detection System                                             2023     
+
+        ●  Engineered and deployed a fraud detection system using XGBoost and K-means clustering for anomaly detection.
+
+      Sentiment Analysis Platform                                         2022     
+
+        ●  Created a sentiment analysis platform using LSTM networks for analyzing customer feedback and social media comments.
+
+      Secure Document Management System                                       2021     
+
+        ●  Designed and implemented a secure document management system with end-to-end encryption using RSA algorithms.
+
+      Weather Forecasting AI Model                                        2021     
+
+        ●  Developed an AI model for weather forecasting using GANs to generate synthetic weather data for training.
+
+      AI-Powered Resume Screening Tool                                     2020     
+
+        ●  Built a resume screening tool using BERT embeddings and cosine similarity to match job descriptions with candidate resumes.
+
+      Traffic Flow Prediction System                                     2020     
+
+        ●  Designed and deployed a traffic flow prediction system combining LSTM and attention mechanisms for real-time traffic forecasting.
+
+      AI Music Composer                                              2020     
+
+        ●  Created an AI music composer using deep learning to generate music based on input styles and genres.
+
+      Image Translation System                                      2019     
+
+        ●  Implemented an image translation system using CycleGAN to convert images from one artistic style to another.
+
+      Heart Disease Diagnosis AI                                             2019     
+
+        ●  Developed an AI model for diagnosing heart disease based on medical image analysis and patient data.
+
+      IoT Sensor Data Analysis Platform                           2018     
+
+        ●  Built a platform for analyzing IoT sensor data using machine learning algorithms for anomaly detection and predictive maintenance.
+
+      DNA Sequencing Classifier                                      2018     
+
+        ●  Implemented a DNA sequencing classifier using CNNs for identifying gene mutations and abnormalities.
+
+      Predictive Maintenance System                                  2017     
+
+        ●  Developed a predictive maintenance system for manufacturing equipment using LSTM networks and fault prediction algorithms.
+
+      Dynamic Pricing Optimization Tool                             2016     
+
+        ●  Designed and implemented a dynamic pricing optimization tool for e-commerce platforms using reinforcement learning.
+
+      Smart Energy Management System                               2016     
+
+        ●  Created a smart energy management system for optimizing energy consumption in buildings using deep Q-learning.
+
+      EDUCATION                                                                   
+
+      ABC University                                           2014 – 2018  
+
+      BSc in Computer Engineering                                                        
+
+                                                                                  
+
+      CERTIFICATES                                                              
+
+        ●  Certified Machine Learning Engineer (CMLE)
+
+        ●  TensorFlow Developer Certificate
+
+        ●  Certified Natural Language Processing Specialist (CNLPS)
+
+        ●  AWS Certified Solutions Architect - Associate
+
+        ●  Certified Blockchain Developer (CBD)
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      Proficient in TensorFlow, PyTorch, Scikit-Learn, Keras, Hugging Face, Git & GitHub, Docker, Kubernetes, Jenkins, FastAPI, Spark, Kafka, NoSQL, MySQL, Redis, NumPy, SciPy, Matplotlib, Seaborn, Plotly, React, Angular, Node.js, Vue.js, HTML, CSS, JavaScript, Java, Scala, C#, Go.
+    ```

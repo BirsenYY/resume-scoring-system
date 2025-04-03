@@ -1,0 +1,39 @@
+
+Michael Smith
+
+New York | 987-654-3210 | michaelsmith@email.com | LMN Corp | RST Corp
+
+SUMMARY
+
+Experienced machine learning and software engineer with a focus on developing and deploying advanced machine learning solutions. Proficient in Python, TensorFlow, and the Hugging Face Transformers library. Skilled in building computer vision models and NLP systems, with expertise in deploying applications on cloud platforms and optimizing for performance.
+
+EXPERIENCE
+
+RST Corp                              Jan 2022 – Present
+
+- Leading a team in developing state-of-the-art computer vision models for object detection and image segmentation.
+- Implementing MLOps best practices using Kubernetes, Kubeflow, and MLflow to streamline model deployment and monitoring.
+
+Side Projects
+
+Medical Image Analysis Tool                                    2023
+- Created a tool for analyzing and segmenting medical images using deep learning techniques and PyTorch.
+
+Music Genre Classification Model                              2021
+- Developed a deep learning model to classify music genres from audio samples, achieving over 90% accuracy.
+
+EDUCATION
+
+LMN University                                    2016 – 2020
+BSc in Computer Science
+
+CERTIFICATES
+
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Solutions Architect - Associate
+- Google Cloud Professional Data Engineer
+- Certified Information Systems Security Professional (CISSP)
+
+TOOLS AND TECHNOLOGIES
+
+Proficient in Python, TensorFlow, PyTorch, Hugging Face Transformers, Kubernetes, Docker, AWS, Google Cloud Platform, Git, SQL, NumPy, Pandas, Matplotlib, React, NodeJS, HTML, CSS, JavaScript, C++.

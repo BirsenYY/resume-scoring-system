@@ -1,0 +1,97 @@
+Maria Sanchez
+
+                                                                                    
+
+      (cid:131) 555-987-6543 — maria.sanchez@email.com — (cid:239) linkedin.com/in/maria-sanchez-7549702b1 — ' github.com/mariasanchez
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  Java, C++, Ruby, Scala, Julia                                  
+
+   Frameworks: Vue.js, Flask, D3.js, Play, Plotly, Chainer, MXNet, LightGBM, CatBoost, XGBoost, H2O.ai, ModelArts,
+
+               Ludwig, ONNX, Pachyderm                                                  
+
+   ML/AI:      CycleGAN, Capsule Networks, Federated Learning, AI Ethics                  
+
+   Technologies: Pachyderm, Toronto, Serverless Computing, Kubernetes, KubeFlow, Airflow, DVC, Pulsar, EMQ X, Apache Flink,
+
+               Presto, MemSQL                                  
+
+   Testing:    PyTest, Robot Framework, Hypothesis, TestProject, LoadNinja                 
+
+   Certifications: DP-100 Azure Data Scientist Associate, Google Cloud Professional Data Engineer, AWS Certified Solutions Architect – Associate, 
+
+                  CKA Certified Kubernetes Administrator, Snowflake Certified Implementation Engineer                                                 
+
+                                                                                    
+
+   Experience                                                                       
+
+    Toronto AI                                         Sep 2021 – Present
+
+    Machine Learning Engineer                                                                     
+
+      – Spearheaded the development and deployment of a real-time anomaly detection system for IoT devices using Federated Learning.
+
+      – Implemented an AI Ethics framework within the organization, ensuring compliance with industry standards.
+
+      – Collaborated with cross-functional teams to optimize model efficiency and cost reduction on cloud infrastructure.
+
+    AI Researcher                                                                     
+
+      – Conducted research on Capsule Networks for image classification, achieving a 10% improvement in accuracy over traditional CNNs.
+
+      – Created and maintained data pipelines for large-scale machine learning experiments using KubeFlow and Airflow.
+
+      – Co-authored a paper on AI Explainability published in a top-tier ML conference.
+
+    Data Science Intern                                               May 2021 – Aug 2021
+
+      – Developed a sentiment analysis model using BERT for social media data, leading to a 20% increase in sentiment classification accuracy.
+
+      – Assisted in the implementation of Pulsar real-time data processing for streaming analytics in a data engineering project.
+
+      – Participated in data preparation and feature engineering for predictive maintenance use case in the manufacturing industry.
+
+    StartupX                                         Jan 2020 – Mar 2021
+
+    Software Engineer                                                              
+
+      – Built a scalable data pipeline using Apache Flink for real-time processing of financial transactions data.
+
+      – Automated model training and deployment workflows using DVC and Pachyderm, reducing deployment time by 30%.
+
+      – Integrated AI models into a recommendation engine, resulting in a 15% increase in user engagement.
+
+   Education                                                                        
+
+    University of Toronto — MSc Machine Learning and Data Mining               2022    
+
+    University of Waterloo — BSc Computer Science (Co-op Program)              2017 – 2022  
+
+   Projects                                                                         
+
+                                                                                    
+
+    Cybersecurity Threat Detection Platform                                                '     
+
+      – Developing a cybersecurity threat detection platform using machine learning algorithms to identify and prevent threats in real-time.
+
+    Quantum Computing Simulations                                             '     
+
+      – Conducted simulations of quantum computing algorithms and their applications in solving complex optimization problems.
+
+    Music Genre Classification Model                                            '     
+
+      – Implemented a music genre classification model using deep learning techniques to classify songs into different genres.
+
+    Blockchain Voting System                                           '     
+
+      – Created a blockchain-based voting system to ensure secure and transparent elections with verifiable results.
+
+    Personalized Health Assistant                                        '     
+
+      – Developed a personalized health assistant using natural language processing to provide health recommendations based on user input.

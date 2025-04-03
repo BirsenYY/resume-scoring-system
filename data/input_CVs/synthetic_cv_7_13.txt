@@ -1,0 +1,95 @@
+```
+    Emily Johnson
+
+                        San Francisco | emily.johnson@email.com | Data Science | AI Solutions   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Data scientist specializing in machine learning with a strong foundation in statistics and programming. Experience in developing AI-driven solutions and a passion for continuous learning in artificial intelligence.                                                                                
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, R, SQL, Java, Scala, Spark, Docker, • Frameworks: Hugging Face, CatBoost, LightGBM, XGBoost,
+
+     FastAPI, PostgreSQL, MongoDB, Apache HBase                                    
+
+    • Machine Learning: Transformer Architecture, BERT, AutoML, Ensemble Learning, • Tools: PyCharm, DVC, MLflow, AWS S3,
+
+     RNNs, Time Series Forecasting, Explainable AI, Data Wrangling, NLP, Computer Vision GCP, Azure, Heroku, DigitalOcean
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    Data Scientist | AI Solutions, New York                                    May 2020 – Present
+
+    Image Recognition Software Enhancement                                         
+
+                                                                                  
+
+    • Improved image recognition software by implementing Ensemble Learning techniques for higher accuracy.
+
+    • Utilized Explainable AI methods to enhance model interpretability and trust in the system.
+
+    • Developed Time Series Forecasting models for predicting image access patterns and storage optimization.
+
+    • Integrated FastAPI for a more efficient data processing pipeline.
+
+    • Deployed models on AWS S3 for scalable image recognition services.                  
+
+    Tech Stack: Python, CatBoost, Explainable AI, Time Series Forecasting, FastAPI, AWS, Data Wrangling, Computer Vision, NLP
+
+    Fraud Detection System Implementation                                             
+
+    • Led the development of a fraud detection system using BERT for text analysis and AutoML for model selection.
+
+    • Engineered features for fraud indicators and anomaly detection.
+
+    • Conducted Ensemble Learning for robust fraud detection across different transaction types.
+
+    • Managed model performance tracking using MLflow and implemented continuous monitoring.
+
+    • Optimized model deployment on GCP for real-time fraud detection.                        
+
+    Tech Stack: Python, BERT, AutoML, Ensemble Learning, MLflow, GCP, NLP, Anomaly Detection, Feature Engineering
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc Data Science, New York University, New York                           Sept 2019 - May 2021
+
+    BSc Mathematics (Statistics), University of Michigan, Ann Arbor          Sept 2015 - May 2019
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Sentiment Analysis (LSTMs)        • Credit Risk Assessment (XGBoost)        
+
+    • Document Clustering (Hugging Face, MongoDB) • Customer Segmentation (LightGBM)    
+
+    • Chatbot Development (RNNs)        • Stock Price Prediction (Prophet)          
+
+    • E-commerce Recommendation System (ALS)  • Song Genre Classification (k-NN)         
+
+    • Customer Churn Prediction (Logistic Regression) • Speech Emotion Recognition (CNNs)
+    ```

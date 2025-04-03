@@ -1,0 +1,58 @@
+Emma Smith
+
+New York City | 0888888 | emma.smith@email.com | ABC AI | ABC AI
+
+WORDS ABOUT ME
+
+Passionate AI engineer with a strong background in developing and deploying cutting-edge artificial intelligence solutions. Skilled in leading technical teams and creating innovative models from scratch. Proficient in Python, TensorFlow, and Scikit-Learn, with experience in computer vision and natural language processing applications. Expertise in building scalable applications using Flask and cloud-based architectures.
+
+CURRENTLY BUILDING
+
+ABC AI - AI Engineer Apr 2023 - Present
+
+- Co-founded startup focused on creating AI solutions for healthcare industry
+
+PROJECTS
+
+ABC AI - link Apr 2023
+
+- Developed AI-driven healthcare diagnostic tool for early disease detection
+
+EXPERIENCE
+
+XYZ AI Institute - Research Scientist Jan 2021 - Mar 2023
+
+- Conducted research on advanced AI models for image and text analysis
+- Implemented novel approaches for transfer learning and multimodal fusion
+- Managed MLOps processes using MLflow and DVC
+
+XYZ Tech Ventures - Machine Learning Engineer Jul 2019 - Dec 2020
+
+- Designed and implemented anomaly detection system using LSTM networks
+- Optimized data pipelines for real-time processing of streaming data
+- Collaborated with cross-functional teams on various AI projects
+
+ABC Robotics - AI Developer Feb 2018 - Jun 2019
+
+- Developed AI algorithms for robotic motion planning and control
+- Integrated computer vision algorithms for object recognition tasks
+- Conducted workshops on AI applications in robotics
+
+EDUCATION
+
+ABC University 2015 - 2019
+BSc in Artificial Intelligence
+
+- Awarded Best AI Project for creating a chatbot with sentiment analysis
+
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, Scikit-Learn, PySpark, OpenCV, Flask, AWS S3, Kafka, MongoDB, Docker, HTML, CSS, React, Java, R, SQL
+
+CERTIFICATIONS
+
+- Certified Ethical AI Practitioner
+- Advanced Reinforcement Learning Specialist
+- AWS Certified Machine Learning - Specialty
+- Certified Deep Learning Engineer
+- Microsoft Certified AI Engineer

@@ -1,0 +1,62 @@
+Emma Smith
+
+San Francisco, USA | +1 234 567 8901 | emma.smith@email.com | Tech Pioneers
+
+EXPERIENCE
+
+Tech Pioneers – Senior Data Scientist           Nov 2022 – Present
+
+- Led research on quantum machine learning algorithms, focusing on quantum neural networks and variational quantum circuits.
+- Developed quantum algorithms for natural language processing tasks and computer vision applications.
+- Implemented MLOps pipelines using MLflow and DVC for model versioning and tracking.
+
+Tech Pioneers – Data Engineer                       Mar 2021 – Oct 2022
+
+- Built a real-time data processing system using Apache Flink, processing high-frequency financial data streams.
+- Designed and maintained data pipelines for feature engineering and model training in a distributed environment.
+- Implemented data quality monitoring and anomaly detection using Apache Kafka and Grafana.
+
+Tech Pioneers – Machine Learning Engineer  Aug 2019 – Feb 2021
+
+- Developed a recommendation system using collaborative filtering and matrix factorization techniques.
+- Optimized deep learning models for image classification tasks, achieving state-of-the-art accuracy on benchmark datasets.
+- Deployed machine learning models on cloud infrastructure using Kubernetes and Docker containers.
+
+Tech Solutions – Software Developer              Jan 2018 – Jul 2019
+
+- Collaborated on building a scalable microservices architecture using Spring Boot and Apache Kafka.
+- Implemented RESTful APIs for a healthcare application, integrating with third-party services for data exchange.
+- Conducted code reviews and mentored junior developers on best practices and design patterns.
+
+EDUCATION
+
+Tech Institute                                     2015 – 2019
+
+MSc Computer Science, Data Science Specialization, Distinction
+
+Science College                                2011 – 2015
+
+BSc Computer Science, First Class
+
+CERTIFICATIONS
+
+- Certified Kubernetes Administrator (CKA)
+- Machine Learning Engineer Nanodegree (Udacity)
+- AWS Certified Solutions Architect – Associate
+- Certified Information Systems Security Professional (CISSP)
+- Certified Scrum Master (CSM)
+
+PROJECTS
+
+Tech Pioneers – Image Recognition App                2023
+
+E-commerce Recommendation Engine - link              2022
+
+Finance Portfolio Optimization Tool - link                 2021
+
+TOOLS AND TECHNOLOGIES
+
+I have worked with: Tech Pioneers, DataTech, MachineAI, Data Solutions, CloudTech, AI Platform, DevOpsTech, QuantumTech,
+Kubernetes, MLflow, DVC, Apache Flink, Kafka, Grafana, Spring Boot, Apache Kafka, RESTful API, Docker, Kubernetes, AWS,
+TensorFlow, PyTorch, Scikit-learn, Apache Spark, Hadoop, Jupyter, Git, Linux, SQL, NoSQL, MongoDB, Elasticsearch, Redis,
+DynamoDB, AWS S3, Jenkins, Ansible, Terraform, Agile, Scrum, DevOps, CI/CD, TDD, BDD.

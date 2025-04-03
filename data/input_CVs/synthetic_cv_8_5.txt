@@ -1,0 +1,97 @@
+John Doe                                                                        
+
+                                                                                  
+
+                      San Francisco | 0999999 | john.doe@email.com | XYZ Innovations | XYZ Innovations
+
+      PROFILE                                                                        
+
+                                                                                  
+
+                                                                                  
+
+      Seasoned Quality Assurance Engineer with a strong background in ensuring software quality through meticulous testing practices and automation. Experienced in leading QA initiatives and developing scalable test automation frameworks. Proficient in test strategy design, automation tools such as Appium and TestNG, and API testing with SOAPUI. Skilled in Agile methodologies and implementing CI/CD pipelines for efficient software delivery.
+
+      CURRENT WORK                                                                    
+
+                                                                                  
+
+      XYZ Innovations – Senior QA Engineer                       Mar 2020 – Present
+
+        ●  Spearheading QA efforts and refining test strategy for complex analytics software.
+
+        ●  Developing an innovative testing framework (LINK TO Bitbucket) to enhance test coverage and efficiency.
+
+                                                                                  
+
+      SIDE PROJECTS                                                                  
+
+                                                                                  
+
+      Mobile App Performance Testing – link                                    2021
+
+        ●  Led a project to conduct performance testing on a mobile app using Apache JMeter and monitored key metrics for optimization.
+
+        ●  Achieved a 20% improvement in app response time through performance tuning.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      XYZ Labs – QA Lead                                         Sep 2018 – Feb 2020
+
+        ●  Led a team of QA analysts and engineers in testing IoT devices and smart home applications.
+
+        ●  Implemented automated testing scripts with Appium and conducted API testing with SOAPUI.
+
+        ●  Collaborated with development teams to troubleshoot and resolve critical defects.
+
+                                                                                  
+
+      XYZ Tech Solutions – QA Automation Engineer                Jul 2016 – Sep 2018
+
+        ●  Developed end-to-end test scripts for web and mobile applications using TestNG and Selenium WebDriver.
+
+        ●  Automated regression test suites, reducing testing time by 30%.
+
+        ●  Conducted training sessions on test automation best practices for the QA team.
+
+                                                                                  
+
+      XYZ Online Services – QA Analyst                             Jan 2014 – Jun 2016
+
+        ●  Performed manual testing for web platforms and identified critical bugs affecting user experience.
+
+        ●  Participated in user acceptance testing and provided feedback to improve software functionality.
+
+        ●  Utilized Bugzilla for bug tracking and collaborated with cross-functional teams for bug resolution.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      XYZ College                                             2010 – 2014
+
+      BEng Software Engineering                                             
+
+        ●  Graduated with Distinction – Final year project on automated regression testing in Agile environments.
+
+      CERTIFICATIONS                                                              
+
+                                                                                  
+
+        ●  ISTQB Certified Tester – Foundation Level
+
+        ●  AWS Certified Solutions Architect – Associate
+
+        ●  Scrum Alliance Certified Scrum Master
+
+      TOOLS AND TECHNOLOGIES
+
+
+
+Appium, TestNG, SOAPUI, JMeter, Bugzilla, Git & Bitbucket, Java, Python, SQL, Agile Scrum, CI/CD, XYZ Innovations, XYZ Labs, XYZ Tech Solutions, XYZ Online Services

@@ -1,0 +1,79 @@
+Alexandra Lee                                   
+                                                                                  
+                      San Francisco | 987-654-3210 | alexandralee@email.com | DEF Corp | UVW Solutions
+
+      SUMMARY                                                                     
+
+                                                                                  
+
+      Passionate machine learning and software engineer with a focus on developing innovative solutions using AI technologies. Proficient in Python, TensorFlow, and Scikit-Learn, specializing in computer vision applications and natural language processing. Experienced in deploying machine learning models on cloud platforms and optimizing performance.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      UVW Solutions                            Nov 2021 – Present
+
+        ●  Led the development of a computer vision system for real-time object detection in retail environments, resulting in a 20% increase in efficiency.
+
+        ●  Implemented MLOps best practices using tools such as MLflow, TensorFlow Serving, and Jenkins for model versioning and continuous integration.
+
+                                                                                  
+
+      DEF Corp                             Mar 2019 – Nov 2021
+
+        ●  Conducted extensive research on deep learning techniques for image segmentation, contributing to a project that achieved state-of-the-art performance in medical image analysis.
+
+        ●  Collaborated with cross-functional teams to integrate machine learning models into production software systems, ensuring seamless deployment and monitoring.
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Sentiment Analysis Platform                                             2023     
+
+        ●  Developed a sentiment analysis platform using BERT embeddings and LSTM networks to classify customer feedback.
+
+      Self-Driving RC Car                                                 2023     
+
+        ●  Built an autonomous RC car that navigates through an obstacle course using computer vision and reinforcement learning.
+
+      Fraud Detection System                                               2022     
+
+        ●  Designed and implemented a fraud detection system for online transactions using machine learning algorithms.
+
+      Autonomous Drone Navigation                                      2022     
+
+        ●  Created a system for autonomous drone navigation based on visual odometry and deep learning models.
+
+      Intelligent Chatbot for Customer Support                        2021     
+
+        ●  Designed an AI-powered chatbot that assists customers in troubleshooting common technical issues.
+
+      CERTIFICATIONS                                                              
+
+        ●  AWS Certified Machine Learning – Specialty
+
+        ●  Google Cloud Professional Data Engineer
+
+        ●  Certified Ethical Hacker (CEH)
+
+        ●  Microsoft Certified: Azure AI Engineer Associate
+
+        ●  Certified Kubernetes Administrator (CKA)
+
+      EDUCATION                                                                   
+
+      UVW College                                           2015 – 2019  
+
+      BSc in Computer Engineering                                                       
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      Proficient in PyTorch, Keras, Transformers, Git & GitHub, Docker, Kubernetes, FastAPI, PostgreSQL, NumPy, TensorFlow Serving, MLflow, Jenkins, React, Flask, NodeJS, HTML, CSS, JavaScript, C++, Java, R.

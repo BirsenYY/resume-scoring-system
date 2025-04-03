@@ -1,0 +1,99 @@
+Jane Smith                                    
+
+                                                                                  
+
+                      Los Angeles | 555-123-4567 | janesmith@email.com | DEF Tech | UVW Innovations
+
+      SUMMARY                                                                     
+
+                                                                                  
+
+      Passionate machine learning engineer with expertise in developing and deploying advanced AI models. Proficient in
+
+      Python and TensorFlow ecosystem, specializing in computer vision and natural language processing. Skilled in designing
+
+      scalable applications using Flask and Docker on cloud platforms.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      DEF Tech                             Jan 2021 – Present
+
+        ●  Implemented end-to-end machine learning solutions for real-time image recognition applications, achieving 95% accuracy.
+
+        ●  Led a team in deploying a large-scale NLP model for sentiment analysis using BERT and Hugging Face Transformers.
+
+                                                                                  
+
+      UVW Innovations                             Mar 2019 – Dec 2020
+
+        ●  Developed and optimized computer vision algorithms for autonomous vehicles, reducing false positive detections by 20%.
+
+        ●  Built a custom recommendation engine for personalized content delivery, increasing user engagement by 15%.
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Insurance Claim Prediction                                             2022     
+
+        ●  Created a machine learning model to predict insurance claim likelihood, achieving an accuracy of 87%.
+
+      Sentiment Analysis Dashboard                                           2021     
+
+        ●  Designed and deployed a sentiment analysis dashboard for monitoring social media trends in real-time.
+
+      AI Music Composer                                                     2021     
+
+        ●  Implemented a deep learning model to compose music based on input style preferences.
+
+      DEF Tech Smart Home Automation System                                        2020     
+
+        ●  Developed a smart home automation system using computer vision and IoT devices.
+
+      UVW Innovations Speech-to-Text App                                       2019     
+
+        ●  Built a speech-to-text application with real-time transcription capabilities for meetings and interviews.
+
+      Image Segmentation Tool                                              2019     
+
+        ●  Created an image segmentation tool using semantic segmentation techniques for medical imaging applications.
+
+      Real-time Object Detection                                              2019     
+
+        ●  Deployed a real-time object detection system using YOLOv3 for security monitoring.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+      UVW University                                           2015 – 2019  
+
+      BSc in Computer Engineering                                                        
+
+                                                                                  
+
+      CERTIFICATIONS                                                                
+
+        ●  Certified Cloud Security Professional (CCSP)
+
+        ●  AWS Certified Solutions Architect – Associate
+
+        ●  Google Cloud Professional Data Engineer
+
+        ●  Microsoft Certified: Azure AI Engineer Associate
+
+        ●  Certified Kubernetes Administrator
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      Proficient in TensorFlow, PyTorch, Scikit-Learn, Hugging Face Transformers, Docker, Flask, AWS, Google Cloud Platform,
+
+      Azure, SQL, NoSQL, Pandas, NumPy, Matplotlib, OpenCV, Unity, HTML, CSS, JavaScript, React, Node.js, C++.  

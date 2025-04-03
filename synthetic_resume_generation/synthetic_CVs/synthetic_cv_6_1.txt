@@ -1,0 +1,61 @@
+Jane Smith
+Manchester, UK | (+44) 7894561230 | jane.smith@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/janesmith | github.com/JaneSmith | jane-smith.com | medium.com/@janesmith
+
+PROFESSIONAL SUMMARY:
+
+Dynamic Mechanical Engineer with 6 years of experience in product design, structural analysis, and process optimization within the automotive and renewable energy industries. Proficient in CAD modeling, FEA simulations, and sustainable engineering practices. Skilled in project management, cross-functional collaboration, and implementing innovative solutions. Actively expanding knowledge in additive manufacturing and IoT integration.
+
+SKILLS:
+
+CATIA, SolidEdge, Pro/ENGINEER, COMSOL Multiphysics, LabVIEW, Renewable Energy Systems, Design for Manufacturing, Statistical Analysis, Robotics, Six Sigma, Agile Project Management, R, SQL, JIRA, Technical Writing, Failure Mode and Effects Analysis (FMEA), Quality Control
+
+PROFESSIONAL EXPERIENCE:
+
+Senior Mechanical Engineer (Jaguar Land Rover) – Coventry, UK
+Mar 2019 – Present
+
+Led the design and optimization of electric vehicle battery enclosures, resulting in a 20% weight reduction and improved thermal management
+
+Conducted thermal and structural simulations on powertrain systems using COMSOL, enhancing component durability and performance
+
+Initiated a project to implement IoT sensors for real-time data monitoring in production facilities, increasing operational efficiency by 15%
+
+Collaborated with international suppliers to develop innovative lightweight materials for automotive applications, reducing costs by 12%
+
+Mechanical Design Engineer (Vestas Wind Systems) – Edinburgh, UK
+Sep 2016 – Feb 2019
+
+Designed wind turbine blade molds and fixtures, applying design for manufacturing principles for improved efficiency
+
+Utilized Pro/ENGINEER for detailed modeling and simulation of blade aerodynamics, resulting in enhanced turbine performance
+
+Led a cross-functional team to implement a predictive maintenance program for wind turbines, reducing downtime by 25%
+
+Developed a quality control process for composite materials, ensuring compliance with industry standards and regulations
+
+EDUCATION:
+
+MS in Mechanical Engineering – University of Manchester, Manchester (Merit)
+Sep 2013 – Jul 2015
+
+BS in Mechanical Engineering – University of Leeds, Leeds (First Class Honours)
+Sep 2010 – Jun 2013
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Licensed Professional Engineer (Institution of Mechanical Engineers) – 2019
+
+Certified Pro/ENGINEER Expert – 2017
+
+Renewable Energy Technologies (RenewableUK) – 2020
+
+Lean Manufacturing Principles (Kaizen Institute) – 2020
+
+Design Thinking Fundamentals (IDEO U) – 2022
+
+PROJECTS:
+
+- Developed a solar-powered irrigation system for rural communities in collaboration with Engineers Without Borders
+- Automated data collection and analysis for predictive maintenance on a prototype autonomous vehicle using Raspberry Pi and Python
+- Designed and 3D printed a robotic gripper for assembly line automation, reducing production cycle time by 20%

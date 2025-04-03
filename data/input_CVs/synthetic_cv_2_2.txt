@@ -1,0 +1,53 @@
+Jane Smith
+
+123 Main Street, New York City | 0777777 | jane.smith@email.com
+
+Professional Summary
+
+Machine learning engineer with a passion for developing and implementing innovative AI solutions. Skilled in Python, TensorFlow, and Scikit-Learn, with experience in computer vision and natural language processing. Proficient in deploying models on various platforms and environments.
+
+Experience
+
+ABC.AI - Senior Machine Learning Engineer
+Oct 2022 - Present
+
+- Leading a team of data scientists in developing cutting-edge AI models for image recognition and sentiment analysis
+- Implemented MLOps practices using MLflow and Apache Beam for model monitoring and deployment
+- Conducted workshops and training sessions on machine learning best practices for internal teams
+
+Side Projects
+
+XYZ Analytics - Sentiment Analysis Dashboard
+2022
+
+- Developed a sentiment analysis dashboard using Streamlit and PyTorch for analyzing customer reviews
+- Integrated BERT and XLNet models for advanced text processing
+
+XYZ Technologies - Computer Vision Image Classifier
+2021
+
+- Built an image classifier using OpenCV and TensorFlow to categorize images with high accuracy
+- Implemented a Flask API for easy integration with web applications
+
+Education
+
+XYZ University
+2017 - 2021
+
+BSc in Artificial Intelligence
+
+- Awarded for Best AI Project for developing a chatbot using Transformer models
+
+Certifications
+
+1. Certified Deep Learning Engineer (CDLE) - AI Institute
+2. Machine Learning Deployment Specialist - Data Science Academy
+3. Advanced Natural Language Processing - XYZ Institute
+4. Computer Vision Practitioner - VisionTech
+5. AI Ethics and Bias Mitigation - Ethical AI Foundation
+
+Skills
+
+Python, TensorFlow, Scikit-Learn, Flask, PyTorch, OpenCV, MLOps, Docker, Kubernetes, AWS Lambda, SQL, NumPy, Matplotlib, HTML, CSS, JavaScript
+
+References available upon request.

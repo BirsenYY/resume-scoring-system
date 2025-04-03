@@ -1,0 +1,57 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Dynamic Software Engineer with over 6 years of experience in designing and developing efficient backend systems and tools. Proficient in crafting clean and scalable code in Python, Java, and JavaScript. Skilled in implementing test automation, CI/CD pipelines, and ensuring system reliability. Dedicated to creating secure and user-friendly software solutions.
+
+Technical Skills
+Languages: Python, Java, JavaScript, SQL, Bash
+
+Frameworks & Tools: Node.js, Spring Boot, Flask, Vue.js, TestNG, Puppeteer
+
+DevOps & CI/CD: Kubernetes, Docker, Jenkins, GitHub Actions, GitLab CI/CD, Helm
+
+Databases: PostgreSQL, MongoDB, Redis, SQLite
+
+Cloud & Platforms: AWS (S3, RDS, ECS), Azure, Heroku, Windows
+
+Others: GraphQL, Microservices, Agile/Scrum, DDD
+
+Professional Experience
+Senior Software Engineer
+ByteTech Innovations, London, UK
+Mar 2019 – Present
+
+- Led the development of RESTful microservices in Python and Java hosted on AWS ECS and Azure
+- Spearheaded the integration of APIs with Vue.js frontend for enhanced user experiences
+- Implemented caching strategies and database optimizations resulting in a 25% performance boost
+- Championed the adoption of automated testing and monitoring for improved system resilience
+- Facilitated sprint planning, conducted code reviews, and mentored team members
+
+Software Developer
+CodeCraft Solutions, London, UK
+Nov 2016 – Feb 2019
+
+- Engineered internal tools using Python and Bash to streamline developer workflows
+- Automated testing processes integrated with CI/CD pipelines using Jenkins and GitHub Actions
+- Designed APIs and scripts for system validation, data manipulation, and benchmarking
+- Collaborated across teams to maintain build stability and ensure code quality standards
+- Refactored legacy codebase for enhanced modularity and test coverage
+
+Side Projects
+1. SocialMediaAnalyzer (2020 - 2021)
+   - Developed a social media analytics tool using Django and React to track user engagement
+   - Integrated with various APIs to collect and analyze data for marketing insights
+
+2. FitnessTrackerApp (2018)
+   - Designed a fitness app with Node.js and MongoDB for users to set and track personalized fitness goals
+
+Education
+BSc in Computer Science
+University of Manchester, UK
+2012 – 2015
+
+Certifications
+- Azure Developer Associate
+- Certified Kubernetes Administrator (CKA)
+- Python for Data Science (Coursera)

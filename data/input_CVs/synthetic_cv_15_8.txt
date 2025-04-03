@@ -1,0 +1,129 @@
+    Medical Devices Engineer                                                
+
+                                                                                    
+
+                 London, UK | (+44) 6123456789 | [EMAIL] | Work Rights: Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Medical Devices Engineer with 5+ years of experience in designing, testing, and maintaining critical medical equipment. Skilled in 
+
+     hardware-software integration, clinical system optimization, and FDA/MHRA compliance. Proficient in LabVIEW, SolidWorks, and 
+
+     Python. Experienced in collaborating with healthcare providers and research teams to enhance patient care through innovative 
+
+     technology solutions. Passionate about leveraging engineering expertise for improving healthcare outcomes.
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     LabVIEW, SolidWorks, Python | FDA Regulations, MHRA Guidelines | Hardware-Software Integration | Medical Device 
+
+     Maintenance | Data Acquisition Systems | ISO 13485 Standards | Embedded Systems | Biomechanics | Signal Processing 
+
+     | Agile Project Management | Root Cause Analysis | Technical Training
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Medical Devices Engineer (St. Thomas' Hospital - London, UK)     Apr 2019 : Present
+
+    ● Oversaw the calibration and maintenance of infusion pumps, patient monitors, and surgical equipment, ensuring optimal 
+
+      performance and compliance with safety standards 
+
+    ● Designed and implemented custom LabVIEW interfaces for physiological monitoring systems, enhancing data accuracy and 
+
+      real-time monitoring capabilities
+
+    ● Led cross-functional teams in the development of a wireless patient monitoring prototype, integrating sensor technology with 
+
+      medical devices for enhanced data visualization and remote patient monitoring capabilities
+
+    ● Conducted usability testing and user training sessions for new medical devices, addressing user feedback and optimizing device 
+
+      functionality for clinical applications
+
+    ● Collaborated with procurement teams to evaluate and source new medical equipment, negotiating vendor contracts and ensuring 
+
+      cost-effective purchases 
+
+    
+
+     Biomedical Engineering Intern (Cambridge University Hospitals)     Jul 2017 : Mar 2019
+
+    ● Assisted in the design and testing of a wearable biosensor for continuous glucose monitoring in diabetic patients, contributing to 
+
+      advancements in personalized healthcare management
+
+    ● Conducted performance testing on electrocardiogram (ECG) machines and defibrillators, identifying and rectifying hardware 
+
+      malfunctions to ensure accurate cardiac monitoring 
+
+    ● Supported clinical staff in the integration and troubleshooting of new medical devices, providing technical expertise and training 
+
+      on device operation and maintenance
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    BEng in Biomedical Engineering - Imperial College London (First Class)   Sep 2014 : Sep 2017
+
+    Diploma in Medical Device Technology - London School of Biomedical Engineering (Distinction)  Sep 2013 : Jun 2014
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Medical Devices Specialist (CMD)                                 Nov, 2022
+
+    ● ISO 13485 Lead Auditor Training                                           Jul, 2022
+
+    ● Biomedical Signal Processing Course (MIT OpenCourseWare)                   Jan, 2021
+
+    ● Medical Device Risk Management Workshop (BSI Group)                         May, 2020
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● Wearable Health Monitor: Developed a prototype wearable health monitor using Arduino and IoT sensors to track vital signs 
+
+      such as heart rate, temperature, and activity level. Implemented data logging and visualization features for health trend analysis. 
+
+      (GitHub: [github.com/[NAME]/wearable-monitor])
+
+    
+
+    ● Remote Patient Monitoring System: Designed a remote patient monitoring system for post-operative care, allowing healthcare 
+
+      providers to remotely monitor patient vitals, medication adherence, and recovery progress. Integrated alert system for critical 
+
+      conditions.
+
+    
+
+    ● IoT Smart Pillbox: Created a smart pillbox system incorporating IoT technology to remind patients to take medication on time. 
+
+      Implemented mobile app synchronization for medication schedule updates and adherence tracking.
+
+    
+
+    ● Medical Equipment Inventory App: Developed a web-based inventory management application for tracking medical equipment 
+
+      across hospital departments. Implemented barcode scanning and automated reorder alerts for efficient inventory control.

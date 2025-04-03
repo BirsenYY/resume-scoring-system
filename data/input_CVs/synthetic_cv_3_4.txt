@@ -1,0 +1,93 @@
+Jane Smith
+
+                                                                                  
+
+                      Los Angeles | 987-654-3210 | janesmith@email.com | Alpha Solutions | Beta Technologies
+
+      SUMMARY                                                                     
+
+                                                                                  
+
+      Machine learning and software engineer with a focus on developing robust and scalable machine learning systems. Proficient in
+
+      Python and TensorFlow ecosystem, with experience in computer vision and natural language processing applications. Skilled in
+
+      deploying applications using Docker and Kubernetes in cloud-based environments.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Alpha Solutions                             Mar 2022 – Present
+
+        ●  Led a project team in implementing advanced reinforcement learning algorithms for optimizing supply chain operations.
+
+        ●  Developed end-to-end ML pipelines using TensorFlow Extended (TFX) for model training, validation, and deployment.
+
+        ●  Collaborated with cross-functional teams to integrate machine learning models into production systems.
+
+                                                                                  
+
+      Beta Technologies                             Jan 2020 – Feb 2022
+
+        ●  Worked on developing computer vision models for object detection and image classification tasks.
+
+        ●  Conducted performance optimization for deep learning models on GPUs to improve inference speed.
+
+        ●  Contributed to the development of a large-scale recommendation system using collaborative filtering techniques.
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Financial Fraud Detection System                                             2023     
+
+        ●  Designed and implemented a fraud detection system using XGBoost and SHAP for feature importance.
+
+      Neural Style Transfer with OpenCV                                           2023     
+
+        ●  Developed a neural style transfer application using OpenCV and deep learning models for artistic image transformations.
+
+      Real-Time Emotion Recognition System                                           2022     
+
+        ●  Built an end-to-end system for real-time emotion recognition in videos using deep learning and facial landmark detection.
+
+      Document Summarization Tool                                        2022     
+
+        ●  Created a document summarization tool using NLP techniques like TextRank and BERT for efficient content extraction.
+
+      Language Translation Service                                           2021     
+
+        ●  Implemented a language translation service using transformers and sequence-to-sequence models for multiple language pairs.
+
+                                                                                  
+
+      CERTIFICATES                                                                
+
+      - Certified Kubernetes Administrator (CKA)
+
+      - AWS Certified Solutions Architect – Associate
+
+      - Certified Information Systems Security Professional (CISSP)
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+      Beta University                                           2016 – 2020  
+
+      BSc in Computer Engineering                                                    
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      Skilled in TensorFlow, PyTorch, Keras, XGBoost, SHAP, OpenCV, Docker, Kubernetes, GCP, AWS, SQL, NLP, BERT, transformers,
+
+      Flask, React, JavaScript, HTML, CSS, Git, NumPy, pandas, Matplotlib, Scikit-Learn, Jupyter, C++, Java, Spring Boot.

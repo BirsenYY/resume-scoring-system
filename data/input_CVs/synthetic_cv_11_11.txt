@@ -1,0 +1,68 @@
+[Full Name]
+[City, Country] | [Email Address] | [Phone Number] | [LinkedIn] | [GitHub/Portfolio]
+
+PROFILE
+Results-driven technology executive with over 17 years of experience in machine learning, AI strategy, and software development leadership. Presently serving as the Vice President of Engineering at a fast-paced tech startup, spearheading cross-functional initiatives, and driving innovation in AI solutions. Skilled in nurturing high-performance teams, leading product development from conception to deployment, and aligning technology efforts with strategic business objectives.
+
+EXPERIENCE
+Vice President of Engineering
+TechGenius AI Inc. | San Francisco, USA | Apr 2018 – Present
+
+- Pioneered the adoption of AI-driven strategies across diverse product lines.
+- Expanded the engineering division from 15 to 70 professionals, fostering a culture of innovation.
+- Orchestrated the development of ML pipelines for predictive maintenance, anomaly detection, and chatbot applications.
+- Implemented AI models deployment on AWS IoT Core, Azure, and on-device ML for enhanced user experiences.
+- Instrumental in securing $20M in Series C funding through strategic partnerships and product growth.
+
+Lead AI Architect
+DataTech Solutions | Singapore | Nov 2014 – Mar 2018
+
+- Led a team of AI architects in creating cutting-edge solutions for automated trading platforms.
+- Developed reinforcement learning models for algorithmic trading using Apache Spark and TensorFlow.
+- Established robust MLOps practices, integrating model governance and automated testing.
+- Enhanced trading strategies effectiveness by 30% through optimization and dynamic model retraining.
+
+Data Science Consultant
+Insightful Minds | Toronto, Canada | Feb 2011 – Oct 2014
+
+- Spearheaded data science projects in retail and supply chain domains, focusing on demand forecasting and inventory optimization.
+- Implemented interpretable ML models for pricing strategies and customer segmentation.
+- Conducted rigorous A/B testing and held workshops to facilitate effective model deployment.
+
+Software Developer
+Quantum Innovations | Sydney, Australia | Aug 2007 – Jan 2011
+
+- Contributed to the development of Java-based financial modeling tools.
+- Introduced machine learning techniques for anomaly detection in time series data.
+- Implemented back-end systems for automated trading algorithms.
+
+EDUCATION
+PhD in Computer Science – Machine Learning & Robotics
+University of California, Berkeley | 2010
+
+BEng in Computer Engineering
+University of Melbourne | 2007
+
+SKILLS
+Languages: Python, R, Scala, JavaScript
+
+Frameworks: Apache Spark, PySpark, H2O.ai, XGBoost
+
+ML Ops: DVC, Seldon Core, Kubeflow, Polyaxon
+
+Cloud: AWS (SageMaker, Redshift), Azure, IBM Cloud
+
+Other: Reinforcement Learning, Generative Adversarial Networks, Time Series Analysis, Quantum Computing, IoT
+
+CERTIFICATIONS
+Azure AI Engineer Associate
+
+Certified Kubernetes Administrator (CKA)
+
+Certified Data Science Professional (CDSP)
+
+Google Cloud Certified - Professional Data Engineer
+
+Publisher of "AI Revolution: The Future of Technology" – Pearson (2021)
+
+Public Speaker at AI World Summit, Data Science Central Conference, and TechTalks AI Forum

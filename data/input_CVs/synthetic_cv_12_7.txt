@@ -1,0 +1,59 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Innovative Software Engineer with over 7 years of experience in developing scalable backend solutions and tools. Proficient in Python, Java, and JavaScript, with a strong focus on creating efficient and user-friendly software applications. Experienced in test automation, CI/CD implementation, and ensuring system reliability. Passionate about contributing to quality-driven projects and building secure software solutions.
+
+Technical Skills
+Languages: Python, Java, JavaScript, SQL, C++
+
+Frameworks & Tools: Django, Spring Boot, Express.js, React, Appium, TestNG, JUnit, PyTest
+
+DevOps & CI/CD: Kubernetes, Jenkins, GitLab CI/CD, Ansible, Git
+
+Databases: Oracle, Elasticsearch, MariaDB
+
+Cloud & Platforms: Azure (Functions, Cosmos DB), Heroku, Windows Server
+
+Others: GraphQL, RabbitMQ, SCRUM, Design Patterns, OOP
+
+Professional Experience
+Senior Software Engineer
+ByteCraft Innovations, London, UK
+Mar 2019 – Present
+
+- Led the development of microservices architecture in Python and Java, deployed on Azure Functions and Kubernetes
+- Spearheaded the integration of GraphQL for efficient data querying in frontend applications
+- Implemented advanced caching mechanisms, resulting in a 40% reduction in response time
+- Introduced automated security testing practices and monitoring solutions to enhance system robustness
+- Mentored junior developers, conducted code reviews, and actively participated in architectural discussions
+
+Software Developer (Automation)
+TechBridge Solutions, London, UK
+Oct 2016 – Feb 2019
+
+- Designed and implemented automation frameworks using C++ and Selenium for end-to-end testing
+- Developed custom test scripts and tools to streamline CI/CD processes and improve deployment efficiency
+- Collaborated with QA teams to identify and resolve software defects, ensuring high product quality
+- Successfully integrated RabbitMQ for asynchronous communication between microservices
+- Engaged in performance tuning activities and optimized database operations for enhanced scalability
+
+Side Projects
+1. Personal Finance Tracker (React, Node.js)
+   - Created a web application to track personal expenses and analyze spending patterns
+   - Implemented RESTful APIs for data manipulation and utilized OAuth for secure user authentication
+
+2. Smart Home Automation System (Python, Raspberry Pi)
+   - Developed a home automation system to control lights, temperature, and security features remotely
+   - Utilized MQTT protocol for device communication and created a mobile app for user interaction
+
+Education
+MSc in Software Engineering
+Imperial College London, UK
+2014 – 2015
+
+Certifications
+- Certified Kubernetes Application Developer (CKAD)
+- Elasticsearch Engineer I
+- MongoDB Certified Developer Associate
+- Microsoft Certified: Azure Developer Associate

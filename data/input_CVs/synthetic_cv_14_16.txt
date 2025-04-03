@@ -1,0 +1,90 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Final-year Computer Science student specializing in software development and machine learning, with a proven track record of creating innovative projects and a solid foundation in various programming languages and frameworks. Actively seeking an internship or entry-level position in backend development, artificial intelligence, or data engineering.
+
+Education
+BSc Computer Science (In Progress)
+Imperial College London – London, UK
+Expected Graduation: June 2024
+
+Maintaining a Distinction average
+
+Key Modules: Machine Learning, Cloud Computing, Human-Computer Interaction, Cyber Security, Big Data Analytics, Parallel Computing
+
+Final Year Project: AI-Powered Image Recognition System for Environmental Monitoring
+
+Technical Skills
+Languages: Java, Python, Ruby, Kotlin, Scala
+Frameworks & Libraries: Django, TensorFlow, Spring, Pandas, NumPy
+Tools & Technologies: Docker, Kubernetes, Jenkins, AWS, Tableau
+Concepts: Deep Learning, Data Visualization, Microservices, Agile Methodologies, DevOps
+
+Projects
+EcoWatch
+An environmental monitoring platform for real-time analysis of wildlife population trends
+
+Developed using Django, TensorFlow, and AWS
+
+Utilized computer vision algorithms for species identification
+
+Implemented data visualization with Tableau for user insights
+
+CodeCrafters
+Interactive coding challenges platform with gamification elements for learning programming concepts
+
+Created with Spring Boot and MySQL; deployed on Kubernetes
+
+Designed adaptive learning paths based on user performance analytics
+
+Integrated Jenkins for continuous integration and deployment
+
+ChatMind
+AI chatbot assistant for mental health support and personalized well-being tips
+
+Utilized natural language processing with Pandas and NLP libraries
+
+Implemented sentiment analysis for user emotion recognition
+
+Supported multi-platform integration with RESTful APIs
+
+Certifications
+Data Science MicroMasters, MIT (edX)
+
+Certified Kubernetes Administrator (CKA)
+
+AWS Certified Solutions Architect – Associate
+
+Machine Learning for Trading, Udacity
+
+Cybersecurity Essentials, Cisco Networking Academy
+
+Experience
+AI Research Intern
+InnovateTech Labs, London
+Sept 2022 – Dec 2022
+
+Contributed to research projects on neural network optimization and model interpretability
+
+Collaborated with senior researchers on developing AI-driven solutions for industry challenges
+
+Assisted in data preprocessing, model training, and performance evaluation
+
+Software Engineering Intern
+TechCo Innovations, London
+Jun 2021 – Aug 2021
+
+Worked on developing microservices architecture for a cloud-based application
+
+Implemented RESTful APIs for system integration with external services
+
+Participated in code reviews, testing, and debugging activities
+
+Career Objectives
+Secure a challenging role in backend development or data engineering post-graduation
+
+Contribute to AI research and projects that drive innovation and positive impact
+
+Enhance skills in cloud computing, distributed systems, and scalable architectures.

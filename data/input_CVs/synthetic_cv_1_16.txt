@@ -1,0 +1,111 @@
+Sarah Thompson
+
+                                                                                    
+
+      (cid:131) 555-987-6543 — sarah.thompson@email.com — (cid:239) linkedin.com/in/sarah-thompson-649a321ab — ' github.com/sarahthompson
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  C++, Ruby, Scala, Go, R, SAS                                  
+
+   Frameworks: Vue.js, Django, Flask, D3.js, Pandas, Bokeh, Dash, H2O.ai, MLlib,
+
+               Flutter                                                   
+
+   ML/AI:      XGBoost, Reinforcement Learning, AutoML, Explainable AI                  
+
+   Technologies: BlueTech, Chicago, Kafka, AWS, ACMEChain, gRPC, MLOps, Kubeflow, Airflow, RabbitMQ,
+
+               ClickHouse, Redis, ClickHouse                                  
+
+   Testing:    Selenium, TestNG, JUnit, PHPUnit, Cypress, Cucumber                  
+
+   Certifications: CKAD (Certified Kubernetes Application Developer), CDAP (Cloudera Data Analyst Professional), RPA (Robotic Process Automation)                                       
+
+                                                                                    
+
+   Experience                                                                       
+
+    BlueTech                                               Apr 2021 – Present
+
+    Software Engineer L2                                                                    
+
+      – Spearheaded the migration of legacy system components to Kubernetes, improving scalability and resource utilization.
+
+      – Developed real-time data pipelines using Kafka and ClickHouse, reducing data processing time by 30%.
+
+      – Led a team of 8 engineers in building a scalable microservices architecture for a new AI-driven recommendation engine.
+
+      – Conducted training sessions on Kubernetes best practices and advanced CI/CD workflows.
+
+    Software Engineer L1                                                                     
+
+      – Implemented automated testing strategies using Selenium and Cucumber, increasing test coverage by 25%.
+
+      – Integrated a real-time data ingestion pipeline with gRPC and Kafka, achieving sub-second data processing.
+
+      – Collaborated with data scientists to deploy machine learning models with Kubeflow for real-time predictions.
+
+    Junior Software Developer                                              
+
+      – Implemented backend REST APIs using Django and Flask, enhancing system interoperability with external services.
+
+      – Refactored legacy codebase using clean architecture principles, reducing technical debt by 20%.
+
+      – Built a custom data visualization dashboard with D3.js for monitoring system performance metrics.
+
+    Chicago                                            Sep 2019 – Feb 2021
+
+    Data Analyst Intern                                                        
+
+      – Analyzed customer transaction data using SAS and R to identify patterns and improve marketing strategies.
+
+      – Developed automated reporting solutions with Python to streamline data processing and visualization tasks.
+
+      – Assisted in the implementation of dynamic pricing algorithms for optimizing revenue generation.
+
+    ACME                                          Jul 2018 – Jul 2019
+
+    Frontend Developer                                                              
+
+      – Collaborated with UX designers to implement responsive web interfaces using Vue.js and Flutter.
+
+      – Optimized user experience by implementing lazy loading for image-heavy pages, reducing load times.
+
+      – Conducted A/B testing to improve conversion rates and user engagement on client-facing applications.
+
+   Education                                                                        
+
+    Columbia University — MSc Data Science                2023    
+
+    Princeton University — BSc Computer Engineering (Summa Cum Laude)  2018 – 2022  
+
+    University of Washington — Data Analytics Professional Certificate      2017  
+
+    Coursera — Machine Learning and Deep Learning Specializations 2016 – 2017
+
+   Projects                                                                         
+
+                                                                                    
+
+    Anomaly Detection System                                                '     
+
+      – Building an anomaly detection system for real-time monitoring of network traffic using unsupervised learning algorithms.
+
+    Quantum Cryptography Research Project                                             '     
+
+      – Investigating quantum cryptographic techniques for secure communication protocols and quantum key distribution.
+
+    Stock Market Prediction Algorithm                                                             
+
+      – Developing a machine learning algorithm to predict stock market trends based on historical data and market indicators.
+
+    Chatbot with Natural Language Processing                                           '     
+
+      – Creating a chatbot using Transformer models and NLP techniques for conversational user interactions.
+
+    Music Genre Classification Model                                       '     
+
+      – Training a deep learning model to classify music genres based on audio features extracted from music tracks.

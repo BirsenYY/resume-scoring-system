@@ -1,0 +1,113 @@
+Emily Smith                
+
+                                                                                  
+
+                  San Francisco, CA | +1 987 654 3210 | emily.smith@email.com | Tech Geniuses
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Tech Geniuses – Machine Learning Engineer           Jul 2022 – Present
+
+        ●  Conducted research on quantum machine learning algorithms, focusing on quantum annealing and variational circuits.
+
+        ●  Implemented algorithms such as Quantum Boltzmann Machines and Quantum RNNs for financial data analysis.                                
+
+        ●  Utilized MLflow for experiment tracking and model management, ensuring reproducibility and scalability.        
+
+                                                                                  
+
+      Tech Geniuses – Data Scientist                                 Mar 2020 – Jun 2022
+
+        ●  Developed a recommendation system using graph neural networks for personalized content delivery.
+
+        ●  Built a fraud detection model leveraging XGBoost and CatBoost algorithms on large-scale transaction datasets.
+
+        ●  Conducted A/B testing and performed statistical analysis on user engagement metrics.        
+
+                                                                                  
+
+      Quantum Innovations – Research Intern                                Sep 2019 – Feb 2020
+
+        ●  Conducted research on quantum algorithms and compiled a report on quantum supremacy benchmarks.
+
+        ●  Assisted in developing a quantum simulator using Qiskit and IBM Quantum hardware.        
+
+        ●  Presented findings at industry conferences and contributed to whitepapers on quantum computing advancements.
+
+                                                                                  
+
+      Spark Innovate – Software Developer                         Jun 2018 – Aug 2019
+
+        ●  Led the development of a real-time analytics dashboard using Apache Kafka and Elastic Stack.
+
+        ●  Implemented RESTful APIs to integrate the dashboard with various data sources and third-party services.
+
+        ●  Designed and deployed scalable microservices architecture on Kubernetes for high availability and fault tolerance.
+
+                                                                                  
+
+      Silicon Solutions – Web Developer                         Jan 2017 – May 2018
+
+        ●  Developed a custom e-commerce platform using React and Redux, ensuring seamless user experience and performance.
+
+        ●  Integrated payment gateways and implemented order tracking functionality, improving customer satisfaction.
+
+        ●  Conducted user testing and gathered feedback for iterative improvements on the platform.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Quantum University                                       2015 – 2019  
+
+      Quantum Computing and Algorithms, Distinction                                      
+
+                                                                                  
+
+      Science Institution                                         2011 – 2015  
+
+      BSc Computer Science, First Class                                        
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Tech Geniuses – Sentiment Analysis Platform                        2021     
+
+      Quantum Innovations – Quantum Simulator                          2020     
+
+      Spark Innovate – Real-time Analytics Dashboard                     2019     
+
+      AI Labs – Image Recognition System                                    2018     
+
+                                                                                  
+
+      CERTIFICATIONS                                                      
+
+                                                                                  
+
+      ●  Certified Blockchain Developer (CBD)           
+
+      ●  AWS Certified Solutions Architect – Associate          
+
+      ●  Google Cloud Professional Data Engineer                                  
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: Tensorflow, Keras, PyTorch, Scikit-learn, XGBoost, CatBoost, MLflow, Apache Kafka, Elastic Stack, Kubernetes, Docker,
+
+      RESTful APIs, Graph Neural Networks, Quantum Annealing, Variational Circuits, Quantum Boltzmann Machines, Quantum RNNs, Qiskit,
+
+      IBM Quantum, React, Redux, Angular, HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Firebase, AWS, Google Cloud,
+
+      Conda, Jupyter, Git, Agile Methodology, Scrum, Kanban, CI/CD, Linux, Windows, Mac OS.

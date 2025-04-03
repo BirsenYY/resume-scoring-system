@@ -1,0 +1,75 @@
+Emily Smith
+
+                                                                                  
+
+                      Boston | 987-654-3210 | emilysmith@email.com | DEF Corp | UVW Corp
+
+      SUMMARY                                                                     
+
+                                                                                  
+
+      Experienced machine learning engineer specializing in computer vision and natural language processing applications. Proficient in Python and TensorFlow, with a strong background in deploying and optimizing ML models. Skilled in building end-to-end solutions using microservices architecture and cloud platforms.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      DEF Corp                             Mar 2022 – Present
+
+        ●  Led initiatives to deploy computer vision models for real-time object detection on edge devices using TensorFlow Lite.
+
+        ●  Implemented MLOps practices with tools such as MLflow, Argo, and Seldon Core for model versioning and deployment.
+
+                                                                                  
+
+      UVW Corp                             Sep 2020 – Feb 2022
+
+        ●  Developed and trained neural networks for sentiment analysis and named entity recognition tasks in NLP projects.
+
+        ●  Collaborated with cross-functional teams to integrate ML models into production systems for automated decision-making processes.
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Secure Facial Recognition System                                           2023     
+
+        ●  Designed and implemented a secure facial recognition system using deep learning for access control purposes.
+
+      Smart Home Automation                                                      2023     
+
+        ●  Created a smart home automation system with voice recognition capabilities for IoT devices.
+
+      Real-Time Translation App                                                  2023     
+
+        ●  Built a real-time translation application that supports multiple languages using Transformer models.
+
+      Financial Fraud Detection                                                   2023     
+
+        ●  Developed a fraud detection system for financial transactions using machine learning algorithms.
+
+      Autonomous Drone Navigation                                                 2022     
+
+        ●  Implemented an end-to-end pipeline for autonomous drone navigation using computer vision and reinforcement learning.
+
+      Certificate in Advanced Reinforcement Learning                               2022     
+
+      Certificate in Cybersecurity for AI Systems                                  2021     
+
+      Certificate in Quantum Computing                                             2021     
+
+      EDUCATION                                                                   
+
+      UVW University                                           2017 – 2021  
+
+      BSc Computer Engineering                                                        
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      Proficient in TensorFlow, PyTorch, Keras, Scikit-Learn, FastAPI, Kafka, Redis, PostgreSQL, MongoDB, AWS, GCP, Docker, Kubernetes, Jenkins, GitLab, React, Django, Flask, HTML, CSS, JavaScript, TypeScript, SQL, Go, Java.

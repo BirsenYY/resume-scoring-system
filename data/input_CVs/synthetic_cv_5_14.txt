@@ -1,0 +1,90 @@
+Alicia Johnson
+
+                                                                                 
+123-456-7890 | alicia.johnson@email.com             
+
+                                                                                 
+Education                                                                     
+
+            (in order of relevance)                                               
+
+    University of California, Los Angeles                   Sep 2018 - May 2022
+
+      ●  BSc Data Science: Graduated Magna Cum Laude                          
+
+      ●  Received an 85 in Advanced Data Visualization, including coursework on Interactive Dashboards and Geospatial Analysis
+
+      ●  Attained a top 1% score in the GRE Quantitative Reasoning section
+
+    Imperial College London, United Kingdom                          Sep 2024 - Dec 2024
+
+      ●  Blockchain and Cryptocurrency Certification Program (< 5% acceptance rate)            
+
+      ●  Covered topics such as Smart Contracts, Decentralized Applications, Consensus Algorithms, and Security in Blockchain
+
+    St. Petersburg State University, Russia                                   Sep 2013 - Jun 2018
+
+      ●  Dual Degree: Computer Science & Business Administration (with honors)                  
+
+      ●  Participated in the Data Science Club and Entrepreneurship Society
+
+                                                                                 
+Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Data Analyst - Amazon Web Services                           Jul 2022 - Present
+
+      ●  Analyzing large datasets using SQL and Python to generate actionable insights for business stakeholders
+
+      ●  Implemented machine learning models for customer segmentation and predicting user behavior
+
+      ●  Collaborated with cross-functional teams to optimize data architecture and streamline data pipelines
+
+    Junior Software Developer - Ubisoft Montreal                              Jan 2019 - Jun 2022
+
+      ●  Developed and maintained code for in-game features, focusing on gameplay mechanics and user interface
+
+      ●  Worked on a team to optimize game performance and troubleshoot technical issues reported by players
+
+      ●  Participated in code reviews and provided feedback to improve overall code quality and maintainability
+
+    Research Assistant - MIT Media Lab                           Aug 2017 - Dec 2018
+
+      ●  Conducted experiments on human-computer interaction and user experience design
+
+      ●  Published research papers on the influence of interface design on user engagement and retention
+
+      ●  Presented findings at international conferences and workshops
+
+                                                                                 
+Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Project Manager - Open Source Data Science Initiative          Mar 2021 - Present
+
+      ●  Leading a team of volunteers to develop open-source tools and resources for data science education
+
+      ●  Organizing workshops and webinars to promote data literacy and practical skills in the community
+
+    Hackathon Organizer - TechXperience                      Jan 2023 - Feb 2024
+
+      ●  Coordinated a 24-hour hackathon with 200+ participants, sponsors, and judges
+
+      ●  Secured partnerships with tech companies to provide prizes and mentorship for participants
+
+    Volunteer Tutor - Code for All                         Sep 2021 - Jun 2023
+
+      ●  Teaching coding and computer science concepts to underprivileged youth in local community centers
+
+      ●  Mentoring students in preparing for coding competitions and hackathons
+
+                                                                                 
+Technical Skills: Python (Advanced; pandas, numpy, scikit-learn, TensorFlow), SQL (Proficient), Tableau (Intermediate), AWS (Basic)
+
+Activities: Certified ScrumMaster, Kaggle Competitions Participant, Toastmasters International Member
+
+Languages: English (Native), French (Fluent), Spanish (Intermediate), Mandarin (Elementary)
+
+Interests: Artificial Intelligence Ethics, Virtual Reality, Baking, Yoga, Hiking, Photography

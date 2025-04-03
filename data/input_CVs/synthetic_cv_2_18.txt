@@ -1,0 +1,64 @@
+Alice Thompson
+
+New York City | 0888888 | alice.thompson@email.com | ABC Innovations | ABC Innovations
+
+WORDS ABOUT ME
+
+Machine learning engineer specialising in developing and deploying cutting-edge machine learning solutions. Experienced in leading cross-functional teams and designing complex models from scratch. Proficient in Python, TensorFlow, and scikit-learn, with expertise in deploying state-of-the-art computer vision and natural language processing models. Skilled in building scalable applications using Flask and cloud-based infrastructures.
+
+CURRENTLY BUILDING
+
+ABC Innovations - Machine Learning Engineer                  Mar 2025 – Present
+
+- Spearheading the development of AI-powered solutions for data analysis and predictive modelling (LINK TO GITHUB)
+
+PROJECTS
+
+ABC Innovations - link                                            2025
+
+...
+
+EXPERIENCE
+
+ABC Research Institute - Machine Learning Scientist         Mar 2023 – Mar 2025
+
+- Conducted research on novel approaches to transfer learning and meta-learning in deep neural networks.
+- Implemented cutting-edge algorithms for image recognition and text generation tasks.
+- Managed MLOps processes using MLflow and Kubernetes for model versioning and deployment.
+
+ABC Tech Labs - AI Engineer                                          Feb 2021 – Mar 2023
+
+- Designed and implemented end-to-end AI solutions for intelligent document processing and semantic search.
+- Led the integration of AI algorithms into existing products, resulting in a 30% increase in efficiency.
+- Collaborated with cross-functional teams to implement AI-driven features in web and mobile applications.
+
+XYZ Robotics - Robotics Engineer                                          Sep 2019 – Feb 2021
+
+- Developed custom robotic systems for industrial automation, focusing on precision control and motion planning.
+- Optimised robot performance through advanced sensor fusion and machine vision technologies.
+- Conducted workshops on robotics programming and control theory for engineering teams.
+
+PQR Automation Solutions - Automation Engineer              Jul 2018 – Sep 2019
+
+- Specialised in PLC programming and industrial automation systems integration.
+- Led projects to automate manufacturing processes, resulting in a 20% reduction in production costs.
+- Designed custom control systems for robotic workcells using advanced kinematics and dynamics.
+
+EDUCATION
+
+ABC University                                               2015 – 2019
+
+BSc (Hons) Robotics and Artificial Intelligence
+
+- Awarded for Best Innovative Project for developing a self-learning robotic arm with reinforcement learning capabilities.
+
+CERTIFICATIONS
+
+1. Certified Machine Learning Engineer (CMLE)
+2. Deep Learning Specialisation by XYZ Institute
+3. AWS Certified Solutions Architect – Associate
+4. Certified Robotics Process Automation Professional (CRPAP)
+
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, scikit-learn, Flask, Docker, Kubernetes, AWS, PyTorch, SQL, NumPy, Matplotlib, Angular, HTML, CSS, Java

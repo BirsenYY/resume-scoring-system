@@ -1,0 +1,91 @@
+    Intel Corporation                                    
+
+                                                                                    
+
+                 Santa Clara, CA | (+1) 123-456-7890 | jane.smith@gmail.com | Work Rights: Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | medium.com/@janesmith | twitter.com/janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Passionate Data Scientist and Azure Certified AI Specialist with 7 years of experience. Skilled in developing innovative AI solutions
+
+     for predictive analytics, natural language processing, and computer vision applications. Proficient in Python, Azure ML, Spark, and
+
+     scikit-learn. Currently expanding expertise in reinforcement learning, data interpretation, and model deployment strategies. Proven
+
+     track record of collaborating with cross-functional teams to deliver high-impact projects in various industries.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, R, SQL, Java | PostgreSQL, Redis, Kudu | Spark, Azure ML, Hugging Face, CatBoost | Reinforcement Learning, Genetic
+
+      Programming, Transfer Learning | Flask, Dash, Plotly | Git, Kubernetes, Jenkins, Azure                       
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Senior Data Scientist (DataLabs Inc.) - San Francisco, CA    May 2019 : Present
+
+    ● Developed and deployed machine learning models using Azure ML and Python to optimize marketing spend allocation, resulting in
+
+      a 20% increase in customer acquisition and retention rates                
+
+    ● Led a team in building a natural language processing pipeline with Hugging Face Transformers, improving sentiment analysis accuracy
+
+      by 15% in customer feedback classification tasks                                       
+
+    ● Spearheaded a computer vision project utilizing transfer learning with pre-trained models to automate quality control processes,
+
+      reducing manual inspection time by 30% and enhancing production efficiency        
+
+    ● Mentored junior data scientists, conducted regular knowledge-sharing sessions, and collaborated with stakeholders to align data
+
+      science initiatives with business goals                                               
+
+     Data Analyst (TechVision Ltd.) - New York, NY    August 2016 : April 2019
+
+    ● Conducted exploratory data analysis and developed predictive models using scikit-learn and Spark for customer segmentation and
+
+      personalized marketing campaigns                                                          
+
+    ● Designed and implemented data pipelines using Apache Kafka for real-time data processing and monitoring workflows                
+
+    ● Collaborated with software engineering teams to integrate machine learning models into production systems and ensure scalability
+
+    ● Created interactive dashboards with Dash and Plotly for visualizing key performance metrics and driving data-driven decisions
+
+     Research Assistant (ABC Research Institute) - Washington, DC    January 2014 : July 2016
+
+    ● Conducted research on deep learning algorithms for image recognition tasks, resulting in two published papers in conference
+
+      proceedings                                                                            
+
+    ● Collaborated with a team of researchers to develop custom algorithms for outlier detection in large-scale datasets                
+
+    EDUCATION:                                                                      
+
+    PhD in Computer Science - University of California, Berkeley (With Distinction) August 2010 : May 2014
+
+    BS in Computer Engineering - Stanford University, Stanford (Summa Cum Laude) September 2006 : June 2010
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Azure AI Engineer Associate (Microsoft)                                      August, 2023
+
+    ● Data Engineering with Databricks (by Databricks University)                  January, 2023  
+
+    ● Certified Machine Learning Engineer (by Intel AI Academy)                    November, 2022
+
+    ● Big Data Analytics Professional (by edX)                                    May, 2022 
+
+    ● Python for Data Science and Machine Learning Bootcamp (by Udemy)            October, 2021

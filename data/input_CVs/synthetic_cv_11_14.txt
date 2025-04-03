@@ -1,0 +1,67 @@
+[Full Name]
+[City, Country] | [Email Address] | [Phone Number] | [LinkedIn] | [GitHub/Portfolio]
+
+PROFILE
+Accomplished technology executive with over 12 years of experience in artificial intelligence, machine learning, and software engineering. Currently holding the position of Chief Technology Officer at a dynamic startup, leading the charge in AI innovation, robust architecture design, and collaborative product development. Demonstrated ability in team leadership, successful product launches, and strategic alignment of technology initiatives with business objectives.
+
+EXPERIENCE
+Chief Technology Officer (CTO)
+TechInnovate AI | Paris, France | Mar 2019 – Present
+
+- Defined and implemented AI strategies for scalable enterprise solutions.
+- Managed the growth of the engineering team from 10 to 50+ professionals.
+- Spearheaded the development of ML pipelines for predictive maintenance, anomaly detection, and computer vision applications.
+- Orchestrated the deployment of AI models on cloud platforms and IoT devices, resulting in a 30% decrease in processing time.
+- Secured €15M in Series A funding through strategic investor relations and product demonstrations.
+
+Lead Data Scientist
+DataGenix | Barcelona, Spain | Sep 2015 – Feb 2019
+
+- Directed a team of data scientists in delivering innovative solutions for fraud detection and customer segmentation.
+- Engineered cutting-edge neural network architectures for speech recognition and time series forecasting.
+- Established robust MLOps practices for model deployment and continuous monitoring.
+- Enhanced model accuracy by 20% through advanced data preprocessing techniques and ensemble learning.
+- Initiated a project on explainable AI, presenting findings at industry conferences and forums.
+
+Data Engineer
+InfoSolve Inc. | Rome, Italy | Nov 2012 – Aug 2015
+
+- Designed and implemented big data pipelines for real-time analytics and data warehousing.
+- Developed scalable data processing systems using Apache Spark and Kafka.
+- Collaborated with cross-functional teams to integrate machine learning components into production workflows.
+
+EDUCATION
+PhD in Artificial Intelligence – Machine Learning
+University of Amsterdam | 2012
+
+BSc in Computer Science
+University of [Your Country] | 2009
+
+SKILLS
+Languages: Python, R, Scala, SQL
+
+Frameworks: PyTorch, H2O.ai, XGBoost, Flask
+
+ML Ops: Kubeflow, DVC, Polyaxon, Apache Beam
+
+Cloud: AWS (EC2, S3, Lambda), Microsoft Azure, IBM Cloud
+
+Other: Reinforcement Learning, Generative Adversarial Networks, Time Series Analysis, Data Visualization, DevOps
+
+CERTIFICATIONS
+Microsoft Certified: Azure AI Engineer Associate
+
+Hadoop Certified Big Data Developer
+
+Scrum Master Certification
+
+Data Engineering with Google Cloud Professional Certificate
+
+Computer Vision Specialist
+
+SPEAKING & PUBLICATIONS
+Speaker at AI Summit Europe, Data Science Conference, and Barcelona Tech Week
+
+Author of “Practical Guide to AI Deployment” – Springer (2021)
+
+Regular contributor to tech blogs and online platforms on AI trends and best practices

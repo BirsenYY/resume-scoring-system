@@ -1,0 +1,73 @@
+**Emily Johnson**
+
+---
+
+*Chicago | emily.johnson@email.com | Data Science and Analytics | Data Solutions*
+
+---
+
+**SUMMARY**
+
+Data scientist with a strong foundation in computer science and machine learning. Skilled in developing AI-driven solutions and continuously improving expertise in data analytics. 
+
+---
+
+**TECHNOLOGIES/SKILLS**
+
+- Programming: Python, R, SQL, Scala, Spark, Flask
+- Frameworks: Hugging Face, FastAPI, LightGBM, XGBoost, CatBoost, MLflow
+- Machine Learning: Transformer models, Anomaly Detection, Time Series Forecasting, Bayesian Inference, A/B Testing, Graph Analytics
+- Tools: Tableau, Power BI, Databricks, Airflow, Kubernetes, Docker
+- Cloud Services: Azure, AWS, IBM Cloud, Snowflake, BigQuery
+
+---
+
+**EXPERIENCE**
+
+Data Science Engineer | Data Solutions, New York        May 2020 - Present
+
+*NLP-based Sentiment Analysis for E-commerce*
+
+- Led the development of an NLP-based sentiment analysis system for e-commerce product reviews.
+- Utilized Transformer models and word embeddings for sentiment classification.
+- Integrated pipeline with FastAPI for real-time analysis and monitoring.
+- Deployed model on Azure Kubernetes Service for scalable performance.
+- Achieved 85% accuracy and reduced sentiment analysis time by 30%.
+
+*Customer Lifetime Value Prediction*
+
+- Implemented an ML model to predict customer lifetime values and segment customers accordingly.
+- Leveraged XGBoost for feature engineering and model training.
+- Designed a custom MLflow pipeline for tracking experiments and model performance.
+- Deployed the model on AWS Sagemaker for real-time predictions.
+- Increased revenue by 15% through targeted marketing campaigns based on customer segments.
+
+---
+
+**EDUCATION**
+
+MSc Data Science, Data Solutions, New York      Sept 2019 - May 2020
+
+BSc Computer Science (With Honors), University of Michigan      Sept 2015 - June 2019
+
+---
+
+**CERTIFICATIONS**
+
+- IBM Data Science Professional Certificate
+- Certified Snowflake Data Engineer
+- Apache Spark Developer Certification
+- Google Cloud Professional Data Engineer
+- SAS Certified Advanced Analytics Professional
+
+---
+
+**PROJECTS**
+
+- Customer Churn Prediction (Random Forest)
+- Image Recognition (CNN)
+- Fraud Detection (Isolation Forest)
+- Recommendation System (Matrix Factorization)
+- Time Series Forecasting (LSTM)
+
+---

@@ -1,0 +1,121 @@
+Jane Smith
+
+                                                                                  
+
+                   San Francisco, USA | +1 987 654 3210 | jane.smith@email.com | Tech Wizards
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Tech Wizards – Research Scientist           Apr 2023 – Sep 2023
+
+        ●  Conducted research on quantum machine learning applications in chemistry and materials science.
+
+        ●  Projects involved implementing generative adversarial networks (GANs) for molecular generation, utilizing transformer
+
+           architectures for property prediction, and exploring quantum computing for drug discovery.                                
+
+        ●  Managed data pipelines using DVC and MLflow for version control and experiment tracking.        
+
+                                                                                  
+
+      Tech Wizards – AI Engineer                                 Jul 2022 – Feb 2023
+
+        ●  Developed AI models for anomaly detection in cybersecurity, leveraging XGBoost and Random Forest algorithms.
+
+        ●  Enhanced model performance through hyperparameter tuning and feature engineering techniques.                                                         
+
+        ●  Implemented AI solutions for fraud detection and risk assessment in financial transactions.
+
+      Tech Wizards – Data Scientist                                Nov 2021 – Jun 2022
+
+        ●  Created predictive models for customer churn analysis using machine learning algorithms.
+
+        ●  Optimized SQL queries for data extraction and processing in a big data environment.
+
+        ●  Deployed predictive analytics tools for dynamic pricing strategies in e-commerce.
+
+                                                                                  
+
+      Bright Minds Tech – Machine Learning Engineer                         Mar 2020 – Oct 2021
+
+        ●  Developed a recommendation system for personalized content delivery, utilizing collaborative filtering algorithms.
+
+        ●  Designed and implemented deep learning models for image recognition in autonomous vehicles.
+
+        ●  Conducted A/B testing to evaluate model performance and user engagement metrics.
+
+                                                                                  
+
+      Quantum Insights – Software Developer                         Sep 2019 – Feb 2020
+
+        ●  Integrated quantum machine learning algorithms with classical data processing pipelines.
+
+        ●  Developed a real-time data visualization platform for monitoring quantum system performance.
+
+        ●  Implemented RESTful APIs for seamless communication between front-end and back-end systems.
+
+      Tech Wizards – Data Analyst                                 May 2018 – Aug 2019
+
+        ●  Analyzed customer behavior data to identify market trends and inform strategic decision-making.
+
+        ●  Created interactive dashboards using Tableau for visualizing key performance indicators.
+
+        ●  Automated data cleaning processes using Python scripts to increase efficiency.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Tech Institute                                       2016 – 2020  
+
+      BSc Computer Science, Dean's List                                      
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Tech Wizards – Chatbot Assistant                                      2023     
+
+      Online Learning Platform - SmartEdu                                 2022     
+
+      Health Monitoring App - HealthTrack                                        2021     
+
+      AI-Powered Virtual Shopping Assistant - VirtualShop                                      2020     
+
+                                                                                  
+
+      CERTIFICATIONS                                                      
+
+                                                                                  
+
+      - Certified Ethical Hacker (CEH)                                     
+
+      - Google Cloud Professional Data Engineer                                 
+
+      - AWS Certified Solutions Architect                                   
+
+      - IBM Certified Data Engineer                                   
+
+      - CompTIA IT Fundamentals+                                                        
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: Tech Wizards, Bright Minds Tech, Quantum Insights, Data Dynamics, MyTech Tools, Tech Platform, TechOps, SudoTech,
+
+      Kubeflow, FastAPI, Shell, MongoDB, Pandas, NumPy, Matplotlib, TensorFlow, PyTorch, Keras, Scikit-learn, SQL, Tableau, Power BI,
+
+      AWS, Google Cloud Platform, IBM Cloud, Docker, Kubernetes, Flask, Apache Kafka, Hadoop, Spark, Jupyter, Git, Jenkins, Selenium,
+
+      RESTful APIs, JSON, XML, HTML, CSS, JavaScript, React, Angular, Node.js, Express.js, Bootstrap, Docker, Kubernetes, OracleDB, MySQL,
+
+      Postgres, Redis, Linux, Windows, AWS Lambda, EC2, S3, RDS, Redshift, DynamoDB, Elasticsearch, Prometheus, Grafana, CI/CD pipelines.

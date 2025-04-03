@@ -1,0 +1,61 @@
+Sarah Johnson
+
+                                                                                  
+
+Location: San Francisco | Phone: 987-654-3210 | Email: sarahjohnson@email.com 
+
+Work Experience:
+
+1. AI Innovations                                             Jan 2021 – Present
+
+   - Lead AI Engineer
+
+     - Developed and deployed machine learning models for computer vision and NLP applications.
+
+     - Spearheaded the implementation of cutting-edge AI algorithms for image recognition and text analysis.
+
+     - Managed a team of data scientists and engineers to create end-to-end machine learning systems.
+
+     - Implemented MLOps practices using Kubernetes, MLflow, and AWS SageMaker.
+
+Certificates:
+
+- Certified TensorFlow Developer
+- Advanced Natural Language Processing Certification
+- PyData Certified Engineer
+- Certified Blockchain Developer
+- Certified Cloud Security Professional
+
+Projects:
+
+1. Drug Discovery AI                                             2023     
+
+   - Designed and trained a deep learning model for drug discovery using molecular structures.
+
+2. AI-Powered Chatbot                                       2022     
+
+   - Developed and deployed an AI chatbot with natural language understanding capabilities for customer service.
+
+3. Automated Stock Trading Algorithm                           2021     
+
+   - Created an automated stock trading algorithm using machine learning techniques to predict stock prices.
+
+4. Language Translation App                                     2021     
+
+   - Built a language translation application that leverages Transformer models for accurate translations.
+
+5. Sentiment Analysis Dashboard                             2020     
+
+   - Developed a sentiment analysis dashboard using NLP techniques to analyze social media data.
+
+6. Fraud Detection System                                       2020     
+
+   - Implemented a fraud detection system using machine learning to identify fraudulent transactions.
+
+Education:
+
+- MS in Computer Science, Stanford University, 2018 – 2020
+
+Skills:
+
+- Python, TensorFlow, PyTorch, Scikit-Learn, Keras, AWS, Docker, SQL, NumPy, Pandas, Matplotlib, React, Flask, JavaScript, Solidity, SolidWorks.

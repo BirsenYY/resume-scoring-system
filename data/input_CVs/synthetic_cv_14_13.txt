@@ -1,0 +1,90 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Final-year Computer Science student with a keen interest in software development, machine learning, and system architecture. Proactive and detail-oriented, with hands-on experience in diverse programming languages and frameworks. Actively seeking opportunities in backend development, software engineering, or AI research.
+
+Education
+BSc Computer Science (In Progress)
+University of ABC – London, UK
+Expected Graduation: May 2024
+
+Maintaining a Distinction average
+
+Key Courses: Computer Vision, Cybersecurity, Embedded Systems, Human-Computer Interaction, Cloud Computing, Bioinformatics
+
+Final Year Project: Neural Network-based Anomaly Detection System for IoT Networks
+
+Technical Skills
+Languages: Java, R, TypeScript, PHP, Kotlin
+Frameworks & Libraries: Django, Tensorflow, PyTorch, Angular
+Tools & Technologies: Docker, Kubernetes, Jupyter, PostgreSQL, Redis, RabbitMQ
+Concepts: Parallel Computing, Microservices, Data Mining, CI/CD, Scalability
+
+Projects
+HealthPal
+A healthcare platform for users to track medical records, appointments, and vital signs
+
+Developed with Django, Angular, and PostgreSQL
+
+Implemented AI-driven symptom checker using Tensorflow
+
+Utilized Kubernetes for container orchestration
+
+CuboidVR
+Immersive virtual reality environment for architectural visualization and interior design
+
+Created using Unity3D and C#
+
+Integrated hand tracking technology for interactive user experience
+
+Deployed on Oculus Rift for testing
+
+CodeHarbor
+An online collaboration tool for programmers to brainstorm and share code snippets
+
+Built with React, Node.js, and MongoDB
+
+Implemented real-time document editing using WebSocket
+
+Integrated syntax highlighting and code versioning
+
+Certifications
+AWS Certified Solutions Architect – Associate
+
+CompTIA PenTest+
+
+Deep Learning Specialization, Coursera
+
+Blockchain Fundamentals, IBM
+
+Cybersecurity for IoT Devices, Udemy
+
+Experience
+Software Developer Intern – Tech Startup
+London, UK
+Jul 2022 – Sept 2022
+
+Contributed to the development of a scalable microservices architecture for a new SaaS platform
+
+Participated in code reviews and unit testing procedures
+
+Collaborated with cross-functional teams to meet project milestones
+
+Research Assistant – Computer Vision Lab
+University of ABC
+Oct 2021 – May 2022
+
+Assisted with image dataset collection and annotation for object recognition projects
+
+Implemented data preprocessing techniques for deep learning models
+
+Contributed to research papers and literature reviews
+
+Career Objectives
+Secure a graduate position in software engineering focusing on distributed systems
+
+Contribute to cutting-edge AI research projects with a practical application
+
+Advance skills in cloud technologies and security through professional development opportunities

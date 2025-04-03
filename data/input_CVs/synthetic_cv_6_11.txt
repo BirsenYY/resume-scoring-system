@@ -1,0 +1,87 @@
+    Amazon                                      
+
+                                                                                    
+
+                 Seattle, US | (+1) 9876543210 | jane.smith@email.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative AI/ML Research Scientist and Certified Big Data Analyst with 8 years of experience. Proficient in developing
+
+      AI-driven solutions, streamlining data analytics, and optimizing machine learning models. Skilled in PySpark, Hadoop, and
+
+      Apache Flink. Currently expanding expertise in GAN models, meta-learning, and quantum machine learning. Extensive background in
+
+      leading cross-functional teams, driving AI strategy, and delivering impactful business outcomes in diverse industries.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python , R , Scala , Java, MATLAB | PostgreSQL, Cassandra, ClickHouse | Keras, XGBoost, Prodigy, AutoML, Fastai,
+
+      streamlit | GANs, Meta-Learning, Quantum ML | ETL, Data Warehousing, Data Mining, Predictive Modeling | Kubernetes, Jenkins, Airflow, Amazon
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     AI Architect (TechSolutions Inc.) - New York, US    May 2021 : Present
+
+    ● Led the design and implementation of a cutting-edge Generative Adversarial Network (GAN) architecture for image
+
+      generation, achieving state-of-the-art results in the fashion industry              
+
+    ● Spearheaded the development of a meta-learning framework to enable fast adaptation to new tasks, leading to a 30%
+
+      improvement in model generalization capabilities                                      
+
+    ● Implemented advanced data processing pipelines using PySpark and Apache Flink to streamline data ingestion, processing,
+
+      and analysis for large-scale machine learning projects                                    
+
+    ● Conducted regular knowledge-sharing sessions, mentored team members, and collaborated with stakeholders to define and
+
+      execute AI initiatives aligned with business objectives                                    
+
+     Senior Data Scientist (DataInsights) - San Francisco, US   Aug 2018 : May 2021
+
+    ● Developed and deployed machine learning models for predictive maintenance in manufacturing environments, resulting
+
+      in a 20% reduction in equipment downtime                                              
+
+    ● Designed and optimized data workflows leveraging Hadoop and Spark for efficient processing of terabyte-scale datasets
+
+    ● Conducted A/B testing and model performance evaluation to drive data-driven decision-making processes
+
+    ● Collaborated with cross-functional teams to integrate machine learning models into production environments, ensuring
+
+      scalability and reliability of AI solutions                                        
+
+    EDUCATION:                                                                      
+
+    PhD in Machine Learning - Stanford University, Stanford (Distinction)   Sep 2013 : Nov 2017
+
+    MS in Data Science - University of California, Berkeley (Honors)   Aug 2011 : May 2013
+
+    BSc in Computer Engineering - University of Illinois at Urbana-Champaign (Honors)   Sep 2007 : May 2011
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Big Data Analytics Certification (by DataAcademy)       April, 2022
+
+    ● Certified Quantum Machine Learning Specialist (QuantumTech)       June, 2023
+
+    ● Advanced Predictive Analytics (by AnalyticsX)       November, 2021
+
+    ● Machine Learning for Business Professionals (by Coursera)       March, 2023
+
+    ● Introduction to Meta-Learning (by ML Institute)       January, 2024

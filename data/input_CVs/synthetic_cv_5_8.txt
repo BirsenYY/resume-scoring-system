@@ -1,0 +1,101 @@
+John Doe                          
+
+                                                                                  
+
+                          123-456-7890 | john.doe@email.com             
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                              
+
+    University of Michigan, Ann Arbor                 Sep 2022 - May 2026
+
+      ●  BSc Computer Science: Graduated with honors                          
+
+      ●  Certificate in Cybersecurity and Data Privacy                      
+
+      ●  Achieved a high GPA in courses such as Advanced Algorithms, Artificial Intelligence, and Database Management Systems
+
+    Carnegie Mellon University, Pittsburgh                           Jan 2027 - Mar 2027
+
+      ●  Quantum Computing Fundamentals Course                         
+
+      ●  Explored topics including Quantum Gates, Quantum Circuits, Quantum Algorithms, and Quantum Error Correction
+
+    St. Xavier's College, Mumbai                           Sep 2014 - Jun 2021
+
+      ●  HSC Science: Specialized in Physics, Chemistry, and Mathematics        
+
+      ●  Led the Robotics Club and participated in Inter-College Science Debates
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Software Engineer – Google                           Jul 2028 - Present
+
+    Google is a multinational technology company; 1.2% acceptance rate.
+
+      ●  Contributing to the development of a new machine learning algorithm for improving ad targeting on Google Search
+
+      ●  Leading a team of junior developers in the implementation of scalable solutions for data processing and analysis
+
+    Research Assistant – MIT Media Lab                           Sep 2027 - Dec 2027
+
+    MIT Media Lab is a cross-disciplinary research lab; highly competitive selection process.
+
+      ●  Investigated the applications of AI in enhancing user experiences in virtual reality environments
+
+      ●  Published a research paper on the integration of reinforcement learning techniques in immersive storytelling platforms
+
+    Web Developer – Startup Innovations                           Mar 2027 - Aug 2027
+
+      ●  Designed and developed interactive web applications for clients in the e-commerce and education sectors
+
+      ●  Implemented secure payment gateways and optimized site performance to enhance user experience
+
+                                                                                  
+
+    Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Project Lead – Open Source Contribution          Jan 2027 - Dec 2027
+
+      ●  Contributed to the development of a popular open-source project used by over 10,000 developers worldwide
+
+    Personal Project – Mobile App Development              Apr 2028 - Oct 2028
+
+      ●  Created a mobile app for tracking daily water intake and providing personalized hydration recommendations
+
+      ●  Utilized Flutter for cross-platform development and integrated machine learning algorithms for predictive analytics
+
+    Event Coordinator – Tech Conference               Mar 2026 - Mar 2027
+
+      ●  Managed logistics and coordinated speaker sessions for a technology conference with 500+ attendees
+
+                                                                                  
+
+    Student Mentor & STEM Ambassador – Local High School            Mar 2026 - Jun 2028
+
+      ●  Mentored high school students interested in pursuing STEM fields through workshops and career guidance
+
+      ●  Organized STEM outreach programs to engage underrepresented groups in tech-related activities
+
+    Additional Information                                                        
+
+                                                                                  
+
+    Technical Skills: Java, JavaScript, Python, SQL, AWS, Docker
+
+    Certifications: AWS Certified Solutions Architect, CompTIA Security+, Google Cloud Associate Cloud Engineer
+
+    Activities: Marathon Runner, Photography Enthusiast, Volunteer at Animal Shelter
+
+    Languages: English (Fluent), Spanish (Intermediate), German (Basic)
+
+    Interests: Artificial Intelligence, Blockchain Technology, Travel Photography, Cooking, Hiking

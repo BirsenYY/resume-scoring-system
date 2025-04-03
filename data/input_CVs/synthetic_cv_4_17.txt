@@ -1,0 +1,119 @@
+Jane Smith
+
+                                                                                  
+
+                   Los Angeles, USA | +1 234 567 8901 | jane.smith@email.com | Future Technologies
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Future Technologies – Research Scientist           Jan 2023 – Mar 2023
+
+        ●  Conducted research on advanced AI models for robotics and autonomous systems.
+
+        ●  Explored projects involving Quantum ML algorithms, federated learning on edge devices, and reinforcement learning for
+
+           industrial automation.                                
+
+        ●  Implemented MLOps practices using MLflow and Argo CD for model tracking and deployment.        
+
+                                                                                  
+
+      Future Technologies – Software Developer                                 Jun 2021 – Aug 2022
+
+        ●  Customised AI-driven recommendation engines with Apache Singa and PyCaret for personalized user experiences.
+
+        ●  Integrated ML models with microservices architecture using gRPC and RESTful APIs.                                                          
+
+        ●  Implemented natural language processing pipelines for sentiment analysis and text classification.
+
+      InnovateTech – Machine Learning Engineer                                Oct 2020 – May 2021
+
+        ●  Designed and deployed anomaly detection algorithms using Isolation Forest and LSTM networks.
+
+        ●  Created ML pipelines to process IoT sensor data for predictive maintenance in manufacturing plants.
+
+        ●  Collaborated on developing a computer vision model for quality control in production lines.
+
+                                                                                  
+
+      Digital Innovations – Software Engineer                         Jan 2019 – Aug 2020
+
+        ●  Led the development of a cloud-based CRM system for client data management utilizing AWS and Salesforce APIs.
+
+        ●  Implemented CI/CD practices for automated testing and deployment using Jenkins and Docker.
+
+        ●  Integrated Elasticsearch for real-time data indexing and searching functionality.
+
+                                                                                  
+
+      CyberTech Solutions – Software Developer                         May 2017 – Dec 2018
+
+        ●  Contributed to building a secure messaging app with end-to-end encryption using Signal Protocol.
+
+        ●  Developed REST APIs for user authentication and message encryption, ensuring data privacy.
+
+        ●  Implemented AES encryption and decryption algorithms for secure data transmission.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Future University                                       2017 – 2021  
+
+      Future University Computer Science, Distinction                                      
+
+                                                                                  
+
+      Science Academy                                         2013 – 2016  
+
+      BSc Applied Mathematics, Distinction                                        
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Future Technologies – Robotics Platform                                        2022     
+
+      AI-Powered Health Diagnosis App                                        2022     
+
+      Edge Computing IoT Solution                                        2021     
+
+      Mask Detection System using Computer Vision                                        2021     
+
+                                                                                  
+
+      CERTIFICATIONS                                                       
+
+                                                                                  
+
+      ●  Certified Kubernetes Application Developer (CKAD)
+
+      ●  Certified Information Systems Security Professional (CISSP)
+
+      ●  Certified Blockchain Developer (CBD)
+
+      ●  Certified Unity Developer (CUD)
+
+      ●  Certified Data Science Professional (CDSP)
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: Future Technologies, InnovateTech, Digital Innovations, CyberTech Solutions, Tech Systems, Tech Services, MyTech Tools, Future Platform, 
+
+      FutureOps, Kubeflow, FastAPI, Shell, PostgreSQL, Spark, Kafka, Hadoop, Scikit-learn, TensorFlow, Keras, PyTorch, Docker, Kubernetes, gRPC, RESTful API, AWS, 
+
+      Salesforce, Jenkins, Elasticsearch, Signal Protocol, Django, Flask, PyCaret, NLTK, Spacy, TensorFlow, OpenCV, NumPy, SciPy, Matplotlib, gRPC, Redis, 
+
+      Cassandra, MongoDB, OracleDB, SQL Server, Angular, HTML, CSS, JavaScript, C#, Java, Python, TypeScript, Unity, Blockchain, Data Science, AWS, Azure, 
+
+      GCP, Git, JIRA, Confluence, Selenium, JUnit, Splunk, Tableau, Power BI.

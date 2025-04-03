@@ -1,0 +1,103 @@
+```
+    Amazon                                    
+
+                                                                                    
+
+                 Seattle, US | (+1) 987654321 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Dynamic AI/ML Specialist and Certified Cloud Engineer with 8 years of experience. Proficient in developing AI solutions using
+
+      Bayesian Optimization, Genetic Programming, and ensemble methods. Skilled in Python, PyTorch, and scikit-learn. Continuously
+
+      enhancing skills in transformer-based architectures, multimodal learning, and model interpretability. Experienced in leading
+
+      cross-functional teams and delivering AI projects with business impact.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, Java, Scala, SQL, MongoDB | PostgreSQL, Redis, Faiss | PyTorch, TensorFlow, XGBoost, Hugging Face, Ensmallen,
+
+      ModelArts | Bayesian Optimization, Genetic Programming, Ensemble Learning | RESTful APIs, Flask, Kafka | Git, Jenkins, Kubernetes,
+
+      AWS                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Machine Learning Research Scientist (NeuroAI) - San Francisco, US    Jan 2022 : Present
+
+    ● Pioneered the development of a Bayesian Optimization framework for hyperparameter tuning in neural networks, resulting in a 15%
+
+      improvement in model performance                                             
+
+    ● Led a project on genetic programming for autonomous driving, implementing algorithms for rule-based evolution and achieving
+
+      robust decision-making in real-time scenarios                                    
+
+    ● Coordinated the integration of ensemble learning methods for anomaly detection in medical imaging data, improving detection
+
+      accuracy by 20%                                                                 
+
+    ● Initiated a side project to explore explainable AI techniques for convolutional neural networks, resulting in a published research
+
+      paper and presentation at a leading AI conference                              
+
+     Data Scientist (IBM Research) - New York City, US    Mar 2019 : Dec 2021
+
+    ● Designed and implemented scalable data pipelines using Apache Spark and Hadoop for processing high-volume streaming data in
+
+      real-time analytics applications                                                 
+
+    ● Developed predictive models using XGBoost and AutoML techniques to optimize supply chain operations, leading to 10% reduction
+
+      in inventory costs                                                                 
+
+    ● Collaborated with cross-functional teams to deploy machine learning models on IBM Cloud and integrate them with RESTful APIs for
+
+      real-time inference                                                             
+
+     Machine Learning Engineer (Tesla) - Palo Alto, US    Aug 2016 : Feb 2019
+
+    ● Built a computer vision system for object detection in autonomous vehicles, leveraging deep learning models and transfer learning
+
+      to achieve high accuracy rates                                                  
+
+    ● Spearheaded the development of a recommendation system for smart charging stations, improving user experience and reducing
+
+      charging times                                                                   
+
+    ● Participated in a side project to implement reinforcement learning algorithms for autonomous navigation, resulting in increased
+
+      efficiency and safety levels                                                     
+
+    EDUCATION:                                                                      
+
+    PhD in Machine Learning - Carnegie Mellon University, Pittsburgh (With Distinction) Sept 2012 : May 2016
+
+    MS in Computer Science - University of California, Berkeley (Honors) Aug 2010 : May 2012
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified AI Ethics Professional (AIEP)                                     May, 2021
+
+    ● Certified ML Ops Engineer (MLC)                                           Nov, 2020
+
+    ● Deep Learning Nanodegree (Udacity)                                          Feb, 2020
+
+    ● Cloud Native Computing Foundation (CNCF) Certified Kubernetes Administrator   Jul, 2019
+
+    ● Blockchain for Business - An Introduction to Hyperledger Technologies (edX)   Mar, 2018
+```

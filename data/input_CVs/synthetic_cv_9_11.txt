@@ -1,0 +1,105 @@
+Sarah Johnson                                               
+
+                                                                                  
+
+                      San Francisco | 0777777 | sarah.johnson@email.com | Portfolio: sarahjohnson.dev | GitHub: github.com/sarahjohnson
+
+      SUMMARY                                                                    
+
+                                                                                  
+
+                                                                                  
+
+      Computer Science enthusiast with a focus on data analytics, cloud computing, and software development. Skilled in leveraging technology
+
+      to streamline processes and drive business innovation.
+
+      Passionate about learning new technologies and continuously enhancing skills to create impactful projects. Proficient in Python, Java, and
+
+      cloud services. Committed to delivering high-quality solutions that address complex problems.
+
+      CURRENT INITIATIVES                                                          
+
+                                                                                  
+
+      AI Chatbot Development – AI Engineer                          Jun 2025 – Present
+
+        ●  Creating an AI chatbot system using natural language processing techniques for automated customer support and engagement solutions.
+
+        ●  Implementing sentiment analysis and chatbot personalization features to enhance user experience and interaction.
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      🏆 Data Science Hackathon Winner – Predictive Analytics                         2023
+
+        ●  Led a team in winning a hackathon by developing a predictive analytics model for sales forecasting with 95% accuracy.
+
+        ●  Utilized XGBoost and LSTM models for time-series analysis and integrated the solution into a user-friendly web interface.
+
+                                                                                  
+
+      HealthTrack – Health Monitoring App                                      2024     
+
+        ●  Developed a mobile app for tracking health metrics, exercise routines, and nutrition plans for personalized wellness management.
+
+        ●  Integrated with wearable devices and cloud storage for data synchronization and analysis.
+
+                                                                                  
+
+      SmartHome Automation – IoT Project                                         2023
+
+        ●  Implemented an IoT system for home automation, controlling lights, temperature, and security systems remotely via a mobile app.
+
+        ●  Utilized Raspberry Pi for sensor integration and MQTT protocol for communication between devices.
+
+                                                                                  
+
+      CodeChecker – Automated Code Review Tool                               2022
+
+        ●  Designed an automated code review tool to analyze coding standards, security vulnerabilities, and performance optimizations.
+
+        ●  Integrated with GitLab CI/CD pipelines for seamless code quality checks in software development workflows.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Software Developer                                     Mar 2023 – Present
+
+        ●  Developed and maintained enterprise software solutions for financial institutions, optimizing data processing and reporting functionalities.
+
+        ●  Collaborated with cross-functional teams to deliver scalable and secure applications that meet client requirements.
+
+                                                                                  
+
+      Tech Startup Intern – Data Analyst                          Sep 2022 – Dec 2022
+
+        ●  Conducted data analysis and visualization tasks to support business decision-making and product development strategies.
+
+        ●  Assisted in implementing machine learning algorithms for predictive analytics projects in a dynamic startup environment.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Stanford University                                             2020 – 2024 
+
+      BSc Computer Science                                                  
+
+        ●  Capstone project: "Smart Traffic Management System" – optimized traffic flow using IoT sensors and predictive modeling.
+
+      TECHNICAL SKILLS                                                          
+
+
+
+Java, SQL, AWS, TensorFlow, Tableau, Apache Kafka, Angular, HTML/CSS, Arduino, C++, MATLAB, JIRA, Jenkins, REST APIs, Splunk, Kotlin, 
+
+      Node.js, MongoDB, Power BI, Selenium, R, Oracle Database, Spring Boot, Redis, GraphQL

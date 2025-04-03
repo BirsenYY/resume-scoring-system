@@ -1,0 +1,66 @@
+Jane Smith
+
+jane.smith@email.com | 123-456-7890 | Los Angeles, CA
+
+---
+
+**PROFILE**
+
+Machine learning engineer with a passion for developing and deploying cutting-edge AI solutions. Proficient in Python and the TensorFlow ecosystem, with experience in computer vision and natural language processing. Skilled in building applications using Flask and microservices architecture, adaptable to any cloud or on-premise environment.
+
+**CURRENTLY BUILDING**
+
+ABC AI Solutions - Machine Learning Engineer | Aug 2023 - Present
+
+- Established startup specializing in AI-powered solutions for healthcare
+- Leveraging machine learning to develop patient diagnosis prediction models
+- Implementing end-to-end pipeline for data processing and model deployment
+
+**PROJECTS**
+
+ABC AI Solutions - [GitHub Repository](link) | 2023
+
+- Developed AI-driven tool for early detection of chronic diseases
+- Implemented custom deep learning models for medical image analysis
+
+**EXPERIENCE**
+
+XYZ AI Research Center - Research Scientist | Jan 2020 - Aug 2023
+
+- Conducted research on advanced neural network architectures for image recognition
+- Explored generative adversarial networks for data augmentation in medical imaging
+- Managed MLOps processes using MLflow and Apache Beam
+
+DEF Innovations - AI Engineer | Jun 2018 - Dec 2019
+
+- Designed and deployed AI algorithms for predictive maintenance in manufacturing
+- Led the integration of machine learning models with IoT sensor data
+- Conducted workshops on AI applications for process optimization
+
+GHI Technologies - Data Scientist | Mar 2016 - Jun 2018
+
+- Developed recommendation systems for e-commerce platform using collaborative filtering
+- Implemented deep learning models for sentiment analysis on social media data
+- Collaborated with cross-functional teams to drive data-driven decision-making
+
+**EDUCATION**
+
+ABC University | 2012 - 2016
+
+BSc in Computer Science with a focus on Machine Learning
+
+- Awarded Best Thesis for developing a deep learning model for anomaly detection
+
+**CERTIFICATIONS**
+
+1. Certified Machine Learning Engineer (CMLE)
+2. AWS Certified Machine Learning - Specialty
+3. TensorFlow Developer Certificate
+4. Data Engineering on Google Cloud Platform
+5. Certified Artificial Intelligence Professional (CAIP)
+
+**TOOLS AND TECHNOLOGIES**
+
+Python, TensorFlow, Scikit-Learn, Flask, Docker, Kubernetes, AWS SageMaker, Google Cloud Platform, PySpark, SQL, Tableau, Git, HTML/CSS, JavaScript
+
+---

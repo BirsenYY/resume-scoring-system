@@ -1,0 +1,99 @@
+    Elizabeth Jones                                  
+
+                        San Francisco | elizabeth.jones@email.com | AI & Machine Learning | Apollo Technologies   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Experienced machine learning engineer with a strong foundation in computer science. Specialized in developing AI-driven applications and continuous exploration in the field of machine learning.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, Java, C++, Ruby, Docker, Flask, • Frameworks: PyTorch, TensorFlow, Hivemind, Keras,
+
+     Streamlit, MongoDB, Cassandra, Redis                                         
+
+    • Machine Learning: Self-attention mechanisms, Graph Neural Networks, Reinforcement Learning, • Tools: Jupyter Notebook, PyCharm, Git, Linux,
+
+     Generative Adversarial Networks, Support Vector Machines, Stable Services (AWS), Azure Machine Learning, DigitalOcean,
+
+     Bayesian Networks, Active Learning, AutoML                                    
+
+     • Data Science: Time Series Forecasting, Anomaly Detection, Survival Analysis, Hypothesis Testing, Feature Importance  
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    Machine Learning Engineer | Apollo Technologies, California              Aug 2020 – Present
+
+    Chatbot for Customer Support Automation                    
+
+                                                                                  
+
+    • Led the development of a chatbot for automating customer support using Transformer models and self-attention mechanisms.
+
+    • Incorporated Graph Neural Networks to enhance user intent understanding and response generation.
+
+    • Implemented reinforcement learning algorithms to improve chatbot conversational capabilities over time.
+
+    • Transitioned the deployment process from Flask to Azure Machine Learning for better scalability and performance metrics.
+
+    Tech Stack: Python, Transformers, Hivemind, Graph Neural Networks, Reinforcement Learning, Flask, Azure ML            
+
+    Predictive Maintenance System                                                   
+
+    • Built a predictive maintenance system using Bayesian Networks and Active Learning techniques for fault detection in industrial machinery.
+
+    • Applied AutoML for feature engineering and model selection to streamline the predictive maintenance process.
+
+    • Conducted anomaly detection using time series forecasting and survival analysis to prevent critical machine failures.
+
+    • Deployed the system on DigitalOcean for real-time monitoring and alerts.                    
+
+                                                                                  
+
+    Tech Stack: Python, Bayesian Networks, AutoML, Time Series Forecasting, Anomaly Detection, Survival Analysis     
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc Machine Learning and AI, Stanford University, California Oct 2018 - May 2020
+
+    BSc Computer Science (Honours), University of California, Los Angeles                     Aug 2018 
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Speech Emotion Recognition (CNNs)         • Generative Chatbot               
+
+    • Stock Price Prediction (LSTMs) • Image Captioning System               
+
+    • Music Genre Classification (Graph Neural Networks)  • Video Anomaly Detection (Autoencoders)          
+
+                                                                                  
+
+    • Document Clustering (DBSCAN)          • Fraud Detection System (XGBoost)         
+
+    • Sentiment Analysis (LSTM)             • Facial Recognition System

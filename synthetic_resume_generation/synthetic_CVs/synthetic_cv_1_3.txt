@@ -1,0 +1,113 @@
+Alice Smith
+
+                                                                                    
+
+                      San Francisco | 0888888 | alice.smith@email.com | ABC AI | ABC AI
+
+      ABOUT ME                                                              
+
+                                                                                  
+
+                                                                                  
+
+      Experienced machine learning engineer with a passion for developing innovative AI solutions. Skilled in building and deploying end-to-end machine learning systems, as well as leading technical teams to success. Proficient in Python, TensorFlow, and Scikit-Learn, with extensive experience in computer vision and natural language processing models. Expertise in building applications using Django and a microservices architecture, deployed on cloud platforms like AWS and GCP.
+
+      CURRENT PROJECTS                                                          
+
+                                                                                  
+
+      ABC AI – Machine Learning Engineer                    Jan 2025 – Present
+
+        ●  Leading a team in the development of AI-driven solutions for… (LINK TO GITHUB)                   
+
+        ●  Implementing state-of-the-art algorithms for real-time anomaly detection in…                                                    
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      ABC AI – link                                               2025
+
+      …                                                                           
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      ABC Research Institute – Senior Research Scientist           Feb 2023 – Jan 2025
+
+        ●  Conducted research on advanced reinforcement learning techniques for robotic manipulation tasks.
+
+        ●  Developed novel approaches for explainable AI in medical image analysis and disease diagnosis.
+
+        ●  Implemented MLOps pipeline using MLflow for model tracking and monitoring.        
+
+                                                                                  
+
+      DEF Innovations – Machine Learning Engineer                           Apr 2021 – Feb 2023
+
+        ●  Designed and implemented deep learning models for predictive maintenance in industrial equipment.
+
+        ●  Optimized computer vision algorithms for object detection and tracking in real-time video streams.
+
+        ●  Led the integration of AI technologies into existing production workflows.        
+
+                                                                                  
+
+      GHI Technologies – Data Scientist                      Aug 2018 – Apr 2021
+
+        ●  Built scalable machine learning systems for personalized recommendation engines.
+
+        ●  Analyzed large datasets using distributed computing frameworks like Spark and Hadoop.
+
+        ●  Collaborated with cross-functional teams to deliver data-driven insights for strategic decision-making.        
+
+      JKL – Machine Learning Intern                                 May 2018 – Aug 2018
+
+        ●  Worked on implementing natural language processing models for sentiment analysis.
+
+        ●  Contributed to the development of a chatbot using RASA framework.
+
+                                                                                  
+
+      MNO Robotics – Robotics Engineer                 Sep 2016 – May 2018
+
+        ●  Developed control algorithms for autonomous mobile robots in dynamic environments.
+
+        ●  Led the design and prototyping of a robotic arm for automated pick-and-place tasks.
+
+        ●  Coordinated with software engineers to integrate perception systems into robotic platforms.  
+
+                                                                                  
+
+      PQR Automation – Automation Engineer                Jan 2015 – Sep 2016
+
+        ●  Designed custom PLC programs for automated manufacturing processes.
+
+        ●  Implemented real-time monitoring systems for quality control in production lines.
+
+                                                                                  
+
+      XYZ Manufacturing – Control Systems Engineer                 Mar 2013 – Jan 2015
+
+        ●  Implemented PID control algorithms for motion control systems.
+
+        ●  Designed and optimized control strategies for batch processing operations.
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      ABC University                                         2009 – 2013  
+
+      BSc in Electrical Engineering                                                 
+
+        ●  Recipient of the Innovation Award for a senior project on…       
+
+      TOOLS AND TECHNOLOGIES
+
+TensorFlow, PyTorch, Scikit-Learn, Keras, Natural Language Processing (NLP), Generative Adversarial Networks (GANs), Reinforcement Learning, AWS SageMaker, Django, Flask, Apache Kafka, MySQL, Tableau, React.js, D3.js, Scala, MATLAB, C++

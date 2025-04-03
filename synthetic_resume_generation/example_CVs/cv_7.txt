@@ -1,0 +1,113 @@
+```
+    John Smith                                  
+
+                        New York | john.smith@email.com | Tech Solutions | Tech Solutions   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Machine learning engineer with a background in computer science. Proven expertise in AI-driven applications and ongoing
+
+    apprenticeship in machine learning.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, Java, C, C++, Docker, Flask, • Frameworks: PyTorch, TensorFlow, Langchain, Keras,
+
+     Streamlit, MySQL, PostgreSQL, ChromaDB Scikit-Learn                          
+
+    • Machine Learning: LLMs, RAG, Finetuning, • Tools: Jupyter Notebook, Visual Code, Git, Linux,
+
+     Quantization, RNNs, CNNs, Tech Solutions, Classification, Tech Solutions, Tech Solutions, Tech Solutions, Tech Solutions
+
+     Regression, Random Forests, XGBoost, SVMs, Stable Services (AWS), Google Cloud Platform(GCP), Hetzner,
+
+     Diffusion, Feature Engineering, Naïve Bayes, Function FastAPI                
+
+     Calling, Data Augmentation, Generative AI                                    
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    Machine Learning Engineer | Tech Solutions, California              Oct 2023 – Present
+
+    Conversational Journey Planner for Tech Solutions                    
+
+                                                                                  
+
+    • Develop an AI-powered journey planner integrating Tech Solutions API and LLMs for real-time public transport guidance.
+
+    • Fine-tune LLMs (LLaMA 3.1, GPT models) to enhance location recognition and response accuracy.
+
+    • Implement RAG for structured and unstructured data retrieval.               
+
+    • Explore reinforcement learning to optimize journey recommendations.         
+
+    • Transition system from Streamlit to AWS for scalability.                    
+
+    Tech Stack: Python, LLaMA 3.1, GPT-4, Langchain, TfL API, AWS, NLP            
+
+    Automated CV Scoring System                                                   
+
+    • Develop an automated CV scoring system to optimize candidate selection for IT bootcamps.
+
+    • Implement BERT-based anonymization to remove personally identifiable information (PII).
+
+    • Design text embeddings, feature engineering, and synthetic data for model generalization.
+
+    • Train NLP models (Naïve Bayes, neural networks and transformers) for CV classification and evaulation.
+
+    • Balance speed-accuracy trade-off for optimal efficiency.                    
+
+                                                                                  
+
+    Tech Stack: Python, PyTorch, BERT, NLP, Scikit-learn, Transformers, Deep Learning Models, Embeddings
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc Apprenticeship in Machine Tech Solutions, California Oct 2023 - Present
+
+    MSc Astrophysics, University of California, Berkeley                     Sept 2023 
+
+    BSc Physics (First-Class), Stanford University, California                  Sept 2023 
+
+    BSc Computer Engineering, University of Illinois, Urbana-Champaign    Feb 2008  
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Audio classification (CNNs)         • Scale-up transformer                  
+
+    • Flashcard generator (Gemini, Langchain) • Build a transformer               
+
+    • Quiz builder (Langchain, ChromaDB)  • Search engine (2-Tower RNNs)          
+
+                                                                                  
+
+    • Tweet classification (SVM)          • Language detection (Word2Vec)         
+
+    • Object detection (YOLO)             • Radial Velocity of OB Stars
+    ```

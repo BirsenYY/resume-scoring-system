@@ -1,0 +1,93 @@
+Jessica Miller                                   
+
+                                                                                    
+
+      (cid:131) 555-765-4321 — jessica.miller@email.com — (cid:239) linkedin.com/in/jessicamiller90 — ' github.com/jessicamiller
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  C++, Python, Ruby, SQL, R                                           
+
+   Frameworks: Vue.js, Django, Flask, Ruby on Rails, Spring, Apache Spark, Express.js, Redux, Tailwind CSS,
+
+               Chakra UI, Bulma                                                   
+
+   ML/AI:      GANs, Reinforcement Learning, Object Detection, NLP, Computer Vision    
+
+   Technologies: Docker, Kubernetes, GraphQL, AWS, Terraform, Redis, Apache Kafka, ElasticSearch, 
+
+               Firebase, RabbitMQ, Neo4j                                           
+
+   Testing:    Selenium, JUnit, Pytest, Jest, TestNG                                 
+
+   Certifications: AWS Certified Solutions Architect - Associate, Google Cloud Professional Data Engineer,
+
+                  Certified Ethical Hacker, Certified Kubernetes Administrator, Oracle Certified Professional Java Programmer
+
+                                                                                    
+
+   Experience                                                                       
+
+    XYZ Corp                                           Jan 2019 – Present
+
+    Senior Software Engineer                                                        
+
+      – Architected and implemented a microservices-based e-commerce platform using Kubernetes and Docker.
+
+      – Spearheaded the development of a recommendation engine leveraging collaborative filtering algorithms.
+
+      – Led a team of 8 engineers in building a real-time analytics dashboard for monitoring system performance.   
+
+    Software Engineer                                                                 
+
+      – Collaborated with cross-functional teams to develop a scalable RESTful API for a new customer portal.
+
+      – Automated deployment pipelines using Jenkins, reducing deployment time by 50%.
+
+    Intern Software Developer                                                       
+
+      – Contributed to the development of a cloud-based CRM system, improving customer data management.
+
+      – Conducted performance testing and optimization for a web application, enhancing user experience.  
+
+    Acme Inc                                          Jul 2016 – Dec 2018
+
+    Junior Software Engineer                                                         
+
+      – Designed and implemented a data visualization dashboard for financial data analysis.
+
+      – Integrated third-party APIs for real-time stock market data tracking.                   
+
+   Education                                                                        
+
+    University of Washington — MSc Data Science                           2021    
+
+    Stanford University — BSc Computer Engineering (2:1)              2013 – 2016  
+
+    MIT — Diploma in Computer Programming                                   2012 – 2013 
+
+   Projects                                                                         
+
+                                                                                    
+
+    Sentiment Analysis Dashboard                                                '     
+
+      – Developed a sentiment analysis dashboard for social media data using NLP techniques.
+
+    Blockchain Voting System                                                    '     
+
+      – Built a blockchain-based voting system to ensure secure and transparent elections.
+
+    Music Recommendation App                                                    '     
+
+      – Created a music recommendation app using collaborative filtering algorithms.
+
+    Fraud Detection System                                                      '     
+
+      – Implemented a fraud detection system using machine learning for real-time transaction monitoring.
+
+    Virtual Assistant Chatbot                                                   '     
+
+      – Designed and developed a virtual assistant chatbot for customer support using Rasa framework.  

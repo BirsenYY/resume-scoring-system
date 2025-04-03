@@ -1,0 +1,90 @@
+Maria Sanchez                                    
+
+                                                                                  
+
+                      San Francisco | 987-654-3210 | mariasanchez@email.com | DEF Solutions | LMN Technologies
+
+      SUMMARY                                                                     
+
+                                                                                  
+
+      Experienced machine learning engineer specializing in computer vision and natural language processing systems. Proficient in
+
+      Python, TensorFlow, and Scikit-Learn, with a background in developing and deploying end-to-end ML solutions. Skilled in
+
+      building microservices architecture using FastAPI and Docker on cloud platforms.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      DEF Solutions                         Mar 2022 – Present
+
+        ●  Led a team in developing a computer vision model for object detection with state-of-the-art performance metrics.
+
+        ●  Implemented MLOps practices including Kubernetes, MLflow, and Google Cloud AI Platform for model deployment.
+
+        ●  Collaborated with cross-functional teams to integrate machine learning solutions into existing software products.
+
+                                                                                  
+
+      LMN Technologies                    Sep 2019 – Feb 2022
+
+        ●  Developed a sentiment analysis system for social media data using LSTM networks and word embeddings.
+
+        ●  Optimized image classification models using transfer learning techniques for improved accuracy.
+
+        ●  Conducted performance analysis and optimization of ML algorithms for real-time inference.
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Fraud Detection System                                             2023     
+
+        ●  Implemented an anomaly detection algorithm for transaction fraud detection in financial data.
+
+      Autonomous Delivery Robot                                        2023     
+
+        ●  Led the development of perception and control systems for an autonomous delivery robot prototype.
+
+      Video Summarization Tool                                             2022     
+
+        ●  Built an end-to-end video summarization tool using computer vision techniques for automated content summarization.
+
+      Flight Delay Prediction Tool                                              2022     
+
+        ●  Developed a machine learning model to predict flight delays with improved accuracy using historical data.
+
+      Blockchain-Based Voting System                                 2021     
+
+        ●  Designed and implemented a decentralized blockchain-based voting system for secure and transparent elections.
+
+                                                                                  
+
+      CERTIFICATIONS                                                              
+
+      - AWS Certified Machine Learning - Specialty
+      - Tableau Desktop Specialist
+      - Certified Data Science Professional (CDSP)
+      - CompTIA Security+
+      - Google Cloud Professional Data Engineer
+      - Certified Kubernetes Administrator (CKA)
+
+      EDUCATION                                                                   
+
+      LMN University                                         2015 – 2019  
+
+      BSc in Computer Engineering                                                        
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      Skills in TensorFlow, PyTorch, Keras, Scikit-Learn, FastAPI, Docker, Kubernetes, Google Cloud Platform, AWS, Tableau, Git & GitHub, SQL, Pandas, NumPy, Matplotlib, OpenCV, Linux, Spark, Hadoop, Java, JavaScript, D3.js, HTML, CSS.

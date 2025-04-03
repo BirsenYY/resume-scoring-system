@@ -1,0 +1,60 @@
+Emily Smith  
+
+Chicago, IL | 0888888 | emily.smith@email.com | ABC Analytics | ABC Analytics
+
+## SUMMARY
+
+Data scientist with a strong background in developing and implementing machine learning models. Skilled in Python and the TensorFlow ecosystem, with experience in deploying models for computer vision and natural language processing tasks. Proficient in building web applications with Flask and working in a microservices architecture. Experienced in optimizing model performance and increasing efficiency through automation.
+
+## CURRENT ROLE
+
+ABC Analytics – Data Scientist                         Mar 2021 - Present
+
+- Founded start-up focused on implementing machine learning solutions for retail industry (LINK TO WEBSITE)
+
+## PROJECTS
+
+ABC Analytics – Customer Segmentation               2022
+
+- Developed machine learning model to segment customers based on purchasing behavior and demographics
+- Implemented model in production for targeted marketing campaigns
+
+## EXPERIENCE
+
+XYZ Research Center – Machine Learning Engineer        Jan 2020 - Mar 2021
+
+- Led projects on transfer learning for image recognition and sentiment analysis in NLP
+- Utilized Kubeflow for MLOps and model deployment
+- Collaborated with cross-functional teams to deliver actionable insights
+
+XYZ Tech Solutions – Data Analyst                           Jun 2018 - Jan 2020
+
+- Conducted data analysis to optimize customer engagement strategies
+- Automated data pipelines for efficient data processing
+- Coordinated with marketing team to improve campaign performance
+
+PQR Data Science – Data Science Intern                         May 2017 - Aug 2017
+
+- Worked on predictive modeling projects using regression and classification algorithms
+- Utilized Pandas and NumPy for data preprocessing and analysis
+- Presented findings to senior data scientists for feedback
+
+## CERTIFICATIONS
+
+1. Certified Machine Learning Engineer (CMLE)
+2. Deep Learning Specialist (DLS)
+3. Data Engineering with Apache Spark (DEAS)
+4. AWS Certified Solutions Architect - Associate
+5. Certified Kubernetes Administrator (CKA)
+
+## EDUCATION
+
+XYZ University                                  2014 - 2018
+
+BSc in Data Science                                               
+- Awarded for Best Data Science Project
+- Member of Data Science Society
+
+## TECHNICAL SKILLS
+
+Python, TensorFlow, Flask, Scikit-Learn, Apache Spark, AWS, Docker, Kubernetes, SQL, Git, HTML, CSS, ReactJS

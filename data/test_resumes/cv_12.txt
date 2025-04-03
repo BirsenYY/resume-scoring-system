@@ -1,0 +1,71 @@
+NAME
+ London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Results-driven Software Engineer with 5+ years of experience designing and developing scalable backend systems and tools. Adept at writing clean, maintainable code in Python, Java, and JavaScript. Formerly contributed to quality-focused engineering initiatives with strong emphasis on test automation, CI/CD pipelines, and system reliability. Passionate about building efficient, secure, and user-centric software solutions.
+
+Technical Skills
+Languages: Python, Java, JavaScript, SQL, Bash
+
+Frameworks & Tools: Node.js, Spring Boot, Flask, React, Selenium, JUnit, PyTest
+
+DevOps & CI/CD: Docker, Jenkins, GitLab CI/CD, Kubernetes, Git
+
+Databases: PostgreSQL, MongoDB, MySQL
+
+Cloud & Platforms: AWS (EC2, S3, Lambda), GCP, Linux
+
+Others: REST APIs, Microservices, Agile/Scrum, TDD
+
+Professional Experience
+Software Engineer
+TechNova Solutions, London, UK
+Jan 2022 – Present
+
+Developed and maintained RESTful microservices in Python and Java, deployed on AWS Lambda and EC2
+
+Collaborated with frontend team to integrate APIs and deliver seamless user experiences using React
+
+Optimized database queries and implemented caching strategies, reducing load times by 30%
+
+Introduced automated testing practices and monitoring tools to improve system reliability
+
+Actively involved in sprint planning, code reviews, and mentoring junior developers
+
+Software Engineer (Engineering Tools & Infrastructure)
+InnovaTech Ltd., London, UK
+May 2019 – Dec 2021
+
+Built and maintained internal engineering tools in Python and Bash to improve developer productivity
+
+Automated testing workflows and integrated them into CI/CD pipelines using Jenkins and GitLab CI
+
+Developed APIs and scripts for system validation, data transformation, and performance benchmarking
+
+Worked cross-functionally with development and release teams to ensure build stability and code quality
+
+Refactored legacy Python scripts to modular components, reducing tech debt and improving testability
+
+Engineering Analyst (Tooling & Automation)
+NexWave Systems, London, UK
+Jun 2017 – Apr 2019
+
+Designed internal utilities to validate software components in large distributed systems
+
+Created robust test automation frameworks using Java, Selenium, and JUnit
+
+Participated in early-stage design discussions and proposed automation strategies for continuous validation
+
+Worked closely with software engineers to debug, troubleshoot, and enhance core platform features
+
+Authored detailed technical documentation and knowledge base articles for internal tooling
+
+Education
+BSc in Computer Science
+University of Manchester, UK
+2013 – 2016
+
+Certifications
+AWS Certified Developer – Associate
+Java SE 11 Developer (Oracle Certified)
+

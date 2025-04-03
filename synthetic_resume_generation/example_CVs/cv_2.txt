@@ -1,0 +1,121 @@
+```
+John Doe                                  
+
+                                                                                  
+
+                      New York City | 0777777 | john.doe@email.com | XYZ Solutions | XYZ Solutions
+
+      WORDS ABOUT ME                                                              
+
+                                                                                  
+
+                                                                                  
+
+      Machine learning engineer specialised in developing and deploying end-to-end machine learning systems. I've led technical
+
+      teams and built models from the ground up as a solo engineer. My expertise includes Python and the PyTorch ecosystem;
+
+      with experience deploying computer vision and NLP models. I excel at building applications using FASTAPI and a microservices
+
+      architecture, deployed on cheap bare metal servers or any preferred environment.
+
+      CURRENTLY BUILDING                                                          
+
+                                                                                  
+
+      XYZ Solutions – Machine Learning Engineer                    Oct 2024 – Present
+
+        ●  Founded company where I’m building… (LINK TO GITHUB)                   
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      XYZ Solutions – link                                               2024     
+
+      …                                                                           
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      XYZ Research Center – Research Fellow           Oct 2024 – Dec 2024
+
+        ●  Research focussed on implementation of foundation models in vision and NLP.
+
+        ●  Projects included fine-tuning LLMs and Stable Diffusion models, information retrieval using Two Tower architecture,
+
+           and building Transformers from scratch.                                
+
+        ●  MLOps including but not limited to Kubeflow and Apache Airflow.        
+
+                                                                                  
+
+      XYZ Innovations – Automation Engineer                           Jan 2023 – Oct 2024
+
+        ●  Engineered bespoke software and hardware solutions that reduced experiment design, execution, and analysis times
+
+           from weeks and hours to minutes and seconds.                           
+
+        ●  Engineered unique robotic solutions to enhance automated workcell capabilities, introducing innovations like novel
+
+           gel loading systems and custom mechanisms previously unavailable in the market.
+
+        ●  Led workshops and training for scientists in automated methods.        
+
+                                                                                  
+
+      XYZ Technologies – Senior Automation Engineer                      Sep 2020 – Jan 2023
+
+        ●  Developed an end-to-end experiment scheduling software using SAT solvers, enhancing laboratory efficiency by
+
+           optimising experiment steps and interactions.                          
+
+        ●  Led and trained the automation team in robot operation, programming, and best practices.
+
+        ●  Collaborated and coordinated with department heads across XYZ Corporation, XYZ Group, and XYZ Foundation.
+
+      PAA – Automation Engineer                                 Sep 2018 – Sep 2020
+
+        ●  Specialised in Mitsubishi MELFA and PAA GX (SCARA) robots, SolidWorks CAD designs, and custom embedded
+
+           components.                                                            
+
+        ●  Led integration projects to create high-throughput screening systems.  
+
+                                                                                  
+
+      XYZ Pharmaceuticals – Laboratory Assistant                May 2018 – Sep 2018
+
+        ●  Key contributor to GummiArm-based tomato-picking robot project; designed hardware using CAD and rapid
+
+           prototyping with 3D printing                                           
+
+        ●  Developed Python and C++ software using ROS1 middleware for GummiArm   
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      XYZ University                                         2015 – 2018  
+
+      BEng (Hons) Robotics Degree                                                 
+
+        ●  Best Application of Technical Skill award for final year project       
+
+      TOOLS AND TECHNOLOGIES
+
+
+
+PyTorch, TensorFlow, Scikit-Learn, Keras, Regression, Convolutional Neural Networks (CNN), Recurrent Neural Networks
+
+      (XYZ Labs), XYZ Solutions, XYZ Technologies, XYZ Research Center, XYZ Innovations, Git & GitHub, Docker, Kubernetes, AWS API Gateway, TensorFlow, PostgreSQL,
+
+      Pandas, NumPy, Matplotlib, Angular, HTML, CSS, Java, Python
+    ```

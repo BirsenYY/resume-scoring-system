@@ -1,0 +1,1536 @@
+filename,cv_text,score
+cv_11.txt,"[Full Name]
+[City, Country] | [Email Address] | [Phone Number] | [LinkedIn] | [GitHub/Portfolio]
+
+PROFILE
+Experienced technology leader with 15+ years of success in machine learning, software engineering, and AI strategy. Currently serving as CTO at a high-growth tech company, driving AI innovation, scalable architecture, and cross-functional product development. Proven track record of leading engineering teams, shipping ML products from ideation to production, and aligning technology with business goals.
+
+EXPERIENCE
+Chief Technology Officer (CTO)
+XYZ AI Solutions | London, UK | Jan 2020 – Present
+
+Spearhead the design and execution of AI strategy across enterprise-grade platforms.
+
+Scaled the engineering team from 8 to 40+ and introduced agile practices.
+
+Architected ML pipelines for predictive analytics, recommendation systems, and NLP applications.
+
+Oversaw deployment of AI models on AWS, GCP, and edge devices, reducing latency by 40%.
+
+Partnered with executive leadership to raise £12M in Series B funding.
+
+Lead Machine Learning Engineer
+
+ABC Tech Ltd. | Berlin, Germany | Mar 2015 – Dec 2019
+
+Led a team of ML engineers in developing real-time fraud detection and personalization engines.
+
+Designed deep learning models for image and text processing using TensorFlow and PyTorch.
+
+Implemented MLOps pipelines and model monitoring systems.
+
+Improved model accuracy by 25% through advanced feature engineering and hyperparameter tuning.
+
+Senior Data Scientist
+
+InnovateAI | Remote | May 2012 – Feb 2015
+
+Delivered end-to-end data science projects in healthcare and finance sectors.
+
+Developed interpretable ML models and dashboards for non-technical stakeholders.
+
+Conducted A/B testing and model validation to ensure deployment-readiness.
+
+Software Engineer / ML Enthusiast
+GlobalSoft | New York, USA | Jul 2008 – Apr 2012
+
+Built backend systems in Java and Python.
+
+Contributed to early adoption of machine learning techniques within the engineering team.
+
+EDUCATION
+MSc in Computer Science – Artificial Intelligence
+University of Edinburgh | 2008
+
+BSc in Electrical and Computer Engineering
+Technical University of [Your Country] | 2006
+
+SKILLS
+Languages: Python, Java, C++, SQL
+
+Frameworks: PyTorch, TensorFlow, Scikit-learn, Keras, FastAPI
+
+ML Ops: Docker, Kubernetes, MLflow, Airflow
+
+Cloud: AWS (SageMaker, Lambda), GCP, Azure
+
+Other: NLP, Deep Learning, Recommender Systems, Computer Vision, CI/CD, Git
+
+CERTIFICATIONS
+AWS Certified Machine Learning – Specialty
+
+TensorFlow Developer Certificate
+
+DeepLearning.AI – NLP Specialization
+
+SPEAKING & PUBLICATIONS
+Speaker at NeurIPS, ODSC, and London AI Summit
+
+Author of “Building Scalable ML Pipelines” – O'Reilly (2022)
+
+Medium/Blog contributor on MLOps, leadership, and AI ethics",95.0
+cv_7.txt,"```
+    John Smith                                  
+
+                        New York | john.smith@email.com | Tech Solutions | Tech Solutions   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Machine learning engineer with a background in computer science. Proven expertise in AI-driven applications and ongoing
+
+    apprenticeship in machine learning.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, Java, C, C++, Docker, Flask, • Frameworks: PyTorch, TensorFlow, Langchain, Keras,
+
+     Streamlit, MySQL, PostgreSQL, ChromaDB Scikit-Learn                          
+
+    • Machine Learning: LLMs, RAG, Finetuning, • Tools: Jupyter Notebook, Visual Code, Git, Linux,
+
+     Quantization, RNNs, CNNs, Tech Solutions, Classification, Tech Solutions, Tech Solutions, Tech Solutions, Tech Solutions
+
+     Regression, Random Forests, XGBoost, SVMs, Stable Services (AWS), Google Cloud Platform(GCP), Hetzner,
+
+     Diffusion, Feature Engineering, Naïve Bayes, Function FastAPI                
+
+     Calling, Data Augmentation, Generative AI                                    
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    Machine Learning Engineer | Tech Solutions, California              Oct 2023 – Present
+
+    Conversational Journey Planner for Tech Solutions                    
+
+                                                                                  
+
+    • Develop an AI-powered journey planner integrating Tech Solutions API and LLMs for real-time public transport guidance.
+
+    • Fine-tune LLMs (LLaMA 3.1, GPT models) to enhance location recognition and response accuracy.
+
+    • Implement RAG for structured and unstructured data retrieval.               
+
+    • Explore reinforcement learning to optimize journey recommendations.         
+
+    • Transition system from Streamlit to AWS for scalability.                    
+
+    Tech Stack: Python, LLaMA 3.1, GPT-4, Langchain, TfL API, AWS, NLP            
+
+    Automated CV Scoring System                                                   
+
+    • Develop an automated CV scoring system to optimize candidate selection for IT bootcamps.
+
+    • Implement BERT-based anonymization to remove personally identifiable information (PII).
+
+    • Design text embeddings, feature engineering, and synthetic data for model generalization.
+
+    • Train NLP models (Naïve Bayes, neural networks and transformers) for CV classification and evaulation.
+
+    • Balance speed-accuracy trade-off for optimal efficiency.                    
+
+                                                                                  
+
+    Tech Stack: Python, PyTorch, BERT, NLP, Scikit-learn, Transformers, Deep Learning Models, Embeddings
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc Apprenticeship in Machine Tech Solutions, California Oct 2023 - Present
+
+    MSc Astrophysics, University of California, Berkeley                     Sept 2023 
+
+    BSc Physics (First-Class), Stanford University, California                  Sept 2023 
+
+    BSc Computer Engineering, University of Illinois, Urbana-Champaign    Feb 2008  
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Audio classification (CNNs)         • Scale-up transformer                  
+
+    • Flashcard generator (Gemini, Langchain) • Build a transformer               
+
+    • Quiz builder (Langchain, ChromaDB)  • Search engine (2-Tower RNNs)          
+
+                                                                                  
+
+    • Tweet classification (SVM)          • Language detection (Word2Vec)         
+
+    • Object detection (YOLO)             • Radial Velocity of OB Stars
+    ```",89.0
+cv_9.txt,"Alex Nguyen                                                                        
+
+                                                                                  
+
+                      Los Angeles | 0666666 | alex.nguyen@email.com | Portfolio: alexnguyen.dev | GitHub: github.com/alexnguyen
+
+      WORDS ABOUT ME                                                              
+
+                                                                                  
+
+                                                                                  
+
+      Computer Science graduate with a passion for solving real-world problems using data science, machine learning, and software engineering.
+
+      Recently won a gold medal in a Kaggle competition among thousands of global participants. I enjoy exploring new technologies and
+
+      building creative, well-documented side projects that demonstrate strong engineering and design principles. Fluent in Python, JavaScript,
+
+      and cloud-native tools. Always pushing to turn ideas into production-ready tools.
+
+      CURRENTLY BUILDING                                                          
+
+                                                                                  
+
+      Personal ML Portfolio – Machine Learning Engineer         Jan 2025 – Present
+
+        ●  Building a full-stack portfolio of ML and data projects (kaggle.com/alexnguyen) with interactive dashboards and APIs (LINK TO GITHUB)                
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      🥇 Kaggle Competition Winner – Image Segmentation                        2024     
+
+        ●  Led a 2-person team to first place in a semantic segmentation challenge, achieving top accuracy on a noisy satellite dataset.
+
+        ●  Built an ensemble pipeline using U-Net + EfficientNet backbones with extensive augmentation and post-processing.
+
+                                                                                  
+
+      DevDetect – Developer Productivity Tracker (devdetect.io)           2024     
+
+        ●  Full-stack app to track time spent coding across tools (VSCode, PyCharm, terminal) using a lightweight desktop agent + React dashboard.
+
+        ●  Implemented user auth, daily summaries, and gamified streaks using Firebase and TailwindCSS.
+
+                                                                                  
+
+      AutoGrader – ML-powered Assignment Grader                              2023
+
+        ●  Developed a BERT-based system to score free-text answers and provide feedback for coding bootcamps.
+
+        ●  Integrated with Google Classroom API and deployed with Streamlit + FastAPI on Render.
+
+                                                                                  
+
+      OpenLens – Computer Vision Toolkit                                       2023
+
+        ●  Created a modular toolkit for edge detection, segmentation, and object tracking using OpenCV and PyTorch.
+
+        ●  Used by over 1,000 people (see GitHub stars and issues) – Open-sourced and documented for community use.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Freelance Developer                                      Jan 2023 – Dec 2024
+
+        ●  Built data dashboards and custom automation scripts for clients in ed-tech and real estate domains.
+
+        ●  Projects included web scraping pipelines, anomaly detection tools, and serverless API deployments.
+
+                                                                                  
+
+      XYZ Tech Bootcamp – Data Science Fellow                      Jun 2022 – Dec 2022
+
+        ●  Completed 12-week intensive program with real-world projects and mentorship.
+
+        ●  Built ML pipelines from scratch, handled messy data, and practiced model deployment.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      University of California, Los Angeles (UCLA)             2019 – 2023  
+
+      BSc (Hons) Computer Science                                                  
+
+        ●  Final year project: “Active Learning for Medical Imaging” – achieved 20% improvement in model efficiency with limited labels.
+
+      TOOLS AND TECHNOLOGIES
+
+
+
+Python, PyTorch, TensorFlow, Scikit-learn, FastAPI, Streamlit, Hugging Face, Git & GitHub, SQL, Docker, GCP, Firebase,
+
+      React, JavaScript, OpenCV, Pandas, NumPy, Matplotlib, Kaggle, VSCode Extensions, CI/CD, GraphQL
+
+",89.0
+cv_6.txt,"```
+    Google                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7825398378 | john.doe@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/johndoe | github.com/JohnDoe | google.com/JohnDoe | medium.com/@johndoe
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Results-driven AI/ML Engineer and AWS Certified ML Specialist with 10+ years of experience. Skilled in LLM-based solutions,
+
+      RAG systems, and Digital Twins. Proficient in Python, TensorFlow, and PyTorch. Currently advancing skills in Transformer models,
+
+      multimodal architectures, and efficient model fine-tuning (LoRA). Strong track record in leading teams, optimizing AI pipelines, and
+
+      delivering impactful, scalable solutions across industry and academia.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python , C , C++ , SQL, NoSQL | MySQL, MongoDB, Pinecone | TensorFlow, Transformers, OpenAI, LangChain, LlamaIndex,
+
+      streamlit | Prompt Engg, RAG, Fine-tuning | MultiAgent Architecture, Digital Twin Simulation, Reinforcement Learning, Genetic
+
+      Algorithms | Flask, FastAPI | Git, Docker, Compose, Google                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Generative AI Engineer (BRDGE.ai) - London, UK (Internship)    Feb 2024 : Present
+
+    ● Spearheaded the development of a state-of-the-art Retrieval-Augmented Generation (RAG) system using Pinecone and LlamaIndex2,
+
+      enhancing answer accuracy by 25% in domain-specific applications              
+
+    ● Led the creation of a multi-agent LLM system, integrating task planning and information retrieval capabilities. Implemented novel
+
+      task decomposition and prompt engineering techniques, resulting in a 50% reduction in manual effort and improved alignment with
+
+      business objectives                                                           
+
+    ● Contributed to an innovative Digital Twin project for urban planning, leveraging parametric design and reinforcement learning to
+
+      optimize design generation. Integrated IoT simulations for real-time data feeds and predictive analytics, significantly enhancing
+
+      environmental assessments and decision-making processes                       
+
+    ● Facilitated knowledge-sharing initiatives, conducted regular code reviews, and mentored team members, fostering a collaborative and
+
+      growth-oriented team environment                                              
+
+     AI/ML Engineer (Microsoft) - Seattle, US (Internship) Feb 2023: Feb 2024
+
+    ● Developed and optimized ML models using Scikit-Learn, TensorFlow, and PyTorch, with a focus on NLP and LLM applications,
+
+      resulting improved model performance                                          
+
+    ● Engineered robust data pipelines using Python (Pandas, NumPy) and web scraping tools (BeautifulSoup, Scrapy) to acquire and
+
+      preprocess large-scale datasets for LLM training and fine-tuning              
+
+    ● Implemented advanced feature engineering techniques and rigorously evaluated models using key metrics such as accuracy,
+
+      precision, recall, F1-score, and ROC-AUC                                      
+
+    ● Deployed ML models using containerization (Docker) , integrating them seamlessly with web services via Flask and FastAPI
+
+    ● Created comprehensive documentation using Jupyter Notebooks and Markdown, and developed insightful visualizations with
+
+      Google and Google to enhance project transparency                        
+
+     Assistant Professor of Stanford University (Stanford) , Stanford, US July 13 : June 21
+
+    ● Specializations: Design and Analysis of Algorithms, Distributed Databases, Networking, Data Mining, Data-Warehousing, Neural
+
+      Networks, Fuzzy Systems, and Digital Image Processing.                        
+
+     Computer Science Lecturer (Harvard University) , Boston, US       Dec 10 : June 13
+
+    ● Specializations: Programming in C, C++, Data Structures and Algorithms, and Web Development (HTML, JavaScript), Design
+
+      and Analysis of Algorithms, Networking Concepts, System Programming, Cryptography and N/W security.
+
+    EDUCATION:                                                                      
+
+    MS in Computer Science - Stanford University, Stanford (First Class-Distinction) July 2008 : July 2010
+
+    BS in Computer Science - MIT, Cambridge (First Class-Distinction) June 2005 : June 2008
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Advance Machine Learning Program (by MLX, Founders and Coders)       Ongoing  
+
+    ● AWS Certification - Machine Learning Speciality (AWS)               July, 2023
+
+    ● A.I. Engineer (by Simplilearn)                                      May,2023  
+
+    ● Data Science and Machine Learning (by Coursera)                      Dec, 2022
+```",88.0
+cv_1.txt,"```
+Rachel Johnson                                   
+
+                                                                                    
+
+      (cid:131) 555-123-4567 — rachel.johnson@email.com — (cid:239) linkedin.com/in/rachel-johnson-90b752164 — ' github.com/racheljohnson
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  Java, Python, JavaScript, C, MATLAB                                  
+
+   Frameworks: React, TypeScript, Angular, Three.js, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras, Transformers,
+
+               Pandas, ACME                                                   
+
+   ML/AI:      Word2Vec, Two-Tower Models, MLOps, Model Deployment                  
+
+   Technologies: ACME, New York, API Services, Git, ACMEHub, Swagger, Jenkins, Docker, LangChain, Pinecone, Streamlit,
+
+               FastAPI, Shell, PostgreSQL, MongoDB                                  
+
+   Testing:    ACME, ACME, ACME                  
+
+   Certifications: AZ-900 Cloud Certified                                           
+
+                                                                                    
+
+   Experience                                                                       
+
+    ACME                                               Oct 2020 – Present
+
+    Engineer L2                                                                     
+
+      – Led the design and implementation of a robust data collection architecture ingesting semi-structured data from client
+
+       intranets                                                                    
+
+      – Top inner-source contributor for 3 months to an internal cloud accelerator tooling system using Backstage.
+
+      – Front-end lead for a data analytics dashboard on API remediation for a Fortune Global 200 bank.
+
+      – Organized and led upskill sessions for graduates and mid-level engineers.   
+
+    Engineer L1                                                                     
+
+      – Led a team of 5 developers in transforming the internal client tooling system for a Fortune Global 500 bank.
+
+      – Coordinated API onboarding with ACME A[NY], automating processes to reduce onboarding time by 5 weeks on average.
+
+      – Co-led the ACME, growing the group from 25 to 150 members.
+
+    Junior Associate Software Engineer                                              
+
+      – Developed payment solutions with Java Spring Boot, improving transaction speeds by 15%.
+
+      – Refactored code smells and increased E2E testing accuracy from 60% to 90%.  
+
+      – Lead developer on an indoor navigation proof of concept with MapBox GL JS.  
+
+    New York                                            Nov 2019 – Feb 2020
+
+    Software Engineer Intern                                                        
+
+      – Contributed to the Verifiable Credentials project, developing authentication infrastructure using ACME standards.
+
+      – Applied cryptographic signatures (RSA, ECC) using Java.                     
+
+      – Created technical documentation and ensured compliance with E2E flow specifications.
+
+    ACME                                          Jul 2018 – Jul 2019
+
+    Software Developer                                                              
+
+      – Collaborated with a global team to implement AWS Cloud services, reducing development time.
+
+      – Led the automation and digitization of a worldwide audit and issue-logging process.
+
+      – Developed a dashboard to monitor service health of the company intranet and internal services.
+
+   Education                                                                        
+
+    Concordia University — Deep Learning System Design                2024    
+
+    Harvard University — MSc Advanced Computing (Awaiting Results)  2023 – 2024  
+
+    Stanford University — BSc Hons Computer Science (1st Class)         2017 – 2020  
+
+    MIT — BSc Computer Science (Cert. of Higher Education, 1st) 2016 – 2017
+
+   Projects                                                                         
+
+                                                                                    
+
+    Deep Fake Detection System                                                '     
+
+      – Developing a deep fake detection system by ingesting video frames in real-time, analysing them for deepfake content.
+
+    Lattice Cryptographic Attacks                                             '     
+
+      – Researched NYC attacks on RSA cryptosystems producing insights on the limitation of GSO norms.
+
+    Chess Engine                                                              '     
+
+      – Developing a chess engine in Java with core functionality, using alpha-beta pruning for move optimization.
+
+    Infinite Choice Text Story Game                                           '     
+
+      – Developed an infinite choice text story game using GPT-2 and Python.        
+
+    Perceptron Color Accessibility Tool                                       '     
+
+      – Created a perceptron to optimize text and background color combinations for accessibility.
+    ```",88.0
+cv_3.txt,"```
+John Doe                                    
+
+                                                                                  
+
+                      New York | 123-456-7890 | johndoe@email.com | ABC Corp | XYZ Corp
+
+      SUMMARY                                                                     
+
+                                                                                  
+
+      Machine learning and software engineer focussed on building and deploying end-to-end machine learning systems. Skilled in
+
+      Python and the PyTorch ecosystem, with hands-on experience in deploying computer vision and NLP models. I have
+
+      developed applications using FastAPI within a microservices architecture on affordable bare-metal servers.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      XYZ Corp                             Oct 2024 – Dec 2024
+
+        ●  Intensive training in deep learning with < 3% acceptance rate. Projects including fine-tuning LLMs, information
+
+           retrieval using Two Tower architecture, and building Transformers from scratch.
+
+        ●  MLOps including but not limited to Kubernetes, Kubeflow and Apache Airflow.
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Implementation of Mary Smith                                             2024     
+
+        ●  Built and trained a Bidirectional Encoder Representation of Transformers from scratch with PyTorch.
+
+      Search Engine                                                      2024     
+
+        ●  Designed, trained and deployed an e2e search engine leveraging AI to rank content by relevance given a query.
+
+      Fullstack Password Manager                                         2024     
+
+        ●  Built and deployed a Fullstack Password Manager using modern cryptographic standards
+
+      ABC Corp Hearts Research Project                                        2024     
+
+        ●  Wrote a research paper on applying a previously unexplored RL architecture (PPO) to the card game Hearts.
+
+      2D Unity Video Game                                                2024     
+
+        ●  Built a 2D Education video game using Unity for XYZ Corp to promote their SkillsBuild platform.
+
+      CIFAR100 Image Classification & Generation                         2024     
+
+        ●  Implemented the DCGAN and ResNet architectures for image generation and classification on the CIFAR-100 dataset.
+
+      BipedalWalker - TD3 FoRJohn Doe looMhead (FORK)                       2024     
+
+        ●  Implemented and optimised the TD3-FORK model for BipedalWalker         
+
+      Deep Q-Network for Chicago Environment                            2024     
+
+        ●  Implemented a Deep Q-Network Architecture in PyTorch for training on the OpenAI Gym environment Cart-pole.
+
+      Computational Modelling of HoC questions                           2024     
+
+        ●  Performed exploratory data analysis on the topics of questions asked in the ABC Corp by region.
+
+      Virtual Reality Game Engine                                        2023     
+
+        ●  Built an end-to-end graphics rendering pipeline for multi-frame rendering and VR head-tracking using OpenCV.
+
+      GPU Optimization for Matrix Operations                             2023     
+
+        ●  Leveraged openMP and MPI frameworks to parallelize operations on matrices in C++.
+
+      Learning With Errors Cryptographic System                          2023     
+
+        ●  Implemented a version of the learning with errors cryptography algorithm and developed attacks for said system.
+
+      C XYZ Corp                                                    2022     
+
+        ●  Text-based visualisation of Langton’s Ant in C in the form of a command-line application.
+
+      P2P messenger python CLI                                           2021     
+
+        ●  Command-line P2P messenger application designed with Python’s low-level socket library for all the networking.
+
+      Educational Hacking Game                                           2019     
+
+        ●  Built a full-stack web application in Python as a web-hacking game.    
+
+      EDUCATION                                                                   
+
+      XYZ University                                           2020 – 2024  
+
+      BSc Computer Science                                                        
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with PyTorch, TensorFlow, Scikit-Learn, Keras, Transformers, Git & GitHub, Docker, Docker-Compose, Streamlit,
+
+      FastAPI, Shell, PostgreSQL, SQLAlchemy, Pandas, NumPy, Sockets, Requests, BeautifulSoup, QGIS, SPARQL, Matplotlib,
+
+      OpenMP, OpenMPI, Slurm, Ansible, React, Flask, NodeJS, Bootstrap, UnityEngine, Python, Juypter, HTML, CSS, JavaScript,
+
+      TypeScript, C#, C++, C.
+    ```",88.0
+cv_5.txt,"```
+John Doe                                  
+
+                                                                                  
+
+                          123-456-7890 | john.doe@email.com             
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                               
+
+    Harvard University, Cambridge                    Oct 2020 - Jun 2023
+
+      ●  BA Medical Sciences: Achieved high 2:1 (69.0) overall                    
+
+      ●  Awarded an 80 in Bioinformatics, including modules on both Supervised & Unsupervised Machine Learning
+
+      ●  Performed in the top 0.2% on the quantitative section of the UCAT (medical admissions test)
+
+    Stanford University, California                          Oct 2024 - Dec 2024
+
+      ●  Deep Learning System Design Programme (< 3% acceptance rate)             
+
+      ●  Relevant Content: MLOps foundations, Transformers, Attention, Two-Tower Networks, NLP, Multistage Ranking
+
+    Eton College, Windsor                                   Sep 2013 - Jun 2020
+
+      ●  A-Levels: Mathematics (A*), Chemistry (A*), Biology (A)                  
+
+      ●  Activities and Societies: Chairman of Science Club, Financial Director of Debate team
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Quantitative Trading Intern – Optiver                           Jul 2023 - Aug 2023
+
+    Optiver is a leading global proprietary trading firm and market maker; 0.3% internship acceptance rate.
+
+      ●  Studied options theory, macroeconomics & volatility trading through lectures coupled with market making games
+
+      ●  Applied theoretical knowledge in a simulated trading exercise of Eurostoxx index options. Managed 6 expiries
+
+         simultaneously, hedging deltas and adjusting positions given skew and calendar exposure; all within overall risk limits
+
+      ●  Conducted a 3-week research project (Chicago; pandas, numpy, scipy, matplotlib) on ADR flow analysis, investigating
+
+         the predictive power of various volatility spread relationships on total weighted Vega traded at the US open
+
+    Admissions Consultant – Crimson Education                           Jan 2024 - Jun 2024
+
+    Crimson Education is a university preparatory school, working with ~300 students per year.
+
+      ●  Leveraged in-depth product knowledge and communication skills to drive sales, consistently being the company’s top
+
+         performer; individually generated 29% of the 7-person team’s revenue     
+
+      ●  Personal invitation from the CEO to deliver a company-wide keynote       
+
+    Coursera Consulting Intern – Coursera Jun 2021 - Aug 2021
+
+    Coursera is a global pioneer in the digital education industry; 0.4% internship acceptance rate.
+
+      ●  Led the development of a paper on Singapore's Dual Alleviation Policy, presenting the paper to senior management to explain
+
+         how the policy may affect their future business operations, incorporating key finds and actionable recommendations
+
+      ●  Reported directly to the head of the international team, collaborating with multiple functional teams to organise the
+
+         national stages of a global coding competition in Shanghai, Mumbai & Sydney
+
+      ●  Conducted excel data analysis to produce and present a market research report on the Digital Education sector in Singapore
+
+                                                                                  
+
+    Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Founding President – Science Society          Jan 2021 - Jun 2023
+
+      ●  Hosted bi-weekly games and organised 2 Texas hold 'em tournaments with over 30 attendees each
+
+    Personal Study – Udemy Machine Learning A-Z Course              Apr 2024 - Oct 2024
+
+      ●  Lectures & practicals spanning data preprocessing, regression, classification, clustering, association rule learning,
+
+         reinforcement learning, natural language processing, deep learning, dimensionality reduction, model selection & boosting
+
+      ●  Developed a machine learning model using scikit-learn (Python) to predict housing prices based on multiple features, with an
+
+         adjusted R2 value of 0.82, enhancing my understanding of regression analysis and model evaluation techniques
+
+    Head of Events – University Spring Ball               Mar 2021 - Mar 2022
+
+      ●  Coordinated a 20-room, 8-hour entertainment programme for 1,000 guests with a £15,000 budget
+
+                                                                                  
+
+    Student Mentor & Oxford Ambassador – UK            Mar 2021 - Jun 2023
+
+      ●  Volunteered as a mentor for students from low socio-economic backgrounds applying to Oxford
+
+      ●  Coached tutees through interview preparation, admissions test support and time management skills
+
+    Additional Information                                                        
+
+                                                                                  
+
+    Technical Skills: MS Office Suite (Proficient), Python (Intermediate; pandas, numpy, scikit-learn, pytorch), PostgreSQL (Basic)
+
+    Activities: Grade 8 Piano, UKMT Maths Challenge Gold Award, 6 years competitive rowing (several regional & national awards)
+
+    Languages: English (Native), Ukrainian (Native), Portuguese (Elementary), Russian (Elementary)
+
+    Interests: Philosophy (particularly social anthropology), Biotech, Chess, Table Tennis, Skiing, Distance Running
+```",84.0
+cv_15.txt,"    Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 6+ years of experience in clinical systems integration, data-driven diagnostics, and AI in healthcare. 
+
+     Skilled in biomedical signal processing, medical imaging analysis, and ML-enhanced diagnostics. Proficient in Python, MATLAB, and
+
+     TensorFlow. Experienced in collaborating with multidisciplinary teams to deliver patient-centered, tech-enabled solutions. 
+
+     Passionate about the intersection of healthcare, data science, and emerging medical technologies.    
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, PyTorch | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis |
+
+     Medical Imaging (MRI, CT, X-ray), Image Segmentation | PyRadiomics, ITK-SNAP, 3D Slicer | Bioinstrumentation | Git, Docker |
+
+     Biomedical Data Standards (HL7, FHIR) | Flask, Streamlit, REST APIs | Jupyter Notebooks, LaTeX
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Biomedical Engineer (Imperial College Healthcare NHS Trust) - London, UK     Mar 2021 : Present
+
+    ● Developed a machine learning model to assist radiologists in detecting lung anomalies from chest X-rays, improving diagnostic
+
+      efficiency by 30%
+
+    ● Integrated AI tools with Picture Archiving and Communication System (PACS), enabling real-time clinical decision support  
+
+    ● Led cross-functional collaborations with clinicians, data scientists, and software teams to deploy a predictive model for early sepsis 
+
+      detection, reducing false positives by 18% 
+
+    ● Standardized biomedical signal acquisition workflows and created automated preprocessing pipelines for ECG and EEG analysis 
+
+    ● Conducted validation studies and regulatory documentation for AI-enhanced diagnostic tools in compliance with MHRA guidelines
+
+    
+
+     Biomedical Data Analyst (King's College London - Department of Imaging Sciences)  Jan 2018 : Feb 2021
+
+    ● Applied computer vision techniques to automate tumor segmentation in MRI images, accelerating radiological assessment by 40%
+
+    ● Built reproducible data pipelines using Python and Jupyter Notebooks to process and analyze large-scale biomedical datasets
+
+    ● Conducted survival prediction research using Cox models and deep learning techniques applied to radiomic features
+
+    ● Collaborated with AI researchers to integrate PyRadiomics features with ML models, achieving 82% classification accuracy
+
+    ● Co-authored peer-reviewed publications on AI in radiology and gave conference presentations on explainability in medical ML tools
+
+    
+
+     Biomedical Engineer (NHS Foundation Trust) – Birmingham, UK     Jun 2016 : Dec 2017
+
+    ● Maintained and calibrated critical care medical equipment including infusion pumps, defibrillators, and ventilators
+
+    ● Designed and tested custom LabVIEW interfaces for physiological monitoring systems used in research settings
+
+    ● Provided technical training to clinical staff on medical device usage and troubleshooting
+
+    ● Collaborated on NHS innovation grant project to digitize respiratory physiotherapy tracking using embedded sensors
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    MSc in Biomedical Engineering - King’s College London (Distinction)   Sep 2014 : Sep 2015
+
+    BEng in Electrical and Biomedical Engineering - University of Manchester (First Class)  Sep 2010 : Jun 2014
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Deep Learning Specialization (Coursera - Andrew Ng)                        Feb, 2023
+
+    ● Certified Associate in Python Programming (PCAP)                           Dec, 2022
+
+    ● Health Informatics Certificate – NHS Digital Academy                        Jun, 2022
+
+    ● Medical Image Analysis with Python (Udemy)                                 Sep, 2021
+
+    ● Introduction to TensorFlow for AI, ML and DL (Coursera)                    May, 2020
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● AI-Powered ECG Analyzer: Built a Streamlit web app that detects arrhythmias from uploaded ECG traces using a trained CNN model.
+
+      Integrated data visualization, anomaly detection, and report generation features. (GitHub: [github.com/[NAME]/ecg-analyzer])
+
+    
+
+    ● Smart Mask Sensor System: Prototyped a real-time respiratory monitoring mask using Arduino, temperature/humidity sensors, and 
+
+      BLE module. Data logged to a local dashboard for further analysis.  
+
+    
+
+    ● Radiomics Dashboard: Created an interactive Dash-based tool for exploring radiomics features extracted from lung CT images. 
+
+      Enabled visualization of feature distributions, correlation matrices, and survival prediction results.
+
+    
+
+    ● COVID-19 X-ray Classifier: Fine-tuned a pre-trained ResNet model to classify chest X-rays as normal, pneumonia, or COVID-19. 
+
+      Achieved 87% F1-score on a test dataset; included Grad-CAM explainability module.
+
+",82.0
+cv_13.txt,"NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Coordinates (Who I Am Now)
+Curious and impact-driven Data Scientist with a robust analytical mindset and a research-first engineering background. Previously trained in biomedical systems, now fluent in data pipelines, predictive modeling, and algorithmic problem solving. Passionate about uncovering patterns that power better decisions, especially in healthcare and tech.
+
+Toolkit & Weapons of Choice
+Languages: Python, R, SQL, MATLAB
+Machine Learning: XGBoost, Random Forest, Scikit-learn, Clustering, Time Series Forecasting
+Data Ops: SQL Databases, ETL, APIs, Pandas, Jupyter
+Visualization: Tableau, Power BI, Matplotlib, Seaborn
+Other Strengths: Statistical Inference, Signal Processing, A/B Testing, Flask, Git
+
+What I’m Building Now (Recent Role)
+Data Scientist
+HealthData Analytics Ltd. – London, UK
+Feb 2022 – Present
+
+Designed prediction systems for patient recovery metrics using advanced ML models
+
+Helped clinicians surface insights from high-dimensional clinical datasets
+
+Deployed model endpoints and built monitoring dashboards for hospital stakeholders
+
+Conducted A/B testing and interpreted statistical significance of interventions
+
+Automated the data pipeline from raw EMR data to production-ready insights
+
+Where I Bridged the Gap (Transitional Role)
+Data Analyst – Biomedical Research
+MedTech Research Group – London, UK
+Oct 2019 – Jan 2022
+
+Analyzed physiological signals (ECG, EMG) to identify patterns and anomalies
+
+Built Python-based signal processing scripts for wearable medical devices
+
+Engineered features for predictive classification models
+
+Created visual analytics tools to support ongoing research and publications
+
+Supported regulatory reporting and clinical study data processing
+
+Where It All Started (Foundations in Engineering)
+Biomedical Engineer
+BioSense Technologies – London, UK
+Jul 2017 – Sep 2019
+
+Developed and tested signal analysis algorithms for wearable biosensors
+
+Supported embedded software integration of analytical models
+
+Managed clinical data acquisition and trial setup in collaboration with hospitals
+
+Participated in CE documentation and compliance reviews
+
+The Knowledge Base
+MSc – Data Science & Machine Learning
+Imperial College London, 2018 – 2019
+
+BEng – Biomedical Engineering
+University of Leeds, 2014 – 2017
+
+Digital Badges & Certifications
+IBM Data Science Professional Certificate
+
+SQL for Data Science – Coursera
+
+DeepLearning.AI TensorFlow Developer
+
+",78.0
+cv_4.txt,"```
+John Doe                                  
+
+                                                                                  
+
+                   New York, USA | +1 123 456 7890 | john.doe@email.com | Tech Innovators
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Tech Innovators – Research Fellow           Oct 2024 – Dec 2024
+
+        ●  Research focussed on implementation of foundation models in vision and NLP.
+
+        ●  Projects included fine-tuning LLMs and Stable Diffusion models, information retrieval using Two Tower architecture,
+
+           and building Transformers from scratch.                                
+
+        ●  MLOps including but not limited to Kubeflow and Apache Airflow.        
+
+                                                                                  
+
+      Tech Innovators – Software Developer                                 Mar 2023 – May 2024
+
+        ●  Configured parallel computing environments (Slurm, LSF-IBM) and optimised quantum simulations with QuEST and
+
+           Discover Lite.                                                         
+
+        ●  Benchmarked QuPharma software’s performance using quantum algorithms (VQE, QPE, IQPE) on HPC hardware.
+
+        ●  Replicated quantum workflows with Qiskit and CUDAQ, analysing performance and optimising code.
+
+      Tech Innovators – Software Engineer                                Sep 2022 – Mar 2023
+
+        ●  Developed a machine learning framework to predict chemical shifts in disordered materials using trained models.
+
+        ●  Integrated ShiftML2 into the Soprano library for crystal structure analysis.
+
+        ●  Optimised code to reduce computational resource usage and tested the model across various isotopes.
+
+                                                                                  
+
+      Impactful Tech – Software Engineer                         Aug 2020 – Jan 2022
+
+        ●  Developed a Vue.js-based HR platform for hiring, integrating WebRTC for asynchronous interviews.
+
+        ●  Implemented backend using AdonisJs to ensure data integrity and secure communication.
+
+        ●  Designed and tested the MySQL database for efficient data storage and retrieval.
+
+                                                                                  
+
+      Tier1 GridPP – Software Developer                         May 2022 – Nov 2022
+
+        ●  Integrated LoudML with Tier 1 services to detect errors, fine-tuning parameters for accuracy.
+
+        ●  Developed real-time monitoring scripts to oversee 30+ services.        
+
+        ●  Created documentation for integrating LoudML with Tech Innovators, InnovateDB, and InnovationHub.
+
+      Tech Innovators – Software Developer                                 Oct 2020 – Mar 2022
+
+        ●  Built a DO Tech Innovators minting form in Django, integrating with the DataCite API. 
+
+        ●  Developed a login portal for SharePoint using C# and .NET.             
+
+        ●  Developed a single-page web application using Express.js and Pug.      
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Tech University                                       2020 – 2024  
+
+      Tech University Software Engineering, First Class                                      
+
+                                                                                  
+
+      Science Institution                                         2016 – 2019  
+
+      BSc Biomedical Sciences, First Class                                        
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Tech Innovators – link                                               2024     
+
+      Social Media Website - link                                        2024     
+
+      Tech Innovators - link                                        2024     
+
+      Q-CTRL - link                                                      2023     
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: Tech Innovators, Tech Solutions, Tech Systems, Tech Services, MyTech Tools, Tech Platform, Tech Tech & Tech, TechOps, SudoTech,
+
+      Kubeflow, FastAPI, Shell, PostgreSQL, Pandas, NumPy, Matplotlib, Angular, HTML, CSS, Java, Python, JavaScript, C#, C++,
+
+      TypeScript, .NET, Vue.js, Nuxt.js, React, Django, Flutter, Pug, Xamarin, Ansible, Qiskit, CUDA Quantum, SciPy, Soprano, ase ,
+
+      ShiftML2, LoudML, QuEST, Techware, Slurm, OpenMP, MPI, FFTW, ScaLAPACK, OpenBLAS, ELPA, CUDA, OracleDB, MySQL,
+
+      SQLite, MongoDB, Firebase, InfluxDB, Windows, Linux, WSL2, Conda, VirtualBox, QuEST, Discover Lite, Orca, Chemshell,
+
+      WebRTC API, WebSocket Protocol, Cypress, AdonisJs, DataCite API, Grafana, Telegraf, TDD, Security Testing.
+    ```",78.0
+cv_12.txt,"NAME
+ London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Results-driven Software Engineer with 5+ years of experience designing and developing scalable backend systems and tools. Adept at writing clean, maintainable code in Python, Java, and JavaScript. Formerly contributed to quality-focused engineering initiatives with strong emphasis on test automation, CI/CD pipelines, and system reliability. Passionate about building efficient, secure, and user-centric software solutions.
+
+Technical Skills
+Languages: Python, Java, JavaScript, SQL, Bash
+
+Frameworks & Tools: Node.js, Spring Boot, Flask, React, Selenium, JUnit, PyTest
+
+DevOps & CI/CD: Docker, Jenkins, GitLab CI/CD, Kubernetes, Git
+
+Databases: PostgreSQL, MongoDB, MySQL
+
+Cloud & Platforms: AWS (EC2, S3, Lambda), GCP, Linux
+
+Others: REST APIs, Microservices, Agile/Scrum, TDD
+
+Professional Experience
+Software Engineer
+TechNova Solutions, London, UK
+Jan 2022 – Present
+
+Developed and maintained RESTful microservices in Python and Java, deployed on AWS Lambda and EC2
+
+Collaborated with frontend team to integrate APIs and deliver seamless user experiences using React
+
+Optimized database queries and implemented caching strategies, reducing load times by 30%
+
+Introduced automated testing practices and monitoring tools to improve system reliability
+
+Actively involved in sprint planning, code reviews, and mentoring junior developers
+
+Software Engineer (Engineering Tools & Infrastructure)
+InnovaTech Ltd., London, UK
+May 2019 – Dec 2021
+
+Built and maintained internal engineering tools in Python and Bash to improve developer productivity
+
+Automated testing workflows and integrated them into CI/CD pipelines using Jenkins and GitLab CI
+
+Developed APIs and scripts for system validation, data transformation, and performance benchmarking
+
+Worked cross-functionally with development and release teams to ensure build stability and code quality
+
+Refactored legacy Python scripts to modular components, reducing tech debt and improving testability
+
+Engineering Analyst (Tooling & Automation)
+NexWave Systems, London, UK
+Jun 2017 – Apr 2019
+
+Designed internal utilities to validate software components in large distributed systems
+
+Created robust test automation frameworks using Java, Selenium, and JUnit
+
+Participated in early-stage design discussions and proposed automation strategies for continuous validation
+
+Worked closely with software engineers to debug, troubleshoot, and enhance core platform features
+
+Authored detailed technical documentation and knowledge base articles for internal tooling
+
+Education
+BSc in Computer Science
+University of Manchester, UK
+2013 – 2016
+
+Certifications
+AWS Certified Developer – Associate
+Java SE 11 Developer (Oracle Certified)
+
+",74.0
+cv_2.txt,"```
+John Doe                                  
+
+                                                                                  
+
+                      New York City | 0777777 | john.doe@email.com | XYZ Solutions | XYZ Solutions
+
+      WORDS ABOUT ME                                                              
+
+                                                                                  
+
+                                                                                  
+
+      Machine learning engineer specialised in developing and deploying end-to-end machine learning systems. I've led technical
+
+      teams and built models from the ground up as a solo engineer. My expertise includes Python and the PyTorch ecosystem;
+
+      with experience deploying computer vision and NLP models. I excel at building applications using FASTAPI and a microservices
+
+      architecture, deployed on cheap bare metal servers or any preferred environment.
+
+      CURRENTLY BUILDING                                                          
+
+                                                                                  
+
+      XYZ Solutions – Machine Learning Engineer                    Oct 2024 – Present
+
+        ●  Founded company where I’m building… (LINK TO GITHUB)                   
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      XYZ Solutions – link                                               2024     
+
+      …                                                                           
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      XYZ Research Center – Research Fellow           Oct 2024 – Dec 2024
+
+        ●  Research focussed on implementation of foundation models in vision and NLP.
+
+        ●  Projects included fine-tuning LLMs and Stable Diffusion models, information retrieval using Two Tower architecture,
+
+           and building Transformers from scratch.                                
+
+        ●  MLOps including but not limited to Kubeflow and Apache Airflow.        
+
+                                                                                  
+
+      XYZ Innovations – Automation Engineer                           Jan 2023 – Oct 2024
+
+        ●  Engineered bespoke software and hardware solutions that reduced experiment design, execution, and analysis times
+
+           from weeks and hours to minutes and seconds.                           
+
+        ●  Engineered unique robotic solutions to enhance automated workcell capabilities, introducing innovations like novel
+
+           gel loading systems and custom mechanisms previously unavailable in the market.
+
+        ●  Led workshops and training for scientists in automated methods.        
+
+                                                                                  
+
+      XYZ Technologies – Senior Automation Engineer                      Sep 2020 – Jan 2023
+
+        ●  Developed an end-to-end experiment scheduling software using SAT solvers, enhancing laboratory efficiency by
+
+           optimising experiment steps and interactions.                          
+
+        ●  Led and trained the automation team in robot operation, programming, and best practices.
+
+        ●  Collaborated and coordinated with department heads across XYZ Corporation, XYZ Group, and XYZ Foundation.
+
+      PAA – Automation Engineer                                 Sep 2018 – Sep 2020
+
+        ●  Specialised in Mitsubishi MELFA and PAA GX (SCARA) robots, SolidWorks CAD designs, and custom embedded
+
+           components.                                                            
+
+        ●  Led integration projects to create high-throughput screening systems.  
+
+                                                                                  
+
+      XYZ Pharmaceuticals – Laboratory Assistant                May 2018 – Sep 2018
+
+        ●  Key contributor to GummiArm-based tomato-picking robot project; designed hardware using CAD and rapid
+
+           prototyping with 3D printing                                           
+
+        ●  Developed Python and C++ software using ROS1 middleware for GummiArm   
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      XYZ University                                         2015 – 2018  
+
+      BEng (Hons) Robotics Degree                                                 
+
+        ●  Best Application of Technical Skill award for final year project       
+
+      TOOLS AND TECHNOLOGIES
+
+
+
+PyTorch, TensorFlow, Scikit-Learn, Keras, Regression, Convolutional Neural Networks (CNN), Recurrent Neural Networks
+
+      (XYZ Labs), XYZ Solutions, XYZ Technologies, XYZ Research Center, XYZ Innovations, Git & GitHub, Docker, Kubernetes, AWS API Gateway, TensorFlow, PostgreSQL,
+
+      Pandas, NumPy, Matplotlib, Angular, HTML, CSS, Java, Python
+    ```",63.0
+cv_14.txt,"NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Final-year Computer Science student with a strong foundation in software development, algorithms, and web technologies. Proactive and self-motivated, with hands-on experience building real-world projects and a solid grasp of programming principles. Actively seeking an internship or graduate role in software engineering, backend development, or applied machine learning.
+
+Education
+BSc Computer Science (In Progress)
+University of XYZ – London, UK
+Expected Graduation: July 2025
+
+Achieving a First-Class average
+
+Relevant Modules: Algorithms & Data Structures, Software Engineering, Web Development, Databases, Operating Systems, Artificial Intelligence
+
+Final Year Project: Smart Budgeting Assistant Using Natural Language Commands
+
+Technical Skills
+Languages: Python, JavaScript, C++, SQL, HTML/CSS
+Frameworks & Libraries: Flask, Node.js, Express, React
+Tools & Technologies: Git, Linux, VS Code, MySQL, MongoDB, WebSocket
+Concepts: OOP, REST APIs, MVC, Testing, Debugging, Agile Development
+
+Projects
+StudySync
+A collaborative platform for university students to share notes and schedule group sessions
+
+Built with React, Node.js, and MongoDB
+
+Implemented real-time messaging with WebSocket
+
+Integrated Google OAuth and deployed via Heroku
+
+DevTracker
+Productivity tool for developers to track coding sessions and analyze language use
+
+Developed with Flask and SQLite; CLI and web versions available
+
+Visualized activity using Matplotlib
+
+Gained recognition in a student developer community
+
+TerminalGPT
+A course-specific chatbot for answering queries using custom-trained content
+
+Built with OpenAI’s API and LangChain
+
+Used vector search to retrieve relevant answers from lecture notes
+
+Designed a minimal terminal UI for seamless interaction
+
+Certifications
+CS50x – Introduction to Computer Science, Harvard (edX)
+
+Google IT Automation with Python, Coursera
+
+Responsive Web Design, freeCodeCamp
+
+HackForChange 2024 – Best Student Team, Hackathon Winner
+
+Experience
+Tech Lead – University Coding Society
+Sept 2023 – Present
+
+Organized and led coding workshops on Git, Python, and web dev fundamentals
+
+Mentored junior students on team projects and coding best practices
+
+Student Volunteer – Digital Literacy Support
+XYZ Local Library, London
+Jun 2022 – Aug 2022
+
+Provided digital training to older adults on using email, internet, and devices
+
+Developed easy-to-follow guides for ongoing use
+
+Career Objectives
+Gain practical experience through internships in software or AI
+
+Continue contributing to open-source projects and developing side projects
+
+Build a strong post-graduation portfolio with industry-ready skills",55.0
+cv_8.txt,"Jane Smith                                                                        
+
+                                                                                  
+
+                      San Francisco | 0888888 | jane.smith@email.com | ABC Solutions | ABC Solutions
+
+      WORDS ABOUT ME                                                              
+
+                                                                                  
+
+                                                                                  
+
+      Quality Assurance Engineer with a passion for delivering high-quality software through rigorous testing and automation. I’ve led QA teams
+
+      and built robust automated test suites for web and mobile applications. My core skills include test strategy design, automation with Selenium,
+
+      Cypress, and API testing with Postman. I thrive in Agile environments and excel at integrating CI/CD pipelines with quality gates to ensure
+
+      bug-free releases.
+
+      CURRENTLY BUILDING                                                          
+
+                                                                                  
+
+      ABC Solutions – Quality Assurance Engineer                  Oct 2024 – Present
+
+        ●  Co-founded ABC Solutions and currently developing a robust QA framework (LINK TO GITHUB)                   
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Test Automation Framework – link                                     2024     
+
+        ●  Designed a scalable test automation framework using Pytest and Selenium integrated with GitHub Actions.
+
+        ●  Achieved 95% regression test coverage for a multi-platform SaaS product.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      ABC Research Lab – QA Consultant                           Oct 2024 – Dec 2024
+
+        ●  Collaborated on QA strategies for AI-powered applications in NLP and Computer Vision.
+
+        ●  Set up automated pipelines to test and validate ML model predictions and APIs.
+
+        ●  Used Docker, Pytest, and Swagger to test microservices and streamline debugging.
+
+                                                                                  
+
+      ABC Tech – QA Automation Engineer                            Jan 2023 – Oct 2024
+
+        ●  Built E2E automated test suites for React and Angular web apps using Cypress and Playwright.
+
+        ●  Reduced manual regression effort by 80% through automation.
+
+        ●  Mentored junior testers and conducted workshops on writing maintainable test scripts.
+
+                                                                                  
+
+      ABC Software – QA Engineer                                        Sep 2020 – Jan 2023
+
+        ●  Developed comprehensive test cases, test plans, and test data strategies for web, mobile, and API layers.
+
+        ●  Integrated Selenium test suites into Jenkins for nightly builds.
+
+        ●  Worked closely with developers to conduct root cause analysis and ensure defect resolution.
+
+                                                                                  
+
+      ABC Retail – QA Analyst                                           Sep 2018 – Sep 2020
+
+        ●  Created manual test plans for large-scale e-commerce platforms.
+
+        ●  Participated in UAT sessions and collaborated with business stakeholders for feature validation.
+
+        ●  Tracked bugs using JIRA and worked within Agile Scrum teams.
+
+                                                                                  
+
+      ABC Biotech – Intern QA Tester                             May 2018 – Sep 2018
+
+        ●  Performed functional and UI testing for internal inventory software.
+
+        ●  Documented bugs and created knowledge base articles for onboarding.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      ABC University                                            2015 – 2018  
+
+      BSc (Hons) Software Engineering                                             
+
+        ●  Graduated with First Class Honours – Capstone project on test-driven development in enterprise systems.
+
+      TOOLS AND TECHNOLOGIES
+
+
+
+Selenium, Cypress, Playwright, Postman, REST APIs, Jenkins, JIRA, Git & GitHub, TestRail, Python, JavaScript, Java,
+
+      SQL, Pytest, Robot Framework, Docker, CI/CD, Agile Scrum, ABC Tech, ABC Solutions, ABC Research Lab, ABC Software
+
+",35.0
+cv_10.txt,"John Ace
+London, UK | (+44) 7825398378 | john.ace@gmail.com | Work Rights: Yes/Full-Time
+linkedin.com/in/johnace | github.com/JohnAce | rolls-royce.com/JohnAce | medium.com/@johnace
+
+PROFESSIONAL SUMMARY:
+
+Experienced and results-oriented Mechanical Engineer with over 10 years of experience in mechanical design, structural analysis, and thermodynamic systems. Proven expertise in CAD modeling, FEA simulations, and sustainable product development. Skilled in leading multidisciplinary teams, optimising manufacturing processes, and applying innovative engineering solutions across the aerospace and energy sectors. Currently advancing skills in digital twin technology and additive manufacturing.
+
+SKILLS:
+
+SolidWorks, AutoCAD, CATIA, ANSYS, Abaqus, MATLAB, Simulink, Thermodynamics, Fluid Mechanics, Heat Transfer, Structural Mechanics, CNC Programming, GD&T, Project Management (Agile, Scrum), Python, C, MS Office Suite, SAP, PLM, ERP systems, Technical Documentation, FMEA, Root Cause Analysis
+
+PROFESSIONAL EXPERIENCE:
+
+Senior Mechanical Engineer (Rolls-Royce) – London, UK
+Jan 2021 – Present
+
+Led design and simulation of high-performance turbine blades, achieving a 15% efficiency improvement and 10% reduction in material costs
+
+Conducted FEA and CFD analysis on propulsion components using ANSYS and Fluent, reducing failure rates by 20%
+
+Integrated digital twin methodologies to monitor performance of jet engines in real-time, enhancing predictive maintenance strategies
+
+Collaborated with cross-functional teams across manufacturing, testing, and quality assurance to ensure project delivery under tight timelines
+
+Mechanical Design Engineer (Siemens Energy) – Manchester, UK
+Jun 2016 – Dec 2020
+
+Designed heat exchangers and gas turbines for energy systems, focusing on sustainability and thermal efficiency
+
+Created detailed 3D CAD models and 2D drawings using SolidWorks and AutoCAD, streamlining fabrication processes
+
+Implemented lean manufacturing principles, improving production throughput by 25%
+
+Participated in cross-site design reviews and root cause investigations for field failures, improving system reliability
+
+Graduate Mechanical Engineer (BAE Systems) – Glasgow, UK
+Jul 2013 – May 2016
+
+Supported mechanical system design for naval ships including HVAC, propulsion, and weapon support systems
+
+Performed vibration and shock analysis to meet MOD compliance standards
+
+Created technical reports and risk assessments, contributing to key defence projects
+
+EDUCATION:
+
+MS in Mechanical Engineering – University of Cambridge, Cambridge (Distinction)
+Jul 2011 – Jul 2013
+
+BS in Mechanical Engineering – Imperial College London, London (First Class Honours)
+Sep 2007 – Jun 2011
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Chartered Mechanical Engineer (IMechE) – 2020
+
+Certified SolidWorks Professional – 2018
+
+Fundamentals of Digital Twin Technology (MITx) – Ongoing
+
+Six Sigma Green Belt – 2021
+
+Additive Manufacturing Fundamentals (Coursera) – 2022",20.0

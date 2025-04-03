@@ -1,0 +1,119 @@
+Jane Smith                                
+
+                                                                                  
+
+                      San Francisco | 0888888 | jane.smith@email.com | ABC Tech | ABC Tech
+
+      SUMMARY                                                                       
+
+                                                                                  
+
+                                                                                  
+
+      Data scientist with a passion for developing innovative machine learning solutions and driving business impact. Skilled in
+
+      Python, TensorFlow, and scikit-learn, with expertise in building and deploying predictive models. Proven track record in
+
+      natural language processing and computer vision projects, utilizing deep learning techniques and cloud technologies for
+
+      scalable solutions.
+
+      CURRENT ROLE                                                                  
+
+                                                                                  
+
+      ABC Tech – Data Scientist                                  Jan 2023 – Present
+
+        ●  Spearheading projects in... (LINK TO GITHUB)                               
+
+                                                                                  
+
+      SIDE PROJECTS                                                                 
+
+                                                                                  
+
+      - Open-source project on anomaly detection using unsupervised learning techniques           2022
+
+      - Kaggle competition on recommendation systems                                                      2021
+
+      - Blog on interpretability in deep learning models                                                        2020
+
+                                                                                  
+
+      EXPERIENCE                                                                    
+
+                                                                                  
+
+      ABC Research Lab – Machine Learning Engineer          Apr 2022 – Jan 2023
+
+        ●  Conducted research on developing novel models for explainable AI and interpretable machine learning.
+
+        ●  Implemented state-of-the-art techniques in XGBoost SHAP and LIME to interpret complex models.
+
+        ●  Collaborated with cross-functional teams to integrate model explanations into production systems.         
+
+                                                                                  
+
+      ABC Innovations – AI Engineer                                       Nov 2020 – Apr 2022
+
+        ●  Designed and implemented machine learning pipelines for predictive maintenance in manufacturing.
+
+        ●  Leveraged reinforcement learning algorithms for autonomous navigation in robotic systems.
+
+        ●  Led AI integration projects to optimize production processes and reduce downtime.
+
+                                                                                  
+
+      ABC Technologies – Data Analyst                                           Jul 2019 – Nov 2020
+
+        ●  Developed automated data cleaning scripts using pandas and NumPy for efficiency in data preprocessing.
+
+        ●  Created interactive data visualizations with Plotly and Dash for storytelling and actionable insights.
+
+        ●  Collaborated with stakeholders to define key metrics and build predictive models for business forecasting.
+
+      XYZ Corp – Data Science Intern                                Jan 2019 – Jul 2019
+
+        ●  Conducted exploratory data analysis on customer segmentation and behavior patterns.
+
+        ●  Built predictive models for customer churn prediction using logistic regression and decision tree algorithms.
+
+        ●  Presented findings and recommendations to senior management for strategic decision-making.
+
+                                                                                  
+
+      XYZ Innovations – Data Analyst                                          Aug 2018 – Jan 2019
+
+        ●  Analyzed sensor data from IoT devices to optimize energy consumption in smart buildings.
+
+        ●  Implemented clustering algorithms for anomaly detection and predictive maintenance.
+
+        ●  Provided actionable insights for improving operational efficiency and reducing costs.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      ABC University                                              2016 – 2019  
+
+      MSc Data Science                                                 
+
+        ●  Awarded Certificate in Machine Learning for completing specialized coursework in deep learning.
+
+      CERTIFICATIONS
+
+      - Certified Kubernetes Administrator (CKA)
+
+      - Oracle Certified Professional, Java SE Developer
+
+      - Certified Information Systems Security Professional (CISSP)
+
+      - Cloudera Certified Data Engineer (CCDE)
+
+      - AWS Certified Solutions Architect
+
+      TOOLS AND TECHNOLOGIES
+
+      Python, TensorFlow, scikit-learn, PyTorch, Docker, SQL, AWS, Spark, Tableau, Hadoop, Git, Jupyter Notebook, Apache Kafka, Matplotlib, seaborn

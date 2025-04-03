@@ -1,0 +1,82 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Final-year Computer Science student with a passion for backend development, cloud technologies, and data analysis. Skilled in designing scalable software solutions and proficient in various programming languages. Actively seeking opportunities in software engineering, cloud architecture, or data science to apply academic knowledge in real-world scenarios.
+
+Education
+BSc Computer Science
+University of XYZ – London, UK
+Graduated: July 2024
+
+Relevant Modules: Cloud Computing, Data Mining, Distributed Systems, Cybersecurity, Machine Learning, Natural Language Processing
+
+Final Year Project: Automated Stock Trading System Using Machine Learning Algorithms
+
+Technical Skills
+Languages: Java, Ruby, Scala, PHP, Assembly
+Frameworks & Libraries: Spring Boot, Apache Kafka, TensorFlow, Pandas
+Tools & Technologies: Docker, Kubernetes, Jenkins, AWS, Tableau
+Concepts: Microservices, Big Data Processing, CI/CD, Statistical Analysis, Optimization Algorithms
+
+Projects
+CloudDrive
+A cloud storage platform with data encryption and multi-device synchronization capabilities
+
+Developed using Scala, Apache Cassandra, and Akka
+
+Implemented end-to-end encryption and file versioning
+
+Deployed scalable architecture on AWS EC2 instances
+
+DataVision
+Interactive visualization tool for analyzing COVID-19 trends and vaccination rates
+
+Utilized Java, MongoDB, and D3.js for data visualization
+
+Integrated real-time data updates from public APIs
+
+Featured in a local data analytics conference
+
+ChatAnalytics
+Sentiment analysis tool for monitoring customer support chat interactions
+
+Created with Ruby on Rails, SQLite, and NLTK library
+
+Implemented sentiment scoring and visualized results using Matplotlib
+
+Currently expanding capabilities with machine learning models
+
+Certifications
+Azure Fundamentals, Microsoft Certified
+Certified Blockchain Developer, Binance Academy
+Data Engineering with Apache Spark, Coursera
+DevOps Professional, Linux Foundation
+Ethical Hacking Specialist, EC-Council
+
+Experience
+Software Developer Intern – Tech Startup
+Jan 2023 – Apr 2023
+
+Contributed to the development of a microservices architecture for a new product
+
+Participated in debugging sessions and performance tuning efforts
+
+Collaborated with cross-functional teams on project deployments
+
+Research Assistant – Data Science Lab
+Sept 2022 – Dec 2022
+
+Assisted in data collection and preprocessing for research projects
+
+Conducted statistical analysis and visualization of experimental results
+
+Presented findings at departmental seminars and workshops
+
+Career Objectives
+Secure a full-time role in software engineering or data analysis post-graduation
+
+Contribute to open-source initiatives and participate in industry hackathons
+
+Advance expertise in cloud computing and pursue professional certifications in data science

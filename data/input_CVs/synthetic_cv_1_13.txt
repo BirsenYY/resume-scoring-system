@@ -1,0 +1,93 @@
+Liam Roberts                                   
+
+                                                                                    
+
+      (cid:131) 555-987-6543 — liam.roberts@email.com — (cid:239) linkedin.com/in/liam-roberts-7654321 — ' github.com/liamroberts
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  C++, Ruby, Rust, Swift, R, SAS                                   
+
+   Frameworks: Vue.js, D3.js, Ember.js, Svelte, Flask, Django, Spring, GraphQL, Material-UI, Tailwind CSS, Chakra UI,
+
+               Bulma                                                   
+
+   ML/AI:      XGBoost, AutoML, AutoML, GANs, Federated Learning                   
+
+   Technologies: AWS S3, Azure DevOps, Heroku, Kubernetes, Terraform, OpenShift, Redis, Apache Kafka, RabbitMQ, Consul, 
+
+               Istio, Prometheus, Grafana, ELK Stack, Vault                                  
+
+   Testing:    Selenium, JUnit, Mocha, Cypress, TestNG                  
+
+   Certifications: CKA (Certified Kubernetes Administrator), CRMA (Certified Risk Management Assurance), DP-100: Designing and Implementing a Data Science Solution on Azure             
+
+                                                                                    
+
+   Experience                                                                       
+
+    XYZ Tech                                           Jan 2019 – Present
+
+    Senior Software Engineer                                                        
+
+      – Spearheaded the migration of legacy systems to a microservices architecture on Azure Kubernetes Service (AKS).
+
+      – Implemented a real-time data pipeline using Apache Kafka and Spark for efficient data processing.
+
+      – Led a team in the development of a fraud detection system utilizing GANs and federated learning techniques.
+
+      – Mentored junior engineers and conducted workshops on design patterns and coding best practices.   
+
+    Junior Software Engineer                                                        
+
+      – Collaborated with the infrastructure team to automate deployment pipelines using Terraform and Helm.
+
+      – Developed a monitoring dashboard with Prometheus and Grafana for enhanced observability.
+
+      – Worked on optimizing database queries to improve system performance by 20%.
+
+    ABC Solutions                                                                      Jun 2016 – Dec 2018
+
+    Software Developer                                                              
+
+      – Designed and implemented RESTful APIs for an e-commerce platform using Django and DRF.
+
+      – Integrated machine learning models for personalized product recommendations.
+
+      – Conducted code reviews and contributed to the development of internal tools for automated testing.
+
+   Education                                                                        
+
+    University of Washington — MSc Data Science and Analytics                2020    
+
+    University of California, Berkeley — BSc Computer Engineering           2016 – 2020  
+
+    Purdue University — BSc Hons Mathematics             2012 – 2016  
+
+    Stanford University — Data Mining and Applications Certificate 2011 – 2012
+
+   Projects                                                                         
+
+                                                                                    
+
+    Sentiment Analysis Dashboard                                                '     
+
+      – Built a sentiment analysis dashboard using Twitter data and machine learning to track public opinion.
+
+    Quantum Computing Simulations                                             '     
+
+      – Conducted simulations of quantum algorithms using Qiskit and visualized quantum states.
+
+    AR Navigation App                                                              '     
+
+      – Developed an augmented reality navigation app for indoor navigation using ARCore.
+
+    Smart Home Automation System                                           '     
+
+      – Created a smart home system integrating IoT devices for remote control and automation.
+
+    Health Data Visualization Tool                                             '     
+
+      – Designed a tool for visualizing health data trends and anomalies using D3.js and Flask.

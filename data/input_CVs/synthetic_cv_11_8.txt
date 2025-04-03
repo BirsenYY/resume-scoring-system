@@ -1,0 +1,80 @@
+[Full Name]
+[City, Country] | [Email Address] | [Phone Number] | [LinkedIn] | [GitHub/Portfolio]
+
+PROFILE
+Dynamic technology leader with over 10 years of experience in artificial intelligence, software engineering, and data science. Currently leveraging expertise as a Head of AI at a fast-growing tech startup, directing AI initiatives, fostering scalable infrastructures, and spearheading cross-disciplinary projects. Demonstrated success in team leadership, product delivery, and strategic alignment of technology endeavors with business objectives.
+
+EXPERIENCE
+Head of AI
+InnoVision Tech | San Francisco, USA | Mar 2019 – Present
+
+Lead the strategic planning and execution of AI-driven projects across diverse business domains.
+
+Expanded the AI team from 12 to 60 professionals and instituted agile methodologies for enhanced productivity.
+
+Architected and deployed advanced computer vision systems, chatbots, and time-series forecasting models.
+
+Implemented AI solutions on Kubernetes clusters, achieving a 50% reduction in infrastructure costs.
+
+Secured $15M in Series A funding by collaborating closely with upper management on a compelling vision.
+
+Lead Data Scientist
+DataInnovators | Singapore | Nov 2015 – Feb 2019
+
+Directed a team of data scientists in crafting fraud prevention algorithms and personalized recommendation engines.
+
+Developed cutting-edge reinforcement learning models for dynamic pricing strategies using PyTorch.
+
+Established MLOps pipelines and comprehensive model supervision frameworks.
+
+Enhanced model precision by 30% through innovative feature engineering and rigorous optimization techniques.
+
+Data Scientist
+TechSage | Toronto, Canada | Aug 2012 – Oct 2015
+
+Led end-to-end data analysis projects within the realms of e-commerce and supply chain management.
+
+Constructed interpretable machine learning models and actionable dashboards for non-technical stakeholders.
+
+Conducted rigorous A/B testing and model validation procedures to ensure smooth deployment.
+
+Software Engineer
+DynamicApps | Sydney, Australia | Jan 2009 – Jul 2012
+
+Developed robust software solutions in C# and Ruby on Rails.
+
+Championed the integration of machine learning algorithms into existing software products.
+
+EDUCATION
+Ph.D. in Computer Science – Machine Learning
+University of California, Berkeley | 2009
+
+BSc in Software Engineering
+University of Queensland | 2006
+
+SKILLS
+Programming Languages: Python, C#, R, Scala
+
+Frameworks & Tools: PyTorch, Scikit-learn, H2O.ai, Databricks, Spark
+
+MLOps & DevOps: Docker, Kubernetes, MLflow, Jenkins, GitLab CI/CD
+
+Cloud Platforms: AWS (EC2, S3, Glue), Azure, Alibaba Cloud
+
+Specializations: Reinforcement Learning, Anomaly Detection, Time Series Analysis, Graph Neural Networks
+
+CERTIFICATIONS
+AWS Certified Big Data – Specialty
+
+Microsoft Certified: Azure AI Engineer Associate
+
+Certified Machine Learning Engineer (CME)
+
+Certificate in Graph Neural Networks from Stanford University
+
+SPEAKING & PUBLICATIONS
+Speaker at ICML, AI Expo, and Singapore Tech Forum
+
+Author of “Effective Machine Learning Deployment Strategies” – Springer (2023)
+
+Contributor to Towards Data Science on topics spanning AI applications, data governance, and model scaling

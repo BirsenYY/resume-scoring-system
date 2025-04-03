@@ -1,0 +1,80 @@
+NAME
+ London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Dynamic Software Engineer with over 6 years of experience in developing and optimizing robust backend solutions. Skilled in Python, Java, and C++, with a keen eye for writing efficient and scalable code. Strong advocate for test automation, CI/CD implementation, and system performance tuning to deliver high-quality software products.
+
+Technical Skills
+Languages: Python, Java, C++, JavaScript, Rust
+
+Frameworks & Tools: Django, Spring Boot, Angular, Puppeteer, TestNG, Jest, Mocha
+
+DevOps & CI/CD: Kubernetes, Terraform, CircleCI, GitHub Actions, Helm
+
+Databases: Oracle, SQLite, Cassandra, Redis
+
+Cloud & Platforms: AWS (RDS, ECS, EKS), Azure, Docker Swarm, Windows Server
+
+Others: GraphQL, WebSockets, Kanban, BDD
+
+Professional Experience
+Software Engineer
+DataDynamics Ltd., London, UK
+Sep 2021 – Present
+
+Architected and developed microservices using Django and Spring Boot to support real-time data processing
+
+Collaborated with UI/UX designers to implement interactive web applications with Angular and WebSockets
+
+Improved database performance by 40% through query optimization and caching mechanisms
+
+Implemented CI/CD pipelines with Kubernetes for automated testing and deployment processes
+
+Led knowledge-sharing sessions on advanced programming concepts and best practices
+
+Side Projects
+1. Project Management Tool (2020)
+   - Designed and implemented a project management tool using Django and SQLite
+   - Integrated Kanban boards and automated notifications for task updates
+
+Software Developer
+TechCrafters, London, UK
+Mar 2018 – Aug 2021
+
+Developed custom plugins and tools in C++ for optimizing resource management in gaming applications
+
+Contributed to enhancing AI algorithms for game simulations, resulting in improved gameplay experiences
+
+Collaborated with the QA team to automate testing scenarios and ensure product stability
+
+Designed and implemented a scalable message queue system using Redis for efficient data processing
+
+Conducted code reviews and mentored junior developers on coding standards and best practices
+
+Side Projects
+1. IoT Home Automation System (2019)
+   - Created an IoT-based home automation system using Raspberry Pi and AWS IoT Core
+   - Integrated voice commands and remote monitoring capabilities for smart devices
+
+Engineering Intern
+eDataWorks, London, UK
+Jul 2016 – Feb 2018
+
+Developed automation scripts in Python for data extraction and transformation processes
+
+Assisted in building machine learning models for predictive analytics applications
+
+Contributed to the migration of legacy databases to cloud-based platforms like Azure SQL Database
+
+Documented technical specifications and provided training sessions on new tools and technologies
+
+Education
+MSc in Computer Engineering
+Imperial College London, UK
+2014 – 2016
+
+Certifications
+Certified Kubernetes Administrator (CKA)
+AWS Certified Solutions Architect – Professional
+Oracle Certified Professional, Java SE 8 Programmer
+Certified ScrumMaster (CSM)

@@ -1,0 +1,101 @@
+    Sarah Johnson                                  
+
+                        San Francisco | sarah.johnson@email.com | Data Science | Data Science   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Data scientist with a strong foundation in statistics and machine learning. Experienced in developing AI models and passionate about exploring new technologies.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, R, SQL, Scala, Apache Spark, Django, • Frameworks: Hugging Face, CatBoost, X-Cat, 
+
+     FastAPI, Apache Kafka, MongoDB                                                
+
+    • Machine Learning: Transformer-based models, Recommendation systems, Online Learning, NLP, Ensemble methods, 
+
+     Time Series Analysis, AutoML, Anomaly Detection, Fairness in AI                
+
+    • Tools: Tableau, Looker, Databricks, Docker, Git, Linux,
+
+     AWS, Microsoft Azure, Heroku, ModelOps                                           
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    Data Science Engineer | Data Insights Co, New York              Jan 2020 – Present
+
+    Predictive Maintenance System for Manufacturing Industry                    
+
+                                                                                  
+
+    • Developed a predictive maintenance system using ensemble models for the manufacturing industry, resulting in a 20% decrease in downtime.
+
+    • Implemented real-time anomaly detection algorithms for early fault detection in machinery.
+
+    • Utilized online learning techniques to continuously update the model with new data streams.
+
+    • Ensured fairness in AI by examining biases in the predictive maintenance system.
+
+    • Deployed the system on AWS for scalable and efficient maintenance scheduling.
+
+    Tech Stack: Python, X-Cat, Online Learning, AWS IoT, FairML, Flask            
+
+    Retail Sales Forecasting System                                                   
+
+    • Designed and implemented a sales forecasting system for a retail client, improving inventory management by 15%.
+
+    • Utilized time series analysis and deep learning models to forecast sales trends accurately.
+
+    • Developed a dashboard using Tableau for visualizing sales predictions and actual data.
+
+    • Collaborated with cross-functional teams to optimize model performance and business insights.
+
+    • Automated the forecasting process using Apache Airflow for regular updates.
+
+    Tech Stack: Python, TensorFlow, Tableau, Apache Airflow, SQL
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc Data Science, University of Washington, Seattle, Washington       Sept 2017 - Jun 2019
+
+    BSc Statistics (Honors), University of Miami, Florida                  Sept 2013 - Jun 2017
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Sentiment analysis (NLP)         • Fraud detection system                  
+
+    • News recommendation engine (Hugging Face) • Customer segmentation              
+
+    • Music genre classification (CatBoost)  • Sports event prediction (Prophet)          
+
+                                                                                  
+
+    • Disease prediction model (X-Cat)          • Movie recommendation system (LightFM)         
+
+    • Stock price prediction (Ensemble methods)             • E-commerce product recommendation (Deep Learning)

@@ -1,0 +1,67 @@
+Michelle Lee
+
+New York | 0888888 | michelle.lee@email.com | Portfolio: michellelee.dev | GitHub: github.com/michellelee
+
+WORDS ABOUT ME
+
+Passionate Computer Science graduate with a strong interest in leveraging data science and machine learning to positively impact society. Experienced in building innovative projects that showcase robust engineering solutions and design principles. Proficient in Python, Java, and cloud computing technologies. Committed to transforming ideas into impactful products.
+
+CURRENTLY BUILDING
+
+Data Science Showcase – Data Scientist Jan 2023 – Present
+
+Building a comprehensive portfolio of data science projects (kaggle.com/michellelee) showcasing data analysis, machine learning models, and data visualization.
+
+PROJECTS
+
+🏆 AI Hackathon Winner – Fraud Detection Challenge 2023
+
+Led a team to victory in a fraud detection competition, achieving top accuracy in identifying fraudulent transactions within financial data.
+
+Implemented an ensemble of XGBoost and LightGBM models with advanced feature engineering techniques.
+
+ChatBot360 – Conversational AI Platform 2022
+
+Developed a chatbot system using transformers for natural language understanding, allowing users to interact with a virtual assistant for customer support.
+
+Implemented sentiment analysis and intent classification using BERT and deployed on a scalable infrastructure using Flask and AWS.
+
+GenomeQuest – Genomic Data Analysis Tool 2022
+
+Created a tool for analyzing genomic sequences and identifying patterns related to genetic diseases.
+
+Utilized bioinformatics algorithms and visualization tools to aid researchers in bioinformatics and genetic studies.
+
+VisualizeVR – Virtual Reality Data Visualization 2021
+
+Designed a VR application for visualizing complex datasets in an immersive virtual environment.
+
+Integrated data from IoT sensors and processed using Unity3D to provide a unique data exploration experience.
+
+EXPERIENCE
+
+Software Engineer Intern at Tech Innovations Jun 2021 – Aug 2021
+
+Worked on developing features for a web application using React and Node.js.
+
+Collaborated with cross-functional teams to implement scalable solutions and enhance user experience.
+
+EDUCATION
+
+New York University (NYU) 2017 – 2021
+
+BSc in Computer Science
+
+Final year project: "Deep-Learning Based Autonomous Drone Navigation" – achieved real-time obstacle avoidance using neural networks and computer vision.
+
+CERTIFICATIONS
+
+1. AWS Certified Solutions Architect – Associate
+2. Google Analytics Individual Qualification
+3. Certified Blockchain Developer
+4. Tableau Desktop Specialist
+5. Red Hat Certified Engineer (RHCE)
+
+TOOLS AND TECHNOLOGIES
+
+Python, Java, TensorFlow, PySpark, AWS, Flask, Docker, MongoDB, GitLab, Tableau, Unity3D, Hadoop, Kubernetes, Elasticsearch, Jenkins.

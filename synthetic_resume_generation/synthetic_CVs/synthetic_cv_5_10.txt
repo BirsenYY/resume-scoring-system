@@ -1,0 +1,71 @@
+Alice Chen
+
+San Francisco | 0888888 | alice.chen@email.com | Portfolio: alicechen.dev | GitHub: github.com/alicechen
+
+WORDS ABOUT ME
+
+Computer Science enthusiast with a strong interest in artificial intelligence, data analysis, and web development. I have a knack for crafting innovative solutions to complex problems and leveraging technology to make a positive impact.
+
+CURRENTLY BUILDING
+
+Data Analysis Showcase – Data Analyst           Mar 2023 – Present
+
+- Compiling a portfolio showcasing data analysis projects with interactive visualizations and insightful data-driven stories (link to GitHub).
+
+PROJECTS
+
+🥇 Hackathon Winner – Natural Language Processing Challenge             2023
+
+- Captained a team to victory in a NLP hackathon by developing a sentiment analysis model for social media content using BERT and Transformers.
+
+- Implemented data preprocessing, training, and evaluation processes to achieve top accuracy and generalization.
+
+SecureVault – Password Manager Web App (securevault.io)            2022
+
+- Designed and built a secure password management application with end-to-end encryption and multi-device synchronization features.
+
+- Utilized React for the frontend, Node.js for the backend, and MongoDB for data storage to ensure a seamless user experience.
+
+TradeTrend – Stock Market Prediction Algorithm                     2021
+
+- Created a machine learning model using LSTM neural networks to predict stock price movements based on historical data and technical indicators.
+
+- Integrated real-time data fetching, model training, and prediction visualization for user-friendly stock trading insights.
+
+CodeCraft – Coding Skill Assessment Platform                         2020
+
+- Developed an online platform for coding assessments and skill evaluation, allowing companies to streamline their hiring process and assess candidates efficiently.
+
+- Implemented coding challenges, automated grading, and performance analytics to deliver a comprehensive solution for tech recruiting.
+
+EXPERIENCE
+
+Software Engineer Intern                                       Jun 2022 – Aug 2022
+
+- Collaborated with the engineering team on developing new features and enhancements for a cloud-based SaaS platform.
+
+- Utilized Agile methodologies and participated in code reviews, testing, and deployments to ensure high-quality software delivery.
+
+Tech Solutions Consultant                                 Mar 2021 – Jan 2022
+
+- Provided technical consultancy services to clients in the healthcare and e-commerce sectors, offering solutions for digital transformation and IT optimization.
+
+- Led workshops, conducted requirements analysis, and delivered tailored technology solutions to address specific business challenges.
+
+XYZ Digital Academy – Web Development Bootcamp                       Oct 2020 – Feb 2021
+
+- Completed an intensive bootcamp focusing on full-stack web development, gaining hands-on experience in building dynamic web applications.
+
+- Worked on projects ranging from front-end design with HTML/CSS to backend development with Node.js and Express.js.
+
+EDUCATION
+
+University of California, Berkeley (UC Berkeley)                2018 – 2022
+
+BSc Computer Science                                                            
+
+- Senior thesis project: "Predictive Modeling for Traffic Flow Optimization" – utilized machine learning algorithms to optimize traffic signal timings and reduce congestion.
+
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, Pandas, NumPy, Matplotlib, Scikit-learn, Flask, PostgreSQL, AWS, React, Node.js, MongoDB, Git, HTML/CSS, JavaScript, D3.js, Bootstrap, Docker, Jupyter Notebooks

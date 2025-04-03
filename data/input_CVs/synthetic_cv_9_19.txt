@@ -1,0 +1,54 @@
+Alice Chen
+
+San Francisco | 0777777 | alice.chen@email.com | Portfolio: alicechen.tech | GitHub: github.com/alicechen
+
+WORDS ABOUT ME
+
+Passionate computer science professional specializing in software development and data analytics. Experienced in leveraging technology to drive business growth and optimize performance. Skilled in Python, Java, and cloud technologies with a strong focus on problem-solving and innovation.
+
+CURRENTLY BUILDING
+
+Personal AI Showcase – AI Engineer         Mar 2024 – Present
+
+- Developing an AI showcase featuring innovative projects in natural language processing and computer vision with interactive demos and detailed documentation.
+
+PROJECTS
+
+🚀 Hackathon Winner – AI Chatbot                   2023
+
+- Led a team to victory in a hackathon by creating an AI-powered chatbot that achieved high user engagement and satisfaction.
+- Implemented advanced NLP algorithms and integrated with messaging platforms for seamless user interaction.
+
+DataGenius – Data Visualization Tool            2023
+
+- Designed and developed a data visualization tool that transforms complex datasets into interactive visualizations for data-driven decision-making.
+- Utilized D3.js for front-end visualization and Django for backend data processing.
+
+CloudSec – Cloud Security Assessment Tool     2022
+
+- Built a cloud security assessment tool that scans cloud infrastructure for vulnerabilities and provides recommendations for security improvements.
+- Integrated with AWS APIs and implemented automated reporting using serverless functions.
+
+EXPERIENCE
+
+Software Engineer                                 Jan 2022 – Present
+
+- Developing scalable software solutions for a fintech startup, focusing on backend development and API integrations.
+- Collaborating with cross-functional teams to deliver high-quality software products and meet client requirements.
+
+Junior Data Analyst                              Apr 2020 – Dec 2021
+
+- Analyzed large datasets to extract actionable insights and support data-driven decision-making.
+- Created data visualizations and reports to communicate findings to stakeholders.
+
+EDUCATION
+
+Stanford University                           2018 – 2022
+
+BSc Computer Science                                       
+
+- Senior project: "Predictive Analytics for E-Commerce" – Implemented machine learning models to predict customer behavior and optimize marketing strategies.
+
+TOOLS AND TECHNOLOGIES
+
+Java, SQL, AWS, Docker, Spring Boot, React, JavaScript, Node.js, MongoDB, JIRA, Tableau, Git & GitHub, TensorFlow, PySpark, Scrapy, Selenium, HTML5/CSS3, Agile methodologies

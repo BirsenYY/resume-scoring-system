@@ -1,0 +1,101 @@
+```
+    Microsoft                                    
+
+                                                                                    
+
+                 Seattle, US | (+1) 123-456-7890 | jane.smith@hotmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | microsoft.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Data Scientist and Azure Certified AI Engineer with 6 years of experience. Proficient in developing innovative ML solutions 
+
+     using Azure-based tools and technologies. Skilled in NLP, computer vision, and deep learning. Currently enhancing expertise in 
+
+     causal inference and Bayesian optimization. Demonstrated success in leading cross-functional teams, optimizing data pipelines, 
+
+     and delivering impactful insights and solutions.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, Java, Scala, SQL | PostgreSQL, Cassandra, Redis | PyTorch, scikit-learn, Hugging Face, Kubeflow | Bayesian Inference,
+
+      CausalML, XGBoost | Computer Vision, Reinforcement Learning | Flask, Kubernetes | Git, Jenkins, Azure                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Machine Learning Engineer (DataMind AI) - Seattle, US    Oct 2020 : Present
+
+    ● Spearheaded the development of a computer vision system for anomaly detection in manufacturing processes, utilizing XGBoost and 
+
+      Hugging Face transformers, resulting in a 30% decrease in defect rates             
+
+    ● Led a team in implementing a reinforcement learning-based recommendation engine for personalized content delivery, improving user 
+
+      engagement metrics by 20%                                                           
+
+    ● Conducted A/B testing on various ML models to optimize model performance and hyperparameters for real-time predictive analytics,
+
+      resulting in a 15% increase in accuracy                                      
+
+    ● Collaborated with cross-functional teams to deploy machine learning models on Kubernetes, enabling scalable and efficient 
+
+      integration with production systems                                               
+
+    ● Initiated a side project on Bayesian optimization for hyperparameter tuning, achieving a 25% reduction in model training time and
+
+      resource utilization                                                           
+
+     Data Analyst (TechData Solutions) - San Francisco, US Mar 2018 : Sep 2020
+
+    ● Developed and maintained data processing pipelines using PySpark and Scala, handling large-scale datasets for predictive 
+
+      analytics and reporting                                                             
+
+    ● Conducted exploratory data analysis and visualization to derive insights and trends for business stakeholders, informing strategic
+
+      decision-making processes                                                          
+
+    ● Built machine learning models for customer segmentation and churn prediction, resulting in a 17% increase in customer retention 
+
+      rates                                                                            
+
+    ● Automated data workflows and reporting tasks using Airflow, improving operational efficiency and reducing manual intervention     
+
+     Research Assistant (AI Research Institute) - Boston, US    Feb 2016 : Feb 2018
+
+    ● Conducted research on neural network architectures for natural language processing tasks, focusing on transfer learning and 
+
+      domain adaptation strategies                                                         
+
+    ● Collaborated with senior researchers to publish papers in top-tier conferences and journals in the field of AI and ML                
+
+    EDUCATION:                                                                      
+
+    MS in Data Science - University of Washington, Seattle (Distinction) Sep 2014 : June 2016
+
+    BS in Computer Engineering - University of California, Berkeley (Honors) Sep 2010 : June 2014
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Data Engineering with Azure Databricks (Microsoft)       Sep, 2019  
+
+    ● Azure AI Engineer Associate (Microsoft)               Apr, 2019
+
+    ● Machine Learning for Business Professionals (edX)         Jan, 2018  
+
+    ● Certified Blockchain Developer (Blockgeeks)                      Dec, 2017
+
+    ● Python for Data Science (DataCamp)                                    May, 2016
+```

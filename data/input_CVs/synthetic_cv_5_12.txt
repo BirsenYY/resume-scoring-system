@@ -1,0 +1,95 @@
+Jane Smith
+
+                                                                                  
+
+123-456-7890 | jane.smith@email.com             
+
+                                                                                  
+
+Education                                                                     
+
+   University of California, Los Angeles                    Sep 2019 - May 2022
+
+      ●  BSc Data Science: Graduated with Distinction                      
+
+      ●  Achieved a 90% in Data Visualization and Interpretation, focusing on advanced data visualization techniques and tools
+
+      ●  Completed coursework on Database Systems, Big Data Analytics, and Predictive Modeling
+
+   London School of Economics, London                          Jul 2023 - Aug 2023
+
+      ●  Cybersecurity Fundamentals Certificate Program             
+
+      ●  Covered topics such as Cryptography, Network Security, Ethical Hacking, and Incident Response
+
+   Coursera – Neural Networks and Deep Learning Specialization                          Jan 2025 - Apr 2025
+
+      ●  Completed a series of courses on deep learning, including Convolutional Neural Networks, Sequence Models, and Structured Data Analysis
+
+   MIT - Blockchain Fundamentals                            Nov 2021 - Mar 2022
+
+      ●  Explored the fundamental concepts of blockchain technology, including decentralized applications, smart contracts, and cryptocurrencies
+
+   DataCamp - Time Series Analysis in Python                   Sep 2024 - Dec 2024
+
+      ●  Mastered time series forecasting techniques and applications using Python and popular libraries like pandas and statsmodels
+
+                                                                                  
+
+Employment History                                                            
+
+               Data Analyst – Amazon                          Jun 2022 - Present
+
+   Amazon is a multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.
+
+      ●  Analyzing customer behavior data to optimize product recommendations and enhance personalized user experiences
+
+      ●  Building machine learning models to predict inventory demand and improve supply chain efficiency
+
+      ●  Collaborating with cross-functional teams to develop data-driven strategies for marketing campaigns and promotions
+
+   Software Engineer Intern – Google                       Jul 2020 - Aug 2020
+
+   Google is a technology company specializing in Internet-related services and products.
+
+      ●  Assisted in the development of a new feature for the Google Search engine, implementing efficient algorithms for real-time data processing
+
+      ●  Participated in code reviews and testing procedures to ensure the quality and reliability of software components
+
+      ●  Conducted performance analysis and optimization for key search algorithms, resulting in a 15% improvement in search speed
+
+   Research Assistant – Stanford University                       Jan 2021 - May 2021
+
+   Stanford University is a leading research institution in the fields of science, engineering, and technology.
+
+      ●  Conducted experiments and data analysis for a research project on machine learning applications in healthcare
+
+      ●  Collaborated with professors and graduate students to design and implement algorithms for medical data processing
+
+      ●  Published a research paper on predictive modeling techniques for early disease detection in medical journals
+
+                                                                                  
+
+Side Projects                                                              
+
+             Data Science Blog – Personal Project               Jan 2023 - Present
+
+      ●  Writing articles on data science topics, including tutorials, case studies, and industry trends
+
+      ●  Engaging with a growing online community of data enthusiasts and sharing insights on social media platforms
+
+             Kaggle Competitions – Machine Learning Projects                          Feb 2024 - Present
+
+      ●  Participating in Kaggle competitions to solve real-world data science challenges and improve machine learning skills
+
+      ●  Collaborating with teammates to develop advanced models and techniques for competitions
+
+                                                                                  
+
+Technical Skills: SQL, R Programming, Tableau, AWS, TensorFlow
+
+Activities: Photography, Yoga, Hiking, Cooking, Public Speaking
+
+Languages: English (Native), Spanish (Fluent), French (Intermediate)
+
+Interests: Artificial Intelligence, Robotics, Drones, Sustainable Technology, Traveling

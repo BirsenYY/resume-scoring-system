@@ -1,0 +1,65 @@
+Alice Chen
+
+San Francisco | 0888888 | alice.chen@email.com | Portfolio: alicechen.dev | GitHub: github.com/alicechen
+
+WORDS ABOUT ME
+
+Software engineer with a background in computer science and a strong interest in developing innovative solutions using data science and machine learning. Passionate about leveraging new technologies to create impactful projects and applications.
+
+CURRENTLY BUILDING
+
+AI Chatbot for Mental Health Support               Aug 2024 – Present
+
+● Developing a conversational AI chatbot that provides mental health support and resources to users in need through natural language processing and sentiment analysis.
+
+PROJECTS
+
+🏆 Data Visualization App – Tableau Certified                     2023
+
+● Led a team to develop a data visualization app using Tableau, enabling users to explore complex datasets and gain insights through interactive dashboards and visualizations.
+
+● Integrated with various data sources, including SQL databases and APIs, to create dynamic and customizable reports.
+
+Live Music Recommendation System – Spotify API                         2023
+
+● Created a recommendation system that analyzes user preferences and music listening habits to suggest personalized live music events using the Spotify API.
+
+● Implemented collaborative filtering algorithms for music recommendations and built a user-friendly interface for exploring recommended events.
+
+Budget Tracker – Certified Finance Technologist                         2023
+
+● Designed and built a finance management app that helps users track their expenses, set budgets, and visualize spending patterns through dynamic charts and graphs.
+
+● Integrated with financial APIs for real-time transaction updates and utilized machine learning for predictive budgeting features.
+
+Workout Planner – Fitness Trainer Certification                        2022
+
+● Developed a workout planner app that generates personalized exercise routines based on user fitness goals, preferences, and available equipment.
+
+● Implemented a recommendation engine using fitness algorithms and provided instructional videos for each exercise to ensure proper form and technique.
+
+EXPERIENCE
+
+Software Engineer                                     Jan 2023 – Present
+
+● Contributing to the development of a cloud-based SaaS platform for enterprise resource planning, focusing on scalability, performance optimization, and continuous integration and deployment.
+
+● Collaborating with cross-functional teams to design and implement new features, enhance existing functionalities, and troubleshoot production issues.
+
+Tech Startup Intern                                       Jun 2022 – Dec 2022
+
+● Worked on a data analytics project to analyze user behavior and optimize marketing strategies for a growing tech startup.
+
+● Conducted A/B testing, data visualization, and performance monitoring to drive data-driven decision-making and improve user engagement.
+
+EDUCATION
+
+Stanford University                                     2018 – 2022
+
+BSc Computer Science                                                      
+
+● Senior capstone project: "Automated Stock Trading System" – developed an algorithmic trading system using machine learning and quantitative finance techniques to make informed investment decisions.
+
+TOOLS AND TECHNOLOGIES
+
+Python, TensorFlow, Keras, Flask, PostgreSQL, AWS, React Native, JavaScript, D3.js, NumPy, Pandas, Matplotlib, Tableau, Spotify API, Finance APIs, Fitness Algorithms, Git & GitHub, Docker, CI/CD, Agile methodologies

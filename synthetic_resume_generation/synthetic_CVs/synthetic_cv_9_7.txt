@@ -1,0 +1,111 @@
+    Microsoft                                    
+
+                                                                                    
+
+                 Seattle, US | (+1) 9876543210 | jane.smith@email.com | Work Rights: Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative Data Scientist and Certified Data Engineer with 7 years of experience. Proficient in developing machine learning models,
+
+      optimizing data pipelines, and deploying scalable solutions. Skilled in Python, PySpark, and SQL. Actively pursuing expertise in
+
+      deep learning, NLP, and graph analytics. Experienced in leading cross-functional teams and delivering business-driven data
+
+      solutions.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, R, Java, Scala | SQL, PostgreSQL, Cassandra | PySpark, TensorFlow, Hadoop, Neo4j, Dask | NLP, Computer Vision,
+
+      Graph Analytics | Flask, Django | Git, Kubernetes, Jenkins, AWS                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Machine Learning Engineer (TechGuru) - San Francisco, US     Nov 2021 : Present
+
+    ● Designed and implemented a customer segmentation model using graph analytics techniques, resulting in a 15% increase in
+
+      marketing effectiveness and customer retention rates              
+
+    ● Developed an anomaly detection system leveraging deep learning algorithms to detect fraudulent activities, reducing financial
+
+      losses by 20%                                                         
+
+    ● Led a team of data engineers to build a real-time recommendation engine using PySpark and Kafka, improving user engagement
+
+      metrics by 30% and revenue by 25%                                          
+
+    ● Spearheaded a project to enhance data quality and governance processes, implementing automated data profiling and validation
+
+      mechanisms to ensure data accuracy and integrity                        
+
+    Side Projects:
+
+    - Implemented a sentiment analysis tool using BERT for analyzing customer feedback data
+    - Developed a prototype for a recommendation system based on item similarity using collaborative filtering
+
+     Data Scientist (BigData Insights) - New York, US    Sep 2019 : Oct 2021
+
+    ● Conducted exploratory data analysis on large datasets to identify trends, patterns, and actionable insights for business
+
+      stakeholders                                                                
+
+    ● Built and deployed predictive models for customer churn prediction and demand forecasting using Python, scikit-learn, and
+
+      XGBoost                                                                     
+
+    ● Optimized ETL processes and data pipelines to support real-time analytics and reporting requirements, increasing data processing
+
+      efficiency by 40%                                                         
+
+    ● Collaborated with cross-functional teams to develop data-driven solutions and drive business growth initiatives through data
+
+      analytics and machine learning techniques                                    
+
+    Side Projects:
+
+    - Developed a predictive model for recommending personalized products to online shoppers
+    - Created a dashboard for visualizing customer churn trends and metrics
+
+     Data Analyst (DataTech Solutions) - Chicago, US    Mar 2016 : Aug 2019
+
+    ● Analyzed and interpreted complex data sets to derive actionable insights and support decision-making processes for clients in
+
+      various industries                                                         
+
+    ● Designed and implemented data visualization dashboards using Tableau and Power BI to communicate key findings and trends to
+
+      stakeholders                                                                
+
+    ● Conducted A/B testing and statistical analysis to evaluate the effectiveness of marketing campaigns and optimize strategies for
+
+      client projects                                                            
+
+    EDUCATION:                                                                      
+
+    MS in Data Science - University of California, Berkeley (Distinction) Aug 2014 : Jun 2016
+
+    BS in Statistics - University of Illinois at Urbana-Champaign (Honors) Aug 2010 : May 2014
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Data Engineering Certification (by DataCamp)       Ongoing  
+
+    ● AWS Certified Big Data - Specialty (AWS)               March 2022
+
+    ● Certified Machine Learning Engineer (by Data Science Society)      August 2021
+
+    ● Graph Analytics Certification (by GraphCore)                December 2020

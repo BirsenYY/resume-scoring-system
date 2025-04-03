@@ -1,0 +1,99 @@
+```
+    Emily Johnson                                  
+
+                        San Francisco | emily.johnson@email.com | AI Specialist | Vista Technologies   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    AI specialist with a strong foundation in computer science and vast experience in developing AI-driven solutions. Currently focusing on deep learning models and applying cutting-edge techniques in the field.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, Java, R, Scala, Go, Docker, Flask, • Frameworks: Fastai, Hugging Face, Ludwig, Pyro, 
+
+     Plotly, MongoDB, Redis, Apache Kafka, H2O.ai                                
+
+    • Machine Learning: ULMFiT, CycleGAN, Anomaly Detection, Transformer Networks, Profiling, Attention Mechanisms    
+
+    • Tools: DVC, MLflow, Airflow, Kubernetes, Apache Flink, MemSQL, Dask, Faiss, Scrapy, GluonCV                
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    AI Engineer | Vista Technologies, New York              June 2021 – Present
+
+    Autonomous Drone Navigation System                    
+
+                                                                                  
+
+    • Led the development of an AI-driven autonomous drone navigation system integrating computer vision and deep learning models.
+
+    • Implemented CycleGAN for image translation to detect diverse terrains accurately.
+
+    • Utilized Attention mechanisms for object tracking and obstacle avoidance.
+
+    • Applied Anomaly Detection algorithms for fault identification and correction.
+
+    • Ensured real-time processing by leveraging Apache Kafka and Kubernetes for scalability.
+
+    Tech Stack: Python, CycleGAN, Attention Mechanisms, YOLOv5, TensorFlow, OpenCV, Apache Kafka, Kubernetes
+
+                                                                                  
+
+    AI Chatbot for Virtual Shopping Platform                
+
+    • Spearheaded the creation of an AI chatbot for a virtual shopping platform to enhance customer experience.
+
+    • Incorporated Transformer Networks for contextual understanding and personalized recommendations.
+
+    • Utilized Profiling techniques to optimize response time and enhance chatbot performance.
+
+    • Implemented ULMFiT for language modeling and generation of natural-sounding responses.
+
+    • Ensured seamless integration with MongoDB for data storage and retrieval.
+
+    Tech Stack: Python, Transformer Networks, ULMFiT, Profiling, MongoDB, Flask, Vue.js
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    PhD in Artificial Intelligence, Stanford University, California           Sept 2020 - Present
+
+    MSc in Computer Science, Carnegie Mellon University, Pennsylvania        Sept 2017 
+
+    BSc in Mathematics (Statistics), University of Washington, Seattle       June 2014 
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Video summarization (LSTM)         • Image stylization (Fastai)               
+
+    • Music generation (GPT-3)           • Disease prediction (Ludwig)              
+
+    • Emotion recognition (Pyro)         • Sleep pattern analysis (Scrapy)          
+
+    • Fraud detection (H2O.ai)           • Text summarization (GluonCV)
+    ```

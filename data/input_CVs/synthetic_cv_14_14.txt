@@ -1,0 +1,86 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Ambitious Computer Science graduate with a passion for software development, backend technologies, and cloud computing. Solid understanding of programming concepts with hands-on experience in building innovative projects. Actively seeking entry-level positions in software engineering, backend development, or cloud computing.
+
+Education
+BSc Computer Science
+University of ABC – London, UK
+Graduated: June 2023
+
+Relevant Courses: Advanced Algorithms, Cloud Computing, Mobile App Development, Cybersecurity, Machine Learning
+
+Final Year Project: Secure File Sharing Platform with End-to-End Encryption
+
+Technical Skills
+Languages: Java, Ruby, PHP, Swift, Kotlin
+Frameworks & Platforms: Spring Boot, Ruby on Rails, Laravel, SwiftUI, Android Studio
+Databases: MySQL, PostgreSQL, Firebase
+Tools: IntelliJ IDEA, Docker, Jira, Jenkins, Amazon Web Services (AWS)
+
+Projects
+CloudNotes
+An online collaborative note-taking app for students with real-time synchronization
+
+Developed using Spring Boot, MySQL, and Amazon S3
+
+Implemented end-to-end encryption for data security
+
+Deployed on AWS EC2 instance
+
+CodeAnalyzer
+A code quality analysis tool that provides insights and metrics for software projects
+
+Built with Ruby on Rails and PostgreSQL; integrated with Github API
+
+Utilized RuboCop for code styling checks
+
+Featured in a tech blog for its usefulness in project management
+
+AI Music Composer
+A machine learning project that generates music compositions based on user input
+
+Implemented using Python, TensorFlow, and Magenta
+
+Trained the model on a dataset of classical music to generate harmonious tunes
+
+Presented the project at a local AI meetup
+
+Certifications
+AWS Certified Solutions Architect – Associate
+
+Java SE 8 Programmer, Oracle Certified Associate
+
+Cybersecurity Fundamentals, CompTIA
+
+Agile Project Management, Scrum Alliance
+
+Experience
+Software Developer Intern
+TechStart Innovations, London
+Sept 2022 – Dec 2022
+
+Contributed to the development of a cloud-based CRM system using Spring Boot and Angular
+
+Worked on database design and API integration for improved system performance
+
+Collaborated with cross-functional teams to deliver project milestones on time
+
+Junior Web Developer
+WebTech Solutions, London
+Jun 2021 – Aug 2021
+
+Assisted in building responsive websites using Ruby on Rails and Bootstrap
+
+Participated in code reviews and testing phases to ensure quality deliverables
+
+Implemented SEO best practices for client websites to improve search rankings
+
+Career Objectives
+Pursue advanced certifications in cloud computing and cybersecurity
+
+Explore opportunities to work on AI-driven projects for real-world applications
+
+Contribute to open-source initiatives that promote tech education and diversity

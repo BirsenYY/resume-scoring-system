@@ -1,0 +1,66 @@
+Alice Smith
+
+                                                     
+                      San Francisco | 987-654-3210 | alicesmith@email.com | DEF Corp | GHI Corp
+
+      SUMMARY
+
+      Experienced machine learning engineer specializing in computer vision and NLP models. Proficient in Python, TensorFlow, and Scikit-Learn. Skilled in deploying machine learning systems within microservices architecture on cloud servers. Passionate about developing innovative AI solutions to solve real-world problems.      
+
+      EXPERIENCE
+
+      GHI Corp                             Jan 2023 – Present
+
+        ●  Led a team in developing and deploying a computer vision system for automated defect detection in manufacturing processes.
+
+        ●  Utilized TensorFlow for image classification and object detection, achieving a 95% accuracy rate.
+
+        ●  Implemented CI/CD pipelines using Jenkins and Docker for efficient model deployment and monitoring.
+
+      JKL Inc                             Apr 2019 – Dec 2022
+
+        ●  Collaborated with data scientists to build and deploy NLP models for sentiment analysis and text classification.
+
+        ●  Developed a recommendation system using collaborative filtering techniques with Python and Spark.
+
+        ●  Implemented data pipelines and ETL processes to process and analyze large-scale datasets.
+
+      PROJECTS
+
+      Retail Store Image Analyzer                                             2023     
+
+        ●  Designed and deployed an image analysis tool for detecting product defects in retail store photos.
+
+      Chatbot for Customer Support                                          2022     
+
+        ●  Built a conversational AI chatbot to handle customer inquiries and provide automated support.
+
+      Real-time Stock Price Predictor                                        2021     
+
+        ●  Developed a machine learning model for predicting stock prices using historical data and real-time updates.
+
+      Wildlife Monitoring Drone                                             2021     
+
+        ●  Integrated computer vision algorithms on a drone for monitoring wildlife populations in remote areas.
+
+      License Plate Recognition System                                      2020     
+
+        ●  Created a system for automatic license plate recognition using deep learning techniques.
+
+      CERTIFICATIONS
+
+      - AWS Certified Machine Learning – Specialty
+      - Microsoft Certified: Data Analyst Associate
+      - Certified Kubernetes Administrator (CKA)
+      - CompTIA Security+
+      - Google Cloud Professional Data Engineer
+
+      EDUCATION
+
+      UVW University                                           2015 – 2019  
+
+      BS in Computer Engineering                                                        
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+      Proficient in TensorFlow, PyTorch, Scikit-Learn, Docker, Kubernetes, Jenkins, Spark, SQL, Python, Java, MATLAB, AWS, Google Cloud, Git, Jupyter, HTML, CSS, JavaScript, React.

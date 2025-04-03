@@ -1,0 +1,52 @@
+Jane Smith
+
+Paris, France | +1234567 | jane.smith@email.com | ABC Tech | XYZ Corp
+
+ABOUT ME
+
+Experienced machine learning engineer with a demonstrated history of developing and deploying cutting-edge machine learning systems. Skilled in leading technical teams and building models from scratch. Proficient in Python and TensorFlow ecosystem, with hands-on experience in computer vision and natural language processing models. Specialize in designing applications with Flask and microservices architecture, deployed on cloud platforms and bare metal servers.
+
+CURRENT PROJECT
+
+ABC Tech – Machine Learning Engineer                    Mar 2022 – Present
+
+- Co-founded a tech startup focusing on developing AI-driven solutions for retail optimization. 
+- Led the development of a recommendation system for e-commerce platforms. 
+
+PROJECTS
+
+ABC Tech – Retail Analytics Platform                       2022     
+
+- Implemented a customer segmentation algorithm for marketing optimization. 
+
+EXPERIENCE
+
+XYZ AI Lab – Research Scientist                            Jul 2020 – Mar 2022
+
+- Conducted research on transfer learning techniques in computer vision and NLP.
+- Developed models for image classification and sentiment analysis.
+- Implemented MLOps practices using MLflow and Apache Beam. 
+
+XYZ Innovate – AI Engineer                                      Jan 2019 – Jul 2020
+
+- Engineered AI solutions for predictive maintenance in manufacturing plants.
+- Designed anomaly detection algorithms using unsupervised learning techniques.
+- Presented workshops on AI applications in industrial settings. 
+
+DEF Technologies – Junior Data Scientist             Sep 2017 – Jan 2019
+
+- Worked on developing predictive models for customer churn prediction.
+- Conducted data analysis and visualization using Tableau and Seaborn.
+- Collaborated with cross-functional teams for data-driven decision-making.
+
+EDUCATION
+
+XYZ Institute of Technology                               2015 – 2019  
+
+MSc in Machine Learning                                                          
+
+- Received the Innovation in AI award for my thesis project on generative adversarial networks. 
+
+TOOLS AND TECHNOLOGIES
+
+TensorFlow, PyTorch, Scikit-Learn, Flask, Keras, Decision Trees, Random Forest, XGBoost, Docker, Kubernetes, AWS S3, Apache Spark, SQL, NumPy, Pandas, Matplotlib, React, Node.js, Python, Java, C++

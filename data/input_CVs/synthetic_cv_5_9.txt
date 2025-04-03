@@ -1,0 +1,93 @@
+Alice Smith
+
+                                                                                  
+
+                          555-123-4567 | alice.smith@email.com             
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                               
+
+    University of California, Berkeley                    Sep 2019 - May 2023
+
+      ●  BSc Data Science: Graduated with honors (Summa Cum Laude)                    
+
+      ●  Awarded a certification in Data Visualization using Tableau and Power BI
+
+      ●  Completed coursework in Reinforcement Learning, Time Series Analysis, and Big Data Analytics
+
+    MIT, Massachusetts                          Sep 2024 - Nov 2024
+
+      ●  Cybersecurity Analyst Certification Program (< 5% acceptance rate)             
+
+      ●  Covered topics such as Network Security, Ethical Hacking, Incident Response, and Cryptography
+
+    King's College London                                  Sep 2014 - Jun 2021
+
+      ●  A-Levels: Physics (A*), English Literature (A), History (A)                  
+
+      ●  Activities and Societies: President of Debate Society, Volunteer at Local Community Center
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Data Analyst – Google                           Jul 2023 - Aug 2023
+
+      ●  Analyzed user data to provide insights for optimizing marketing strategies
+
+      ●  Utilized machine learning algorithms to develop predictive models for customer behavior
+
+    Research Assistant – National Institute of Health                           Jan 2022 - Jun 2022
+
+      ●  Conducted literature reviews and assisted in data collection and analysis for a cancer research project
+
+      ●  Co-authored a research paper on the impact of genetic mutations on tumor growth
+
+    Marketing Intern – Startup X Jun 2021 - Aug 2021
+
+      ●  Assisted in developing social media campaigns and analyzing campaign performance
+
+      ●  Contributed to market research and competitor analysis reports
+
+                                                                                  
+
+    Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Project Lead – Data Science Hackathon          Jan 2022 - Jun 2022
+
+      ●  Organized a data science hackathon with over 50 participants and 10 industry sponsors
+
+    Side Project – Udacity AI for Healthcare Nanodegree              Apr 2024 - Oct 2024
+
+      ●  Completed projects on Medical Image Analysis, Electronic Health Record Analysis, and Predictive Analytics for Disease Diagnosis
+
+    Event Coordinator – Local Charity Fundraiser               Mar 2021 - Mar 2022
+
+      ●  Managed logistics and promoted fundraising events to support community causes
+
+                                                                                  
+
+    Student Mentor & STEM Ambassador – UK            Mar 2021 - Jun 2023
+
+      ●  Mentored underprivileged students in STEM subjects and encouraged participation in science fairs
+
+      ●  Represented UK at international STEM conferences and events
+
+    Additional Information                                                        
+
+                                                                                  
+
+    Technical Skills: R Programming, SQL, Tableau, Python (Scikit-Learn, TensorFlow), AWS
+
+    Activities: Photography, Hiking, Volunteer Work, Public Speaking
+
+    Languages: English (Native), Spanish (Intermediate), French (Basic)
+
+    Interests: Artificial Intelligence, Environmental Sustainability, Traveling, Cooking, Yoga

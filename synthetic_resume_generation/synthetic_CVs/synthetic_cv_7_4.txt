@@ -1,0 +1,49 @@
+Sophia Adams
+
+London | 555-123-4567 | sophiaadams@email.com | EFG Tech | LMN Solutions
+
+**SUMMARY**
+
+Machine learning and software engineer specializing in developing and deploying machine learning systems. Proficient in Python and TensorFlow ecosystem, with experience in computer vision and speech recognition models. Skilled in building microservices using FastAPI and Docker on cloud platforms.
+
+**EXPERIENCE**
+
+EFG Tech - Machine Learning Engineer | Jan 2023 - Present
+
+- Developed and deployed a speech recognition model for a virtual assistant application using TensorFlow and Keras.
+- Implemented MLOps practices with tools such as MLflow, Argo, and Jenkins for model training and deployment.
+
+LMN Solutions - Data Scientist | Aug 2020 - Dec 2022
+
+- Led a team in developing a sentiment analysis tool using BERT and LSTM models for social media data.
+- Collaborated with cross-functional teams to integrate machine learning models into production systems.
+
+**PROJECTS**
+
+Music Genre Classification System | 2023
+
+- Created a music genre classification system using Convolutional Neural Networks and LSTM for better feature extraction.
+
+Online Fraud Detection System | 2022
+
+- Built an end-to-end fraud detection system using XGBoost and LightGBM for real-time transaction monitoring.
+
+Secure File Sharing Application | 2021
+
+- Developed a secure file sharing application with end-to-end encryption and access control using Flask and React.
+
+**CERTIFICATIONS**
+
+- Certified Data Engineer (CDE) - Google Cloud
+- AWS Certified Solutions Architect - Associate
+- Certified Blockchain Developer - Blockchain Council
+
+**EDUCATION**
+
+LMN University | 2016 - 2020
+
+BSc in Computer Science
+
+**TOOLS AND TECHNOLOGIES**
+
+Experience with TensorFlow, Keras, PyTorch, Scikit-Learn, FastAPI, Docker, Kubernetes, Git, PostgreSQL, Matplotlib, NumPy, Pandas, React, Flask, HTML, CSS, JavaScript, C++.

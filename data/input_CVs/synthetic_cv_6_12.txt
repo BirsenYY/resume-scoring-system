@@ -1,0 +1,91 @@
+```
+    Amazon                                    
+
+                                                                                    
+
+                 Seattle, US | (+1) 9876543210 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Goal-oriented Data Scientist and Azure Certified Data Engineer with 6 years of experience. Proficient in building machine learning models,
+
+      developing data pipelines, and leveraging cloud technologies. Skilled in Python, Spark, and Azure services. Currently expanding expertise in
+
+      deep learning architectures, time series forecasting, and AI-driven decision support systems. Proven track record of collaborating cross-functionally,
+
+      optimizing data processes, and delivering impactful solutions in various industries.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, R, Scala, MATLAB, Java | SQL, MongoDB, Snowflake | TensorFlow, PyTorch, AutoML, Hugging Face, BayesFlow,
+
+      Prophet | Azure Machine Learning, Databricks, Data Factory, Synapse | Flask, Django | Git, Kubernetes, Jenkins, AWS                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Machine Learning Engineer (TechEdge Solutions) - San Francisco, US    Jun 2021 : Present
+
+    ● Designed and implemented anomaly detection algorithms for predictive maintenance in manufacturing processes, resulting in a 30% reduction
+
+      in downtime and maintenance costs                                              
+
+    ● Spearheaded the development of a recommendation engine using collaborative filtering techniques, improving user engagement and
+
+      personalized content delivery for an e-commerce platform                          
+
+    ● Led the migration of data workflows to Azure cloud infrastructure, optimizing data processing speed and reducing latency by 20%        
+
+    ● Conducted workshops on advanced machine learning concepts, mentored junior team members, and organized hackathons to foster innovation              
+
+     Data Scientist (DataWorks Inc.) - New York, US    Mar 2019: Jun 2021
+
+    ● Developed and deployed predictive models for customer churn prediction, achieving an accuracy rate of 85% and reducing customer attrition
+
+      by 15%                                                                             
+
+    ● Automated data preprocessing tasks using PySpark, improving data quality and reducing manual errors in feature engineering                
+
+    ● Collaborated with cross-functional teams to develop a real-time dashboard for monitoring key performance indicators and business metrics        
+
+    ● Conducted A/B testing experiments to optimize marketing campaigns and product recommendations based on customer segmentation analysis            
+
+     Research Assistant (Carnegie Mellon University) - Pittsburgh, US    Aug 2018: Mar 2019
+
+    ● Conducted research on time series forecasting models, evaluating the performance of different algorithms on financial market data                    
+
+    ● Published research papers on deep learning approaches for anomaly detection in cybersecurity, presenting findings at international conferences                
+
+    ● Collaborated with faculty members on grant proposals and research projects, contributing to the development of innovative data analysis methods          
+
+    EDUCATION:                                                                      
+
+    PhD in Data Science - University of California, Berkeley    Aug 2014 : July 2018
+
+    MS in Computer Engineering - Georgia Institute of Technology, Atlanta    Aug 2012 : July 2014
+
+    BS in Electrical Engineering - University of Illinois at Urbana-Champaign    Aug 2008 : July 2012
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Azure Data Engineer Associate (Microsoft)       June, 2022
+
+    ● Certified Kubernetes Administrator (Cloud Native Computing Foundation)         Jan, 2022
+
+    ● Data Engineering with Google Cloud Professional Certificate (Coursera)         Aug, 2021
+
+    ● AI for Everyone Specialization (Deep Learning AI)        Nov, 2021
+
+    ● Time Series Forecasting with Python (Udemy)        March, 2020
+```

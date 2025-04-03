@@ -1,0 +1,111 @@
+Alice Smith
+
+                                                                                  
+
+                   Los Angeles, USA | +1 234 567 8901 | alice.smith@email.com | Data Innovations
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Data Innovations – Data Scientist           Nov 2023 – Jan 2024
+
+        ●  Worked on optimizing machine learning models for anomaly detection in time series data.
+
+        ●  Implemented a novel clustering algorithm for customer segmentation and personalized marketing.
+
+        ●  Developed predictive maintenance solutions for industrial equipment using sensor data.                                
+
+        ●  Utilized Signal Flow Graphs and Spectral Clustering for network analysis.
+
+                                                                                  
+
+      Data Innovations – Machine Learning Engineer              Apr 2022 – Jul 2023
+
+        ●  Implemented reinforcement learning algorithms for optimizing supply chain management.
+
+        ●  Developed a recommendation system using collaborative filtering techniques.
+
+        ●  Deployed NLP models for sentiment analysis of customer feedback data.
+
+      Data Innovations – Software Engineer                                Sep 2021 – Mar 2022
+
+        ●  Developed a web application for real-time dashboarding of key performance indicators.
+
+        ●  Integrated ML models for fraud detection in financial transactions.
+
+        ●  Automated ETL processes using Apache NiFi for data warehousing.
+
+                                                                                  
+
+      Bright Tech – Data Analyst                         Jul 2019 – Dec 2020
+
+        ●  Analyzed customer data to identify trends and patterns for marketing campaigns.
+
+        ●  Utilized SQL queries to extract and manipulate data from relational databases.
+
+        ●  Created interactive visualizations with Tableau for data-driven decision-making.
+
+                                                                                  
+
+      Data Insights Co. – Research Assistant                         Mar 2018 – Jun 2019
+
+        ●  Conducted statistical analysis on survey data to derive insights for market research reports.
+
+        ●  Assisted in designing and conducting A/B tests for website optimization.
+
+        ●  Collaborated with data scientists to develop predictive models for customer churn analysis.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Data University                                       2018 – 2022  
+
+      Data Science, Data Engineering, Big Data Analytics                                      
+
+                                                                                  
+
+      Science Academy                                         2014 – 2018  
+
+      BSc Statistics, Applied Mathematics                                        
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Data Innovations – link                                               2023     
+
+      Health Analytics Platform - link                                        2023     
+
+      Data Innovations - link                                        2022     
+
+      Deep Learning for Finance - link                                                     
+
+                                                                                  
+
+      CERTIFICATIONS
+
+      1. Certified Machine Learning Engineer (CMLE)
+      2. Big Data Professional (BDP)
+      3. Apache Spark Developer Certification
+      4. Certified Data Visualization Specialist (CDVS)
+      5. Blockchain for Data Scientists 
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: Data Innovations, Bright Tech, Data Insights Co., Data Matters, DataViz Tools, Data Services, Big Data Solutions, MyData Tools, DataOps,
+
+      Apache Spark, Hadoop, TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy, Matplotlib, Tableau, Apache NiFi, Apache Kafka, SQL, MongoDB, PostgreSQL,
+
+      Hive, HBase, Redis, AWS, Azure, GCP, Docker, Kubernetes, Linux, Jupyter, Databricks, Git, Airflow, Selenium, Flask, Django, Power BI, Excel, R, SAS,
+
+      MATLAB, Java, Python, JavaScript, Scala, C++, C#, HTML, CSS, React, Angular, Vue.js, Node.js, Express.js, RESTful APIs, JSON, XML, Flask, Plotly, Matplotlib.

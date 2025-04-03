@@ -1,0 +1,66 @@
+Sarah West
+Manchester, UK | (+44) 7894563210 | sarah.west@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/sarahwest | github.com/SarahWest | westengineering.com/sarahwest | medium.com/@sarahw
+
+PROFESSIONAL SUMMARY:
+
+Dynamic Mechanical Engineer with over 6 years of experience in product design, analysis, and optimization within the automotive and renewable energy industries. Proficient in CAD design, simulation tools, and project management techniques. Skilled in leading cross-functional teams, developing sustainable solutions, and improving manufacturing processes. Actively exploring advances in smart materials and IoT applications.
+
+SKILLS:
+
+SolidWorks, Inventor, Fusion 360, CFD, Hypermesh, Nastran, Altair Inspire, Renewable Energy Systems, Vehicle Dynamics, Electromechanical Systems, Six Sigma, Lean Manufacturing, Agile Project Management, Data Analysis, Java, R, AutoCAD, MS Office Suite, SAP, Quality Control, Risk Assessment, Failure Mode Analysis
+
+PROFESSIONAL EXPERIENCE:
+
+Senior Mechanical Engineer (Jaguar Land Rover) – Coventry, UK
+Mar 2018 – Present
+
+Led the design and validation of battery thermal management systems for electric vehicles, resulting in a 20% increase in energy efficiency
+
+Conducted structural and thermal analysis of vehicle chassis components using Nastran, reducing weight by 15% while maintaining structural integrity
+
+Implemented IoT sensors for real-time performance monitoring, enabling predictive maintenance strategies and enhancing vehicle reliability
+
+Collaborated with teams across R&D, manufacturing, and quality control departments to ensure successful project launches within strict timelines
+
+Mechanical Design Engineer (Vestas Wind Systems) – Edinburgh, UK
+Sep 2015 – Feb 2018
+
+Designed aerodynamic enhancements for wind turbine blades, improving energy capture efficiency by 10%
+
+Generated detailed 3D models and manufacturing drawings using Inventor, optimizing production processes and reducing lead times by 20%
+
+Led a cross-functional team in root cause analysis of wind turbine failures, implementing design improvements to enhance reliability
+
+Participated in site visits for wind turbine installations, ensuring compliance with safety and performance standards
+
+Graduate Mechanical Engineer (Renault F1 Team) – Enstone, UK
+Jun 2013 – Aug 2015
+
+Contributed to the design and development of Formula 1 race car components, focusing on aerodynamics and performance enhancements
+
+Conducted CFD simulations to optimize airflow around the car body, resulting in a 5% increase in downforce
+
+Provided technical support during race weekends, collaborating with the trackside engineering team to address performance issues
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Manchester, Manchester (Distinction)
+Sep 2010 – Jul 2015
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Licensed Professional Engineer (Institution of Mechanical Engineers) – 2021
+
+Certified Inventor Professional – 2017
+
+Renewable Energy Technologies Specialist (NREL) – 2020
+
+Vehicle Dynamics and Control (Coursera) – Ongoing
+
+AI in Engineering Design (Stanford Online) – 2022
+
+Side Projects:
+
+- Developed a solar-powered vehicle prototype for a university competition, achieving 2nd place in the national event
+- Designed a portable wind turbine for off-grid power generation during camping trips, securing funding for a small-scale production run

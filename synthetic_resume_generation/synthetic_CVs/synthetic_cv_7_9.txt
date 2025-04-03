@@ -1,0 +1,52 @@
+John Doe
+
+Location: San Francisco | Phone: 0888888 | Email: john.doe@email.com
+
+Professional Summary
+
+Quality Assurance Engineer with a strong background in designing test strategies, building automated test frameworks, and ensuring the delivery of high-quality software. Experienced in working with various tools and technologies to perform API testing, automation testing, and integrating CI/CD pipelines for seamless releases. Proven track record of collaborating with cross-functional teams in Agile environments to drive continuous improvement in software quality.
+
+Currently Building
+
+XYZ Tech - Quality Assurance Engineer          May 2023 - Present
+
+- Leading the QA efforts at XYZ Tech, focusing on enhancing test automation frameworks and test coverage
+- Collaborating with the development team to implement quality gates in CI/CD pipelines for early bug detection
+
+Projects
+
+Test Coverage Analyzer - GitHub Repo      2023
+
+- Developed a test coverage analyzer tool using Java and TestNG to measure test effectiveness
+- Achieved 90% test coverage improvement for a complex financial software application
+
+Experience
+
+XYZ Innovations - QA Automation Engineer        Jan 2021 - May 2023
+
+- Designed and implemented end-to-end test automation scripts using TestCafe for a cloud-based CRM platform
+- Spearheaded the adoption of contract testing with Pact for microservices to enhance API reliability
+
+XYZ Solutions - QA Analyst           Jul 2018 - Jan 2021
+
+- Conducted thorough manual testing for large-scale ERP systems in the healthcare industry
+- Led UAT sessions and collaborated with stakeholders to validate new features and functionalities
+
+Education
+
+XYZ University           2015 - 2018
+
+Bachelor of Science in Computer Science
+
+- Graduated with Distinction - Capstone project on optimizing test automation for scalable web applications
+
+Certificates
+
+1. Certified Agile Tester (CAT)
+2. AWS Certified Cloud Practitioner
+3. ISTQB Certified Tester Foundation Level
+4. Certified Scrum Master (CSM)
+
+Tools and Technologies
+
+Selenium, TestCafe, Postman, Jenkins, JIRA, Git & GitHub, Java, Python, TestNG, Pact, Docker, CI/CD, Agile Scrum, XYZ Innovations, XYZ Solutions, XYZ Tech

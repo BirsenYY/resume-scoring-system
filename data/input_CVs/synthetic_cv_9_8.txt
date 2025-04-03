@@ -1,0 +1,71 @@
+Mark Rodriguez
+
+Los Angeles | 0777777 | mark.rodriguez@email.com | Portfolio: markrodriguez.com | GitHub: github.com/markrodriguez
+
+WORDS ABOUT ME
+
+Computer Science enthusiast with a keen interest in leveraging data science, artificial intelligence, and web development to tackle complex challenges. Passionate about exploring innovative technologies and crafting well-documented projects that showcase strong engineering principles. Proficient in Python, Java, and cloud technologies with a drive to transform concepts into scalable solutions.
+
+CURRENTLY BUILDING
+
+AI-driven Chatbot – Natural Language Processing Engineer     Sep 2023 – Present
+
+● Developing a conversational AI chatbot using state-of-the-art NLP models for customer service automation.
+
+PROJECTS
+
+🌟 AI Hackathon Winner – Speech Recognition System                                 2023
+
+● Led a team to victory in a speech recognition hackathon, achieving high accuracy in transcribing diverse audio formats.
+
+● Implemented a hybrid approach combining DeepSpeech and transformer models for robust performance.
+
+ProductivityPal – Task Management App (productivitypal.app)                     2023
+
+● Designed and developed a task management application to enhance user productivity and time management.
+
+● Incorporated features like task categorization, priority setting, and progress tracking for seamless user experience.
+
+CodeCoach – Automated Code Review Tool                                                  2022
+
+● Engineered an automated code review system to analyze coding assignments and provide detailed feedback to learners.
+
+● Integrated with GitHub API for version control and deployed on AWS using Flask for scalability.
+
+VisionXpert – Image Classification Platform                                                2021
+
+● Engineered an image classification platform using transfer learning techniques to classify diverse image datasets accurately.
+
+● Leveraged pre-trained models such as ResNet and EfficientNet for efficient model training and deployment.
+
+EDUCATION
+
+California Institute of Technology (Caltech)             2020 – 2024
+
+BSc in Computer Science                                                                                   
+
+● Capstone Project: "Enhancing Image Recognition with Generative Adversarial Networks" – achieved 15% accuracy improvement in image classification tasks.
+
+CERTIFICATIONS
+
+1. AWS Certified Solutions Architect – Associate
+2. Cisco Certified Network Associate (CCNA)
+3. Red Hat Certified Engineer (RHCE)
+
+EXPERIENCE
+
+Software Developer                                      Jan 2022 – Nov 2023
+
+● Spearheaded the development of innovative software solutions for clients across various industries, focusing on performance optimization and user experience enhancement.
+
+● Implemented custom algorithms for data processing and analysis, leading to improved efficiency in data-driven decision-making.
+
+ABC Tech Inc. – Software Engineering Intern                   Jun 2021 – Aug 2021
+
+● Contributed to the design and development of web applications using modern frameworks and libraries.
+
+● Collaborated with cross-functional teams to deliver high-quality software products within project timelines.
+
+TOOLS AND TECHNOLOGIES
+
+Java, Spring Boot, Node.js, Angular, AWS, Docker, Kubernetes, GitLab, MongoDB, PostgreSQL, HTML/CSS, TypeScript, Selenium, Jira, Google Cloud Platform, Jenkins

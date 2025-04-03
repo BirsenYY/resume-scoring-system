@@ -1,0 +1,70 @@
+Emily Stone
+Manchester, UK | (+44) 7951267345 | emily.stone@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/emilystone | github.com/EmilyStone | medium.com/@emilystone
+
+PROFESSIONAL SUMMARY:
+
+Dynamic Mechanical Engineer with over 8 years of experience in product design, structural analysis, and industrial automation. Proficient in CAD modeling, computational fluid dynamics, and sustainable engineering practices. Skilled in process optimization, team leadership, and implementing cutting-edge solutions in the manufacturing and robotics industries. Currently exploring opportunities to enhance expertise in machine learning applications for predictive maintenance.
+
+SKILLS:
+
+SolidWorks, AutoCAD, Inventor, CFD, LabVIEW, Robotics, Automation Systems, Sustainable Design, 3D Printing, Statistical Analysis, Process Improvement, Machine Learning, Agile Project Management, VBA, R, Technical Writing, Quality Control, Six Sigma, Lean Manufacturing, CNC Machining, IoT, HMI
+
+PROFESSIONAL EXPERIENCE:
+
+Lead Mechanical Design Engineer (ABB Robotics) – Manchester, UK
+Apr 2019 – Present
+
+Managed the design and development of robotic automation systems for industrial clients, resulting in a 30% increase in production efficiency
+
+Utilized CFD simulations to optimize cooling systems for robotic arms, enhancing performance and longevity
+
+Led a cross-functional team in implementing IoT sensors for predictive maintenance, reducing downtime by 15%
+
+Collaborated with software engineers to integrate machine learning algorithms for real-time anomaly detection in manufacturing processes
+
+Mechanical Engineer (Jaguar Land Rover) – Coventry, UK
+Sep 2015 – Mar 2019
+
+Contributed to the design and testing of automotive components, focusing on lightweight materials and aerodynamic improvements
+
+Implemented lean manufacturing techniques in assembly line processes, reducing waste by 20%
+
+Led root cause analysis investigations for quality issues, leading to a 10% improvement in product reliability
+
+Developed automated testing procedures using LabVIEW, streamlining quality control processes
+
+Assistant Mechanical Engineer (Rolls-Royce Marine) – Bristol, UK
+Jan 2013 – Aug 2015
+
+Supported the design and analysis of propulsion systems for marine vessels, ensuring compliance with industry standards
+
+Conducted vibration and noise analysis to optimize engine performance and reduce operational costs
+
+Assisted in the development of technical documentation for shipbuilding projects, contributing to successful bids for naval contracts
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Birmingham, Birmingham (Distinction)
+Sep 2009 – Jul 2013
+
+BEng in Mechanical Engineering – University of Manchester, Manchester (First Class Honours)
+Sep 2006 – Jun 2009
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Certified Automation Professional – 2021
+
+Advanced Robotics Training (MIT) – 2018
+
+Quality Control Fundamentals – 2017
+
+Industrial IoT Specialist – 2020
+
+Lean Six Sigma Yellow Belt – 2016
+
+Side Projects:
+
+1. Developed a robotic arm prototype for educational purposes, incorporating machine learning algorithms for object recognition
+2. Created an automated irrigation system using IoT sensors and weather data analysis for optimized water usage
+3. Led a team in designing a solar-powered electric vehicle for a university competition, focusing on lightweight materials and energy efficiency.

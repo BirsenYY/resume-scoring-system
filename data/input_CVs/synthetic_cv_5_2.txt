@@ -1,0 +1,103 @@
+Jane Smith                                            
+
+                                                                                  
+
+                          555-123-4567 | jane.smith@email.com  
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                               
+
+    Imperial College London, London                    Sep 2019 - Jun 2022
+
+      ●  BSc Biomedical Engineering: Graduated with First Class Honours                    
+
+      ●  Awarded a Certificate in Advanced Biomaterials and Tissue Engineering
+
+      ●  Completed a research project on the development of a novel drug delivery system using nanotechnology
+
+    University of Edinburgh, Edinburgh                          Sep 2024 - Dec 2024
+
+      ●  Advanced Data Analytics Bootcamp (ADAB): Specialized in Data Visualization Techniques             
+
+      ●  Relevant Content: Power BI, Tableau, Data Storytelling, Dashboard Design, Predictive Analytics
+
+    Pembrokeshire College, Wales                                   Sep 2013 - Jun 2018
+
+      ●  Extended Diploma in Applied Science: Distinction*                  
+
+      ●  Activities and Societies: Captain of Robotics Team, Member of Sustainability Club
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Research Assistant – MedTech Innovations                           Jul 2022 - Aug 2022
+
+    MedTech Innovations is a startup focusing on medical device development; 0.5% internship acceptance rate.
+
+      ●  Conducted feasibility studies for a new implantable sensor technology, involving market research and competitor analysis
+
+      ●  Collaborated with engineers to design and prototype a proof-of-concept device for remote patient monitoring
+
+    Data Analyst – Health Analytics Ltd.                           Jan 2023 - May 2023
+
+    Health Analytics Ltd. is a healthcare data analytics company, catering to hospitals and healthcare providers.
+
+      ●  Analyzed electronic health records to identify trends and patterns in patient data, leading to actionable insights for clients
+
+      ●  Developed interactive dashboards using Tableau to visualize key performance indicators for hospital administrators
+
+    Software Engineer Intern – TechSolve Solutions Jun 2021 - Aug 2021
+
+    TechSolve Solutions is a software development company specializing in custom solutions; 0.3% internship acceptance rate.
+
+      ●  Contributed to the front-end development of a new web application using React.js and CSS frameworks
+
+      ●  Collaborated with the QA team to write test cases and perform unit testing to ensure the application's functionality
+
+      ●  Resolved bugs and implemented user interface improvements based on client feedback
+
+                                                                                  
+
+    Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Co-Founder – Health-Tech Innovation Club          Jan 2020 - Jun 2022
+
+      ●  Organized workshops on healthcare innovation and entrepreneurship, attracting guest speakers from the industry
+
+    Personal Project – Data Science Portfolio              Apr 2023 - Oct 2023
+
+      ●  Completed online courses in data science, focusing on machine learning algorithms and data visualization techniques
+
+      ●  Developed a predictive model for customer churn using Python and scikit-learn, with an accuracy of 85%
+
+    Event Coordinator – Annual Charity Gala               Mar 2021 - Mar 2022
+
+      ●  Managed logistics and coordinated sponsorships for a fundraising gala, raising £20,000 for a local charity
+
+                                                                                  
+
+    Student Mentor & STEM Ambassador – UK            Mar 2021 - Jun 2023
+
+      ●  Mentored high school students interested in STEM fields, providing guidance on university applications and career paths
+
+      ●  Facilitated science workshops and STEM events to engage young learners in hands-on activities
+
+    Additional Information                                                        
+
+                                                                                  
+
+    Technical Skills: R, SQL, MATLAB, Java, AWS (Basics), Data Visualization
+
+    Activities: Public Speaking, Hiking, Photography, Community Volunteering
+
+    Languages: English (Native), French (Intermediate), Spanish (Basic)
+
+    Interests: Sustainable Technology, Artificial Intelligence, Traveling, Yoga, Cooking

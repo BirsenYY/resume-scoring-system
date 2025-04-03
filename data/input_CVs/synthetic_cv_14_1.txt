@@ -1,0 +1,85 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Recent graduate in Computer Engineering with a passion for software development and a particular interest in backend technologies. Skilled in building efficient algorithms and web applications. Actively seeking entry-level positions in software engineering, backend development, or cloud computing.
+
+Education
+BEng Computer Engineering
+Imperial College London – London, UK
+Graduated: June 2023
+
+Awarded with Dean's List for Academic Excellence
+
+Relevant Courses: Advanced Databases, Cybersecurity, Cloud Computing, Embedded Systems, Machine Learning
+
+Final Year Project: Secure Data Sharing Platform Using Homomorphic Encryption
+
+Technical Skills
+Languages: Java, C#, PHP, R, TypeScript
+Frameworks & Libraries: Spring Boot, Hibernate, Angular, TensorFlow
+Tools & Technologies: Docker, Jenkins, AWS, Kubernetes, Postman
+Concepts: Microservices, Scalability, Agile Methodologies, Continuous Integration/Continuous Deployment
+
+Projects
+CodeBuddy
+An online platform connecting developers for pair programming and code reviews
+
+Developed using Spring Boot and Angular
+
+Implemented real-time notifications with WebSocket
+
+Deployed on AWS EC2 instances with load balancing
+
+BugTrackr
+Issue tracking system for software development teams to manage bugs effectively
+
+Utilized Hibernate for database management
+
+Implemented RESTful APIs for seamless integration with other tools
+
+Integrated with JIRA for enhanced project management
+
+AI Health Monitor
+An AI-based application for predicting health risks using personal health data
+
+Developed machine learning models with TensorFlow
+
+Implemented a responsive frontend with interactive visualizations
+
+Deployed on Google Cloud Platform for scalable performance
+
+Certifications
+AWS Certified Solutions Architect – Associate
+Microsoft Certified: Azure Fundamentals
+Blockchain Essentials, IBM
+Data Science for Everyone, DataCamp
+
+Experience
+Software Engineer Intern
+TechStartupX – London, UK
+Sept 2022 – Dec 2022
+
+Developed new features for the main product using Java and Spring Boot
+
+Collaborated with the team on database design and optimization
+
+Assisted in migrating on-premises applications to AWS cloud services
+
+Research Assistant
+Imperial College London – London, UK
+Jun 2021 – Aug 2021
+
+Worked on a research project in the field of artificial intelligence and healthcare
+
+Implemented algorithms for processing medical imaging data
+
+Analyzed results and contributed to academic publications
+
+Career Objectives
+Pursue a career in software engineering with a focus on backend development and cloud technologies
+
+Advance skills in machine learning and data science through practical applications
+
+Contribute to innovative projects that make a meaningful impact on society

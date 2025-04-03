@@ -1,0 +1,63 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Dynamic Software Engineer with over 7 years of experience in developing innovative backend solutions and tools. Proficient in coding with Python, Java, and JavaScript. Skilled in enhancing system reliability through test automation and CI/CD implementations. Strong advocate for crafting secure and efficient software products that prioritize user satisfaction.
+
+Technical Skills
+Languages: Python, Java, JavaScript, C++, Rust
+
+Frameworks & Tools: Node.js, Spring Boot, Flask, Angular, Puppeteer, TestNG, Mockito, Cypress
+
+DevOps & CI/CD: Docker, Jenkins, GitHub Actions, Helm, Ansible
+
+Databases: PostgreSQL, MongoDB, Redis, Cassandra
+
+Cloud & Platforms: AWS (EC2, ECS, RDS), Azure, Docker Swarm, Kubernetes
+
+Others: GraphQL, WebSockets, Kanban, Pair Programming, DDD
+
+Professional Experience
+Senior Software Engineer
+DataDynamics Ltd., London, UK
+Aug 2019 – Present
+
+Designed and implemented scalable microservices in Python, utilizing AWS EC2 and ECS for deployment
+
+Collaborated with UX/UI designers to streamline frontend-backend integration for responsive web applications
+
+Optimized database performance by 40% through query refinement and efficient indexing strategies
+
+Championed the adoption of automated testing frameworks and observability tools for enhanced system monitoring
+
+Mentored new team members, conducted code reviews, and contributed to agile development processes
+
+Software Engineer (Infrastructure Automation)
+ByteForge Technologies, London, UK
+Nov 2016 – Jul 2019
+
+Developed custom automation tools in Python and Bash to streamline development processes and enhance team productivity
+
+Integrated automated testing suites with CI/CD pipelines using Jenkins, GitHub Actions, and Ansible
+
+Designed RESTful APIs for internal tooling, data processing, and system health monitoring
+
+Collaborated with cross-functional teams to ensure infrastructure stability and optimized deployment pipelines
+
+Refactored legacy scripts for improved maintainability and performance, reducing deployment errors by 25%
+
+Side Projects
+1. Project Management Tool: Created a project tracking dashboard using Angular and GraphQL for efficient task allocation and progress monitoring.
+2. IoT Sensor Data Analysis: Developed a real-time data processing system using WebSockets and Redis to analyze sensor data from IoT devices.
+
+Education
+MSc in Computer Engineering
+Imperial College London, UK
+2014 – 2016
+
+Certifications
+Certified Kubernetes Administrator (CKA)
+Google Professional Cloud Developer
+AWS Certified Solutions Architect – Associate
+Cisco Certified DevNet Associate
+Oracle Certified Professional, Java SE 8 Developer

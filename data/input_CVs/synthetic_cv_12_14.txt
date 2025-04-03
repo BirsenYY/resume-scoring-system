@@ -1,0 +1,64 @@
+NAME
+ London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Dynamic Software Engineer with 4+ years of experience in developing innovative solutions and optimizing backend systems. Proficient in Python, C++, and Ruby on Rails, with a focus on enhancing system performance and scalability. Skilled in implementing test automation frameworks and ensuring high code quality standards. Committed to delivering reliable and user-friendly software applications.
+
+Technical Skills
+Languages: Python, C++, Ruby, SQL, Bash
+
+Frameworks & Tools: Django, Ruby on Rails, Angular, Puppet, RabbitMQ, Mockito
+
+DevOps & CI/CD: Kubernetes, GitLab CI/CD, Ansible, Terraform, CircleCI
+
+Databases: SQLite, Redis, Oracle DB
+
+Cloud & Platforms: Azure (Functions, Blob Storage), Heroku, Windows Server
+
+Others: GraphQL, Docker Swarm, Pair Programming, Continuous Integration
+
+Professional Experience
+Software Engineer
+ByteCode Innovations, London, UK
+Mar 2020 – Present
+
+Developed and maintained RESTful APIs in Python and Ruby, hosted on Azure Functions and Heroku
+
+Collaborated with UI/UX designers to implement frontend features using Angular and React
+
+Implemented caching mechanisms and optimized query performance, resulting in a 25% reduction in response time
+
+Introduced automated testing using Mockito and enhanced CI/CD pipelines for faster feedback loops
+
+Contributed to sprint retrospectives, peer code reviews, and knowledge sharing sessions
+
+Side Projects:
+1. Built a real-time chat application using Socket.io and Node.js
+2. Created a personal finance tracker web app with Django and SQLite
+3. Automated server monitoring and alert system with Prometheus and Grafana
+
+Software Developer (Automation & Integration)
+TechPulse Solutions, London, UK
+Sep 2017 – Feb 2020
+
+Designed and maintained automation scripts in Bash and Python to streamline deployment processes
+
+Integrated testing frameworks like JUnit and TestNG into CI/CD pipelines using Jenkins and CircleCI
+
+Developed custom tools for data migration, system monitoring, and configuration management
+
+Collaborated with cross-functional teams to ensure seamless integration of new features and updates
+
+Refactored legacy code to adhere to coding standards and improve maintainability
+
+Education
+MSc in Software Engineering
+Imperial College London, UK
+2015 – 2017
+
+Certifications
+Google Cloud Professional Data Engineer
+Certified Kubernetes Application Developer
+Python for Data Science (Coursera)
+Red Hat Certified Engineer
+Agile Certified Professional

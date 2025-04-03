@@ -1,0 +1,58 @@
+Jessica Stone
+Edinburgh, UK | (+44) 7798210456 | jessica.stone@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/jessicastone | github.com/JessicaStone | medium.com/@jessicastone | jessicastone.design
+
+PROFESSIONAL SUMMARY:
+
+Innovative Mechanical Engineer with 7 years of experience in product design, structural analysis, and sustainable engineering solutions. Proficient in CAD modeling, FEA simulations, and project management within the aerospace and automotive industries. Skilled at leading teams, optimizing manufacturing processes, and implementing advancements in additive manufacturing techniques. Currently focused on expanding skills in AI integration for engineering processes.
+
+SKILLS:
+
+SolidWorks, CATIA, NX, ANSYS, MSC Adams, Python, C++, GD&T, CNC Programming, Project Management, Thermodynamics, Vibrational Analysis, Additive Manufacturing, AI Integration, Sustainability Practices, Six Sigma Methodology, Technical Writing, Supplier Relationship Management, Microsoft Office Suite
+
+PROFESSIONAL EXPERIENCE:
+
+Lead Mechanical Engineer (Airbus) - Bristol, UK
+Mar 2018 - Present
+
+- Directed the design and optimization of wing structures for efficiency gains and weight reduction
+- Applied FEA simulations using ANSYS and MSC Adams to improve product durability by 30%
+- Spearheaded a cross-functional team to implement AI algorithms in production processes
+- Managed supplier relationships and streamlined component delivery, reducing lead times by 20%
+
+Mechanical Design Specialist (Jaguar Land Rover) - Coventry, UK
+Jul 2015 - Feb 2018
+
+- Developed innovative HVAC systems for electric vehicle platforms, enhancing energy efficiency
+- Utilized CATIA for complex surface modeling and assembly design
+- Led a project to implement additive manufacturing for customized vehicle components
+- Collaborated with the testing team to validate design improvements for safety compliance
+
+Assistant Mechanical Engineer (General Electric) - Aberdeen, UK
+Sep 2013 - Jun 2015
+
+- Supported the design and analysis of offshore wind turbine components for reliability enhancement
+- Conducted structural integrity assessments using NX and ANSYS
+- Drafted technical reports and presented findings to project stakeholders
+- Participated in Six Sigma projects focusing on process optimization and waste reduction
+
+EDUCATION:
+
+MEng in Mechanical Engineering - University of Edinburgh, Edinburgh (First Class Honours)
+Sep 2009 - Jun 2013
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Project Management Professional (PMP) - 2021
+
+Certified Siemens NX Associate - 2017
+
+Fundamentals of AI in Engineering (Stanford Online) - Ongoing
+
+Advanced Additive Manufacturing (MIT) - 2022
+
+Green Belt in Lean Six Sigma - 2016
+
+Side Projects:
+1. Developed a prototype of a sustainable energy storage system using recycled materials
+2. Created a vehicle aerodynamics simulation tool to optimize design efficiency

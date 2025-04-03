@@ -1,0 +1,63 @@
+Samantha Smith
+
+San Francisco | 0888888 | samantha.smith@email.com
+
+ABC AI | ABC AI
+
+ABOUT ME
+
+Machine learning engineer with a passion for developing innovative AI solutions. Experienced in building and deploying machine learning models across various domains. Proficient in Python, TensorFlow, and Scikit-Learn. Skilled in computer vision and NLP with a focus on end-to-end system development and deployment.
+
+CURRENTLY BUILDING
+
+ABC AI - Machine Learning Engineer                   Jan 2023 - Present
+
+- Leading the development of cutting-edge AI solutions for personalized healthcare applications.
+
+PROJECTS
+
+ABC AI - Personalized Healthcare Platform         2023
+
+- Designed and implemented AI algorithms for patient risk prediction and personalized treatment recommendations.
+
+EXPERIENCE
+
+XYZ AI Research Center - Machine Learning Engineer       Mar 2021 - Dec 2022
+
+- Worked on projects involving transfer learning for medical image analysis and natural language understanding.
+
+- Implemented state-of-the-art models for clinical decision support systems.
+
+- Utilized MLOps tools like MLflow and Kubeflow for model deployment and monitoring.
+
+DEF Innovations - Data Scientist                   Sep 2019 - Mar 2021
+
+- Developed predictive maintenance solutions for manufacturing equipment using AI techniques.
+
+- Led a team to optimize operational processes through machine learning algorithms.
+
+GHI Technologies - AI Engineer                    Jul 2017 - Sep 2019
+
+- Implemented computer vision algorithms for autonomous surveillance systems.
+
+- Collaborated with cross-functional teams to integrate AI solutions into existing products.
+
+EDUCATION
+
+ABC University                                   2014 – 2017
+
+MSc Artificial Intelligence                                               
+
+- Awarded for outstanding thesis on AI-driven anomaly detection in IoT devices.
+
+CERTIFICATIONS
+
+1. Certified Machine Learning Engineer (CMLE)
+
+2. AI Ethics and Bias Certification
+
+3. Deep Learning Specialization
+
+TOOLS AND TECHNOLOGIES
+
+PyTorch, Keras, NLP, Reinforcement Learning, OpenCV, AWS SageMaker, Flask, SQL, Tableau, Power BI, JavaScript, React, Apache Spark

@@ -1,0 +1,130 @@
+Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7456789123 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 9+ years of experience in healthcare systems integration, medical device innovation, and AI-driven diagnostics. 
+
+     Proficient in biomedical signal processing, medical imaging analysis, and machine learning for healthcare applications. Skilled in Python, 
+
+     MATLAB, and TensorFlow. Collaborative team player with a passion for leveraging technology to improve patient outcomes.    
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, PyTorch | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis |
+
+     Medical Imaging (MRI, CT, X-ray), Image Segmentation | PyRadiomics, ITK-SNAP, 3D Slicer | Bioinstrumentation | Git, Docker |
+
+     Biomedical Data Standards (HL7, FHIR) | Flask, Streamlit, REST APIs | Jupyter Notebooks, LaTeX
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Biomedical Engineer (London HealthTech Innovations) - London, UK     Apr 2019 : Present
+
+    ● Led the development of a wearable health monitoring device for remote patient monitoring, incorporating ECG analysis and vital sign 
+
+      tracking
+
+    ● Implemented AI algorithms for early detection of cardiac abnormalities based on continuous ECG signals, reducing false alarms by 25%
+
+    ● Collaborated with data scientists to optimize machine learning models for predicting diabetic retinopathy progression using retinal 
+
+      images
+
+    ● Conducted usability testing and user feedback sessions to improve the design and functionality of medical IoT devices
+
+    
+
+     Healthcare Technology Consultant (Health Solutions Ltd.)  Jul 2015 : Mar 2019
+
+    ● Managed the implementation of a cloud-based EMR system for a multi-site healthcare provider, streamlining patient data access and 
+
+      improving clinical workflows
+
+    ● Conducted training sessions on EMR usage and best practices for healthcare professionals to enhance system adoption and utilization
+
+    ● Contributed to the development of a mobile health app for medication reminders and health tracking, increasing patient engagement 
+
+      levels
+
+    ● Evaluated emerging healthcare technologies and provided recommendations on their integration within existing healthcare IT systems
+
+    
+
+     Biomedical Technician (Southampton General Hospital) – Southampton, UK    Jan 2013 : Jun 2015
+
+    ● Installed, maintained, and repaired medical equipment such as infusion pumps, patient monitors, and defibrillators in various hospital 
+
+      departments
+
+    ● Conducted equipment calibrations and performance verification tests to ensure compliance with safety and quality standards
+
+    ● Collaborated with clinical staff to troubleshoot technical issues and provide training on proper equipment usage
+
+    ● Assisted in the procurement and evaluation of new medical devices to meet the hospital's evolving clinical needs
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    MSc in Biomedical Engineering - University College London (Distinction)   Sep 2011 : Sep 2012
+
+    BEng in Biomedical Engineering - University of Leeds (First Class)  Sep 2007 : Jun 2011
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Cybersecurity for Medical Devices (MICT)                        Nov, 2022
+
+    ● Certified Health Informatics Professional (CHIP)                           Mar, 2022
+
+    ● Advanced Medical Imaging Analysis (MedInnovate)                        Aug, 2021
+
+    ● Healthcare Data Analytics Specialist (HCDAS)                                 Jun, 2020
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● Wearable Health Monitor App: Developed a mobile app that syncs with a wearable health monitoring device to track vital signs, activity 
+
+      levels, and sleep patterns. Utilized cloud storage for secure data access and visualization.
+
+    
+
+    ● IoT-enabled Medication Dispenser: Designed a smart medication dispenser with IoT connectivity for automated pill dispensing and 
+
+      medication adherence tracking. Integrated voice prompts and mobile alerts for user notifications.
+
+    
+
+    ● Remote Telehealth Platform: Created a telehealth platform for virtual consultations and remote monitoring of patients with chronic 
+
+      conditions. Implemented secure video conferencing, data sharing, and automated appointment scheduling features. 
+
+    
+
+    ● Biomedical IoT Device Integration: Conducted a project to integrate multiple biomedical IoT devices into a centralized monitoring 
+
+      system for real-time data aggregation and analysis. Implemented data encryption and secure data transmission protocols.
+

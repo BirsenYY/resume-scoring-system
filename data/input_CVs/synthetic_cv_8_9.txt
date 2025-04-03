@@ -1,0 +1,59 @@
+John Doe
+
+Seattle | 0555555 | john.doe@email.com | XYZ Innovations | XYZ Innovations
+
+PROFILE
+
+Quality Assurance Engineer specializing in ensuring the delivery of high-quality software solutions through meticulous testing and automation practices. Proficient in test strategy formulation, Selenium automation, and API testing techniques. Experienced in Agile methodologies and implementing CI/CD pipelines for streamlined software releases.
+
+CURRENTLY DEVELOPING
+
+XYZ Innovations - Senior QA Engineer                  Feb 2023 - Present
+
+- Contributing to the development of a cutting-edge QA framework for performance testing (LINK TO GITHUB)
+
+PROJECTS
+
+Automated Load Testing Suite - link                             2023
+
+- Implemented a scalable load testing suite with JMeter and New Relic for a cloud-based CRM system.
+- Improved performance monitoring capabilities leading to a 20% increase in system efficiency.
+
+EXPERIENCE
+
+XYZ Software Solutions - QA Automation Specialist         Jul 2020 - Feb 2023
+
+- Established end-to-end automated testing processes for cloud-native applications using TestNG and RestAssured.
+- Collaborated with development teams to enhance test coverage and reduce regression cycles by 70%.
+- Introduced code quality checks in CI/CD pipelines for early bug detection and resolution.
+
+XYZ Digital Agency - QA Analyst                            Apr 2018 - Jul 2020
+
+- Conducted functional and usability testing for web and mobile applications in the healthcare sector.
+- Led UAT sessions with stakeholders to ensure software compliance with business requirements.
+- Managed bug tracking and resolution processes utilizing Redmine and Bugzilla.
+
+XYZ Tech Ventures - Intern QA Tester                      Jan 2018 - Apr 2018
+
+- Executed manual and exploratory testing for a real-time analytics platform.
+- Assisted in the creation of automated test scripts for regression testing.
+- Researched and recommended tools for test case management and defect tracking.
+
+EDUCATION
+
+XYZ College                                    2015 - 2019
+
+BSc in Computer Science
+
+- Graduated with Distinction - Thesis project on continuous integration in software development.
+
+TOOLS AND TECHNOLOGIES
+
+Selenium, RestAssured, JMeter, TestNG, New Relic, Redmine, Bugzilla, Java, Python, SQL, CI/CD, Agile Scrum, XYZ Tech Ventures, XYZ Software Solutions, XYZ Digital Agency, XYZ Innovations, XYZ College
+
+CERTIFICATIONS
+
+1. ISTQB Foundation Level Certification
+2. AWS Certified Solutions Architect - Associate
+3. Google Analytics Individual Qualification
+4. Certified Information Systems Security Professional (CISSP)

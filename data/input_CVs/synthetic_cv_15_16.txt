@@ -1,0 +1,117 @@
+Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with over 7 years of experience in clinical systems integration, medical device development, and AI solutions for healthcare. 
+
+     Skilled in biomedical signal processing, medical image analysis, and machine learning applications. Proficient in Python, MATLAB, and
+
+     TensorFlow. Demonstrated success in leading cross-functional teams to deliver innovative and impactful projects in the healthcare sector. 
+
+     Enthusiastic about leveraging technology to improve patient outcomes and healthcare workflows.    
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, Keras | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis |
+
+     Medical Imaging (MRI, CT, Ultrasound), Image Segmentation | ITK-SNAP, 3D Slicer, SPM | Bioinstrumentation | Git, Docker |
+
+     HL7, FHIR, IHE Standards | RESTful APIs, Flask, Django | Jupyter Notebooks, LaTeX
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Biomedical Engineer (Imperial College Healthcare NHS Trust) - London, UK     Apr 2019 : Present
+
+    ● Spearheaded the development of a deep learning model for automated breast cancer detection in mammograms, reducing interpretation time by 50%
+
+    ● Implemented an AI-driven predictive maintenance system for clinical equipment, decreasing downtime and maintenance costs by 30%
+
+    ● Collaborated with radiologists to enhance MRI image reconstruction algorithms, leading to improved image clarity and diagnostic accuracy
+
+    ● Managed the integration of a cloud-based telemedicine platform with existing hospital systems for remote patient monitoring
+
+    ● Conducted training workshops on AI applications in healthcare for medical staff and research teams
+
+    
+
+     Biomedical Data Scientist (Oxford University Hospitals NHS Foundation Trust)  Jun 2016 : Mar 2019
+
+    ● Designed and implemented a data analytics platform for real-time monitoring of patient vital signs, enhancing clinical decision-making 
+
+    ● Developed algorithms for early sepsis detection using electronic health records, resulting in a 25% reduction in sepsis-related mortality
+
+    ● Led a research project on predictive modeling of patient readmission rates, contributing to the identification of high-risk patient profiles
+
+    ● Collaborated with IT specialists to deploy a blockchain-based secure data sharing system for healthcare data interoperability
+
+    ● Presented research findings at international conferences and authored articles on data-driven healthcare strategies
+
+    
+
+     Junior Biomedical Engineer (University Hospital Southampton NHS Foundation Trust) – Southampton, UK     Jan 2014 : May 2016
+
+    ● Assisted in the installation and maintenance of medical imaging systems such as CT scanners and ultrasound machines
+
+    ● Conducted performance tests and quality assurance checks on medical equipment in compliance with regulatory standards
+
+    ● Supported clinical trials by configuring data acquisition systems and troubleshooting technical issues during study procedures
+
+    ● Participated in the development of a novel robotic surgical system for minimally invasive surgeries, focusing on system integration
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    MSc in Biomedical Engineering - University College London (Distinction)   Sep 2012 : Sep 2013
+
+    BEng in Electrical and Biomedical Engineering - University of Bristol (First Class)  Sep 2008 : Jun 2012
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Clinical Data Analysis and Interpretation (Coursera - Stanford University)                        Apr, 2022
+
+    ● Certified Healthcare Technology Specialist (CHTS)                           Nov, 2021
+
+    ● Advanced Machine Learning for Healthcare (edX - MIT)                        Aug, 2021
+
+    ● Healthcare Data Security and Privacy Certification (HDSPC)                 Mar, 2021
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● Wearable Biosensors for Remote Monitoring: Developed a prototype wearable device for continuous monitoring of vital signs in patients with chronic conditions. Integrated data transmission to a mobile app for real-time tracking and alerts. (GitHub: [github.com/[NAME]/biosensors-project])
+
+    
+
+    ● Telehealth Platform Development: Designed a secure telehealth platform for virtual consultations and remote patient management. Implemented video conferencing, EMR integration, and prescription management features to enhance telemedicine services.
+
+    
+
+    ● Pathology Image Analysis Tool: Created an automated image analysis tool for histopathology slides using deep learning techniques. Enabled pathologists to analyze and quantify tissue features for diagnostic purposes.
+
+    
+
+    ● Virtual

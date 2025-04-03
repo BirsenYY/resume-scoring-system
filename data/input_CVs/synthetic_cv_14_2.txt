@@ -1,0 +1,85 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Profile
+Resourceful Computer Science graduate with hands-on experience in software development, algorithms, and data analysis. Proactive and detail-oriented individual with a solid understanding of programming concepts. Actively seeking entry-level opportunities in software engineering, backend development, or data science to apply technical skills and drive innovation in the tech industry.
+
+Education
+BSc Computer Science
+University of ABC – London, UK
+Graduated: June 2023
+
+Relevant Courses: Data Structures & Algorithms, Software Quality Assurance, Machine Learning, Parallel Computing, Cryptography
+
+Capstone Project: Predictive Maintenance System for Industrial Equipment
+
+Technical Skills
+Languages: Java, PHP, R, Swift, JavaScript
+Frameworks & Tools: Spring Boot, Laravel, TensorFlow, Tableau
+Databases: MySQL, PostgreSQL, MongoDB
+Version Control: Git, SVN
+Other: Docker, AWS, JIRA, Selenium
+
+Projects
+CodeHub
+An online platform for coding enthusiasts to collaborate on projects and share code snippets
+
+Developed using Laravel and MySQL for backend and Vue.js for frontend
+
+Implemented user authentication and role-based access control
+
+Integrated RESTful APIs for third-party services
+
+DataVis
+Interactive data visualization tool for analyzing global COVID-19 trends
+
+Built with R Shiny and integrated with public health APIs
+
+Designed custom dashboards for real-time data representation
+
+Implemented predictive analytics using machine learning models
+
+EventPlanner
+A web application for managing and organizing events efficiently
+
+Utilized Spring Boot for backend services and Angular for the frontend
+
+Incorporated Google Maps API for location-based services
+
+Implemented event reminder notifications using Twilio API
+
+Certifications
+AWS Certified Solutions Architect – Associate
+Certified Information Systems Security Professional (CISSP)
+Big Data Foundations – IBM
+Deep Learning Specialization – Coursera
+Android App Development – Udacity
+
+Experience
+Software Engineer Intern
+TechStart Innovations, London
+Jan 2022 – May 2022
+
+Collaborated with the development team to enhance existing software products
+
+Contributed to the design and implementation of new features using Java and Spring Boot
+
+Participated in code reviews and testing phases to ensure quality deliverables
+
+Data Analyst
+Data Insights Ltd, London
+Jun 2021 – Dec 2021
+
+Conducted data cleaning, transformation, and visualization tasks using R and Tableau
+
+Developed predictive models to support data-driven decision-making processes
+
+Collaborated with cross-functional teams to analyze and interpret business data
+
+Career Objectives
+Further develop expertise in cloud computing and cybersecurity
+
+Contribute to open-source projects to give back to the tech community
+
+Enhance data engineering skills through continuous learning and hands-on projects

@@ -1,0 +1,107 @@
+Sarah Clark                                   
+
+                                                                                    
+
+      (cid:131) 555-987-6543 — sarah.clark@email.com — (cid:239) linkedin.com/in/sarahclark937 — ' github.com/sarahclark
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  Java, C++, SQL, Swift, R                                               
+
+   Frameworks: Vue.js, Flask, Django, Unity, Bootstrap, Apache Beam, Dask, Dash, Gatsby.js, Plotly, Chalice
+
+   ML/AI:      Genetic Algorithms, XGBoost, Reinforcement Learning, GANs                 
+
+   Technologies: Kafka, Kubernetes, Splunk, Terraform, Apache Flink, RabbitMQ, Consul, Istio, Consul, Grafana,
+
+               Thanos, Kibana, Pulumi                                                  
+
+   Testing:    Selenium, JMeter, Postman, TestNG, Mocha, Jest                          
+
+   Certifications: AWS DevOps Engineer Professional, MCSD: App Builder, Oracle MySQL Database Administrator, 
+
+                   Docker Certified Associate, IBM Certified Data Engineer
+
+                                                                                    
+
+   Experience                                                                       
+
+    XYZ Tech                                           Jan 2019 – Present
+
+    Senior Software Engineer                                                         
+
+      – Spearheaded the migration of legacy systems to Kubernetes, reducing downtime by 30%.
+
+      – Developed a real-time data processing pipeline using Kafka and Apache Flink.
+
+      – Implemented a CI/CD pipeline with Jenkins for automated deployment and testing.
+
+      – Mentored 3 junior engineers and conducted regular code review sessions.
+
+    Software Engineer II                                                             
+
+      – Designed and built a scalable microservices architecture using Spring Boot and Docker.
+
+      – Led a team in developing a machine learning platform for predictive maintenance.
+
+      – Worked on improving API performance by optimizing database queries.
+
+    Software Developer                                                                
+
+      – Created a mobile app prototype using Flutter that increased user engagement by 20%.
+
+      – Integrated a third-party API to enable real-time data synchronization.
+
+      – Conducted performance tuning to enhance application responsiveness.  
+
+    ABC Solutions                                      Aug 2017 – Dec 2018
+
+    Junior Software Engineer Intern                                                  
+
+      – Contributed to the development of a customer relationship management system.
+
+      – Implemented RESTful APIs and performed unit testing using Postman.
+
+      – Participated in daily stand-ups and sprint planning meetings.
+
+    EFG Systems                                     Jun 2016 – Jul 2017
+
+    Web Developer                                                                     
+
+      – Collaborated with the design team to create responsive web applications.
+
+      – Implemented SEO best practices to improve organic search rankings.
+
+      – Optimized website performance by minifying CSS and JavaScript files.
+
+   Education                                                                        
+
+    University of California, Berkeley — MSc Computer Science                2016 – 2018
+
+    Stanford University — BSc Computer Engineering (Honors)                   2012 – 2016  
+
+   Projects                                                                         
+
+                                                                                    
+
+    Fraud Detection System                                                     '     
+
+      – Developed a fraud detection system using machine learning algorithms to identify suspicious transactions.
+
+    Quantum Computing Simulations                                              '     
+
+      – Simulated quantum algorithms and analyzed their performance on different quantum computers.
+
+    Virtual Reality Game                                                       '     
+
+      – Created a virtual reality game using Unity3D and Oculus Rift for immersive gameplay experience.
+
+    Sentiment Analysis Bot                                                     '     
+
+      – Designed a sentiment analysis bot using Natural Language Processing techniques.
+
+    Data Visualization Dashboard                                               '     
+
+      – Built a data visualization dashboard with interactive charts and graphs for better data insights.

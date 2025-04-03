@@ -1,0 +1,90 @@
+Oliver Thompson
+
+                                                                                    
+
+      (cid:131) 555-987-6543 — oliver.thompson@email.com — (cid:239) linkedin.com/in/oliverthompson9 — ' github.com/oliverthompson
+
+                                                                                    
+
+   Skills                                                                           
+
+   Languages:  C++, Python, Ruby, JavaScript, R                                   
+
+   Frameworks: Vue.js, Django, Ruby on Rails, Flask, Pandas, TensorFlow, Keras, Transformers, FastAPI
+
+   ML/AI:      GANs, Reinforcement Learning, Computer Vision, NLP                  
+
+   Technologies: Kubernetes, AWS, Google Cloud, Azure, RESTful APIs, GraphQL, Flask, MongoDB, Redis, Elasticsearch  
+
+   Testing:    Selenium, JUnit, Pytest                 
+
+   Certifications: Certified Kubernetes Administrator (CKA), AWS Certified Solutions Architect, Google Cloud Professional Data Engineer, Certified Ethical Hacker (CEH), CompTIA Security+ 
+
+                                                                                    
+
+   Experience                                                                       
+
+    ACME                                               Mar 2019 – Present
+
+    Machine Learning Engineer                                                     
+
+      – Spearheaded the development of a real-time fraud detection system using GANs and computer vision techniques.
+
+      – Implemented reinforcement learning algorithms to optimize resource allocation in cloud computing environments.
+
+      – Coordinated a team of developers to integrate a natural language processing engine into the company's chatbot.
+
+      – Conducted training sessions on TensorFlow and Keras for junior team members.
+
+    Data Scientist                                                                   Mar 2018 – Feb 2019
+
+    Data Analyst                                                                     Jun 2017 – Feb 2018
+
+      – Analyzed customer behavior data to provide insights for targeted marketing campaigns.
+
+      – Built predictive models using machine learning algorithms to enhance product recommendation systems.
+
+      – Developed automated data processing pipelines using Python and MongoDB.
+
+    Software Engineer                                                                 Jan 2016 – May 2017
+
+    Software Developer                                                                Mar 2014 – Dec 2015
+
+      – Collaborated with cross-functional teams to design and implement scalable web applications.
+
+      – Optimized database queries and backend processes for improved performance.
+
+      – Conducted code reviews and mentored junior developers.
+
+   Education                                                                        
+
+    University of Toronto — Master of Science in Artificial Intelligence    2022    
+
+    University of Waterloo — Bachelor of Computer Science (Co-op)         2013 – 2018  
+
+    Sheridan College — Diploma in Web Development                         2012 – 2013  
+
+   Projects                                                                         
+
+                                                                                    
+
+    Secure Chat Application                                                      '     
+
+      – Developed an end-to-end encrypted chat application using RSA cryptography and WebSocket protocol.
+
+    Sentiment Analysis Tool                                                     '     
+
+      – Implemented a sentiment analysis tool using NLP techniques to classify text data as positive, neutral, or negative.
+
+    Image Captioning System                                                     '     
+
+      – Created an image captioning system that generates captions for images using deep learning models.
+
+    Fraud Detection Dashboard                                                   '     
+
+      – Designed a dashboard to visualize real-time fraud detection alerts based on machine learning predictions.
+
+    Personal Finance Tracker                                                     '     
+
+      – Built a personal finance tracker web app with data visualization features for expense tracking and budgeting.
+    ```

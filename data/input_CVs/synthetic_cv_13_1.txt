@@ -1,0 +1,76 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Coordinates (Who I Am Now)
+Passionate and detail-oriented Data Scientist with a solid foundation in statistical analysis and a knack for deriving actionable insights from complex datasets. Originally specialized in environmental research, now adept at creating robust data pipelines, building predictive models, and implementing algorithmic solutions. Committed to leveraging data-driven strategies in environmental sustainability and technology advancement.
+
+Toolkit & Weapons of Choice
+Languages: Python, Java, Scala, Julia
+Machine Learning: Support Vector Machines, Neural Networks, K-means Clustering, Anomaly Detection
+Data Ops: NoSQL Databases, Data Warehousing, Apache Spark, Kafka, Hadoop
+Visualization: D3.js, Bokeh, Plotly, Altair
+Other Strengths: Bayesian Statistics, Natural Language Processing, Reinforcement Learning, Docker, Kubernetes
+
+What I’m Building Now (Recent Role)
+Senior Data Scientist
+EcoTech Solutions Ltd. – London, UK
+Mar 2021 - Present
+
+Developing predictive algorithms for climate change impact assessments
+
+Collaborating with environmental experts to optimize resource allocation models
+
+Implementing real-time data monitoring systems for sustainable energy projects
+
+Leading A/B testing initiatives to validate environmental policy interventions
+
+Automating data ingestion processes and enhancing data quality assurance measures
+
+Side Project: Developed an interactive dashboard to visualize air quality trends in urban areas
+
+Where I Bridged the Gap (Transitional Role)
+Data Analyst - Environmental Science
+EnviroLab Research Institute – London, UK
+Jun 2018 - Feb 2021
+
+Processed and analyzed geospatial data to identify ecological patterns and trends
+
+Designed machine learning algorithms for species classification based on environmental factors
+
+Created data-driven reports to support policy recommendations for wildlife conservation
+
+Collaborated with GIS experts to integrate satellite imagery for land cover mapping
+
+Implemented data security protocols and conducted regular audits for research integrity
+
+Where It All Started (Foundations in Research)
+Environmental Research Assistant
+GreenEarth Institute – London, UK
+Sep 2016 - May 2018
+
+Conducted field research on biodiversity hotspots to assess ecosystem health
+
+Utilized statistical tools to analyze climate change impacts on vegetation dynamics
+
+Contributed to research publications on sustainable agricultural practices
+
+Assisted in organizing environmental awareness campaigns and community workshops
+
+The Knowledge Base
+MSc - Environmental Data Science
+University College London, 2018 - 2020
+
+BSc - Environmental Studies
+King's College London, 2013 - 2016
+
+Digital Badges & Certifications
+Data Engineering with Google Cloud Professional Certificate
+
+Certified Blockchain Developer (CBD) - Blockchain Training Alliance
+
+AWS Certified Solutions Architect - Associate
+
+Machine Learning Engineer Nanodegree - Udacity
+
+Python for Data Science and Machine Learning Bootcamp - Udemy

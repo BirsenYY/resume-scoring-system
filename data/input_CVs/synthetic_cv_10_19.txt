@@ -1,0 +1,64 @@
+Emily Smith
+Manchester, UK | (+44) 7457891023 | emilysmith@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/emilysmith | github.com/EmilySmith | bmw.com/EmilySmith | medium.com/@emilysmith
+
+PROFESSIONAL SUMMARY:
+
+Dynamic Mechanical Engineer with 8 years of diverse experience in product design, structural analysis, and sustainable engineering practices. Proficient in CAD modeling, FEA simulations, and innovative problem-solving within the automotive and renewable energy industries. Skilled leader in cross-functional teams, optimization of manufacturing processes, and implementation of cutting-edge engineering technologies. Actively pursuing knowledge in AI integration in design and renewable energy systems.
+
+SKILLS:
+
+CATIA, Inventor, Pro/ENGINEER, SolidWorks, FEA, CFD, MATLAB, Renewable Energy Systems, Robotics, Materials Science, Additive Manufacturing, Six Sigma, Lean Manufacturing, Project Management, Python, Java, MS Office Suite, PLC Programming, Technical Writing, Failure Mode Analysis, Root Cause Investigation
+
+PROFESSIONAL EXPERIENCE:
+
+Lead Mechanical Engineer (BMW Group) – Manchester, UK
+Mar 2018 – Present
+
+Directed the design and development of electric vehicle powertrains, enhancing efficiency by 20% and reducing production costs by 15%
+
+Conducted FEA analysis on chassis components using ANSYS and Abaqus, resulting in a 30% weight reduction while maintaining structural integrity
+
+Implemented AI algorithms for predictive maintenance of production line robots, reducing downtime by 25%
+
+Collaborated with international research teams to integrate renewable energy solutions into vehicle manufacturing processes, cutting carbon emissions by 30%
+
+Mechanical Design Specialist (RenewTech Ltd) – Birmingham, UK
+Sep 2014 – Feb 2018
+
+Designed innovative wind turbine blade profiles for increased energy capture, leading to a 10% improvement in efficiency
+
+Generated detailed 3D models and production drawings using Inventor and Pro/ENGINEER, optimizing manufacturing processes
+
+Led the implementation of PLC systems for automated quality control, improving product consistency and reducing defects by 20%
+
+Managed cross-functional teams in the development of patent-pending solar tracking systems, increasing energy output by 15%
+
+Junior Mechanical Engineer (Lockheed Martin) – London, UK
+Aug 2012 – Aug 2014
+
+Supported the design and testing of aerospace components for satellite propulsion systems, ensuring compliance with strict industry standards
+
+Conducted stress analysis and simulations to optimize component performance, resulting in increased durability and reduced maintenance costs
+
+Contributed to technical documentation and review processes, supporting successful project milestones and client deliverables
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Manchester, Manchester (Merit)
+Sep 2008 – Jun 2012
+
+BEng in Mechanical Engineering – University of Bristol, Bristol (Upper Second Class Honours)
+Sep 2004 – Jun 2008
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Chartered Engineer (Institution of Engineering and Technology) – 2019
+
+Certified Pro/ENGINEER Expert – 2016
+
+Renewable Energy Integration Specialist – 2020
+
+Robotics and Automation Certification (MIT) – 2022
+
+Lean Six Sigma Black Belt – In Progress

@@ -1,0 +1,93 @@
+    Emily Brown
+
+                        Los Angeles | emily.brown@email.com | Data Science | Innovative Technologies   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Data scientist with a strong foundation in mathematics and statistics. Experienced in developing predictive models and leveraging data to drive business decisions. Currently expanding knowledge in AI and machine learning.
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, R, SQL, Scala, Java, MATLAB, Docker, Flask, Spark, Cassandra, • Frameworks: Hugging Face, Prophet, CatBoost, LightGBM, XGBoost, Libra, Gradient Boosting                          
+
+    • Machine Learning: AutoML, NLP, LSTM, Transformer, Graph neural networks, Decision Trees, Clustering, Anomaly Detection, Dimensionality Reduction, Time Series Analysis       
+
+    • Tools: Tableau, Power BI, Apache Hadoop, Apache Kafka, Airflow, Databricks, Google BigQuery, AWS S3, Azure ML Studio, Heroku
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    Data Scientist | Innovative Technologies, New York              Jan 2020 – Present
+
+    Customer Segmentation and Targeting Platform                          
+
+                                                                                  
+
+    • Developed a customer segmentation and targeting platform using clustering algorithms and predictive modeling techniques.
+
+    • Utilized XGBoost for propensity modeling and personalized offers generation.
+
+    • Implemented anomaly detection algorithms to identify fraudulent activities.
+
+    • Integrated the platform with Salesforce for seamless execution of marketing campaigns.
+
+    • Improved platform performance by 20% through feature engineering and tuning hyperparameters.                    
+
+    Tech Stack: Python, XGBoost, K-Means Clustering, Random Forest, Salesforce, Anomaly Detection Algorithms
+
+    Fraud Detection System                                                   
+
+    • Engineered a fraud detection system using supervised and unsupervised learning algorithms to detect fraudulent transactions.
+
+    • Employed LSTM networks for sequential data analysis and anomaly detection.
+
+    • Enhanced system accuracy by 15% through feature engineering and model optimization.
+
+    • Automated data processing pipelines and model retraining for real-time fraud identification.
+
+    • Collaborated with cybersecurity team to address emerging fraud patterns.                    
+
+    Tech Stack: Python, LSTM, Isolation Forest, Autoencoder, Dataiku, Feature Engineering, Model Optimization
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc in Data Science, Columbia University, New York Oct 2019 - Dec 2020
+
+    BSc in Applied Mathematics, University of Pennsylvania, Philadelphia    Sept 2016 
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Stock Price Prediction (Prophet)         • Chatbot Development (Hugging Face)                  
+
+    • Sentiment Analysis of Social Media Data (Transformer) • Customer Lifetime Value Prediction (CatBoost)          
+
+    • Flight Delay Prediction (LightGBM)       • Movie Recommendation System (Graph Neural Network)                                    
+
+    • Credit Card Fraud Detection (Decision Trees) • Image Clustering (K-Means)         
+
+    • IoT Sensor Data Analysis (Anomaly Detection) • E-commerce Recommendation Engine (Matrix Factorization)

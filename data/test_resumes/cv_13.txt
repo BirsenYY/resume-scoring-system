@@ -1,0 +1,71 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Coordinates (Who I Am Now)
+Curious and impact-driven Data Scientist with a robust analytical mindset and a research-first engineering background. Previously trained in biomedical systems, now fluent in data pipelines, predictive modeling, and algorithmic problem solving. Passionate about uncovering patterns that power better decisions, especially in healthcare and tech.
+
+Toolkit & Weapons of Choice
+Languages: Python, R, SQL, MATLAB
+Machine Learning: XGBoost, Random Forest, Scikit-learn, Clustering, Time Series Forecasting
+Data Ops: SQL Databases, ETL, APIs, Pandas, Jupyter
+Visualization: Tableau, Power BI, Matplotlib, Seaborn
+Other Strengths: Statistical Inference, Signal Processing, A/B Testing, Flask, Git
+
+What I’m Building Now (Recent Role)
+Data Scientist
+HealthData Analytics Ltd. – London, UK
+Feb 2022 – Present
+
+Designed prediction systems for patient recovery metrics using advanced ML models
+
+Helped clinicians surface insights from high-dimensional clinical datasets
+
+Deployed model endpoints and built monitoring dashboards for hospital stakeholders
+
+Conducted A/B testing and interpreted statistical significance of interventions
+
+Automated the data pipeline from raw EMR data to production-ready insights
+
+Where I Bridged the Gap (Transitional Role)
+Data Analyst – Biomedical Research
+MedTech Research Group – London, UK
+Oct 2019 – Jan 2022
+
+Analyzed physiological signals (ECG, EMG) to identify patterns and anomalies
+
+Built Python-based signal processing scripts for wearable medical devices
+
+Engineered features for predictive classification models
+
+Created visual analytics tools to support ongoing research and publications
+
+Supported regulatory reporting and clinical study data processing
+
+Where It All Started (Foundations in Engineering)
+Biomedical Engineer
+BioSense Technologies – London, UK
+Jul 2017 – Sep 2019
+
+Developed and tested signal analysis algorithms for wearable biosensors
+
+Supported embedded software integration of analytical models
+
+Managed clinical data acquisition and trial setup in collaboration with hospitals
+
+Participated in CE documentation and compliance reviews
+
+The Knowledge Base
+MSc – Data Science & Machine Learning
+Imperial College London, 2018 – 2019
+
+BEng – Biomedical Engineering
+University of Leeds, 2014 – 2017
+
+Digital Badges & Certifications
+IBM Data Science Professional Certificate
+
+SQL for Data Science – Coursera
+
+DeepLearning.AI TensorFlow Developer
+

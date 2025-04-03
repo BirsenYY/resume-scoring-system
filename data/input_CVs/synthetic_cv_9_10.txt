@@ -1,0 +1,63 @@
+**John Smith**
+
+---
+
+Los Angeles | 123-456-789 | john.smith@email.com | Portfolio: johnsmith.dev | GitHub: github.com/johnsmith
+
+**SUMMARY**
+
+Computer Science graduate with a keen interest in utilizing data science, machine learning, and software engineering to solve real-world challenges. Demonstrated expertise in Python, JavaScript, and cloud-native technologies. Adept at developing and documenting innovative side projects that exemplify strong engineering practices.
+
+**CURRENT PROJECTS**
+
+Personal Data Science Showcase – Data Scientist | Jan 2026 – Present
+
+- Creating a diverse portfolio of data science projects, including predictive analytics and natural language processing applications with interactive visualizations and RESTful APIs.
+
+**PROJECTS**
+
+🏆 DataHack Champion – Fraud Detection Challenge | 2025
+
+- Spearheaded a team to victory in a fraud detection competition, achieving outstanding precision and recall rates on a synthetic financial dataset.
+- Implemented an ensemble model combining XGBoost and neural network architectures with feature engineering and outlier detection techniques.
+
+CodeCraft – Code Review Assistant (codecraft.io) | 2025
+
+- Developed a web application to streamline code reviews and identify potential bugs and anti-patterns.
+- Leveraged machine learning algorithms and static code analysis tools to provide actionable feedback to developers.
+
+DeepSense – Deep Learning Toolbox | 2024
+
+- Designed a comprehensive library for deep learning tasks, including image classification, object detection, and generative modeling.
+- Incorporated state-of-the-art algorithms from research papers and optimized performance for CPU and GPU execution.
+
+CloudCrafter – Cloud Resource Manager | 2024
+
+- Engineered a tool to automate cloud resource provisioning and cost optimization for AWS and Azure environments.
+- Integrated with cloud provider APIs and implemented resource tagging and budget alerting features.
+
+**EXPERIENCE**
+
+Software Engineer | Jan 2024 – Dec 2025
+
+- Collaborated with cross-functional teams to deliver software solutions for clients in finance and healthcare industries.
+- Contributed to the development of microservices architecture and continuous integration pipelines for scalable applications.
+
+ABC Analytics Intern | Jun 2023 – Dec 2023
+
+- Assisted in analyzing large datasets and preparing data visualizations for client reports.
+- Gained hands-on experience with statistical analysis and data manipulation techniques.
+
+**EDUCATION**
+
+California State University, Los Angeles | BSc in Computer Science | 2020 – 2024
+
+- Senior project: "Automated Stock Prediction using Sentiment Analysis and Time Series Forecasting" – achieved significant accuracy in stock price prediction using social media sentiment data.
+
+**TOOLS AND TECHNOLOGIES**
+
+Python, TensorFlow, Keras, Scikit-learn, Flask, AWS, Azure, PostgreSQL, React, TypeScript, D3.js, GitLab, Selenium, PySpark, Tableau, Jupyter, Conda, Bash
+
+--- 
+
+This revised CV aligns with a similar structure and job domain, highlighting the candidate's expertise in data science, machine learning, and software engineering. The content includes a mix of realistic certifications, side projects, work experience, and educational background to showcase the individual's skills and achievements.

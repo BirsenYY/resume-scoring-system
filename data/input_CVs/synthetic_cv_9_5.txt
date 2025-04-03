@@ -1,0 +1,49 @@
+Maria Rodriguez
+
+Miami | 0777777 | maria.rodriguez@email.com | Portfolio: mariarodriguez.com | GitHub: github.com/mariarodriguez
+
+WORDS ABOUT ME
+
+Results-driven Computer Science enthusiast with a strong background in data science and machine learning. Excels in developing innovative solutions and is dedicated to continuous learning and growth. Skilled in Python, Java, and cloud technologies with a knack for transforming complex ideas into practical applications.
+
+CURRENTLY BUILDING
+
+Automated Stock Trading System – Quantitative Analyst Jan 2023 - Present
+
+Building a high-frequency trading system incorporating machine learning models for predictive analytics and risk management, aiming to optimize trading strategies for maximum return on investment.
+
+PROJECTS
+
+🔥 Hackathon Winner – Natural Language Processing Bot 2023
+
+Led a team to victory in a hackathon by developing a chatbot that utilizes state-of-the-art transformer models for sentiment analysis and personalized responses. Deployed the bot on Slack with interactive features.
+
+Health Monitor App – Vital Sign Analysis Tool 2022
+
+Designed and implemented a mobile application for monitoring vital signs and health parameters, featuring real-time data visualization and personalized health alerts. Integrated with wearable devices for seamless data collection.
+
+Crypto Forecast – Cryptocurrency Price Predictor 2022
+
+Developed a machine learning model to forecast cryptocurrency prices based on sentiment analysis of social media data and market trends. Implemented a user-friendly web interface for real-time price predictions and trend analysis.
+
+EXPERIENCE
+
+Software Engineer Intern at Tech Startup Jan 2022 - May 2022
+
+Collaborated with the engineering team to develop a scalable microservices architecture for a cloud-based platform. Implemented RESTful APIs, optimized database queries, and enhanced system performance.
+
+ABC Consulting – Data Analyst Intern Jun 2021 - Aug 2021
+
+Assisted in analyzing large datasets to extract meaningful insights for client reports and presentations. Conducted data cleaning, performed statistical analysis, and visualized findings using interactive dashboards.
+
+EDUCATION
+
+Florida International University (FIU) 2018 - 2022
+
+BSc in Computer Science, Minor in Business Administration
+
+Final Year Project: "AI-Powered Fraud Detection System" – Achieved 95% accuracy in detecting fraudulent transactions using machine learning algorithms and anomaly detection techniques.
+
+TOOLS AND TECHNOLOGIES
+
+Java, C++, R, AWS, Azure, Flask, Angular, Kafka, Elasticsearch, MongoDB, Tableau, Scrapy, Selenium, Jupyter Notebooks, GitLab, Shell Scripting, Arduino, Raspberry Pi, Unity3D, Solidity, NFTs

@@ -1,0 +1,56 @@
+John Johnson
+
+San Francisco | 0999999 | john.johnson@email.com | XYZ Tech | XYZ Tech
+
+PROFILE
+
+Quality Assurance Engineer with a strong background in developing and implementing effective testing strategies to ensure the delivery of high-quality software products. Experienced in leading QA teams and building automated test suites for various web and mobile applications. Skilled in test automation using tools such as Selenium, TestNG, and JMeter. Proficient in Agile methodologies and continuous integration practices.
+
+CURRENT ROLE
+
+XYZ Tech – Quality Assurance Engineer              May 2021 – Present
+
+- Spearheading the implementation of a robust QA framework for a cloud-based CRM platform.
+- Leading the automation effort with Selenium and TestNG to increase test coverage and efficiency.
+
+PROJECTS
+
+API Testing Automation Project – link                              2022
+
+- Designed and implemented an API testing automation framework using Postman and Newman.
+- Achieved 90% test coverage for critical API endpoints, leading to improved release quality.
+
+EXPERIENCE
+
+XYZ Solutions – QA Consultant                                   Dec 2019 – May 2021
+
+- Collaborated with development teams to enhance the testing process for a new e-learning platform.
+- Implemented performance testing using JMeter to identify and resolve key bottlenecks.
+
+XYZ Software – QA Automation Engineer                      Jun 2018 – Dec 2019
+
+- Developed end-to-end automated test suites for a mobile app using Appium and Espresso.
+- Conducted load testing with JMeter to assess system performance under various scenarios.
+
+XYZ Services – QA Engineer                                           Mar 2016 – Jun 2018
+
+- Created and executed manual test cases for a cloud-based financial management system.
+- Utilized SQL queries to validate data integrity and ensure accurate reporting.
+
+XYZ Labs – Intern QA Tester                                               Sep 2015 – Mar 2016
+
+- Assisted in functional and regression testing of a web application for healthcare providers.
+- Collaborated with senior testers to identify and document software defects.
+
+EDUCATION
+
+XYZ College                                                   2012 – 2016
+
+Bachelor of Science in Computer Science
+
+- Completed a research project on automated testing techniques in web development.
+- Graduated with academic honors and actively participated in coding competitions.
+
+TOOLS AND TECHNOLOGIES
+
+Selenium, TestNG, JMeter, Postman, SQL, Git, Appium, Espresso, Agile Methodologies, CI/CD, XYZ Tech, XYZ Solutions, XYZ Software, XYZ Services

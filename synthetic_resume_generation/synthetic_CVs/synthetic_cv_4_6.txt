@@ -1,0 +1,97 @@
+Sarah Smith
+
+                                                                                  
+
+                          555-123-4567 | sarah.smith@email.com             
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                               
+
+    Yale University, New Haven                    Sep 2018 - May 2022
+
+      ●  BS Computer Science: Graduated with honors, specializing in Artificial Intelligence                  
+
+      ●  Awarded a certificate in Cybersecurity Essentials from Cisco Networking Academy
+
+      ●  Completed a course on Quantum Computing from MITx, focusing on qubits, quantum gates, and algorithms
+
+    University of California, Berkeley                          Aug 2022 - Dec 2022
+
+      ●  Blockchain Certification Program: Explored distributed ledger technology and smart contracts             
+
+      ●  Relevant Content: Cryptocurrencies, Decentralized Applications (DApps), Consensus Mechanisms
+
+    International School of Geneva                                  Sep 2010 - Jun 2018
+
+      ●  IB Diploma: Higher Level Mathematics (7), Physics (6), Economics (6)                  
+
+      ●  Activities and Societies: President of Robotics Club, Vice President of Model United Nations
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Software Engineer – Google                           Jan 2023 - Present
+
+    Google is a multinational technology company known for its search engine; highly competitive selection process.
+
+      ●  Developed scalable software solutions for Google's cloud services, focusing on data analysis and machine learning
+
+      ●  Led a team to implement a new feature for Google Maps, increasing user engagement by 15% within the first month
+
+      ●  Received "Employee of the Month" award for outstanding contributions to a critical project
+
+    Data Analyst Intern – Palantir Technologies                           Jun 2022 - Aug 2022
+
+    Palantir Technologies is a data analytics and integration company used by government agencies and financial institutions.
+
+      ●  Analyzed large datasets to identify patterns and insights for a government client, resulting in improved decision-making
+
+      ●  Utilized machine learning algorithms to optimize data processing workflows, increasing efficiency by 20%
+
+    Teaching Assistant – Coding Bootcamp                           Sep 2020 - Dec 2021
+
+    Coding Bootcamp is an intensive programming course for individuals looking to enter the tech industry.
+
+      ●  Assisted students with coding assignments, debugging, and project development in languages such as Python and JavaScript
+
+      ●  Conducted workshops on web development and cloud computing, helping students build practical skills
+
+                                                                                  
+
+    Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Lead Developer – Open Source Project          Jan 2022 - Present
+
+      ●  Contributed to an open-source project focused on AI-driven chatbots, implementing natural language processing algorithms
+
+    Self-Taught iOS App Development Course              Apr 2022 - Oct 2022
+
+      ●  Created a productivity app for task management, incorporating features such as notifications and cloud synchronization
+
+      ●  Published the app on the App Store and received positive user feedback for its intuitive design and functionality
+
+    Volunteer Tutor – Tech Literacy Programme               Mar 2021 - May 2023
+
+      ●  Taught basic computer skills to underprivileged youth, empowering them to access educational resources online
+
+                                                                                  
+
+    Additional Information                                                        
+
+                                                                                  
+
+    Technical Skills: Java, C++, HTML/CSS, TensorFlow, Tableau          
+
+    Activities: Competitive Swimming, Photography, Hiking, Cooking
+
+    Languages: English (Native), French (Fluent), Spanish (Intermediate)
+
+    Interests: Artificial Intelligence, Cryptocurrency, Astrophysics, Yoga, Traveling

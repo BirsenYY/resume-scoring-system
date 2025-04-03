@@ -1,0 +1,83 @@
+```
+    Amazon                                                            
+
+                                                                                    
+
+                 Seattle, US | (+1) 9876543210 | jane.smith@email.com | Work Rights: Yes/Full Time
+
+       linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Experienced AI/ML Engineer and Certified Azure AI Specialist with 8 years of experience. Expertise in natural language understanding,
+
+      computer vision, and reinforcement learning. Proficient in Python, PyTorch, and FastAPI. Currently mastering GAN architectures,
+
+      explainable AI, and responsible AI practices. Proven track record in leading cross-functional teams, optimizing ML models, and
+
+      delivering innovative solutions in enterprise settings.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, Java, Scala, R | PostgreSQL, Cassandra, Redis | PyTorch, Keras, GANs, OpenCV, Hugging Face | NLP, Computer Vision, Reinforcement Learning | FastAPI, Docker | Git, Kubernetes, AWS                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE:                                                       
+
+                                                                                    
+
+     Machine Learning Scientist (AI Nexus) - Seattle, US    March 2021 : Present
+
+    ● Developed cutting-edge computer vision models using PyTorch and OpenCV, leading to a 30% improvement in image recognition accuracy        
+
+    ● Spearheaded the implementation of a reinforcement learning-based recommendation system, significantly enhancing user engagement metrics        
+
+    ● Conducted research on explainable AI methods, applying novel techniques to interpret and visualize complex machine learning models        
+
+    ● Collaborated with cross-functional teams to deploy ML models on Kubernetes clusters, ensuring scalability and performance optimization        
+
+     Data Scientist (Oracle) - Redwood City, US    July 2018 : February 2021
+
+    ● Built data pipelines using Scala and Spark to process large-scale datasets for predictive analytics and machine learning applications        
+
+    ● Designed and implemented deep learning models for sentiment analysis and anomaly detection using TensorFlow and Keras        
+
+    ● Led the development of a real-time fraud detection system by integrating machine learning algorithms with streaming data processing        
+
+    ● Provided technical guidance and mentorship to junior team members, fostering skill development and knowledge sharing        
+
+     Research Assistant (Carnegie Mellon University) - Pittsburgh, US    August 2016 : June 2018
+
+    ● Investigated novel approaches to unsupervised learning with generative adversarial networks (GANs), resulting in a published research paper        
+
+    ● Developed a prototype for a self-learning chatbot using natural language processing techniques and reinforcement learning        
+
+    ● Collaborated with professors and industry partners on research projects related to AI ethics and bias mitigation in machine learning systems        
+
+    EDUCATION:                                                                      
+
+    PhD in Computer Science - Carnegie Mellon University, Pittsburgh (GPA: 3.9/4.0)     August 2012 : June 2016
+
+    MS in Artificial Intelligence - University of California, Berkeley (GPA: 3.8/4.0)     August 2010 : May 2012
+
+    BEng in Computer Engineering - Georgia Institute of Technology, Atlanta (GPA: 3.7/4.0)     August 2006 : May 2010
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Machine Learning for Healthcare (by Stanford Online)     Ongoing  
+
+    ● Azure AI Engineer Associate (Microsoft)     September 2022
+
+    ● Certified Data Science Professional (by DataCamp)     June 2021
+
+    ● Advanced Natural Language Processing (by IBM)     April 2020
+
+    ● Certified Blockchain Developer (by Blockchain Council)     October 2019
+```

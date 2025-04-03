@@ -1,0 +1,62 @@
+John Doe
+
+San Francisco | 0999999 | john.doe@email.com
+
+Professional Summary
+Quality Assurance Engineer with a strong background in testing web and mobile applications. Skilled in designing test strategies, building automation frameworks, and ensuring bug-free releases. Proficient in tools such as Selenium, JIRA, Postman, and Git. Experienced in Agile methodologies and CI/CD integration.
+
+Career Summary
+
+XYZ Solutions – Quality Assurance Engineer
+Oct 2023 - Present
+
+- Co-developed an innovative QA framework for web applications, incorporating advanced testing methodologies.
+- Implemented test automation with Robot Framework and Jenkins, resulting in a 90% reduction in regression test time.
+- Led a team of QA engineers to ensure product quality and adherence to project deadlines.
+
+Projects
+
+Mobile App Performance Testing Tool
+2023
+
+- Designed and implemented a performance testing tool for mobile applications using Appium and AWS Device Farm.
+- Conducted load testing scenarios to simulate real-world user interactions and identify performance bottlenecks.
+
+Experience
+
+XYZ Tech – QA Automation Engineer
+Apr 2021 – Oct 2023
+
+- Developed end-to-end test suites for React Native mobile apps using Detox and Espresso.
+- Collaborated with developers to implement API testing strategies and ensure data integrity.
+- Conducted code reviews and provided feedback to enhance test coverage and efficiency.
+
+XYZ Software – QA Analyst
+Jan 2019 – Apr 2021
+
+- Executed manual and automated tests for a cloud-based SaaS platform, focusing on usability and functional testing.
+- Worked closely with cross-functional teams to prioritize and address critical issues during sprint cycles.
+- Utilized TestRail for test case management and tracked defects via JIRA for transparent communication.
+
+XYZ Startup – Intern QA Tester
+Aug 2018 – Jan 2019
+
+- Conducted exploratory testing on a blockchain-based application to identify vulnerabilities and ensure data security.
+- Assisted in the development of test scripts and test data sets to streamline the testing process.
+
+Education
+
+XYZ College
+2015 – 2019
+
+BSc (Hons) Computer Science
+
+- Graduated with honors, specializing in software testing methodologies and quality assurance practices.
+- Capstone project focused on implementing behavior-driven development in a cloud computing environment.
+
+Certifications
+
+- ISTQB Certified Tester – Foundation Level
+- Certified Agile Tester (CAT)
+- AWS Certified Solutions Architect – Associate
+- Certified Ethical Hacker (CEH)

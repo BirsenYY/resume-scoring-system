@@ -1,0 +1,15 @@
+../data/test_resumes/cv_11.txt: 91.19339752197266
+../data/test_resumes/cv_9.txt: 88.35753631591797
+../data/test_resumes/cv_7.txt: 87.95487976074219
+../data/test_resumes/cv_3.txt: 87.86625671386719
+../data/test_resumes/cv_5.txt: 83.93251037597656
+../data/test_resumes/cv_4.txt: 83.56077575683594
+../data/test_resumes/cv_6.txt: 82.13407897949219
+../data/test_resumes/cv_2.txt: 80.18949890136719
+../data/test_resumes/cv_13.txt: 78.14336395263672
+../data/test_resumes/cv_1.txt: 77.61878204345703
+../data/test_resumes/cv_12.txt: 71.37434387207031
+../data/test_resumes/cv_15.txt: 66.43228912353516
+../data/test_resumes/cv_14.txt: 46.72434997558594
+../data/test_resumes/cv_8.txt: 34.93229675292969
+../data/test_resumes/cv_10.txt: 29.89925765991211

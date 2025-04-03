@@ -1,0 +1,68 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Detail-oriented Software Engineer with over 4 years of experience in building robust backend systems and tools. Skilled in crafting efficient code in Python, Java, and Node.js. Experienced in implementing best practices for test automation, CI/CD pipelines, and ensuring system reliability. Committed to creating secure and user-friendly software solutions.
+
+Technical Skills
+Languages: Python, Java, JavaScript, TypeScript, C++
+
+Frameworks & Tools: Django, Spring Boot, Express.js, Angular, Puppeteer, TestNG, JUnit
+
+DevOps & CI/CD: Kubernetes, Jenkins, GitLab CI, Helm, Git
+
+Databases: SQLite, Oracle, Redis, Cassandra
+
+Cloud & Platforms: AWS (RDS, ECS, API Gateway), Azure, Unix
+
+Others: GraphQL, Docker Swarm, Kanban, BDD
+
+Professional Experience
+Software Engineer
+ByteShift Technologies, London, UK
+Oct 2020 – Present
+
+Developed and scaled microservices architecture using Python, Node.js, and Express.js on AWS ECS
+
+Collaborated with UI/UX designers to implement APIs and enhance user interactions with Angular
+
+Implemented database optimizations and caching mechanisms, resulting in a 25% reduction in response times
+
+Introduced automated testing frameworks and monitoring solutions for increased system stability
+
+Contributed to Agile ceremonies, peer reviews, and provided technical guidance to junior team members
+
+Software Developer (Tools & Automation)
+CodeForge Innovations, London, UK
+Jan 2018 – Sep 2020
+
+Designed and maintained internal toolsets in Python and C++ to streamline development processes
+
+Automated testing workflows and integrated them with CI/CD pipelines using Jenkins and GitLab
+
+Developed custom APIs for data processing, system validation, and performance analysis
+
+Collaborated with cross-functional teams to ensure software quality and deployment readiness
+
+Refactored legacy scripts and tools to improve maintainability and efficiency
+
+Engineering Intern
+Atomica Software Solutions, London, UK
+Jun 2016 – Dec 2017
+
+Contributed to the development of automation scripts using Java, Selenium, and TestNG
+
+Assisted in the creation of test scenarios and performed debugging activities
+
+Supported the software team in system testing and validation procedures
+
+Education
+MSc in Computer Engineering
+Imperial College London, UK
+2014 – 2016
+
+Certifications
+Certified Kubernetes Administrator
+Microsoft Certified: Azure Developer Associate
+Python for Data Science (Coursera)
+ISTQB Certified Tester - Foundation Level

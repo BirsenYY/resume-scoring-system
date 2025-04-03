@@ -1,0 +1,58 @@
+John Doe
+
+Los Angeles | 05555555 | john.doe@email.com | XYZ Innovations | XYZ Innovations
+
+WORDS ABOUT ME
+
+Quality Assurance Engineer with a strong background in ensuring software reliability through meticulous testing practices and automation techniques. Proficient in developing test strategies, automated test scripts, and integrating testing processes into Agile workflows. Skilled in Selenium, JIRA, and CI/CD implementation to streamline software delivery pipelines.
+
+CURRENTLY BUILDING
+
+XYZ Innovations - Senior QA Engineer                    Aug 2020 - Present
+
+- Leading QA efforts in a fast-paced startup environment, implementing a new testing framework integrated with Jenkins.
+- Spearheading the migration of test suites to Cypress for improved efficiency and reliability.
+
+PROJECTS
+
+Automated Load Testing Framework – link               2021
+
+- Engineered a scalable load testing framework using JMeter and Kubernetes for performance testing of cloud applications.
+- Achieved a 20% improvement in application response times by optimizing test scenarios.
+
+EXPERIENCE
+
+XYZ Tech Solutions - QA Automation Specialist        Dec 2018 - Aug 2020
+
+- Developed end-to-end test automation scripts for mobile applications using Appium and Espresso frameworks.
+- Implemented a test reporting dashboard using Grafana to monitor test results and trends.
+
+XYZ Software Studio - QA Analyst                          Mar 2016 - Dec 2018
+
+- Conducted exploratory testing for new software features and enhancements.
+- Collaborated with developers to identify and resolve critical defects affecting user experience.
+
+XYZ Digital Agency - QA Tester                               Jul 2014 - Mar 2016
+
+- Executed manual test cases for web applications and identified regression issues during software updates.
+- Assisted in defining acceptance criteria for user stories in Agile sprint planning sessions.
+
+EDUCATION
+
+XYZ College                                          2010 - 2014
+Bachelor of Science in Computer Science
+
+- Graduated with Distinction - Dissertation on test automation strategies for web services.
+- Recipient of the Dean's Award for academic excellence in software quality assurance.
+
+CERTIFICATIONS
+
+1. ISTQB Certified Tester - Foundation Level
+2. AWS Certified Solutions Architect - Associate
+3. Certified Scrum Master (CSM)
+4. Certified Kubernetes Administrator (CKA)
+5. CISSP (Certified Information Systems Security Professional)
+
+TOOLS AND TECHNOLOGIES
+
+Selenium, JIRA, Jenkins, Cypress, Appium, Espresso, JMeter, Kubernetes, Grafana, Agile Scrum, Python, Java, SQL, AWS, Kubernetes, Docker, Git & GitHub, TestNG, REST APIs, ISTQB, XYZ Tech Solutions, XYZ Software Studio, XYZ Innovations.

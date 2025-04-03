@@ -1,0 +1,119 @@
+    Alice Johnson                                  
+
+                        San Francisco | alice.johnson@email.com | Data Science | Data Science   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Data scientist with a strong foundation in statistics and machine learning. Skilled in developing data-driven solutions and leveraging AI technologies for impactful projects.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, R, SQL, Scala, Julia, Apache Spark, Hadoop, Docker                            
+
+    • Frameworks: Spark MLlib, XGBoost, LightGBM, CatBoost, Prophet, H2O.ai                           
+
+    • Machine Learning: AutoML, Graph Neural Networks, Anomaly Detection, Adversarial Attacks          
+
+    • Tools: Tableau, Power BI, D3.js, Git, Linux, Jupyter Notebook, Apache Airflow, TensorFlow Serving                            
+
+                                                                                  
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    Data Scientist | DataTech, New York              Jan 2022 – Present
+
+    Predictive Maintenance with Graph Neural Networks
+
+    • Developed predictive maintenance model using Graph Neural Networks to identify and prevent equipment failures.                                            
+
+    • Implemented anomaly detection algorithms to detect deviations in machinery behavior.          
+
+    • Utilized AutoML techniques to streamline model selection and hyperparameter tuning.                 
+
+    • Collaborated with cross-functional teams to deploy the solution in production environment.                          
+
+    Tech Stack: Python, Spark MLlib, Graph Neural Networks, AutoML, Scala, Kafka, Tableau                            
+
+                                                                                  
+
+    Customer Segmentation with Prophet
+
+    • Conducted customer segmentation analysis using Facebook Prophet forecasting tool.                                            
+
+    • Leveraged time series forecasting to predict customer behavior and preferences.                         
+
+    • Created interactive visualizations to communicate insights to key stakeholders.                             
+
+    • Optimized model performance through feature engineering and tuning of Prophet parameters.                         
+
+    Tech Stack: Python, Prophet, D3.js, Tableau, SQL, H2O.ai, Pandas                              
+
+                                                                                  
+
+    Data Analyst | Insight Data, Chicago              Aug 2018 – Dec 2021
+
+    Sentiment Analysis in Social Media
+
+    • Conducted sentiment analysis on social media data to understand customer perceptions and trends.                          
+
+    • Applied NLP techniques for text processing, tokenization, and sentiment classification.                          
+
+    • Developed dashboards to monitor sentiment metrics and derive actionable insights.                           
+
+    • Collaborated with marketing teams to optimize social media strategies based on analysis findings.                          
+
+    Tech Stack: Python, NLTK, VADER, Power BI, Google Cloud Platform (GCP), BigQuery                             
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc Data Science, Columbia University, New York             Sept 2020 - June 2022
+
+    BSc Statistics (Honors), University of Michigan, Ann Arbor            Sept 2016 - June 2020 
+
+                                                                                  
+
+                                                                                  
+
+    CERTIFICATIONS                                                                      
+
+                                                                                  
+
+    1. Certified Data Analyst (CDA)                   2. Deep Learning Specialist (DLS)                      
+
+    3. Big Data Professional (BDP)                   4. Machine Learning Engineer (MLE)                      
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Image Recognition (Convolutional Neural Networks)          • Fraud Detection System (Isolation Forest)          
+
+    • Time Series Forecasting (LSTM)                    • Customer Churn Prediction (Logistic Regression)           
+
+    • Recommendation System (Collaborative Filtering)          • Chatbot Development (Seq2Seq Models)          
+
+    • Voice Recognition System (RNNs)                  • Credit Risk Assessment (Gradient Boosting)          

@@ -1,0 +1,74 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Coordinates (Who I Am Now)
+Inquisitive and results-oriented Data Scientist with a solid statistical background and a knack for deriving impactful insights from complex datasets. Originally specialized in environmental studies, now adept at data manipulation, predictive analytics, and problem-solving through data-driven approaches. Keen on unraveling trends that drive informed decisions, particularly in sustainability and finance sectors.
+
+Toolkit & Weapons of Choice
+Languages: Python, Java, Scala, MATLAB
+Machine Learning: Gradient Boosting Machines, K-Means, Neural Networks, Natural Language Processing
+Data Ops: MongoDB, Apache Kafka, Spark, Hadoop, Airflow
+Visualization: D3.js, Plotly, ggplot
+Other Strengths: Bayesian Statistics, Data Mining, Experimental Design, Flask, Docker
+
+What I’m Building Now (Recent Role)
+Machine Learning Engineer
+EcoTech Solutions Ltd. – London, UK
+Apr 2021 – Present
+
+Engineered ML models to forecast environmental patterns for sustainable energy initiatives
+
+Collaborated with domain experts to translate data insights into actionable strategies
+
+Deployed scalable ML solutions and monitored model performance for energy forecasting
+
+Performed A/B testing to optimize recommendation algorithms for green practices
+
+Automated data ingestion and transformation processes for real-time analysis
+
+Where I Bridged the Gap (Transitional Role)
+Data Analyst – Energy Research
+CleanEnergy Research Institute – London, UK
+Aug 2018 – Mar 2021
+
+Analyzed energy consumption data to identify efficiency trends and anomalies
+
+Developed scripts in Scala for processing smart metering data from renewable sources
+
+Designed features for predictive maintenance models in the renewable energy sector
+
+Created interactive dashboards to visualize key performance indicators and trends
+
+Assisted in compliance reporting for energy regulatory bodies
+
+Where It All Started (Foundations in Engineering)
+Environmental Engineer
+GreenTech Innovations – London, UK
+Jan 2016 – Jul 2018
+
+Designed algorithms for real-time monitoring of air quality using IoT sensors
+
+Collaborated on the development of environmental impact assessment tools
+
+Managed data collection initiatives for sustainability projects with governmental agencies
+
+Contributed to the integration of analytical models for smart urban planning applications
+
+The Knowledge Base
+MSc – Applied Data Science
+University College London, 2019 – 2020
+
+BSc – Environmental Engineering
+King's College London, 2013 – 2016
+
+Digital Badges & Certifications
+Data Engineering with Google Cloud Platform
+
+Certified Analytics Professional (CAP)
+
+Azure AI Fundamentals
+
+Data Visualization with Shiny (RStudio)
+
+Secure Coding in Java

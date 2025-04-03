@@ -1,0 +1,113 @@
+Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 8+ years of experience in medical device innovation, clinical systems integration, and AI applications in healthcare. 
+
+     Specializing in biomedical signal processing, medical imaging analysis, and machine learning for diagnostics. Proficient in Python, MATLAB, and
+
+     PyTorch with a strong background in data-driven healthcare solutions. Collaborative team player passionate about leveraging technology for better patient care.    
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | PyTorch, Keras, Scikit-Learn | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis |
+
+     Medical Imaging (MRI, CT, Ultrasound), Image Segmentation | ITK-SNAP, 3D Slicer | Bioinstrumentation | Git, Docker, Kubernetes |
+
+     Health Informatics Standards (HL7, FHIR) | Flask, FastAPI, REST APIs | Jupyter Notebooks, LaTeX, DVC
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Senior Biomedical Engineer (Royal Free Hospital NHS Foundation Trust) - London, UK     Mar 2019 : Present
+
+    ● Spearheaded the development of a remote patient monitoring system for cardiac arrhythmias, ensuring continuous healthcare access for patients
+
+    ● Integrated AI-powered predictive analytics into the hospital's electronic health record system, optimizing resource allocation 
+
+    ● Managed a team of engineers to design and deploy a cloud-based diagnostic platform for neuroimaging data processing  
+
+    ● Conducted performance assessments for medical devices, ensuring compliance with ISO standards for safety and effectiveness
+
+    
+
+     Biomedical Data Scientist (University College London Hospitals)  Jan 2016 : Feb 2019
+
+    ● Implemented computer vision algorithms to automate organ segmentation in CT scans, streamlining treatment planning workflows
+
+    ● Led a research project on predicting treatment response in oncology using radiomic features extracted from MRI data
+
+    ● Collaborated with clinicians to develop a decision support tool for personalized cancer treatment recommendations
+
+    ● Co-authored a research paper on the application of deep learning in radiology that was published in a leading medical journal
+
+    
+
+     Biomedical Engineer (University Hospitals Birmingham NHS Foundation Trust) – Birmingham, UK     Sep 2013 : Dec 2015
+
+    ● Managed the maintenance and calibration of infusion pumps, defibrillators, and patient monitors in critical care units
+
+    ● Designed and implemented a mobile health app for monitoring blood pressure and heart rate in post-operative cardiac patients
+
+    ● Conducted usability studies and gathered user feedback to improve the app's functionality and user experience
+
+    ● Participated in a pilot study to evaluate the app's impact on patient outcomes and healthcare provider workflows
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    PhD in Biomedical Engineering - Imperial College London (Expected Graduation: Dec 2024)
+
+    MSc in Clinical Engineering - University of Oxford (Distinction)   Sep 2011 : Sep 2012
+
+    BEng in Biomedical Engineering - University of Leeds (First Class)  Sep 2007 : Jun 2011
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Health Informatics Professional (CHIPP)                          Apr, 2023
+
+    ● AI in Healthcare Certificate - MIT Professional Education                  Dec, 2022
+
+    ● Medical Cyber-Physical Systems Specialist (MedCPS)                        Sep, 2022
+
+    ● Biomedical Data Ethics and Governance (BDEG)                               May, 2021
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● Wearable Vital Signs Monitor: Developed a smartwatch app that tracks heart rate variability, oxygen saturation levels, and activity metrics for early health detection. Integrated with a cloud platform for data analytics and visualization. 
+
+    
+
+    ● Sleep Apnea Detection System: Created a software tool that analyzes overnight sleep recordings to identify respiratory events associated with sleep apnea. Implemented machine learning algorithms for automated event detection and severity classification. 
+
+    
+
+    ● Rehabilitation Robotics Project: Designed a robotic exoskeleton for upper limb rehabilitation in stroke patients. Conducted user trials to assess the device's effectiveness in assisting with motor recovery. Integrated real-time feedback mechanisms for personalized therapy sessions. 
+
+    
+
+    ● Smart Health Assistant: Built a voice-activated AI assistant that provides personalized health recommendations based on user input and health data analysis. Utilized natural language processing and health informatics algorithms to deliver tailored advice for everyday wellness.

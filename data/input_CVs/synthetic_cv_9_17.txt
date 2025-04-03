@@ -1,0 +1,59 @@
+Emma Patel
+
+New York | 0888888 | emma.patel@email.com | Portfolio: emmapatel.com | GitHub: github.com/emmapatel
+
+WORDS ABOUT ME
+
+Data science enthusiast with a focus on leveraging AI and machine learning to drive impactful solutions. Highly skilled in Python, R, and data visualization techniques. Recognized for outstanding problem-solving abilities and a keen eye for detail in model development and deployment.
+
+CURRENTLY BUILDING
+
+AI-Powered Financial Portfolio Optimization Tool - Data Scientist            Sep 2024 - Present
+
+● Creating a tool for optimizing investment portfolios based on risk tolerance and financial goals, utilizing machine learning algorithms and financial data APIs.
+
+PROJECTS
+
+DataAnomaly – Anomaly Detection System                                       2024
+
+● Developed a system to detect anomalies in large datasets using Isolation Forest and Autoencoders.
+
+● Implemented a web-based interface using Flask for interactive anomaly monitoring.
+
+AutomateML – Automated Machine Learning Platform                         2023
+
+● Built an end-to-end platform for automating the machine learning pipeline, from data preprocessing to model tuning.
+
+● Integrated with AWS Sagemaker for scalable training and inference.
+
+StockTrendify – Stock Market Prediction App                                    2023
+
+● Designed a predictive app using LSTM neural networks to forecast stock trends based on historical data.
+
+● Deployed the app on Heroku with real-time data feed integration.
+
+EXPERIENCE
+
+Data Analyst Intern                                      Jun 2023 – Dec 2023
+
+● Conducted data cleaning and analysis for marketing campaigns, resulting in a 15% increase in customer engagement.
+
+● Created interactive dashboards using Tableau for visualizing key performance metrics.
+
+ABC Consulting Firm – Data Science Consultant                    Jan 2022 – May 2023
+
+● Provided data-driven insights to optimize operational processes and improve decision-making.
+
+● Developed predictive models for customer segmentation and churn analysis.
+
+EDUCATION
+
+Stanford University                                                 2020 – 2024
+
+MSc Data Science                                                          
+
+● Capstone project: "Predictive Maintenance for Industrial Equipment" – reduced downtime by 25% through predictive maintenance modeling.
+
+TOOLS AND TECHNOLOGIES
+
+R, TensorFlow, Keras, Tableau, AWS Sagemaker, Flask, Matplotlib, Seaborn, NumPy, SciPy, MySQL, Jupyter Notebooks, Git, JSON, Power BI, Apache Spark, Hadoop, H2O.ai

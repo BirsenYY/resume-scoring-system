@@ -1,0 +1,64 @@
+Michael Black
+Edinburgh, UK | (+44) 7392816475 | michael.black@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/michaelblack | github.com/MikeBlack | blackdesigns.com/MikeBlack | medium.com/@mikeblack
+
+PROFESSIONAL SUMMARY:
+
+Dynamic Mechanical Engineer with 8 years of diverse experience in product design, structural analysis, and thermodynamic systems within the automotive and renewable energy industries. Proficient in CAD software, FEA simulations, and innovative product development. Skilled in leading teams, optimizing manufacturing processes, and implementing advanced engineering solutions. Actively exploring expertise in sustainable design practices and data analytics.
+
+SKILLS:
+
+SolidWorks, Creo, NX, LS-DYNA, Comsol Multiphysics, LabVIEW, Renewable Energy Systems, Vehicle Dynamics, Composite Materials, Robotics, Additive Manufacturing, Statistical Analysis, Risk Management, Technical Presentations, Supply Chain Management, Agile Methodologies, R, SQL, Adobe Creative Suite, Oracle, DFSS, DOE, Failure Analysis
+
+PROFESSIONAL EXPERIENCE:
+
+Lead Mechanical Engineer (Jaguar Land Rover) – Birmingham, UK
+Mar 2019 – Present
+
+Directed the design and validation of lightweight vehicle structures, contributing to a 12% improvement in fuel efficiency
+
+Conducted crash simulations using LS-DYNA software, leading to enhanced safety features in new car models
+
+Collaborated with cross-functional teams to integrate AI-driven predictive maintenance practices for production machinery
+
+Managed supplier relations for critical components, ensuring quality standards and on-time delivery
+
+Mechanical Design Specialist (Renewable Solutions Ltd) – Edinburgh, UK
+Aug 2015 – Feb 2019
+
+Developed innovative wind turbine blade designs, resulting in a 20% increase in energy production
+
+Utilized advanced FEA tools like Comsol Multiphysics to optimize blade performance under varying wind conditions
+
+Led a sustainability initiative to reduce material waste in production processes, achieving cost savings of 15%
+
+Implemented IoT sensors for remote monitoring of renewable energy systems, improving operational efficiency
+
+Junior Mechanical Engineer (Volvo Trucks) – Gothenburg, Sweden
+Jul 2013 – Jul 2015
+
+Contributed to the design and testing of next-generation hybrid powertrains for commercial vehicles
+
+Executed structural analysis using NX software, ensuring compliance with safety regulations
+
+Supported the integration of predictive maintenance systems for engine components, reducing downtime by 30%
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Edinburgh, Edinburgh (Distinction)
+Sep 2010 – Jun 2013
+
+BEng in Mechanical Engineering – University of Birmingham, Birmingham (First Class Honours)
+Sep 2006 – Jun 2010
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Certified Creo Parametric Expert – 2017
+
+Renewable Energy Professional (REP) – 2018
+
+Data Science and Machine Learning Certification (Stanford Online) – 2021
+
+Advanced Robotics Fundamentals (Udacity) – 2022
+
+Supply Chain Management Certification (APICS) – 2023

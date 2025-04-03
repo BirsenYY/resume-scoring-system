@@ -1,0 +1,119 @@
+Jane Smith
+
+                                                                                  
+
+                   San Francisco, USA | +1 234 567 8901 | jane.smith@email.com | Tech Pioneers
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Tech Pioneers – Data Scientist                            Jun 2023 – Sep 2024
+
+        ●  Researched application of chaotic neural networks in time series forecasting and anomaly detection.
+
+        ●  Implemented projects involving generative adversarial networks for image synthesis and semi-supervised learning techniques.
+
+        ●  Utilized MLflow and Apache Beam for model tracking and distributed processing.        
+
+                                                                                  
+
+      Tech Pioneers – AI Engineer                                Feb 2021 – Apr 2023
+
+        ●  Implemented reinforcement learning algorithms for robotic control tasks in simulated environments.
+
+        ●  Developed anomaly detection system for industrial machinery using autoencoders and online learning algorithms.
+
+        ●  Deployed NLP models for sentiment analysis and topic modeling in customer reviews.        
+
+                                                                                  
+
+      Tech Pioneers – Machine Learning Engineer                Sep 2019 – Jan 2021
+
+        ●  Led the development of a recommendation system based on collaborative filtering and matrix factorization techniques.
+
+        ●  Integrated real-time data processing pipelines using Apache Kafka and Apache Flink.
+
+        ●  Applied transfer learning to improve performance of computer vision models for object detection.
+
+                                                                                  
+
+      Innovation Works – Software Developer                       Mar 2018 – Aug 2019
+
+        ●  Designed and implemented a scalable microservices architecture using Kubernetes and Istio.
+
+        ●  Developed a data visualization application with D3.js for monitoring key performance indicators.
+
+        ●  Implemented RESTful APIs for a mobile app backend using Flask and MongoDB.        
+
+                                                                                  
+
+      Elite Solutions – Software Engineer                              Oct 2016 – Feb 2018
+
+        ●  Built a personalized news recommendation system based on user preferences and behavior analysis.
+
+        ●  Optimized SQL queries and database indexes to enhance system performance.
+
+        ●  Developed a customer engagement platform with real-time chat functionality using Socket.IO.        
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      AI Institute                                         2016 – 2019  
+
+      AI Institute Machine Learning, Distinction                                      
+
+                                                                                  
+
+      Tech Academy                                         2012 – 2016  
+
+      BSc Computer Science, First Class                                      
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Tech Pioneers – AI Ethics Platform                               2024     
+
+      E-commerce Analytics Dashboard - link                         2023     
+
+      Tech Pioneers - Machine Learning for Healthcare         2022     
+
+      Finance Prediction Model - link                                        2022     
+
+                                                                                  
+
+      CERTIFICATIONS                                                      
+
+                                                                                  
+
+      Certified Blockchain Professional (CBP)                   2023
+
+      AWS Certified Solutions Architect – Associate          2022
+
+      Certified Kubernetes Administrator (CKA)                      2021
+
+      CompTIA Security+                                                     2020
+
+      Google Cloud Professional Data Engineer                   2019
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: Tech Pioneers, Innovation Works, Elite Solutions, DataTech, Neural Networks Inc., AI Solutions,
+
+      TensorFlow, PyTorch, Keras, Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, Apache Spark, MLflow, Apache Beam,
+
+      TensorFlow Serving, Flask, Django, Kubernetes, Istio, Docker, AWS, GCP, Azure, Hadoop, Apache Kafka, Apache Flink,
+
+      Elasticsearch, Redis, MongoDB, Cassandra, D3.js, React, Angular, Node.js, Express, Socket.IO, RESTful APIs, SQL, NoSQL,
+
+      Git, JIRA, Confluence, Jenkins, Ansible, Prometheus, Grafana, ELK Stack, Agile methodologies.

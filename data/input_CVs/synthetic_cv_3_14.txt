@@ -1,0 +1,91 @@
+Alice Smith
+
+                                                                                  
+
+                      San Francisco | 987-654-3210 | alicesmith@email.com | Delta Technologies | LMN Innovations
+
+      SUMMARY                                                                     
+
+                                                                                  
+
+      Experienced machine learning engineer with a focus on developing and deploying innovative AI solutions. Skilled in
+
+      Python, TensorFlow, and Scikit-Learn, with hands-on experience in computer vision and natural language processing models. Proficient in building microservices architecture using FastAPI and deploying applications on cloud platforms.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      LMN Innovations                             Jan 2022 – Present
+
+        ●  Led projects in deep learning with applications in healthcare and autonomous driving.
+
+        ●  Implemented efficient machine learning pipelines using TensorFlow Extended and TensorFlow Serving.
+
+      Delta Technologies                             Jul 2020 – Dec 2021
+
+        ●  Developed and deployed computer vision models for image recognition and object detection.
+
+        ●  Implemented MLOps practices using Kubeflow and Apache Airflow to streamline model training and deployment.
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Fraud Detection System                                             2023     
+
+        ●  Built a real-time fraud detection system using anomaly detection techniques and machine learning algorithms.
+
+      AI-powered Chatbot                                                      2022     
+
+        ●  Designed and deployed a conversational AI chatbot for customer support, integrating NLP models for text understanding.
+
+      Secure Document Classification                                         2022     
+
+        ●  Developed a secure document classification system using deep learning to protect sensitive information.
+
+      Sentiment Analysis Tool                                           2021     
+
+        ●  Created a sentiment analysis tool for social media data processing to gauge public opinion on various topics.
+
+      Self-driving Car Simulation                                         2021     
+
+        ●  Implemented a self-driving car simulation environment with reinforcement learning algorithms for training autonomous driving models.
+
+                                                                                  
+
+      CERTIFICATIONS                                                             
+
+                                                                                  
+
+      - Certified Machine Learning Engineer (CMLE)
+
+      - AWS Certified Solutions Architect - Associate
+
+      - Google Cloud Professional Data Engineer
+
+      - Certified Blockchain Developer
+
+      - CompTIA Security+
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+      LMN University                                           2017 – 2021  
+
+      BSc in Artificial Intelligence                                                        
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      Proficient in TensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV, FastAPI, Docker, AWS, Google Cloud, SQL, Python, NLP, GANs,
+      
+      Reinforcement Learning, Pandas, NumPy, Matplotlib, React, Flask, JavaScript, C++, Java, Solidity.

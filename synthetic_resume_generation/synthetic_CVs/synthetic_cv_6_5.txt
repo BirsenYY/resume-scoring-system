@@ -1,0 +1,127 @@
+Jane Smith                               
+
+                                                                                  
+
+                   San Francisco, USA | +1 234 567 8901 | jane.smith@email.com | Tech Solutions
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Tech Solutions – Machine Learning Engineer           Jul 2023 – Present
+
+        ●  Conducted research on quantum machine learning algorithms for molecular dynamics simulations.
+
+        ●  Implemented QuantumKeras for quantum-enhanced classical ML models and optimised quantum circuits for quantum/classical hybrid models.
+
+        ●  Utilised Quantum XOR networks for pattern recognition tasks and fine-tuned EIGEN deep learning models for drug discovery.
+
+        ●  Leveraged Apache Beam for large-scale data processing and model training.
+
+                                                                                  
+
+      Tech Services – Software Engineer                                 Jan 2022 – Jun 2023
+
+        ●  Engineered a predictive maintenance system for industrial equipment, integrating ML models for fault detection.
+
+        ●  Developed a custom dashboard using Bokeh to visualise real-time sensor data and anomaly alerts.
+
+        ●  Collaborated with cross-functional teams on data collection strategies and feature engineering.
+
+      Tech Innovators – Research Intern                                Apr 2021 – Nov 2021
+
+        ●  Investigated generative adversarial networks (GANs) for image synthesis applications in healthcare.
+
+        ●  Fine-tuned StyleGAN2 for medical imaging data augmentation and analysed transfer learning performance.
+
+        ●  Developed a Python package for image preprocessing and augmentation techniques.
+
+                                                                                  
+
+      Tech Systems – Data Analyst                         Aug 2020 – Mar 2021
+
+        ●  Conducted exploratory data analysis on customer engagement metrics, identifying key drivers of conversion rates.
+
+        ●  Utilised ARIMA models for forecasting customer churn and implemented A/B testing for product feature optimisation.
+
+        ●  Automated data pipelines using Apache NiFi and scheduled data processing tasks with Apache Airflow.
+
+                                                                                  
+
+      InnovateTech – Junior Software Developer                         Jun 2019 – Jul 2020
+
+        ●  Implemented RESTful APIs for a microservices architecture, facilitating seamless communication between frontend and backend systems.
+
+        ●  Integrated Elasticsearch for efficient data indexing and querying in a high-traffic e-commerce platform.
+
+        ●  Participated in code reviews, debugging sessions, and continuous integration practices.
+
+                                                                                  
+
+      Tier2 InnovateDB – Database Administrator                         Mar 2018 – May 2019
+
+        ●  Managed database performance tuning, schema design, and query optimisation for a distributed SQL database.
+
+        ●  Implemented database replication strategies for disaster recovery and high availability.
+
+        ●  Conducted SQL query analysis and index optimisation to improve system efficiency.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Data Science Academy                                       2020 – 2022  
+
+      Data Science and Machine Learning, Certificate                                      
+
+                                                                                  
+
+      University of Technology                                          2015 – 2019  
+
+      B.E. Computer Engineering, First Class                                      
+
+                                                                                  
+
+      CERTIFICATIONS                                                                    
+
+                                                                                  
+
+      1. Certified Blockchain Developer (CBD)                                       
+
+      2. AWS Certified Solutions Architect – Associate                                        
+
+      3. Google Professional Data Engineer                                       
+
+      4. CompTIA Security+                                       
+
+      5. Red Hat Certified Engineer (RHCE)                                       
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Tech Innovators – Quantum Computing Project                                               2023     
+
+      Social Network Analysis Tool                                        2023     
+
+      AI-driven Healthcare Platform                                        2022     
+
+      ML-powered Stock Price Prediction Model                                                     
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: Tech Solutions, InnovateTech, Tier Systems, MyData Tools, QuantumTech, MetaOps, SudoData,
+
+      QuantumKeras, StyleGAN2, Bokeh, Apache Beam, ARIMA, Elasticsearch, Apache NiFi, RESTful APIs, PostgreSQL, MySQL, MongoDB,
+
+      Elasticsearch, Redis, Apache Kafka, Kubernetes, Docker, Jenkins, Git, JIRA, Scikit-learn, TensorFlow, Keras, PyTorch, Hadoop, Spark,
+
+      Tableau, Power BI, Splunk, Grafana, Prometheus, Terraform, Ansible, Jenkins, Agile methodologies, CI/CD, TDD.

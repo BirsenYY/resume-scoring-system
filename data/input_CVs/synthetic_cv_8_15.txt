@@ -1,0 +1,66 @@
+John Doe
+
+San Francisco | 0999999 | john.doe@email.com | XYZ Innovations | XYZ Innovations
+
+ABOUT ME
+
+Quality Assurance Engineer specializing in building efficient test automation frameworks and ensuring software quality through rigorous testing practices. Experienced in leading QA teams, designing test strategies, and implementing automated testing solutions for web and mobile applications. Proficient in tools like Appium, JUnit, and Katalon Studio. Skilled in Agile methodologies and continuous integration practices to deliver high-quality software releases.
+
+CURRENTLY BUILDING
+
+XYZ Innovations – Quality Assurance Engineer               Mar 2022 – Present
+
+Co-founded XYZ Innovations and currently leading the development of a scalable test automation framework for a cloud-based IoT platform.
+
+PROJECTS
+
+Mobile Test Automation Suite – Link                                      2022
+
+Designed and implemented a mobile test automation suite using Appium and Espresso for native and hybrid mobile applications.
+
+Key achievements:
+- Increased test coverage by 80% leading to the early detection of critical defects.
+- Integrated the test suite with Jenkins for continuous testing and deployment.
+
+EXPERIENCE
+
+XYZ Tech – QA Automation Engineer                               Sep 2020 – Mar 2022
+
+Developed end-to-end automated test suites for React Native apps using JUnit and Espresso.
+Achievements:
+- Reduced regression testing time by 60% by implementing parallel test execution.
+- Conducted code reviews and introduced performance testing to improve app responsiveness.
+
+XYZ Solutions – QA Tester                                                 Feb 2019 – Sep 2020
+
+Performed manual and automated testing for a cloud-based CRM platform.
+Highlights:
+- Implemented API testing using Postman and RestAssured to validate data integrity.
+- Collaborated with cross-functional teams to streamline the test process and improve release quality.
+
+XYZ Software – Intern QA Analyst                                     May 2018 – Feb 2019
+
+Conducted functional testing and documented test cases for a web-based project management tool.
+Achievements:
+- Identified critical defects in the UI/UX design resulting in enhanced user experience.
+- Assisted in setting up test environments and maintaining test data integrity.
+
+EDUCATION
+
+XYZ College                                                  2015 – 2019
+
+BSc in Computer Science                                                 
+
+- Graduated with Distinction - Final year project on implementing AI-driven test automation strategies for mobile applications.
+
+TOOLS AND TECHNOLOGIES
+
+Appium, Espresso, JUnit, Katalon Studio, Postman, RestAssured, Agile Scrum, Jenkins, JIRA, Git, Python, Java, SQL, TestNG, CI/CD, XYZ Tech, XYZ Innovations, XYZ Solutions
+
+CERTIFICATES
+
+1. ISTQB Certified Foundation Level Tester
+2. AWS Certified Cloud Practitioner
+3. Google Associate Android Developer Certification
+4. Docker Certified Associate
+5. Certified Ethical Hacker (CEH)

@@ -1,0 +1,79 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Coordinates (Who I Am Now)
+Passionate and detail-oriented Data Scientist with a background in quantitative finance and a keen interest in utilizing data for impactful solutions. Proficient in developing robust data pipelines, predictive modeling, and driving business intelligence through actionable insights.
+
+Toolkit & Weapons of Choice
+Languages: Python, SAS, Scala, Julia
+Machine Learning: LightGBM, CatBoost, PyTorch, NLP, Anomaly Detection
+Data Ops: Snowflake, Airflow, Kafka, Hadoop, Spark
+Visualization: D3.js, Plotly, Bokeh, Dash
+Other Strengths: Bayesian Statistics, Optimization, Reinforcement Learning, Docker, Kubernetes
+
+What I’m Building Now (Recent Role)
+Data Scientist
+TechSolutions Ltd. – London, UK
+Apr 2021 – Present
+
+Implemented fraud detection algorithms using ensemble learning techniques
+
+Collaborated with cross-functional teams to optimize marketing strategies based on predictive models
+
+Developed real-time dashboards for monitoring key performance indicators
+
+Conducted root cause analysis and proposed data-driven solutions for operational inefficiencies
+
+Enhanced data quality and governance processes to ensure accuracy and consistency
+
+Where I Bridged the Gap (Transitional Role)
+Quantitative Analyst – Financial Services
+Alpha Investments – London, UK
+Jun 2018 – Mar 2021
+
+Performed in-depth market risk analysis and developed risk models for portfolio optimization
+
+Utilized time series forecasting to predict asset price movements and optimize trading strategies
+
+Conducted stress testing and scenario analysis for investment decision-making
+
+Automated data retrieval processes and improved data visualization tools for reporting
+
+Collaborated on the development of a proprietary trading algorithm with a focus on algorithmic trading
+
+Extra Projects (Side Projects)
+1. Developed a sentiment analysis tool for social media data using NLP techniques
+2. Built a recommendation engine for personalized investment portfolios
+3. Created a fraud detection prototype for credit card transactions
+
+Where It All Started (Foundations in Finance)
+Quantitative Research Analyst
+Numbers Capital Ltd. – London, UK
+Aug 2016 – May 2018
+
+Conducted quantitative research on financial markets and macroeconomic indicators
+
+Built pricing models for financial derivatives and structured products
+
+Performed back-testing and performance evaluation of trading strategies
+
+Participated in the development of risk management frameworks and stress testing simulations
+
+The Knowledge Base
+MSc – Financial Engineering
+Imperial College London, 2015 – 2016
+
+BSc – Mathematics with Economics
+University of Warwick, 2012 – 2015
+
+Digital Badges & Certifications
+AWS Certified Machine Learning - Specialty
+
+Certified Advanced R Programmer
+
+Google Professional Data Engineer
+
+MongoDB Certified Developer
+
+Apache Spark Developer Certification

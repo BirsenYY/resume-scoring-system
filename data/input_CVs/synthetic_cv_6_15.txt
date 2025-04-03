@@ -1,0 +1,111 @@
+    IBM                                     
+
+                                                                                    
+
+                 New York, US | (+1) 9876543210 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | ibm.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative Data Scientist and Data Engineering Specialist with 8 years of experience. Skilled in Natural Language Processing (NLP),
+
+      Time Series Analysis, and Anomaly Detection. Proficient in Python, SQL, and Apache Spark. Currently expanding expertise in
+
+      Graph Neural Networks, Bayesian Inference, and Data Engineering for AI applications. Strong background in leading data-driven
+
+      initiatives, designing scalable data pipelines, and delivering actionable insights for business growth.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, SQL, Scala | Apache Hadoop, Kafka, Flink | PySpark, Dask, Hugging Face, GraphEmbed, ProbAI | AutoML, Bayesian
+
+      Inference, Graph Neural Networks | Apache Airflow, Kubernetes | Git, Jenkins, CircleCI, Slack                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Data Science Lead (Datalytics Inc.) - San Francisco, US   Jan 2020 : Present
+
+    ● Spearheaded the development of an AutoML platform for rapid model deployment and evaluation, streamlining the data science
+
+      workflow and reducing model development time by 40%                
+
+    ● Led a cross-functional team in implementing a real-time anomaly detection system using Graph Neural Networks, resulting in a 30%
+
+      improvement in detecting fraudulent activities and system failures        
+
+    ● Collaborated with product managers to define key performance indicators (KPIs) and create data visualizations using Tableau for
+
+      tracking business metrics and driving data-informed decision-making            
+
+    ● Mentored junior data scientists, conducted training sessions on advanced machine learning techniques, and provided guidance on
+
+      best practices in data analysis and model evaluation                      
+
+     Senior Data Engineer (Oracle Corporation) - Austin, US   Mar 2017 : Dec 2019
+
+    ● Designed and implemented scalable data pipelines using Apache Kafka and Spark for processing large volumes of streaming data
+
+      from IoT devices and sensors                                                 
+
+    ● Built a real-time recommendation engine leveraging collaborative filtering techniques and Spark MLlib, enhancing user engagement
+
+      and increasing platform conversions                                          
+
+    ● Conducted A/B testing experiments to optimize algorithm performance and evaluated model performance using metrics such as RMSE
+
+      and precision-recall curves                                                  
+
+    ● Collaborated with cross-functional teams to deploy machine learning models in production environments using Kubernetes and created
+
+      monitoring dashboards for tracking model performance and anomalies          
+
+     Data Analyst (DataSolve Technologies) - Seattle, US   Aug 2014 : Feb 2017
+
+    ● Analyzed large datasets using SQL and Python to identify trends, patterns, and actionable insights for business stakeholders
+
+    ● Developed Time Series forecasting models for predicting sales and inventory levels, improving demand planning accuracy by 20%
+
+    ● Automated data extraction and transformation processes using Apache Airflow, reducing manual errors and improving data quality
+
+    ● Conducted data visualization using Matplotlib and Seaborn to communicate findings effectively to non-technical audiences
+
+     Junior Data Scientist (DataInsight Solutions) - Chicago, US   Jan 2012 : Jul 2014
+
+    ● Built machine learning models for customer segmentation and churn prediction, leveraging scikit-learn and XGBoost algorithms
+
+    ● Performed exploratory data analysis on customer behavior and product usage data to uncover actionable insights for marketing
+
+      campaigns                                                                       
+
+    ● Collaborated with cross-functional teams to integrate data science solutions into business processes and improve decision-making
+
+      based on data-driven insights                                                  
+
+    EDUCATION:                                                                      
+
+    MS in Data Science - University of Washington, Seattle (Distinction)   Aug 2010 : Aug 2012
+
+    BS in Statistics - University of California, Berkeley (Honors)   Sep 2006 : Jun 2010
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Cloud Data Engineer Certification (Google Cloud)                       Mar, 2022
+
+    ● Certified Kubernetes Application Developer (CKAD)                      Oct, 2021
+
+    ● Data Engineering with Apache Spark (Udacity)                           Jul, 2021
+
+    ● Certified Graph Neural Networks Specialist (NeoAI)                    Apr, 2021
+
+    ● Advanced Time Series Analysis (DataCamp)                               Dec, 2020

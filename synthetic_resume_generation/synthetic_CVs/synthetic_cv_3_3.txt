@@ -1,0 +1,115 @@
+Alice Smith
+
+                                                                                  
+
+                      San Francisco | 0888888 | alice.smith@email.com | ABC AI Innovations | ABC AI Innovations
+
+      PROFILE                                                                
+
+                                                                                  
+
+                                                                                  
+
+      AI Engineer with expertise in developing and deploying advanced AI solutions. Skilled in leading cross-functional teams and 
+
+      executing end-to-end AI projects. Proficient in Python and TensorFlow, with experience in computer vision and natural 
+
+      language processing applications. Strong in building applications using Flask and microservices architecture, deployed on 
+
+      cloud platforms.
+
+      CURRENT PROJECT                                                         
+
+                                                                                  
+
+      ABC AI Innovations – AI Engineer                    Mar 2023 – Present
+
+        ●  Co-founded startup focusing on... (LINK TO GITHUB)                   
+
+                                                                                  
+
+      SIDE PROJECTS                                                                    
+
+                                                                                  
+
+      ABC AI Innovations – link                                               2023     
+
+      …                                                                           
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      ABC Research Institute – Research Scientist           Mar 2023 – Dec 2023
+
+        ●  Conducted research on state-of-the-art AI models in computer vision and NLP.
+
+        ●  Worked on projects like knowledge distillation for vision models, attention mechanisms in NLP, and developing novel
+
+           Transformer architectures.                                
+
+        ●  Implemented MLOps practices using MLflow and DVC for model tracking and reproducibility.        
+
+                                                                                  
+
+      ABC Tech Solutions – AI Engineer                           Aug 2021 – Mar 2023
+
+        ●  Developed AI solutions to optimize manufacturing processes, reducing production times and costs significantly.
+
+        ●  Designed and implemented autonomous robotics systems for factory automation, improving efficiency and safety.
+
+        ●  Provided training sessions on AI technologies to employees and conducted workshops on AI applications.
+
+                                                                                  
+
+      XYZ AI Innovations – Machine Learning Engineer                      Jan 2020 – Aug 2021
+
+        ●  Led the development of an AI-powered recommendation system for e-commerce platform, increasing sales by 20%.
+
+        ●  Managed a team of data scientists to build predictive maintenance models for industrial equipment.
+
+        ●  Collaborated with stakeholders to define AI strategies and roadmap for business growth.
+
+                                                                                  
+
+      DEF Automation – AI Specialist                                 May 2018 – Jan 2020
+
+        ●  Implemented AI algorithms for optimizing supply chain operations, reducing inventory holding costs by 15%.
+
+        ●  Deployed computer vision solutions for quality control in manufacturing processes, enhancing product quality.
+
+        ●  Spearheaded the integration of AI tools and technologies within the company, improving operational efficiency.
+
+      GHI Robotics – Robotics Engineer                    Sep 2016 – May 2018
+
+        ●  Designed and developed robotic systems for warehouse automation, increasing order processing speed by 30%.
+
+        ●  Programmed autonomous drones for inventory tracking and management, reducing human errors.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      University of AI and Robotics                                         2014 – 2018  
+
+      MSc in Artificial Intelligence                                                 
+
+        ●  Awarded for Best Thesis in AI Applications       
+
+      CERTIFICATIONS
+
+      1. AI Ethics and Bias Mitigation by AI Academy  
+      2. Deep Learning Specialization by Deeplearningschool  
+      3. Reinforcement Learning Certification by RL Institute  
+      4. AI for Business Leaders by AItech Academy   
+      5. Bayesian Machine Learning Certification by BaysianTech 
+
+      TOOLS AND TECHNOLOGIES
+
+TensorFlow, PyTorch, Scikit-Learn, Flask, Docker, Kubernetes, AWS, TensorFlow Serving, NLTK, OpenCV, SQL, Git & GitHub, 
+      AWS S3, Matplotlib, AngularJS, HTML, CSS, Java, Python
+    ```

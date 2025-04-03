@@ -1,0 +1,66 @@
+Sarah Green
+Manchester, UK | (+44) 7453298102 | sarah.green@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/sarahgreen | github.com/SarahGreen | bmw.com/SarahGreen | blog.com/@sarahgreen
+
+PROFESSIONAL SUMMARY:
+
+Dynamic Mechanical Engineer with 8 years of experience in mechanical design, stress analysis, and HVAC systems. Skilled in CAD modelling, FEA simulations, and thermal management. Proficient in managing engineering projects, improving manufacturing processes, and implementing innovative solutions in automotive and building services sectors. Actively enhancing knowledge in robotics automation and sustainable engineering practices.
+
+SKILLS:
+
+SolidWorks, Autodesk Inventor, Pro/Engineer, LS-DYNA, COMSOL Multiphysics, LabVIEW, Renewable Energy Systems, Robotics Systems, Project Management (Waterfall, Lean, Kanban), Java, R, PLC Programming, Technical Writing, Failure Mode and Effect Analysis (FMEA), Root Cause Analysis, Six Sigma, IoT Integration, Energy Efficiency Modelling
+
+PROFESSIONAL EXPERIENCE:
+
+Senior Mechanical Engineer (BMW) – Manchester, UK
+Feb 2017 – Present
+
+Managed the design and analysis of electric vehicle components, achieving a 20% increase in battery efficiency and weight reduction
+
+Conducted stress analysis and thermal simulations on chassis structures using LS-DYNA and ANSYS, leading to a 15% improvement in crashworthiness
+
+Implemented Industry 4.0 practices in the production line, resulting in a 30% reduction in assembly time and defects
+
+Collaborated with interdisciplinary teams to develop autonomous driving prototypes, enhancing vehicle safety features
+
+Mechanical Design Engineer (Nestlé) – Liverpool, UK
+Apr 2013 – Jan 2017
+
+Designed packaging machinery and conveyor systems for food production lines, emphasizing hygiene and efficiency
+
+Utilized Autodesk Inventor and SolidWorks to create 2D drawings and 3D models, reducing manufacturing lead times by 20%
+
+Optimized energy consumption in cooling systems, saving 15% on operational costs and improving sustainability practices
+
+Led continuous improvement initiatives in the plant layout, increasing production capacity by 25%
+
+Graduate Mechanical Engineer (Rolls-Royce) – Derby, UK
+Aug 2010 – Mar 2013
+
+Contributed to the design and testing of gas turbine components, focusing on performance optimization and reliability
+
+Conducted vibration analysis and structural integrity assessments to meet industry safety standards
+
+Assisted in the development of maintenance manuals and technical specifications for aerospace applications
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Nottingham, Nottingham (Distinction)
+Sep 2006 – Jul 2010
+
+BEng in Mechanical Engineering – University of Birmingham, Birmingham (First Class Honours)
+Sep 2002 – Jun 2006
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Licensed Professional Engineer (Institution of Mechanical Engineers) – 2019
+
+Certified Pro/Engineer Specialist – 2016
+
+Fundamentals of Robotics Automation (Stanford Online) – Ongoing
+
+Certified Lean Six Sigma Black Belt – 2020
+
+Renewable Energy Systems Design (Udemy) – 2021
+
+IoT Integration for Engineers (LinkedIn Learning) – 2022

@@ -1,0 +1,56 @@
+John Davis
+
+San Francisco | 0999999 | john.davis@email.com | XYZ Innovations | XYZ Innovations
+
+WORDS ABOUT ME
+
+Innovative Quality Assurance Engineer with a strong background in ensuring software quality through meticulous testing processes. Experienced in leading QA initiatives and developing automated test suites for various platforms. Skilled in test strategy design, automation with tools like Appium and JUnit, and API testing with tools such as SoapUI. Proficient in Agile methodologies and implementing robust CI/CD pipelines for smooth software deployments.
+
+CURRENTLY BUILDING
+
+XYZ Innovations – Quality Assurance Engineer            Mar 2023 – Present
+
+- Spearheading the implementation of a comprehensive QA strategy for cutting-edge IoT solutions.
+
+PROJECTS
+
+Mobile Test Automation Suite – link                                      2023
+
+- Designed and implemented a scalable mobile test automation suite using Appium and Jenkins.
+- Achieved a 90% increase in test coverage for iOS and Android mobile applications.
+
+EXPERIENCE
+
+XYZ Software House – QA Consultant                          Jul 2022 – Mar 2023
+
+- Contributed to the development of QA processes for AI-driven chatbot applications.
+- Implemented automated testing frameworks using Espresso and RestAssured for mobile APIs.
+- Conducted performance testing using JMeter to ensure application scalability.
+
+XYZ Tech Solutions – QA Automation Engineer          Jan 2021 – Jul 2022
+
+- Developed end-to-end test automation scripts for React Native apps using Detox and Espresso.
+- Reduced testing time by 70% through automation and parallel testing.
+- Provided training sessions on mobile automation best practices to the QA team.
+
+XYZ Systems – QA Engineer                                           Mar 2019 – Jan 2021
+
+- Created and executed test plans for web and mobile applications, focusing on user experience.
+- Integrated test suites with Bamboo for continuous integration and deployment.
+- Collaborated with cross-functional teams to resolve critical defects and ensure product quality.
+
+Side Project: IoT Testing Dashboard – XYZ Innovations       2020
+
+- Designed and developed a dashboard to monitor IoT device performance and automate reporting.
+
+EDUCATION
+
+XYZ College                                                       2016 – 2019
+
+BSc in Computer Science                                                
+
+- Graduated with Distinction – Final year project on enhancing automated testing for IoT devices.
+
+TOOLS AND TECHNOLOGIES
+
+Appium, JUnit, SoapUI, Espresso, RestAssured, JMeter, Bamboo, Git & GitHub, TestNG, Kotlin, Swift, Python, Ruby, Selenium WebDriver, CI/CD, Agile Scrum, XYZ Tech Solutions, XYZ Systems, XYZ Software House, XYZ Innovations

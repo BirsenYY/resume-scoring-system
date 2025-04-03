@@ -1,0 +1,71 @@
+    Amazon                                                                    
+
+                                                                                
+
+                 Seattle, US | (+1) 9876543210 | jane.smith@gmail.com | Work Rights: Yes/Full-Time
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | medium.com/@janesmith | twitter.com/JaneSmithAI
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                
+
+     Innovative AI/ML Specialist with 8 years of experience and expertise in Building Information Modeling (BIM) and Cyber-Physical Systems. Proven track record in developing AI solutions for smart cities and sustainable urban development projects. Proficient in Python, MATLAB, and Julia, with ongoing focus on transformer models, multimodal architectures, and genetic programming. Skilled in team leadership, AI pipeline optimization, and delivering cutting-edge solutions for diverse industries.        
+
+    SKILLS:                                                                         
+
+                                                                                
+
+      Python, MATLAB, Julia, R | SQL, NoSQL | Scikit-Learn, XGBoost, LangChain, CloudML, LlamaAI | Transformer models, Genetic Algorithms, Fine-tuning | BIM, Cyber-Physical Systems | Flask, Django | Git, Docker, Kubernetes, Azure                     
+
+                                                                                
+
+    PROFESSIONAL EXPERIENCE:                                                       
+
+                                                                                
+
+     AI Solutions Architect (AIvatars Inc.) - San Francisco, US   March 2021 : Present
+
+    ● Spearheaded the development of a next-generation AI platform for personalized avatars using CloudML and XGBoost, increasing user engagement by 30% in e-commerce applications            
+
+    ● Led a team in creating a hybrid transformer model for fault prediction in industrial IoT systems, improving predictive maintenance accuracy by 40% and reducing downtime               
+
+    ● Managed a project for implementing AI-driven BIM solutions in smart city infrastructure, enhancing urban planning efficiency and sustainability through data-driven insights and predictive analytics            
+
+    ● Initiated a hackathon for AI enthusiasts within the company, fostering innovation and collaboration among team members to explore new AI applications and technologies                  
+
+     Data Scientist (IBM Research) - New York, US   June 2019 : February 2021
+
+    ● Developed and deployed ML models for anomaly detection in IoT sensor data using Scikit-Learn and TensorFlow, achieving 95% accuracy in identifying critical system failures          
+
+    ● Created data pipelines for processing and analyzing large-scale sensor data streams, integrating real-time data visualization tools and dashboard for monitoring system performance              
+
+    ● Collaborated with cross-functional teams to optimize AI models for predictive maintenance in manufacturing environments, enabling proactive intervention and minimizing downtime            
+
+    ● Presented research findings at industry conferences and contributed to peer-reviewed publications on AI applications in industrial IoT and smart manufacturing                   
+
+     Research Assistant (Carnegie Mellon University) - Pittsburgh, US  September 2017 : May 2019
+
+    ● Conducted research on cyber-physical systems for smart grid applications, focusing on energy optimization, distributed control, and resilience analysis using MATLAB and Python          
+
+    ● Developed simulation models to evaluate the impact of AI algorithms on grid stability and renewable energy integration, leading to recommendations for enhancing grid efficiency and reliability             
+
+    ● Collaborated with industry partners to implement AI solutions for demand response management and grid automation, facilitating dynamic pricing strategies and grid modernization initiatives              
+
+    EDUCATION:                                                                      
+
+    Ph.D. in Computer Science - Carnegie Mellon University, Pittsburgh (Distinction)  August 2014 : May 2019
+
+    B.Tech in Computer Engineering - University of California, Berkeley (Honors)  August 2010 : May 2014
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                
+
+    ● Certified Cyber-Physical Systems Specialist (CPS Institute)       May, 2022
+
+    ● Building Information Modeling (BIM) Professional Certification (BIM Council)       August, 2021
+
+    ● AI Ethics and Responsible AI Certification (Ethical AI Trust)        December, 2020
+
+    ● Cloud Solutions Architect (Microsoft Azure)       April, 2019

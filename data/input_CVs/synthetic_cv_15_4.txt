@@ -1,0 +1,122 @@
+Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/[NAME] | github.com/[NAME] | [PORTFOLIO_LINK] | medium.com/@[NAME]
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 8+ years of experience in clinical systems integration, medical device design, and AI-enhanced diagnostics. 
+
+     Proficient in Python, MATLAB, and TensorFlow for signal processing, medical imaging analysis, and predictive modeling. 
+
+     Demonstrated success in collaborating with healthcare professionals, data scientists, and software engineers to implement innovative 
+
+     solutions for improved patient outcomes. Passionate about leveraging technology to advance healthcare practices.    
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, PyTorch | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis |
+
+     Medical Imaging (MRI, CT, X-ray), Image Segmentation | PyRadiomics, ITK-SNAP, 3D Slicer | Bioinstrumentation | Git, Docker |
+
+     Biomedical Data Standards (HL7, FHIR) | Flask, Streamlit, REST APIs | Jupyter Notebooks, LaTeX
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Biomedical Engineer (St. Thomas' Hospital - NHS Trust) - London, UK     Oct 2019 : Present
+
+    ● Spearheaded the development of an AI-driven system for early detection of sepsis in ICU patients, reducing false alarms by 20%
+
+    ● Implemented data pipelines for real-time analysis of patient ECG readings, enhancing monitoring accuracy by 15%
+
+    ● Collaborated with radiologists to automate tumor quantification in CT scans using custom image processing algorithms
+
+    ● Conducted user training sessions for healthcare staff on the usage and benefits of new medical technologies
+
+    
+
+     Data Analyst (University College London Hospitals)  Apr 2016 : Sep 2019
+
+    ● Led a team in the analysis of longitudinal patient data to identify predictors of treatment response in oncology patients
+
+    ● Developed a dashboard for visualizing hospital bed utilization patterns, improving resource allocation efficiency by 25%
+
+    ● Coordinated the integration of a remote patient monitoring system with existing electronic health records for seamless data flow
+
+    ● Conducted statistical analysis on large-scale healthcare datasets to identify trends and patterns for research projects
+
+    
+
+     Biomedical Technician (Royal Free Hospital NHS Foundation Trust) – London, UK     Feb 2014 : Mar 2016
+
+    ● Installed and maintained medical equipment such as infusion pumps, defibrillators, and blood gas analyzers in clinical settings
+
+    ● Provided technical support for the development and testing of new medical devices and diagnostic tools
+
+    ● Collaborated with research teams on projects involving wearable health monitoring devices and telemedicine solutions
+
+    ● Conducted equipment training sessions for hospital staff and participated in regulatory compliance audits
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    MSc in Biomedical Engineering - University College London (Distinction)   Sep 2012 : Sep 2013
+
+    BEng in Biomedical Engineering - University of Edinburgh (First Class)  Sep 2008 : Jun 2012
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Clinical Data Management Certificate (ACRP)                        Feb, 2022
+
+    ● Neural Networks and Deep Learning (edX)                           Oct, 2021
+
+    ● Certified Healthcare Simulation Educator (CHSE)                    May, 2020
+
+    ● Medical Device Risk Management Course (RAPS)                      Sep, 2019
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● Wearable Health Monitor Prototype: Designed and programmed a wearable device for continuous vital sign monitoring using Arduino 
+
+      and Bluetooth connectivity. Conducted field tests for accuracy and reliability.
+
+    
+
+    ● Telemedicine App Development: Created a mobile application for remote patient consultations, secure messaging, and prescription 
+
+      management. Integrated video conferencing and EMR system access for healthcare providers.
+
+    
+
+    ● AI-Enhanced Radiology Reporting Tool: Developed a web-based tool for radiologists to generate structured reports from imaging studies 
+
+      using NLP algorithms. Improved report accuracy and reduced reporting time by 30%.
+
+    
+
+    ● Smart Health Dashboard: Built a dashboard for visualizing aggregated patient vitals and treatment plans for ICU staff to monitor multiple 
+
+      patients simultaneously. Integrated real-time alerts for critical changes in patient conditions.
+

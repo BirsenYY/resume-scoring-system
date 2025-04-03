@@ -1,0 +1,69 @@
+Emily Parker
+Manchester, UK | (+44) 7836542901 | emily.parker@email.com | Work Rights: Yes/Full-Time
+linkedin.com/in/emilyparker | github.com/EmilyParker | medium.com/@emilyparker | rolls-royce.com/EmilyParker
+
+PROFESSIONAL SUMMARY:
+
+Dynamic Mechanical Engineer with 8 years of experience in the aerospace and automotive industries, specialising in concept design, stress analysis, and product optimization. Proficient in CAD software, FEA simulations, and additive manufacturing. Skilled in leading project teams, improving manufacturing processes, and implementing sustainable engineering solutions. Currently exploring advancements in machine learning applications for engineering projects.
+
+SKILLS:
+
+CATIA, NX Unigraphics, Solid Edge, LS-DYNA, Creo, Python, SAP2000, Computational Fluid Dynamics, Robotics, Automation, Six Sigma, Agile Project Management, Technical Writing, DOE, Quality Control, System Integration, Reverse Engineering
+
+PROFESSIONAL EXPERIENCE:
+
+Senior Mechanical Engineer (Airbus) – Bristol, UK
+Mar 2017 – Present
+
+Led the redesign of aircraft wing structures, enhancing fuel efficiency by 12% and reducing maintenance costs by 8%
+
+Conducted nonlinear structural analysis using LS-DYNA for composite components, ensuring compliance with safety standards
+
+Implemented automated design validation processes, saving 15% of engineering time and reducing errors
+
+Collaborated with R&D teams to develop new material testing procedures, improving product durability and performance
+
+Mechanical Design Engineer (Jaguar Land Rover) – Coventry, UK
+Sep 2013 – Feb 2017
+
+Designed automotive chassis components and suspension systems, focusing on weight reduction and performance enhancement
+
+Utilised Creo for 3D modeling and simulation of vehicle crash tests, resulting in a 20% increase in crashworthiness
+
+Led a cross-functional team to implement robotic welding processes, improving production efficiency by 18%
+
+Contributed to vehicle prototype testing and validation, ensuring designs met regulatory requirements
+
+Engineering Intern (McLaren Automotive) – Woking, UK
+Jun 2012 – Aug 2013
+
+Assisted in aerodynamic testing and analysis for supercar models, optimizing airflow and downforce characteristics
+
+Supported the development of carbon fiber components through CAD design and prototyping
+
+Participated in vehicle dynamics simulation projects, contributing to handling and performance improvements
+
+EDUCATION:
+
+MEng in Mechanical Engineering – University of Manchester, Manchester (Distinction)
+Sep 2009 – Jun 2013
+
+BEng in Mechanical Engineering – University of Liverpool, Liverpool (First Class Honours)
+Sep 2006 – Jun 2009
+
+PROFESSIONAL DEVELOPMENT & CERTIFICATIONS:
+
+Chartered Engineer (IMechE) – 2019
+
+Certified NX Unigraphics Professional – 2016
+
+Additive Manufacturing Specialist (MITx) – 2021
+
+Lean Six Sigma Black Belt – 2020
+
+Robotics and Automation Certificate (IEEE) – 2022
+
+Side Projects:
+
+1. Developed a self-driving RC car using Arduino and computer vision algorithms
+2. Created a renewable energy prototype using IoT sensors for data collection and analysis

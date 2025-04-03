@@ -1,0 +1,107 @@
+Jane Smith
+
+                                                                                  
+
+                          987-654-3210 | jane.smith@email.com              
+
+                                                                                  
+
+    Education                                                                     
+
+            (in order of relevance)                                               
+
+    Yale University, New Haven                    Sep 2018 - May 2022
+
+      ●  BSc Data Science: Graduated with honors in Data Science and Analytics                    
+
+      ●  Certified Machine Learning Engineer (CMLE) by Data Science Institute
+
+      ●  Completed coursework on Predictive Analytics, Natural Language Processing, and Bayesian Statistics
+
+    MIT, Massachusetts                          Jul 2023 - Aug 2023
+
+      ●  Blockchain and Cryptocurrency Certification Program            
+
+      ●  Explored topics such as Smart Contracts, Decentralized Finance, and Cryptographic Hash Functions
+
+    Winchester College, Hampshire                                   Sep 2012 - Jun 2018
+
+      ●  IB Diploma: Mathematics (7), Physics (6), Economics (6)                  
+
+      ●  Engaged in Model United Nations and Robotics Club
+
+                                                                                  
+
+    Employment History                                                            
+
+                    (in order of relevance)                                       
+
+    Data Analyst – Palantir Technologies                           Apr 2022 - Dec 2023
+
+    Palantir Technologies is a data analytics company specialized in working with government agencies and financial institutions.
+
+      ●  Analyzed large datasets to provide actionable insights for clients in the defense sector
+
+      ●  Developed machine learning models to identify potential security threats and anomalies in data patterns
+
+      ●  Collaborated with cross-functional teams to implement data-driven solutions for client projects
+
+    Research Assistant – Sloan Kettering Institute                           Jan 2024 - May 2025
+
+    Sloan Kettering Institute is a leading cancer research center, focusing on innovative treatments and therapies.
+
+      ●  Conducted research on the efficacy of personalized cancer treatment strategies
+
+      ●  Published research findings in reputable scientific journals and presented at conferences
+
+    Data Science Intern – NVIDIA Corporation Jun 2021 - Aug 2021
+
+    NVIDIA Corporation is a technology company known for its graphics processing units (GPUs) and artificial intelligence solutions.
+
+      ●  Implemented data preprocessing techniques and built predictive models for customer behavior analysis
+
+      ●  Assisted in optimizing algorithms for image recognition tasks using deep learning frameworks
+
+      ●  Collaborated with senior data scientists on research projects related to autonomous vehicles
+
+                                                                                  
+
+    Extracurriculars                                                              
+
+                (in order of relevance)                                           
+
+    Project Lead – AI Ethics Initiative          Mar 2022 - Dec 2023
+
+      ●  Organized workshops and panel discussions on the ethical implications of AI technologies
+
+      ●  Spearheaded a research project on bias mitigation in machine learning algorithms
+
+    Side Project – Climate Change Data Visualization              Jan 2024 - May 2024
+
+      ●  Visualized climate data using Python libraries to raise awareness on environmental issues
+
+      ●  Presented findings at a local environmental science conference
+
+    Event Coordinator – Tech Expo               Feb 2021 - Mar 2022
+
+      ●  Managed logistics and coordinated exhibitors for a tech expo showcasing innovative technologies
+
+                                                                                  
+
+    Student Mentor & STEM Ambassador – UK            Mar 2022 - Jun 2024
+
+      ●  Mentored high school students interested in STEM fields and guided them through science projects
+
+      ●  Represented the UK in international STEM competitions and conferences
+
+    Additional Information                                                        
+
+                                                                                  
+
+    Technical Skills: R Programming, Tableau, Apache Spark, AWS Certified Solutions Architect
+
+    Activities: Certified Scuba Diver, Astronomy Enthusiast, Photography Hobbyist
+
+    Languages: English (Native), Spanish (Intermediate), Mandarin (Elementary), French (Basic)
+
+    Interests: Artificial Intelligence Ethics, Data Privacy, Sustainable Technology, Hiking, Yoga

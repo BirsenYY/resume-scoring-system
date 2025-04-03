@@ -1,0 +1,65 @@
+Sarah Lee
+
+San Francisco | 0777777 | sarah.lee@email.com | Portfolio: sarahlee.dev | GitHub: github.com/sarahlee
+
+WORDS ABOUT ME
+
+Passionate Computer Science professional with a strong background in data science, artificial intelligence, and web development. I am dedicated to leveraging technology to solve complex problems and create innovative solutions. Proficient in Python, Java, and cloud technologies with a keen interest in building impactful projects.
+
+CURRENTLY BUILDING
+
+AI Health Monitor – AI Engineer Jan 2022 – Present
+
+● Developing a machine learning-based health monitoring system that analyzes vital signs to detect anomalies and provide early warnings.
+
+PROJECTS
+
+🏆 Data Science Hackathon Winner – Fraud Detection Challenge 2023
+
+● Led a team to victory in a fraud detection competition by implementing an ensemble model combining XGBoost and LSTM networks for improved accuracy.
+
+● Utilized feature engineering and SMOTE techniques to handle imbalanced data sets effectively.
+
+FinancePal – Personal Finance Tracker (financepal.app) 2022
+
+● Created a full-stack application for tracking personal finances, expenses, and budgeting with real-time synchronization across devices.
+
+● Implemented authentication using OAuth and integrated with Plaid API for transaction data retrieval.
+
+Voice-assist – Speech Recognition Tool 2021
+
+● Developed a speech recognition tool using deep learning models to transcribe audio clips into text with high accuracy.
+
+● Integrated with Google Speech-to-Text API and optimized for real-time processing.
+
+SmartBus – IoT Solution for Public Transportation 2020
+
+● Designed an IoT solution for public transportation systems to track bus locations, optimize routes, and provide real-time updates to passengers.
+
+● Implemented using Raspberry Pi devices, GPS modules, and cloud services for data storage and analysis.
+
+EXPERIENCE
+
+Software Engineer Intern – TechStart Inc. May 2021 – Aug 2021
+
+● Assisted in the development of a cloud-native application for data processing and analytics.
+
+● Collaborated with senior engineers to optimize database queries and enhance system performance.
+
+Data Analyst Intern – Insightful Insights Co. Jan 2020 – Apr 2020
+
+● Conducted data analysis on customer behavior patterns to generate insights for marketing strategies.
+
+● Utilized SQL queries and Python for data manipulation and visualization.
+
+EDUCATION
+
+Stanford University 2017 – 2021
+
+BSc in Computer Science
+
+● Capstone project: “Sentiment Analysis of Social Media Data” – developed a sentiment analysis tool for analyzing public opinion on Twitter data.
+
+TOOLS AND TECHNOLOGIES
+
+Java, TensorFlow, Apache Spark, AWS, MySQL, Spring Boot, React, HTML/CSS, MongoDB, Node.js, JIRA, GitLab, Selenium, Scrapy, Tableau

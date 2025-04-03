@@ -1,0 +1,96 @@
+Jane Smith
+
+Phone: 987-654-3210 | Email: jane.smith@email.com
+
+---
+
+## Education
+
+#### MIT, Cambridge  
+##### Sep 2019 - Jun 2023  
+- Bachelor of Science in Computer Science  
+- GPA: 3.8  
+- Relevant Coursework: AI & Machine Learning, Cybersecurity, Big Data Analytics  
+
+#### Imperial College London  
+##### Sep 2015 - Jun 2019  
+- A-Levels: Computer Science (A*), Physics (A*), Mathematics (A)  
+- Activities: President of Coding Club, Treasurer of Robotics Society  
+
+---
+
+## Certifications
+1. **Certified Ethical Hacker (CEH)** - EC-Council
+2. **AWS Certified Solutions Architect** - Amazon Web Services  
+3. **CompTIA Network+**  
+4. **Certified Blockchain Expert** - Blockchain Council  
+5. **Certified Data Scientist** - Data Science Council of America  
+
+---
+
+## Employment History
+
+#### Software Engineer - Google  
+##### Jul 2023 - Present  
+- Developing scalable software solutions for Google Cloud products  
+- Collaborating with cross-functional teams on projects  
+- Implementing best practices in coding and testing  
+
+#### IT Security Analyst - IBM  
+##### Mar 2020 - Jun 2023  
+- Conducting vulnerability assessments and security audits  
+- Implementing and monitoring security measures to protect systems and data  
+- Providing recommendations for enhancing security protocols  
+
+#### Data Analyst Intern - Facebook  
+##### Jun 2019 - Sep 2019  
+- Analyzing user data to identify trends and insights  
+- Creating data visualizations to communicate findings  
+- Assisting in the development of data-driven strategies  
+
+---
+
+## Side Projects
+
+1. **Open Source Contribution** - Developed a tool to automate data scraping for a non-profit organization  
+2. **Personal Website Development** - Created a portfolio website showcasing coding projects and skills  
+3. **Machine Learning Model for Stock Prediction** - Built a predictive model using Python and TensorFlow  
+4. **Cryptocurrency Price Tracker App** - Developed an app to track real-time prices of various cryptocurrencies  
+5. **AI Chatbot for Customer Service** - Implemented a chatbot using natural language processing techniques  
+
+---
+
+## Extracurriculars
+
+- **Tech Mentorship Program** - Mentored high school students interested in pursuing a career in technology  
+- **Hackathon Participant** - Won 2nd place at a local hackathon for developing a healthcare app  
+- **Volunteer Tutor** - Provided coding lessons to underprivileged children  
+- **STEM Outreach** - Organized STEM workshops for middle school students  
+
+---
+
+## Technical Skills
+
+- Programming Languages: Python, Java, C++  
+- Tools: Git, Docker, Kubernetes  
+- Databases: MySQL, MongoDB  
+- Web Technologies: HTML, CSS, JavaScript  
+- Operating Systems: Windows, Linux  
+
+---
+
+## Languages
+
+- English (Native)  
+- Spanish (Proficient)  
+- Mandarin (Elementary)  
+
+---
+
+## Interests
+
+- Artificial Intelligence  
+- Cybersecurity  
+- Robotics  
+- Music Production  
+- Hiking  

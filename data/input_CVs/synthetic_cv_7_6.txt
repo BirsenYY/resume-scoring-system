@@ -1,0 +1,91 @@
+    Emily Johnson                                
+
+                        Chicago | emily.johnson@email.com | AI Developer | NextGen AI Solutions   
+
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Experienced AI developer with a strong background in computer science. Skilled in developing AI-driven applications and continuously expanding knowledge in machine learning.                                          
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, Java, Ruby, C#, Docker, Flask, Scala                  
+
+    • Frameworks: FastAI, Hugging Face, Ludwig, MXNet, Chainer, LightGBM, CatBoost
+
+    • Machine Learning: Genetic Algorithms, AutoML, Self-Supervised Learning, Graph Neural Networks, Meta-Learning, Spiking Neural Networks, Transformer Architecture
+
+    • Tools: Jupyter Notebook, PyCharm, GitLab, Unix, AWS, Microsoft Azure, Kubernetes      
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    AI Developer | NextGen AI Solutions, New Jersey                    Mar 2019 – Present
+
+    Fraud Detection System for Banking Sector                                   
+
+                                                                                  
+
+    • Designed and deployed a fraud detection system using Graph Neural Networks to detect unusual patterns in financial transactions.
+
+    • Utilized AutoML techniques to optimize model performance and reduce false positives.
+
+    • Collaborated with domain experts to enhance feature engineering for better anomaly detection.
+
+    • Integrated the system with banking APIs for real-time monitoring and alerts.
+
+    Tech Stack: Python, Graph Neural Networks, AutoGluon, Pandas, GraphQL, Docker
+
+    Sentiment Analysis Tool                                                     
+
+    • Developed a sentiment analysis tool using Transfer Learning and Self-Supervised Learning to analyze customer feedback.
+
+    • Incorporated a Transformer Architecture for better contextual understanding of text data.
+
+    • Implemented Explainable AI techniques to provide insights into model decisions.
+
+    • Fine-tuned the model on domain-specific data to improve accuracy and relevance.
+
+    Tech Stack: Python, Hugging Face, BERT, PyTorch, TensorFlow, Natural Language Processing
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc in Artificial Intelligence, Stanford University, California          Sept 2018 - May 2020
+
+    BSc Computer Science (Honors), University of Michigan, Ann Arbor          Sept 2014  
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Speech Emotion Recognition (Spiking Neural Networks)    • Autonomous Drone Navigation (Reinforcement Learning)                
+
+    • Augmented Reality App (Meta-Learning)                 • Music Generation (Variational Autoencoders)                                                            
+
+    • E-commerce Recommendation System (LightFM)            • Medical Image Segmentation (U-Net)        • Chatbot Development (Rasa)                  
+
+                                                                                  
+
+    • Stock Price Prediction (LSTM)                        • Smart Home Automation (Kafka)              

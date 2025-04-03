@@ -1,0 +1,119 @@
+Maria Sanchez
+
+                                                                                  
+
+                  San Francisco, USA | +1 987 654 3210 | maria.sanchez@email.com | Quantum Innovations
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Quantum Innovations – Senior Research Scientist                Apr 2022 – Present
+
+        ●  Conducting research on quantum machine learning algorithms for optimizing quantum circuit efficiency.
+
+        ●  Developed Quantum Natural Language Processing models for enhanced information retrieval capabilities.
+
+        ●  Collaborated with cross-functional teams to integrate Quantum Transformers into existing quantum computing frameworks.
+
+        ●  Implemented MLOps best practices using MLflow and Argo for improved model management and deployment.
+
+                                                                                  
+
+      Quantum Innovations – Quantum Engineer                           Sep 2020 – Mar 2022
+
+        ●  Led the development of a scalable quantum annealing algorithm for solving complex optimization problems.
+
+        ●  Integrated QuTiP and PennyLane for quantum simulation and variational quantum algorithms.
+
+        ●  Enhanced quantum error correction techniques using Stabilizer Codes and Surface Codes.
+
+      Quantum Innovations – Research Intern                               Jun 2019 – Aug 2020
+
+        ●  Conducted experiments on quantum entanglement and teleportation protocols using IBM Quantum Experience and Qiskit.
+
+        ●  Analyzed quantum noise in superconducting qubits and proposed mitigation strategies.
+
+        ●  Contributed to the development of a quantum-enhanced image recognition algorithm.
+
+                                                                                  
+
+      Pioneering Tech – Software Developer                                  May 2018 – May 2019
+
+        ●  Designed and implemented a blockchain-based supply chain management system for transparency and traceability.
+
+        ●  Developed smart contracts using Solidity on Ethereum for automated transaction processing.
+
+        ●  Integrated IPFS for decentralized data storage and retrieval.
+
+                                                                                  
+
+      Quantum Computing Inc. – Quantum Software Engineer        Jan 2017 – Apr 2018
+
+        ●  Worked on project QuantumSim to simulate quantum algorithms on classical hardware.
+
+        ●  Optimized circuit decomposition routines and gate error correction algorithms.
+
+        ●  Collaborated with physicists and computer scientists to bridge the gap between quantum theory and software engineering.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Quantum University                                  2016 – 2020  
+
+      Quantum Computing and Quantum Information, Distinction                                      
+
+                                                                                  
+
+      Science Academy                                      2012 – 2016  
+
+      BSc Physics, Honors                                      
+
+                                                                                  
+
+      CERTIFICATES                                                                
+
+                                                                                  
+
+      - Certified Quantum Computing Professional (CQCP)
+
+      - Quantum Machine Learning Certification (QMLC)
+
+      - Certified Quantum Algorithms Developer (CQAD)
+
+      - Advanced Quantum Cryptography Specialist (AQCS)
+
+      - Quantum Error Correction Practitioner (QECP)
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Quantum Cloud Computing Platform - link                                       
+
+      Quantum Image Processing Tool - link                                           
+
+      Quantum Financial Portfolio Optimizer - link
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: Quantum Innovations, Quantum Dynamics, Quantum Services, MyQuantum Tools, Quantum Platform, QuantumOps, SudoQuantum,
+
+      TensorFlow, PyTorch, Cirq, PennyLane, QuTiP, Q# , Solidity, IPFS, MLflow, Argo, IBM Quantum Experience, IBM Qiskit, Quantum Inspire,
+
+      QuantumSim, OpenMP, MPI, TensorFlow Quantum, Quantum Error Correction Toolbox, Stabilizer Codes, Surface Codes, QuKey, QuSoft,
+
+      Entanglement Toolbox, Quantum Image Processing Library, BlackBerry QNX, Linux, Docker, Kubernetes, Quantum Cloud Services,
+
+      Quantum Cryptography, Post-Quantum Cryptography, Quantum Key Distribution, Quantum Teleportation, Quantum Metrology, Quantum Sensing.
+
+    ```

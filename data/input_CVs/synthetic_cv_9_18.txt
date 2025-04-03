@@ -1,0 +1,73 @@
+John Kim
+
+San Francisco | 0123456 | john.kim@email.com | Portfolio: johnkim.dev | GitHub: github.com/johnkim
+
+WORDS ABOUT ME
+
+Computer Science enthusiast with a strong interest in software development, artificial intelligence, and cloud technologies. Experienced in building scalable solutions and passionate about leveraging data to drive meaningful insights. Proficient in Java, C++, and cloud services, constantly seeking opportunities to innovate and learn.
+
+CURRENTLY BUILDING
+
+Open Source Java Project - Software Engineer Jan 2023 – Present
+
+● Developing a comprehensive Java project with various functionalities and documentation for the open-source community.
+
+PROJECTS
+
+🥇 MLHack Challenge Winner – Anomaly Detection System 2023
+
+● Led a team to victory in a hackathon competition with an innovative anomaly detection system for financial transactions.
+
+● Implemented a custom algorithm combining Isolation Forest and Autoencoders for improved accuracy.
+
+CodeCraft – Code Collaboration Platform (codecraft.io) 2022
+
+● Collaborated on a platform enabling developers to write and review code together in real-time.
+
+● Integrated with GitHub API for seamless version control and built-in code editor for enhanced user experience.
+
+AutoTrader – AI-driven Car Valuation Tool 2022
+
+● Created a machine learning model to predict accurate car valuations based on historical sales data and vehicle specifications.
+
+● Developed a user-friendly interface utilizing Flask for backend and React for frontend.
+
+TechVision – Computer Vision Project 2021
+
+● Developed a computer vision project for object detection and tracking using OpenCV and YOLOv5.
+
+● Implemented real-time processing with GPU acceleration for optimal performance.
+
+EXPERIENCE
+
+Software Developer Jan 2021 – Dec 2022
+
+● Worked on developing web applications and automation tools for clients across various industries.
+
+● Collaborated with cross-functional teams to deliver high-quality software solutions within project deadlines.
+
+ABC Software Company – Intern May 2020 – Aug 2020
+
+● Contributed to the development and testing of a new software application, gaining hands-on experience with industry-standard tools and practices.
+
+EDUCATION
+
+Stanford University             2018 – 2022
+
+BSc Computer Science
+
+● Key coursework: Machine Learning, Distributed Systems, Software Engineering
+
+● Senior capstone project: “Intelligent Tutoring System for Programming Education” – achieved 90% student engagement improvement.
+
+TOOLS AND TECHNOLOGIES
+
+Java, C++, Python, TensorFlow, Flask, AWS, MongoDB, Git & GitHub, SQL, React, Angular, Docker, Redis, NumPy, Pandas, Matplotlib, Jupyter Notebook, Jira, Selenium
+
+Certifications:
+
+1. AWS Certified Solutions Architect - Associate
+2. Certified Scrum Master (CSM)
+3. Google Cloud Professional Data Engineer
+4. CompTIA Security+
+5. Red Hat Certified Engineer (RHCE)

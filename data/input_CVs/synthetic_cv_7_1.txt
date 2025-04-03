@@ -1,0 +1,102 @@
+```
+    Emily Johnson                                  
+
+                        San Francisco | emily.johnson@email.com | AI Specialist | Artificial Intelligence Expert   
+                                                                                  
+
+                                                                                  
+
+    SUMMARY                                                                       
+
+                                                                                  
+
+    Artificial Intelligence specialist with a strong foundation in computer science. Skilled in developing AI-driven applications and continuous learning in machine learning.                                           
+
+                                                                                  
+
+                                                                                  
+
+    TECHNOLOGIES/SKILLS                                                           
+
+                                                                                  
+
+    • Programming: Python, Java, C++, Ruby, Docker, Flask, • Frameworks: TensorFlow, PyTorch, FastAPI, Hugging Face Transformers,
+
+     Apache MXNet, Streamlit, MySQL, MongoDB, Redis                          
+
+    • Machine Learning: NLP, Decision Trees, PCA, t-SNE, • Tools: Jupyter Notebook, VS Code, Git, Linux,
+
+     K-Means Clustering, AdaBoost, AutoML, XNNs, Gradient Boosting Machines, Stable Services (Azure), IBM Cloud,
+
+     LDA, SVMs, AutoEncoders, Fuzzy Logic, Model Interpretability, Attention Mechanisms                
+
+     Time Series Forecasting, Model Optimization, Model Deployment, Anomaly Detection, Active Learning, Bayesian                 
+
+     Optimization, Graph Neural Networks, Reinforcement Learning                 
+
+                                                                                  
+
+    EXPERIENCE                                                                    
+
+                                                                                  
+
+    AI Specialist | Artificial Intelligence Expert, New York              Jan 2021 – Present
+
+    Sentiment Analysis Automation for Retail Industry                    
+
+                                                                                  
+
+    • Develop an automated sentiment analysis system using NLP techniques to analyze customer feedback for retail businesses.
+
+    • Implement Hugging Face Transformers for text classification and semantic understanding.
+
+    • Utilize Active Learning strategies to continuously improve model performance with minimal human intervention.
+
+    • Deploy models on IBM Cloud for real-time analysis and scalability.                    
+
+                                                                                  
+
+    Tech Stack: Python, Hugging Face Transformers, NLP, Active Learning, IBM Cloud, Docker            
+
+    Predictive Maintenance System                                                   
+
+    • Build a predictive maintenance system for monitoring equipment health in manufacturing plants.
+
+    • Utilize Graph Neural Networks for anomaly detection and predictive modeling.
+
+    • Implement Bayesian Optimization for hyperparameter tuning and model optimization.
+
+    • Create a user-friendly dashboard for visualizing equipment health and prediction results.                    
+
+                                                                                  
+
+    Tech Stack: Python, Graph Neural Networks, Bayesian Optimization, Model Deployment, Anomaly Detection, Plotly Library
+
+                                                                                  
+
+    EDUCATION                                                                     
+
+                                                                                  
+
+    MSc Machine Learning and AI, New York University, New York         Sept 2021 - May 2023
+
+    BSc Computer Science, University of Pennsylvania, Philadelphia            Sept 2018 
+
+    BSc Mathematics (Honors), University of Chicago, Chicago                  Jun 2018 
+
+                                                                                  
+
+                                                                                  
+
+    PROJECTS                                                                      
+
+                                                                                  
+
+    • Image Recognition (CNNs)         • Chatbot Development (Seq2Seq RNN)                  
+
+    • Time Series Prediction (LSTM)     • Speech Emotion Recognition (AutoML)                 
+
+    • Fraud Detection (XGBoost)        • Recommender System (Matrix Factorization)                 
+
+    • Gesture Recognition (OpenPose)  • Medical Image Segmentation (U-Net)   
+```

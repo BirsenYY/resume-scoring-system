@@ -1,0 +1,73 @@
+NAME
+ London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Dynamic Software Engineer with over 6 years of experience in designing and implementing efficient backend systems and tools. Proficient in developing robust code solutions in Python, Ruby, and C++. Experienced in contributing to quality-focused engineering projects with a strong focus on test automation, CI/CD processes, and system robustness. Committed to developing innovative and user-friendly software applications.
+
+Technical Skills
+Languages: Python, Ruby, C++, SQL, Shell Scripting
+
+Frameworks & Tools: Django, Ruby on Rails, Angular, Puppet, Mocha, Cucumber, RSpec
+
+DevOps & CI/CD: Ansible, TeamCity, Travis CI, Rancher, SVN
+
+Databases: Oracle Database, SQLite, Redis, MariaDB
+
+Cloud & Platforms: Azure (App Services, Functions), Heroku, Docker, Windows Server
+
+Others: GraphQL, Web Services, Scrum/Kanban, BDD
+
+Professional Experience
+Senior Software Engineer
+TechPulse Innovations, London, UK
+Jun 2020 – Present
+
+Led the development of microservices architecture using Django and Ruby on Rails, deployed on Azure App Services and Docker containers
+
+Collaborated with UI/UX designers to implement RESTful APIs and enhance front-end functionalities with Angular
+
+Implemented database optimizations and caching mechanisms, resulting in a 25% performance enhancement
+
+Introduced automated testing frameworks and monitoring solutions to boost system reliability and performance
+
+Supervised and mentored junior developers, conducted code reviews, and actively engaged in project planning
+
+Software Engineer (Automation & Release)
+DataCraft Solutions, London, UK
+Oct 2017 – May 2020
+
+Designed and maintained automation scripts and tools in Ruby and C++ to streamline development processes and enhance productivity
+
+Integrated automated testing workflows into CI/CD pipelines using TeamCity and Travis CI
+
+Developed APIs and utilities for data validation, migration, and performance monitoring
+
+Collaborated with cross-functional teams to ensure smooth deployment processes and code quality standards
+
+Refactored legacy C++ modules for improved efficiency and code maintainability
+
+Engineer Intern
+SkySoft Technologies, London, UK
+Jul 2016 – Sep 2017
+
+Contributed to the development of automated testing frameworks in Ruby and C++ for enterprise software solutions
+
+Engaged in design discussions, proposed automation strategies, and provided technical support to the development team
+
+Assisted with debugging, troubleshooting, and optimizing software components for performance and reliability
+
+Supported the creation of technical documentation and knowledge resources for internal tooling
+
+Education
+MSc in Software Engineering
+Imperial College London, UK
+2014 – 2016
+
+Certifications
+Certified Kubernetes Administrator (CKA)
+Microsoft Certified: Azure Developer Associate
+ISTQB Certified Tester
+
+Side Projects
+1. Developed a personal finance management application using Django and SQLite
+2. Created a chatbot using Node.js and MongoDB for automated customer support interactions

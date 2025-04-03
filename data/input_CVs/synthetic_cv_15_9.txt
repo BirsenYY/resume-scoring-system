@@ -1,0 +1,133 @@
+Imperial College Healthcare NHS Trust                                    
+
+                                                                                    
+
+                 London, UK | (+44) 7456123456 | [EMAIL] | Work Rights : Yes/FullTime
+
+            linkedin.com/in/NAME | github.com/NAME | [PORTFOLIO_LINK] | medium.com/@NAME
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Biomedical Engineer with 8+ years of experience in clinical systems integration, data-driven diagnostics, and AI in healthcare. 
+
+     Skilled in biomedical signal processing, medical imaging analysis, and ML-enhanced diagnostics. Proficient in Python, MATLAB, and
+
+     TensorFlow. Experienced in collaborating with multidisciplinary teams to deliver patient-centered, tech-enabled solutions. 
+
+     Passionate about the intersection of healthcare, data science, and emerging medical technologies.    
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+     Python, MATLAB, R | SQL, Pandas, NumPy | TensorFlow, Scikit-Learn, PyTorch | DICOM, OpenCV | Signal Processing, ECG/EEG Analysis |
+
+     Medical Imaging (MRI, CT, X-ray), Image Segmentation | PyRadiomics, ITK-SNAP, 3D Slicer | Bioinstrumentation | Git, Docker |
+
+     Biomedical Data Standards (HL7, FHIR) | Flask, Streamlit, REST APIs | Jupyter Notebooks, LaTeX
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Senior Biomedical Engineer (Imperial College Healthcare NHS Trust) - London, UK     Oct 2018 : Present
+
+    ● Spearheaded the development of a novel AI system for automated detection of brain hemorrhages in head CT scans, reducing
+
+      diagnostic time by 50%
+
+    ● Collaborated with neurosurgeons to integrate deep learning algorithms with surgical navigation systems, enhancing precision
+
+      during neurosurgical procedures
+
+    ● Designed and implemented a telehealth platform for remote neurological consultations, increasing access to specialized care in 
+
+      underserved regions
+
+    ● Led a team in the implementation of a cloud-based PACS solution for seamless image sharing and remote access for clinicians
+
+    ● Managed regulatory compliance for AI-based medical devices, ensuring adherence to EU MDR guidelines
+
+    
+
+     Data Science Consultant (Cambridge Medical Research Institute)  Jul 2016 : Sep 2018
+
+    ● Developed predictive models for early detection of diabetic retinopathy using retinal image analysis and ML algorithms, reducing 
+
+      screening time by 70%
+
+    ● Conducted research on personalized medicine approaches in oncology, analyzing genetic and clinical data to tailor treatment plans
+
+    ● Introduced automated anomaly detection mechanisms in remote patient monitoring systems, enhancing data security and privacy
+
+    ● Collaborated with bioinformatics researchers to optimize NGS data processing pipelines for large-scale genomic studies
+
+    ● Presented findings at international conferences and contributed to scientific publications on AI applications in healthcare
+
+    
+
+     Biomedical Data Analyst (University Hospitals Coventry and Warwickshire NHS Trust) – Coventry, UK     Mar 2014 : Jun 2016
+
+    ● Led data cleansing and normalization efforts for a hospital-wide EMR migration project, ensuring data integrity and smooth transition
+
+    ● Developed interactive dashboards for operational analytics, enabling department heads to track key performance indicators in 
+
+      real-time
+
+    ● Implemented a machine learning model to predict patient readmissions, leading to targeted interventions and reduced hospital costs
+
+    ● Collaborated with clinical teams to optimize EHR templates for streamlined documentation and improved data quality
+
+    
+
+    EDUCATION:                                                                      
+
+                                                                                    
+
+    MSc in Biomedical Engineering - University College London (Distinction)   Sep 2012 : Sep 2013
+
+    BEng in Electrical and Biomedical Engineering - University of Glasgow (First Class)  Sep 2008 : Jun 2012
+
+                                                                                    
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Healthcare Data Analyst (CHDA)                                   Jan, 2023
+
+    ● Advanced Machine Learning Specialization (Coursera)                        Oct, 2022
+
+    ● Clinical Research and Regulatory Affairs Certification (CRRA)              Apr, 2021
+
+    ● Digital Health Leadership Program (Harvard University)                     Sep, 2020
+
+    
+
+    SIDE PROJECTS:                                                                  
+
+                                                                                    
+
+    ● IoT-Enabled Vital Signs Monitor: Designed a remote patient monitoring system with IoT sensors for real-time vitals tracking and alert
+
+      notifications. Integrated cloud storage for data logging and analytics.
+
+    
+
+    ● Wearable ECG Patch: Developed a low-cost wearable ECG patch for continuous cardiac monitoring. Implemented Bluetooth connectivity
+
+      for data transmission to mobile devices and cloud storage.
+
+    
+
+    ● Drug Interaction Prediction Tool: Built a web-based tool for predicting potential drug interactions based on pharmacokinetic data
+
+      and patient profiles. Integrated drug database APIs for accurate information retrieval.
+
+    
+
+    ●

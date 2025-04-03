@@ -1,0 +1,59 @@
+Amy Patel
+
+New York | 0999999 | amy.patel@email.com | Portfolio: amypatel.io | GitHub: github.com/amypatel
+
+WORDS ABOUT ME
+
+Passionate computer science graduate with a background in data science, machine learning, and software engineering. Strong interest in leveraging technology to solve complex challenges and create innovative solutions. Proficient in Python, Java, and cloud technologies with a focus on delivering high-quality, scalable applications.
+
+CURRENTLY BUILDING
+
+AI Chatbot for Customer Support - Natural Language Processing Engineer   May 2025 – Present
+
+● Developing a conversational AI chatbot using NLP techniques to enhance customer support services with automated responses and sentiment analysis.
+
+PROJECTS
+
+🏆 DataHack Challenge Winner – Time Series Forecasting                      2025
+
+● Collaborated with a team to secure first place in a predictive modeling competition, achieving outstanding accuracy in forecasting financial trends.
+
+● Implemented an ensemble model combining LSTM and XGBoost algorithms with feature engineering and hyperparameter tuning.
+
+Moodify - Emotion Recognition App (moodifyapp.com)                           2024
+
+● Designed and built a mobile app for real-time emotion detection using facial recognition technology and machine learning algorithms.
+
+● Integrated with camera APIs, deployed on Android and iOS platforms, and incorporated user feedback for continuous improvement.
+
+SecureAuth - Multi-Factor Authentication System                               2024
+
+● Engineered a robust MFA system for secure user authentication, leveraging biometric verification methods and encryption protocols.
+
+● Integrated with LDAP servers, implemented OTP generation, and conducted security audits to ensure compliance with industry standards.
+
+EXPERIENCE
+
+Software Engineer                                                    Jan 2024 – Present
+
+● Developing microservices architecture for a fintech startup, focusing on payment processing and fraud detection systems.
+
+● Collaborating with cross-functional teams to design and implement scalable solutions for transaction monitoring and risk assessment.
+
+Tech Solutions Intern                                              Jun 2023 – Dec 2023
+
+● Contributed to the development of AI-driven chatbots and recommendation engines for personalized customer experiences.
+
+● Participated in agile sprints, conducted code reviews, and assisted in the deployment of machine learning models in a production environment.
+
+EDUCATION
+
+New York University                                               2020 – 2024
+
+BSc in Computer Science
+
+● Capstone project: "Predictive Maintenance for Industrial IoT Devices" – Demonstrated a 15% reduction in equipment downtime using predictive analytics.
+
+TOOLS AND TECHNOLOGIES
+
+Java, Spring Boot, AWS, Kubernetes, React Native, TensorFlow, Keras, Docker, PostgreSQL, Apache Kafka, Jenkins, Selenium, Flask, D3.js, Elasticsearch

@@ -1,0 +1,58 @@
+John Doe
+
+San Francisco | 0888888 | john.doe@email.com | XYZ Innovations | XYZ Innovations
+
+SUMMARY
+
+Quality Assurance Engineer specializing in building robust automated testing frameworks and ensuring high-quality software delivery. Proficient in test strategy design, test automation with Selenium and Robot Framework, and API testing with Postman. Experienced in Agile environments and integrating CI/CD pipelines for efficient software releases.
+
+CURRENT PROJECTS
+
+XYZ Innovations – Quality Assurance Engineer                  Mar 2022 – Present
+
+- Leading the development of a scalable test automation framework using Robot Framework and Docker.
+- Implementing end-to-end testing strategies for a cloud-based IoT platform.
+
+PROJECTS
+
+Automated Regression Suite – link                                     2022   
+
+- Developed and maintained an automated regression suite using Robot Framework and Jenkins.
+- Achieved a 90% reduction in test execution time for a complex SaaS product.
+
+EXPERIENCE
+
+XYZ Technologies – QA Automation Engineer                        Sep 2020 – Mar 2022
+
+- Implemented E2E test automation solutions for React Native mobile applications and GraphQL APIs utilizing Playwright.
+- Led the transition to Behavior-Driven Development (BDD) testing approach for improved collaboration between QA and development teams.
+
+XYZ Software – QA Analyst                                          Jan 2019 – Sep 2020
+
+- Created comprehensive test plans and test cases for web applications and RESTful APIs.
+- Conducted performance testing using JMeter to optimize application response times.
+
+XYZ Solutions – Intern QA Tester                               Jun 2018 – Dec 2018
+
+- Conducted functional and regression testing for a healthcare management system.
+- Assisted in implementing automated test scripts using Selenium WebDriver.
+
+EDUCATION
+
+XYZ State University                                             2015 – 2019  
+
+BSc in Computer Science                                              
+
+- Graduated with Distinction – Final year project on implementing machine learning models for software testing.
+
+TOOLS AND TECHNOLOGIES
+
+Selenium, Robot Framework, Postman, REST APIs, Jenkins, JIRA, Git & GitHub, TestRail, Python, JavaScript,
+SQL, Docker, CI/CD, Agile Scrum, XYZ Technologies, XYZ Innovations, XYZ Software, XYZ Solutions
+
+CERTIFICATIONS
+
+- Certified Kubernetes Application Developer (CKAD)
+- AWS Certified Solutions Architect - Associate
+- ISTQB Advanced Test Automation Engineer
+- Certified Scrum Master (CSM)

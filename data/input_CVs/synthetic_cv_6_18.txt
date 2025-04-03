@@ -1,0 +1,103 @@
+```
+    Amazon                                                                    
+
+                                                                                    
+
+                 Seattle, US | (+1) 9876543210 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Creative AI/ML Engineer and Certified Big Data Analyst with over 7 years of experience. Proficient in developing innovative AI solutions,
+
+      optimizing ML algorithms, and leveraging big data for actionable insights. Skilled in Python, TensorFlow, and Apache Spark. Currently
+
+      focusing on Transformer models, multimodal architectures, and AI ethics. Proven track record in collaborating with cross-functional
+
+      teams, driving project success, and delivering value-added solutions.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, Java, Scala, R | SQL, Cassandra, HBase | TensorFlow, PySpark, H2O.ai, OpenAI, Apache Flink | Sequence-to-sequence
+
+      Models, Siamese Networks, GPT Models | Big Data Processing, Real-time Analytics, Data Visualization | Flask, Kubernetes, Jenkins,
+
+      Terraform | Git, SVN, Bitbucket, AWS, Azure                                   
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Machine Learning Engineer (DataSolve) - San Francisco, US                 Mar 2020 : Present
+
+    ● Developed cutting-edge recommendation systems using Siamese Networks and collaborative filtering, leading to a 20% increase in
+
+      user engagement and sales conversion rates                                      
+
+    ● Spearheaded the implementation of real-time fraud detection models leveraging Apache Flink and Kafka, reducing fraudulent
+
+      activities by 30%                                                                
+
+    ● Designed and executed a large-scale sentiment analysis project using GPT models and NLP techniques, providing actionable insights
+
+      for marketing strategies and customer sentiment monitoring                       
+
+    ● Led a team of data scientists and engineers in developing a scalable data processing pipeline with Hadoop and Spark, enabling
+
+      efficient data processing and analytics for business intelligence initiatives          
+
+     AI Engineer (TechSavvy) - New York, US                                   Jul 2017 : Feb 2020
+
+    ● Built and deployed machine learning models for predictive maintenance using PyTorch and LSTM networks, resulting in a 25% decrease
+
+      in equipment downtime and maintenance costs                                         
+
+    ● Conducted extensive data analysis and feature engineering to optimize fraud detection models, improving detection accuracy by
+
+      15%                                                                               
+
+    ● Collaborated with cross-functional teams to develop and implement a scalable data lake architecture on AWS, facilitating data
+
+      storage, management, and analysis across the organization                              
+
+     Data Analyst (InnoData) - Chicago, US                                     Sep 2015 : Jun 2017
+
+    ● Conducted in-depth data analysis and visualization using Tableau and Power BI, uncovering key insights and trends for marketing
+
+      campaigns and customer segmentation                                               
+
+    ● Implemented data quality monitoring processes and automated reporting mechanisms, enhancing data integrity and decision-making
+
+      capabilities                                                                         
+
+    ● Developed predictive models for customer churn and lifetime value prediction, contributing to a 10% increase in customer retention
+
+      rates                                                                              
+
+    EDUCATION:                                                                      
+
+    MS in Data Science - Columbia University, New York (GPA: 3.8/4.0)        Aug 2013 : May 2015
+
+    BS in Computer Engineering - University of Illinois at Urbana-Champaign (GPA: 3.9/4.0) Jun 2009 : May 2013
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Big Data Professional (CBSD)                                      Sep, 2022
+
+    ● Machine Learning for Business Professionals (by DataCamp)                  Mar, 2021
+
+    ● Data Engineering Nanodegree (by Udacity)                                  Feb, 2020
+
+    ● AI Ethics Certification (by AI Institute)                                  Nov, 2019
+
+    ● Data Visualization Specialist (by DVS Institute)                           Jul, 2018
+```

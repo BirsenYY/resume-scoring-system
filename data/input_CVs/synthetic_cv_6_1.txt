@@ -1,0 +1,105 @@
+```
+    Amazon                                    
+
+                                                                                    
+
+                 Seattle, US | (+1) 9876543210 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | amazon.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative AI/ML Engineer and Certified Azure Specialist with 7+ years of experience. Proficient in developing intelligent systems
+
+      and enhancing user experiences through cutting-edge technologies. Skilled in developing and deploying ML models, leveraging
+
+      cloud services, and optimizing AI pipelines. Adept at leading cross-functional teams and delivering high-impact solutions in
+
+      diverse industries.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python , Java , Scala , SQL | PostgreSQL, Redis, BigQuery | PyTorch, Hugging Face, Microsoft Cognitive Toolkit, GPT-3,
+
+      EfficientNet | Transformer Models, Reinforcement Learning, Natural Language Generation, Image Recognition | Kubernetes,
+
+      Airflow | Git, Jenkins, Terraform, Azure                      
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Machine Learning Engineer (DataWise Solutions) - San Francisco, US   Mar 2020 : Present
+
+    ● Spearheaded the development of a state-of-the-art Transformers-based system for natural language generation, improving chatbot
+
+      response accuracy by 30% in customer support applications                
+
+    ● Led a team in building an image recognition system using EfficientNet, achieving 95% accuracy on a diverse set of test images          
+
+    ● Developed and deployed a real-time recommendation engine leveraging reinforcement learning techniques for personalized content
+
+      delivery to users, resulting in a 20% increase in user engagement and retention        
+
+    ● Initiated and managed a side project to implement a custom Kubernetes cluster for scalable deep learning model training, optimizing
+
+      resource utilization and reducing training time significantly        
+
+     AI Engineer (IBM Research) - New York, US   June 2018 : Feb 2020
+
+    ● Contributed to the development of a cutting-edge GPT-4 language model, focusing on improving contextual understanding and
+
+      generating human-like responses in conversational AI applications           
+
+    ● Collaborated with a team to implement a novel neuroevolution algorithm for optimizing deep neural network architectures, resulting
+
+      in improved model efficiency and performance on benchmark datasets           
+
+    ● Conducted research and experimentation on reinforcement learning algorithms for autonomous vehicle control systems, leading to
+
+      more robust decision-making in complex driving scenarios        
+
+    ● Created and managed a side project to build an end-to-end ML pipeline using Apache Airflow, streamlining the data processing,
+
+      training, and deployment workflows for various ML models        
+
+     Research Assistant (Stanford AI Lab) - Stanford, US   Sept 2016 : May 2018
+
+    ● Worked on projects related to multimodal learning, focusing on integrating vision and language modalities for image captioning
+
+      and visual question answering tasks         
+
+    ● Developed a novel attention mechanism for Transformer models to improve long-range dependencies in sequential data, resulting
+
+      in more accurate predictions in time-series forecasting tasks          
+
+    ● Published research papers in top-tier conferences on AI and ML, presenting findings on cutting-edge research topics to the
+
+      academic community        
+
+    EDUCATION:                                                                      
+
+    PhD in Artificial Intelligence - Carnegie Mellon University, Pittsburgh (High Distinction) Aug 2012 : Aug 2016
+
+    BS in Computer Science - University of California, Berkeley (Summa Cum Laude) July 2008 : June 2012
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Deep Learning Specialization (by deeplearning.ai)         Ongoing  
+
+    ● Certified Azure AI Engineer (Microsoft)               May, 2022
+
+    ● Advanced Reinforcement Learning (by Udacity)               Sept, 2021  
+
+    ● Computer Vision Nanodegree (by Udacity)                Dec, 2020
+
+    ● Cloud AI Foundations (by Google Cloud)                June, 2020
+```

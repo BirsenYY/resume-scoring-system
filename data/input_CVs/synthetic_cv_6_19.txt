@@ -1,0 +1,103 @@
+    Microsoft                                    
+
+                                                                                    
+
+                 Redmond, WA | (+1) 987654321 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | microsoft.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Innovative AI/ML Specialist and IBM Certified Data Scientist with 7 years of experience. Proficient in developing AI solutions,
+
+      optimizing ML models, and implementing advanced data pipelines. Skilled in NLP, computer vision, and reinforcement learning.
+
+      Currently exploring Transformer architectures and deep reinforcement learning. Demonstrated success in leading projects, mentoring
+
+      team members, and delivering value-driven solutions in diverse industries.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python , Java , Scala , SQL, MongoDB | PostgreSQL, Cassandra, Redis | Scikit-Learn, PyTorch, Keras, Hugging Face, LangChain,
+
+      streamlit | Prompt Engineering, Fine-tuning, Hyperparameter Optimization | Computer Vision, MultiAgent Systems, Genetic
+
+      Algorithms | Kubernetes, Jenkins, Helm, Azure                     
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Research Scientist (DataMind) - Palo Alto, CA    Nov 2020 : Present
+
+    ● Pioneered the development of a cutting-edge computer vision system using PyTorch and Hugging Face, achieving state-of-the-art
+
+      performance on image classification tasks                                         
+
+    ● Led a team to implement an end-to-end NLP solution for sentiment analysis, incorporating fine-tuning techniques and leveraging
+
+      pre-trained language models to enhance accuracy and efficiency                     
+
+    ● Spearheaded a reinforcement learning project for optimizing dynamic pricing strategies in e-commerce, resulting in a 15% increase
+
+      in revenue and customer satisfaction                                              
+
+    ● Conducted workshops on AI best practices, collaborated with cross-functional teams, and actively contributed to open-source
+
+      projects to promote knowledge sharing and innovation                              
+
+     AI Engineer (Oracle) - Austin, TX    Jan 2018 : Oct 2020
+
+    ● Developed and deployed ML models for predictive analytics using Scikit-Learn and Keras, focusing on anomaly detection and pattern
+
+      recognition                                                                       
+
+    ● Engineered data pipelines for real-time streaming data processing, integrating Apache Kafka and Spark for scalable data
+
+      processing and analysis                                                           
+
+    ● Implemented hyperparameter optimization techniques to improve model performance and efficiency, leading to significant gains in
+
+      predictive accuracy and speed                                                     
+
+    ● Collaborated with product teams to integrate AI features into customer-facing applications, ensuring seamless user experiences
+
+    ● Initiated a mentorship program for junior team members to support their professional growth and development                  
+
+     Data Scientist (Intel) - Santa Clara, CA    Mar 2015 : Dec 2017
+
+    ● Conducted exploratory data analysis and built predictive models for supply chain optimization using Python and SQL, resulting
+
+      in cost savings and improved operational efficiency                                  
+
+    ● Designed and implemented a recommendation engine leveraging collaborative filtering algorithms to personalize customer
+
+      experiences and drive engagement                                                    
+
+    ● Collaborated with cross-functional teams to define project requirements, prioritize tasks, and deliver data-driven insights to
+
+      stakeholders                                                                       
+
+    EDUCATION:                                                                      
+
+    MS in Data Science - University of Washington, Seattle (Distinction) Aug 2012 : Aug 2014
+
+    BS in Computer Engineering - University of California, Berkeley (Honors) June 2008 : June 2012
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Big Data Analytics Certification (by DataScience.com)       Ongoing  
+
+    ● IBM Certified Data Engineer - Data and AI (IBM)               May, 2022
+
+    ● Computer Vision Specialist (by Udacity)                                      Aug,2021  
+
+    ● Deep Reinforcement Learning (by NVIDIA)                      Dec, 2020  

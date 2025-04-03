@@ -1,0 +1,63 @@
+**Emily Johnson**
+
+---
+
+*Los Angeles | emily.johnson@email.com | Data Science*
+
+---
+
+**SUMMARY**
+
+Data scientist with a strong foundation in machine learning and computer science. Experienced in developing AI-driven solutions and continuously expanding knowledge in data analysis and visualization.
+
+---
+
+**TECHNOLOGIES/SKILLS**
+
+- **Programming Languages:** Python, Java, R, Scala, SQL
+- **Frameworks:** PyTorch, TensorFlow, Hugging Face, Scikit-learn, Plotly
+- **Big Data:** Apache Spark, Hadoop, Kafka
+- **Cloud Platforms:** AWS, Azure, IBM Cloud, DigitalOcean
+- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
+- **Statistical Analysis:** Hypothesis Testing, ANOVA, Regression Analysis
+- **Deep Learning:** CNNs, RNNs, GANs, Autoencoders, Transformer Models
+- **Tools:** Jupyter Notebook, Git, Docker, Linux, Jenkins, Airflow
+
+---
+
+**EXPERIENCE**
+
+Data Science Engineer | Data Insights Co., New York           Apr 2021 – Present
+
+- Developed a predictive maintenance system using LSTM networks to forecast equipment failures and reduce downtime.
+- Implemented a fraud detection model based on XGBoost for real-time monitoring of transactions.
+- Created a recommendation engine using collaborative filtering to enhance customer engagement.
+- Conducted A/B testing for marketing campaigns to optimize conversion rates.
+- Led the migration of data processing workflows to Apache Spark for improved scalability and efficiency.
+
+Tech Stack: Python, LSTM, XGBoost, Pandas, Apache Spark, PostgreSQL, AWS, Tableau
+
+Side Project: Sentiment Analysis Dashboard
+
+- Built a sentiment analysis dashboard using Hugging Face Transformers to analyze customer reviews and feedback.
+- Integrated real-time data processing and visualization for tracking sentiment trends over time.
+- Deployed the dashboard on IBM Cloud for accessibility across teams.
+
+---
+
+**EDUCATION**
+
+MSc Data Science, Columbia University, New York                   Sept 2020 - June 2022
+
+BSc Computer Science (Honors), University of Michigan, Ann Arbor   Sept 2016 - June 2020
+
+---
+
+**PROJECTS**
+
+- Image Classification (ResNet)       - Stock Price Prediction (LSTM)
+- Chatbot Development (Seq2Seq)       - Customer Segmentation (K-Means)
+- Time Series Forecasting (Prophet)    - Network Anomaly Detection (Isolation Forest)
+- Text Summarization (BART)           - E-commerce Recommendation System (ALS)
+- Emotion Detection (CNN)             - Speech Recognition (Wav2Vec)
+- Website Traffic Prediction (ARIMA)     - Document Clustering (DBSCAN)

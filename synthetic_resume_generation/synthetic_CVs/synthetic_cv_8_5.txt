@@ -1,0 +1,109 @@
+```
+Jane Smith                           
+
+                                                                                  
+
+                   San Francisco, USA | +1 987 654 3210 | jane.smith@email.com | CodeCrafters
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      CodeCrafters – Machine Learning Engineer       Apr 2023 – Present
+
+        ●  Lead research projects on anomaly detection using Isolation Forest and One-Class SVM.
+
+        ●  Implemented ML models for sentiment analysis and content recommendation systems.
+
+        ●  Spearheaded the development of a data pipeline using Apache Kafka and Spark.
+
+      CodeCrafters – Data Scientist                               Jan 2022 – Mar 2023
+
+        ●  Conducted exploratory data analysis on customer behavior patterns using Python and SQL.
+
+        ●  Developed predictive models for sales forecasting and customer churn prediction.
+
+        ●  Collaborated with cross-functional teams to deploy machine learning solutions in production.
+
+      CodeCrafters – Software Developer                              Jun 2020 – Dec 2021
+
+        ●  Designed and built a scalable microservices architecture using Docker and Kubernetes.
+
+        ●  Utilized GraphQL for efficient data fetching in web applications.
+
+        ●  Implemented CI/CD pipelines with Jenkins for automated testing and deployment.
+
+                                                                                  
+
+      ByteTech – Software Engineer                         Mar 2019 – May 2020
+
+        ●  Created a real-time chat application using Socket.IO and React Native.
+
+        ●  Developed RESTful APIs with Node.js and MongoDB for a social media platform.
+
+        ●  Integrated third-party APIs for authentication and payment processing.
+
+      DataDrive – Web Developer                         Sep 2017 – Feb 2019
+
+        ●  Collaborated on a team to redesign and optimize the UI/UX of a healthcare management system.
+
+        ●  Implemented responsive design principles for mobile compatibility.
+
+        ●  Conducted A/B testing to improve user engagement and conversion rates.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      Data Science Institute                                       2016 – 2020  
+
+      Data Science and Machine Learning Certification                                      
+
+                                                                                  
+
+      University of Technology                                         2012 – 2016  
+
+      BEng Computer Engineering, Second Class Upper Division                                        
+
+                                                                                  
+
+      CERTIFICATIONS                                                                    
+
+                                                                                  
+
+      - Certified TensorFlow Developer
+
+      - AWS Certified Solutions Architect - Associate
+
+      - Neo4j Certified Professional
+
+      - Agile Scrum Master (ASM)
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      CodeCrafters - ChatBot System                                      2022     
+
+      Machine Learning Stock Predictor - link                            2021     
+
+      DataDrive - Healthcare Portal                                       2018     
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: CodeCrafters, ByteTech, DataDrive, Tech Tools, CloudTech, AI Tech, WebTech, DevOpsTech,
+
+      TensorFlow, PyTorch, Dataiku, Neo4j, Apache Kafka, Apache Spark, Docker, Kubernetes, GraphQL, Jenkins, Socket.IO, React Native,
+
+      Node.js, MongoDB, RESTful APIs, AWS, GCP, Azure, HTML, CSS, JavaScript, Python, Java, SQL, NoSQL, Git, Agile, Scrum, Docker,
+
+      Nginx, Redis, RabbitMQ, CI/CD, Jira, Confluence, Agile Scrum, Neo4j, D3.js.
+```

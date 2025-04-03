@@ -1,0 +1,58 @@
+NAME
+London, UK | EMAIL | +44 7123 456789 | LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Professional Summary
+Dedicated Software Engineer with over 6 years of experience in developing and optimizing backend systems. Proficient in Python, Java, and JavaScript, focusing on improving system reliability and efficiency. Skilled in test automation, CI/CD pipelines, and building user-centric software solutions that drive business success.
+
+Technical Skills
+Languages: Python, Java, JavaScript, SQL, Shell Scripting
+  
+Frameworks & Tools: Django, Express.js, Spring Boot, Vue.js, Puppeteer, TestNG, Mocha
+
+DevOps & CI/CD: Ansible, TeamCity, CircleCI, Rancher, Bitbucket Pipelines
+
+Databases: SQLite, Redis, Oracle DB, Cassandra
+
+Cloud & Platforms: Azure (App Service, Cosmos DB), Heroku, Ubuntu Server
+
+Others: GraphQL, Kubernetes, Pair Programming, BDD
+
+Professional Experience
+Senior Software Engineer
+ByteFire Technologies, London, UK
+Sep 2020 – Present
+
+- Led the development of microservices architecture in Python and Java, hosted on Azure and Heroku platforms
+- Implemented GraphQL for efficient data querying and reduced API response times by 40%
+- Integrated Redis caching to enhance application performance and decrease database load
+- Spearheaded the migration to Kubernetes for container orchestration, resulting in improved scalability and resource utilization
+- Mentored new team members, conducted code reviews, and collaborated with cross-functional teams
+
+Software Development Engineer
+TechWise Solutions, London, UK
+Apr 2018 – Aug 2020
+
+- Designed and developed RESTful APIs using Django and Express.js for seamless frontend-backend communication
+- Automated testing processes with Puppeteer and TestNG, leading to a 50% reduction in manual testing efforts
+- Implemented logging and monitoring solutions to track application performance and identify bottlenecks
+- Managed CI/CD pipelines with Ansible and TeamCity, ensuring efficient and reliable deployment processes
+- Initiated a knowledge-sharing program to enhance team collaboration and skill development
+
+Side Projects
+1. Open Source Contribution (Github)
+   - Contributed to a popular open-source library for data visualization in Python, enhancing its functionality
+
+2. Personal Finance Tracker (Web App)
+   - Developed a personal finance tracker application using Vue.js and SQLite to manage expenses and budgets
+
+Education
+MSc in Computer Science
+Imperial College London, UK
+2015 – 2017
+
+Certifications
+- Certified Kubernetes Administrator (CKA)
+- MongoDB Certified DBA Associate
+- Certified Agile Tester (CAT)
+- Blockchain Developer Certification (BDC)
+- Frontend Web Development (Codecademy)

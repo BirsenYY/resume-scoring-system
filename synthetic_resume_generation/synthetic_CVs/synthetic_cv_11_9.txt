@@ -1,0 +1,46 @@
+John Doe
+
+Seattle | 0999999 | john.doe@email.com | XYZ Innovations | XYZ Innovations
+
+WORDS ABOUT ME
+
+Seasoned Quality Assurance Engineer with a proven track record of ensuring software quality through meticulous testing practices and automation. Proficient in developing and implementing test strategies, building automated test suites using cutting-edge tools like Appium and JUnit, and executing API testing with tools like SoapUI. Skilled at collaborating with cross-functional teams in Agile environments to drive continuous improvement in software quality.
+
+CURRENTLY BUILDING
+
+XYZ Innovations – Quality Assurance Engineer                  Mar 2022 – Present
+
+Co-leading the QA efforts at XYZ Innovations and spearheading the implementation of a comprehensive testing framework leveraging Appium and Espresso to ensure mobile app quality.
+
+PROJECTS
+
+Performance Testing Framework – link                                     2022
+
+Designed and implemented a robust performance testing framework utilizing JMeter and Gatling to simulate real-world user scenarios for a high-traffic e-commerce platform.
+
+EXPERIENCE
+
+XYZ Tech Solutions – QA Specialist                           Jul 2020 – Mar 2022
+
+Played a key role in enhancing test automation practices by developing test scripts using JUnit for RESTful APIs and conducting performance testing with JMeter. Collaborated with the development team to identify performance bottlenecks and optimize system performance.
+
+XYZ Digital Agency – Senior QA Engineer                            Jan 2018 – Jul 2020
+
+Led the automation testing efforts for web applications using Selenium WebDriver and TestNG framework, resulting in a 50% reduction in regression testing time. Provided training sessions on automation best practices and mentored junior QA engineers to improve overall team efficiency.
+
+XYZ Software Corp – QA Tester                                        Oct 2015 – Jan 2018
+
+Executed manual and automated test cases for software products, including web and mobile applications. Implemented test plans and strategies, identified defects, and collaborated with developers to resolve issues promptly. Actively participated in sprint planning meetings and retrospectives within Agile Scrum framework.
+
+EDUCATION
+
+XYZ Institute of Technology                                            2012 – 2015
+
+Bachelor of Science in Computer Science
+
+Graduated with Distinction – Thesis project on optimizing test coverage in continuous integration pipelines using Jenkins and Docker.
+
+TOOLS AND TECHNOLOGIES
+
+
+Appium, Espresso, JUnit, SoapUI, JMeter, Gatling, TestNG, Git & GitHub, Jenkins, JIRA, RESTful APIs, Python, Java, SQL, Agile Scrum, XYZ Innovations, XYZ Tech Solutions, XYZ Digital Agency, XYZ Software Corp.

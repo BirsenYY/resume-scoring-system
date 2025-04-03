@@ -1,0 +1,51 @@
+Sarah Williams
+
+New York | 987-654-3210 | sarahwilliams@email.com | DEF Corp | MNO Corp
+
+SUMMARY
+
+Experienced machine learning and software engineer specializing in developing and deploying innovative machine learning solutions. Proficient in Python, TensorFlow, and Scikit-Learn, with expertise in computer vision and natural language processing. Skilled in building microservices architectures and deploying applications using Docker and Kubernetes.
+
+EXPERIENCE
+
+MNO Corp               Jan 2023 – Present
+
+- Led a team in implementing advanced machine learning models for image recognition, achieving a 10% increase in accuracy.
+- Deployed and managed MLOps pipelines using Kubernetes, Kubeflow, and Apache Airflow to streamline model deployment processes.
+
+DEF Corp               Sep 2020 – Dec 2022
+
+- Developed end-to-end deep learning systems for speech recognition and sentiment analysis applications.
+- Conducted extensive research on optimizing neural network architectures for real-time applications.
+
+PROJECTS
+
+Financial Fraud Detection System                    2023
+
+- Designed and implemented a fraud detection system utilizing ensemble learning techniques and anomaly detection.
+- Achieved a 90% detection rate on synthetic data sets.
+
+Music Genre Classification App                    2022
+
+- Built a music genre classification app using convolutional neural networks for feature extraction.
+- Integrated the app with Spotify API for real-time genre prediction.
+
+AWS Cloud Cost Optimization Tool                    2021
+
+- Developed a tool to analyze and optimize cloud infrastructure costs on AWS utilizing machine learning algorithms.
+- Reduced costs by 15% through resource allocation recommendations.
+
+Healthcare Chatbot Development                    2020
+
+- Created a conversational AI chatbot for healthcare inquiries and appointment scheduling.
+- Integrated the chatbot with electronic health record systems for seamless user experience.
+
+EDUCATION
+
+ABC University                                      2016 – 2020
+
+Bachelor of Science in Computer Engineering
+
+TOOLS AND TECHNOLOGIES
+
+Proficient in TensorFlow, PyTorch, Scikit-Learn, Keras, Docker, Kubernetes, Apache Airflow, PostgreSQL, NumPy, Pandas, AWS, GCP, Spark, Flask, React, Angular, HTML, CSS, JavaScript, SQL, Git & GitHub.

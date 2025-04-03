@@ -1,0 +1,78 @@
+**Emily Johnson**
+
+---
+
+New York | emily.johnson@email.com | Tech Innovations | Tech Innovations
+
+---
+
+**SUMMARY**
+
+Passionate machine learning engineer with a solid foundation in computer science. Skilled in developing AI applications for various industries. Always eager to learn and adapt to new technologies.
+
+---
+
+**TECHNOLOGIES/SKILLS**
+
+- Programming: Python, Java, Scala, Kotlin, Docker, Flask
+- Frameworks: PyTorch, TensorFlow, FastAI, Hugging Face Transformers, XGBoost
+- Tools: Jupyter Notebook, Visual Studio Code, Git, Linux, NumPy, Pandas
+- Machine Learning: GANs, MAML, One-shot learning, Federated learning, Transfer learning
+- Cloud Services: Amazon SageMaker, Microsoft Azure, IBM Watson
+- DevOps: Jenkins, Kubernetes, Terraform
+
+---
+
+**EXPERIENCE**
+
+Machine Learning Engineer | Tech Innovations, New Jersey      Mar 2021 - Present
+
+AI-Powered Sentiment Analysis Tool
+
+- Developed an AI-powered sentiment analysis tool using Transformers for real-time social media sentiment monitoring.
+- Enhanced model performance using MAML for quick adaptation to new data.
+- Implemented federated learning techniques for data privacy and model scalability.
+- Integrated the system with AWS for deployment and managed services for seamless operation.
+- Conducted regular model evaluations and updates to ensure high accuracy.
+
+Tech Stack: Python, Transformers, MAML, AWS, BERT, FastAI, Flask
+
+Voice Recognition System
+
+- Designed and deployed a voice recognition system for smart home devices.
+- Utilized GANs for generating synthetic voice data to improve training efficiency.
+- Implemented transfer learning techniques for faster model training on limited voice samples.
+- Collaborated with cross-functional teams to integrate the system with cloud services.
+- Conducted user acceptance testing to ensure the accuracy and reliability of the system.
+
+Tech Stack: Python, GANs, Transfer Learning, TensorFlow, Kubernetes, AWS, Speech Recognition
+
+---
+
+**EDUCATION**
+
+MSc in Machine Learning, New York University, New York     Sept 2019 - Dec 2020
+
+BSc in Computer Science (Hons), University of Michigan, Ann Arbor     Sept 2015 - May 2019
+
+---
+
+**CERTIFICATIONS**
+
+- Certified TensorFlow Developer
+- AWS Certified Machine Learning Specialist
+- Certified Data Science Professional (CDSP)
+- Certified Blockchain Developer (CBD)
+- Certified AI Ethics Specialist
+
+---
+
+**PROJECTS**
+
+- Image Recognition with CNNs
+- NLP Chatbot using GPT-3
+- Recommendation System with Matrix Factorization
+- Anomaly Detection in Time Series Data
+- Fraud Detection using XGBoost
+
+---

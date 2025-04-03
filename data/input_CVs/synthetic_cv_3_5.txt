@@ -1,0 +1,36 @@
+Samantha Lee
+
+M: (987) 654-3210 | E: samanthalee@email.com | Seattle, WA
+
+Summary
+Experienced machine learning engineer with a focus on developing and deploying end-to-end solutions using Python and TensorFlow. Skilled in computer vision and NLP models, with expertise in utilizing Kubernetes and Jenkins for MLOps. Proficient in developing applications using FastAPI within a microservices architecture on cloud-based servers.
+
+Experience
+ABC Solutions, Seattle, WA                                      Nov 2022 – Present
+- Developed and deployed advanced computer vision models for real-time object detection and image segmentation.
+- Integrated Jenkins pipelines for continuous integration and deployment of machine learning models.
+- Collaborated with cross-functional teams to implement scalable solutions for data processing and analysis.
+
+Side Projects
+Dynamic Pricing Engine                                          2023
+- Implemented a dynamic pricing engine using reinforcement learning algorithms to optimize pricing strategies for e-commerce platforms.
+- Utilized Django for backend development and React for the frontend interface.
+
+Twitter Sentiment Analysis Tool                                 2022
+- Designed and trained a sentiment analysis tool to analyze trends and sentiments on Twitter data.
+- Deployed the model as a web application using Streamlit for visualization.
+
+Blockchain-based Supply Chain Solution                           2021
+- Led a team to develop a blockchain-based supply chain solution to enhance transparency and traceability in the logistics industry.
+- Utilized Hyperledger Fabric for smart contract development and integration.
+
+Certifications
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Solutions Architect – Associate
+- Certified Information Systems Security Professional (CISSP)
+
+Education
+University of Washington, Seattle, WA            BSc in Computer Science                2018 – 2022
+
+Tools and Technologies
+Python, TensorFlow, Kubernetes, Jenkins, FastAPI, Django, React, Streamlit, Docker, PostgreSQL, Pandas, NumPy, Scikit-Learn, Git & GitHub, HTML, CSS, JavaScript, Linux, Ansible, Hyperledger Fabric, AWS, CI/CD pipelines.

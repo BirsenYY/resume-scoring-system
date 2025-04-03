@@ -1,0 +1,55 @@
+Alice Chen
+
+San Francisco | 0999999 | alice.chen@email.com | Portfolio: alicechen.dev | GitHub: github.com/alicechen
+
+WORDS ABOUT ME
+Computer Science enthusiast with a keen interest in data analysis, AI, and software development. Passionate about leveraging technology to tackle complex challenges and enhance user experiences. Skilled in Python, Java, and cloud computing with a strong foundation in algorithms and data structures.
+
+CURRENTLY BUILDING
+
+Personal Data Science Portfolio – Data Analyst              Mar 2024 – Present
+● Curating a diverse portfolio of data analysis and visualization projects showcasing proficiency in machine learning and statistical modeling (kaggle.com/alicechen).
+● Developing interactive data dashboards and deploying predictive models to demonstrate practical applications.
+
+PROJECTS
+
+🏆 DataHack Challenge Winner – Predictive Analytics            2024
+● Led a team to victory in a predictive modeling competition, achieving top accuracy on a financial dataset.
+● Implemented ensemble methods using XGBoost and LightGBM with feature engineering and hyperparameter tuning.
+
+NLP Insights – Natural Language Processing Tool              2023
+● Created a web-based NLP tool for sentiment analysis and keyword extraction using NLTK and TextBlob.
+● Integrated with Flask for backend API and deployed on AWS EC2, showcasing insights for social media data.
+
+CryptoTracker – Real-time Cryptocurrency Dashboard             2023
+● Developed a dashboard to monitor cryptocurrency prices and trends using the CoinGecko API.
+● Implemented live data updates and interactive visualizations with Plotly and React for a seamless user experience.
+
+Side Project: Music Genre Classifier                                 2022
+● Built a machine learning model to classify music genres based on audio features using the GTZAN dataset.
+● Utilized Librosa for audio analysis and Flask for model deployment, enabling users to upload audio files for genre prediction.
+
+EXPERIENCE
+
+Data Analyst Intern                                           Aug 2023 – Dec 2023
+● Conducted data cleaning, analysis, and visualization for marketing campaigns, resulting in actionable insights.
+● Collaborated with cross-functional teams to optimize data collection processes and improve data quality.
+
+Tech Support Specialist                                      Jun 2022 – Jul 2023
+● Provided technical assistance to customers, troubleshooting and resolving software and hardware issues efficiently.
+● Contributed to product documentation and training materials to enhance user experience.
+
+XYZ Software Development Bootcamp                   Jan 2022 – May 2022
+● Completed an intensive coding bootcamp focusing on full-stack development and agile methodologies.
+● Developed web applications using MERN stack, worked on team projects, and practiced test-driven development.
+
+EDUCATION
+
+Stanford University                                                           2020 – 2024
+BSc Computer Science
+● Graduated with a focus on data science and AI, undertaking coursework in machine learning, database systems, and algorithms.
+● Capstone project: "Predictive Maintenance System for Industrial IoT" – utilized sensor data to predict equipment failures and optimize maintenance schedules.
+
+TOOLS AND TECHNOLOGIES
+
+Java, R, SQL, AWS, Tableau, Jupyter, Selenium, Flask, MongoDB, GitLab, HTML/CSS, Bootstrap, D3.js, Pandas, Scikit-learn, TensorFlow, Keras, Apache Spark

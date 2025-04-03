@@ -1,0 +1,95 @@
+```
+    IBM                                       
+
+                                                                                    
+
+                 New York, US | (+1) 9876543210 | jane.smith@gmail.com | Work Rights : Yes/FullTime
+
+            linkedin.com/in/janesmith | github.com/JaneSmith | ibm.com/JaneSmith | medium.com/@janesmith
+
+    PROFESSIONAL SUMMARY:                                                           
+
+                                                                                    
+
+     Data Scientist with 7 years of experience and certified in IBM Watson. Skilled in developing predictive models, implementing
+
+     machine learning algorithms, and optimizing data pipelines. Proficient in Python, R, and SQL. Currently exploring deep learning
+
+     techniques, neural networks, and natural language processing. Strong track record in data analysis, visualization, and delivering
+
+     data-driven insights to drive business decisions.        
+
+    SKILLS:                                                                         
+
+                                                                                    
+
+      Python, R, SQL | Tableau, Power BI | TensorFlow, Keras, Hugging Face, SpaCy | Deep Learning, Neural Networks, NLP | Flask,
+
+      Django | Git, Docker, Kubernetes, IBM Watson                                      
+
+                                                                                    
+
+    PROFESSIONAL EXPERIENCE :                                                       
+
+                                                                                    
+
+     Machine Learning Engineer (DataLabs) - San Francisco, US    Mar 2021 : Present
+
+    ● Developed machine learning models for predictive maintenance using IBM Watson, reducing equipment downtime by 20% and increasing
+
+      operational efficiency                                                           
+
+    ● Implemented anomaly detection algorithms for real-time monitoring of industrial equipment, resulting in early fault detection and
+
+      prevention                                                                      
+
+    ● Collaborated with cross-functional teams to gather requirements, conduct data analysis, and present findings in a clear and
+
+      actionable manner                                                               
+
+    ● Conducted A/B testing and performance optimization to continuously improve model accuracy and reliability                
+
+
+     Data Scientist (TechWorks) - Chicago, US    Jan 2018 : Feb 2021
+
+    ● Led data analysis projects to identify trends, patterns, and insights from large datasets using Python, R, and SQL                
+
+    ● Developed and deployed machine learning models for customer segmentation, churn prediction, and recommendation systems            
+
+    ● Created interactive dashboards and visualizations in Tableau and Power BI for stakeholders to track KPIs and make informed decisions
+
+    ● Conducted data cleaning, feature engineering, and model evaluation to ensure the quality and reliability of predictive models        
+
+    ● Contributed to the development of data pipelines and automated workflows for data processing and model deployment                 
+
+
+     Research Assistant (AI Lab) - Boston, US    Aug 2015 : Dec 2017
+
+    ● Conducted research on deep learning techniques and neural networks for image recognition and classification tasks                  
+
+    ● Implemented algorithms in Python using TensorFlow and Keras to train and evaluate convolutional neural networks (CNNs)               
+
+    ● Collaborated with professors and fellow researchers to publish papers and present findings at conferences and workshops              
+
+    ● Contributed to open-source projects and code repositories to share knowledge and improve algorithms in the AI community               
+
+    EDUCATION:                                                                      
+
+    MS in Data Science - Columbia University, New York (With Honors) Aug 2013 : July 2015
+
+    BS in Computer Science - University of California, Berkeley Aug 2009 : July 2013
+
+    PROFESSIONAL DEVELOPMENT and CERTIFICATIONS:                                    
+
+                                                                                    
+
+    ● Certified Data Analyst (by IBM)                         Nov, 2019
+
+    ● Machine Learning for Data Science (by edX)              Feb, 2018  
+
+    ● Neural Networks and Deep Learning (by Udemy)            Sep, 2017
+
+    ● Big Data Analytics Certification (by Coursera)           Jan, 2016
+
+    ● AWS Certified Solutions Architect - Associate (AWS)       July, 2015
+```  

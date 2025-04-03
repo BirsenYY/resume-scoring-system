@@ -1,0 +1,73 @@
+[Full Name]
+[City, Country] | [Email Address] | [Phone Number] | [LinkedIn] | [GitHub/Portfolio]
+
+PROFILE
+Dynamic technology professional with over 12 years of experience in artificial intelligence, machine learning, and software engineering. Adept at driving AI initiatives, architecting scalable systems, and enhancing cross-functional collaboration to achieve business objectives. Currently leading AI projects as the Head of AI at an innovative tech startup, overseeing end-to-end ML product development and strategic technology implementation.
+
+EXPERIENCE
+Head of AI
+TechGenius Innovations | San Francisco, USA | Apr 2018 – Present
+
+- Conceptualized and executed AI roadmap for intelligent chatbots and automated data analysis tools.
+
+- Managed a diverse team of 30+ data scientists and engineers, fostering a culture of innovation and knowledge sharing.
+
+- Developed cutting-edge ML pipelines for anomaly detection, sentiment analysis, and speech recognition.
+
+- Implemented AI models on hybrid cloud environments, optimizing resource utilization by 30%.
+
+- Collaborated with the executive team to secure $15M in venture capital funding for AI research and expansion.
+
+Lead Data Scientist
+DataTech Solutions | Sydney, Australia | Nov 2014 – Mar 2018
+
+- Led the development of personalized recommendation engines and predictive maintenance solutions.
+
+- Spearheaded the integration of Apache Spark for large-scale data processing and real-time analytics.
+
+- Managed the implementation of automated model deployment pipelines, reducing deployment time by 50%.
+
+- Conducted workshops on machine learning best practices and facilitated knowledge sharing sessions.
+
+Data Engineer
+SoftSolve Technologies | Toronto, Canada | Jun 2011 – Oct 2014
+
+- Designed and optimized data pipelines for ETL processes and data warehousing solutions.
+
+- Implemented data governance frameworks to ensure compliance with data privacy regulations.
+
+- Collaborated with cross-functional teams to deliver data-driven insights for strategic decision-making.
+
+EDUCATION
+Ph.D. in Computer Science – Machine Learning
+Stanford University | 2011
+
+BSc in Computer Engineering
+University of [Your Country] | 2006
+
+SKILLS
+Languages: Python, Scala, R, SQL
+
+Frameworks: Apache Spark, H2O.ai, XGBoost, LightGBM, Dask
+
+ML Ops: Kubeflow, Apache Airflow, DVC, MLflow
+
+Cloud: Google Cloud AI Platform, IBM Cloud, Alibaba Cloud
+
+Other: Time Series Analysis, Reinforcement Learning, Graph Neural Networks, Bayesian Inference, DevOps
+
+CERTIFICATIONS
+Certified Kubernetes Administrator
+
+DataRobot Certified AI Developer
+
+IBM Certified Data Engineer
+
+NeurIPS Certified Machine Learning Practitioner
+
+SPEAKING & PUBLICATIONS
+Keynote speaker at AI Expo Global and Data Science Summit
+
+Contributor to IEEE journals on AI ethics and responsible AI practices
+
+Author of "Scalable AI Solutions for Business" – Springer (2021)

@@ -1,0 +1,110 @@
+Jane Doe
+                                                                                  
+
+                      San Francisco | 0888888 | jane.doe@email.com | XYZ Solutions | XYZ Solutions
+
+      SUMMARY                                                                  
+
+                                                                                  
+
+                                                                                  
+
+      Experienced Quality Assurance Engineer specializing in software testing and automation. Proficient in developing test strategies and building automated test suites for various web and mobile applications. Skilled in tools like Selenium, Appium, and JMeter. Strong background in Agile methodologies, CI/CD pipelines, and ensuring bug-free software releases.
+
+      CURRENT ROLE                                                       
+
+                                                                                  
+
+      XYZ Solutions – Quality Assurance Engineer               Mar 2022 – Present
+
+        ●  Leading QA efforts and implementing test automation frameworks for XYZ Solutions.
+
+        ●  Collaborating with cross-functional teams to enhance product quality and performance.
+
+                                                                                  
+
+      SIDE PROJECTS                                                           
+
+                                                                                  
+
+      Mobile App Performance Testing – link                          2023
+
+        ●  Conducted performance testing on a mobile banking application using JMeter.
+
+        ●  Identified and resolved critical performance bottlenecks, improving app responsiveness by 30%.
+
+                                                                                  
+
+      API Security Testing Toolkit – link                             2022
+
+        ●  Developed a customized toolkit for API security testing with OWASP ZAP and Burp Suite.
+
+        ●  Conducted security audits on RESTful APIs, ensuring compliance with industry standards.
+
+                                                                                  
+
+      EXPERIENCE                                                              
+
+                                                                                  
+
+      XYZ Tech – QA Automation Engineer                          Sep 2019 – Mar 2022
+
+        ●  Implemented end-to-end automation for web and mobile applications using Selenium and Appium.
+
+        ●  Reduced test cycle times by 50% and improved release frequency.
+
+        ●  Conducted load testing with Apache JMeter for performance validation.
+
+                                                                                  
+
+      XYZ Innovations – Senior QA Analyst                           May 2017 – Sep 2019
+
+        ●  Led QA efforts for a new product launch, coordinating with development teams to ensure quality.
+
+        ●  Designed and executed test plans for complex software features.
+
+        ●  Implemented a bug tracking system, resulting in a 20% decrease in issue resolution time.
+
+                                                                                  
+
+      XYZ Services – QA Tester                                           Jan 2016 – May 2017
+
+        ●  Conducted manual testing on web applications and documented defects using JIRA.
+
+        ●  Collaborated with developers to troubleshoot issues and verify bug fixes.
+
+                                                                                  
+
+      EDUCATION                                                               
+
+                                                                                  
+
+      XYZ University                                                2012 – 2016
+
+      BSc in Computer Science                                                       
+
+        ●  Awarded Dean's List for academic excellence – Final year project on automated regression testing in Agile environments.
+
+      CERTIFICATIONS                                                       
+
+                                                                                  
+
+        ●  ISTQB Certified Tester – Foundation Level
+
+        ●  Certified Agile Tester (CAT)
+
+        ●  AWS Certified Solutions Architect – Associate
+
+        ●  Certified Ethical Hacker (CEH)
+
+        ●  Google Analytics Individual Qualification (GAIQ)
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES
+
+
+
+Selenium, Appium, JMeter, Postman, REST APIs, JIRA, Git & GitHub, TestRail, Python, JavaScript, Java,
+
+      SQL, OWASP ZAP, Burp Suite, CI/CD, Agile Scrum, XYZ Tech, XYZ Innovations, XYZ Solutions.

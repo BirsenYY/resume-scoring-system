@@ -1,0 +1,72 @@
+NAME
+London, UK | EMAIL | +44 7123 456789
+LinkedIn: linkedin.com/in/NAME | GitHub: github.com/NAME
+
+Current Coordinates (Who I Am Now)
+Passionate and detail-oriented Data Scientist with a diverse background in applied mathematics and machine learning. Equipped with strong problem-solving skills and a keen interest in leveraging data-driven insights to improve business outcomes across various industries.
+
+Toolkit & Weapons of Choice
+Languages: Python, Scala, Java, Julia
+Machine Learning: Gradient Boosting Machines, K-Means Clustering, Reinforcement Learning
+Data Ops: NoSQL Databases, Apache Kafka, Spark, Dask, Airflow
+Visualization: Plotly, Dash, Bokeh, D3.js
+Other Strengths: Bayesian Statistics, Natural Language Processing, Docker, Kubernetes
+
+What I’m Building Now (Recent Role)
+Data Scientist
+MediTech Innovations – London, UK
+May 2021 – Present
+
+Developed fraud detection algorithms for healthcare insurance claims processing
+
+Collaborated with cross-functional teams to optimize drug dosage prediction models
+
+Implemented real-time data streaming architecture for monitoring patient vital signs
+
+Conducted cohort analysis to identify high-risk patient groups for proactive interventions
+
+Automated data quality checks and cleaning processes to ensure data integrity
+
+Where I Bridged the Gap (Transitional Role)
+Data Engineer
+HealthTech Solutions – Manchester, UK
+Nov 2019 – Apr 2021
+
+Designed and maintained scalable data pipelines for processing genomics data
+
+Built custom data ingestion tools to support seamless integration of diverse data sources
+
+Developed predictive analytics models for personalized medicine initiatives
+
+Created interactive dashboards for visualizing population health trends
+
+Performed data profiling and cleansing to enhance data quality and reliability
+
+Where It All Started (Foundations in Engineering)
+Research Assistant
+BioTech Innovations – Birmingham, UK
+Aug 2017 – Oct 2019
+
+Conducted research on computational neuroscience models for brain signal analysis
+
+Implemented algorithms for biosignal feature extraction and classification
+
+Collaborated on the development of neural network architectures for drug discovery
+
+Contributed to scientific publications and conference presentations
+
+The Knowledge Base
+PhD – Applied Mathematics
+University of Oxford, 2015 – 2019
+
+MSc – Machine Learning & Data Mining
+University of Cambridge, 2013 – 2014
+
+Digital Badges & Certifications
+AWS Certified Solutions Architect - Associate
+
+Certified Information Systems Security Professional (CISSP)
+
+Google Cloud Professional Data Engineer
+
+Certified Blockchain Developer on Hyperledger

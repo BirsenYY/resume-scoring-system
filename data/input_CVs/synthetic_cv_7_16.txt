@@ -1,0 +1,64 @@
+**Emma Johnson**                              
+
+New York | emma.johnson@email.com | AI Engineer | XYZ Technologies   
+
+---
+
+**SUMMARY**                                                                       
+
+AI Engineer with a strong foundation in computer science and expertise in developing cutting-edge AI solutions. Skilled in implementing machine learning algorithms and frameworks to drive innovation in various domains. Passionate about continuous learning and exploring new technologies in the field.
+
+---
+
+**TECHNOLOGIES/SKILLS**                                                           
+
+- Programming Languages: Python, Java, C++, Scala, Rust
+- Frameworks: PyTorch, TensorFlow, Hugging Face, Apache MXNet, XGBoost
+- Tools: Jupyter Notebook, Visual Studio Code, Git, Linux, Docker
+- Cloud Platforms: AWS, Azure, Google Cloud Platform (GCP)
+- Databases: MySQL, MongoDB, Cassandra, Redis
+- Machine Learning: GANs, Transformer Models, Self-Supervised Learning, AutoML, Interpretability Techniques
+- Other Skills: NLP, Computer Vision, Reinforcement Learning, Time Series Analysis, Data Visualization
+
+---
+
+**EXPERIENCE**                                                                    
+
+AI Engineer | XYZ Technologies, New York              Jan 2021 – Present
+
+Virtual Personal Stylist Application
+
+- Led the development of a virtual personal stylist application utilizing GANs for generating personalized outfit recommendations.
+- Implemented Transformer models for natural language processing to enhance user interactions and feedback.
+- Utilized self-supervised learning techniques for data augmentation and improved model performance.
+- Integrated with Azure cloud services for scalability and efficiency.
+- Collaborated with UX designers to create a seamless user experience.
+
+Tech Stack: Python, PyTorch, Hugging Face, GANs, Transformer Models, Azure, NLP
+
+XYZ Chatbot Deployment
+
+- Engineered and deployed a chatbot solution for customer support using Transfer Learning and Fine-tuning techniques.
+- Developed a knowledge base using unsupervised clustering for quick and accurate responses.
+- Conducted A/B testing to optimize the chatbot's performance based on user feedback and metrics.
+- Utilized time series analysis to monitor chatbot performance and make real-time improvements.
+
+Tech Stack: Python, TensorFlow, BERT, Transfer Learning, Clustering, A/B Testing
+
+---
+
+**EDUCATION**                                                                     
+
+MSc in Artificial Intelligence, Columbia University, New York              Sept 2019 - May 2021
+
+BSc in Computer Science (Honors), Rutgers University, New Jersey          Sept 2015 - May 2019
+
+---
+
+**PROJECTS**                                                                      
+
+- Music Genre Classification using CNNs       - Sentiment Analysis with Hugging Face Transformers
+- Image Captioning with Attention Mechanism   - Fraud Detection using AutoML
+- Automated Medical Diagnosis System          - Time Series Forecasting for Stock Prices
+
+---

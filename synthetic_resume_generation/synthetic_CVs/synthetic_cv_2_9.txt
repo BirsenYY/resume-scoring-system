@@ -1,0 +1,65 @@
+John Doe
+
+Chicago | 0999999 | john.doe@email.com | XYZ Technologies | XYZ Technologies
+
+WORDS ABOUT ME
+
+Experienced Quality Assurance Engineer with a strong background in designing and implementing effective testing strategies for web and mobile applications. Skilled in automation using tools like Appium and JMeter, with a focus on ensuring software quality and reliability. Proficient in Agile methodologies and continuous integration practices.
+
+CURRENTLY BUILDING
+
+XYZ Technologies – Quality Assurance Engineer             Apr 2022 - Present
+
+Co-leading the implementation of a new testing framework for mobile applications, emphasizing performance testing and security protocols.
+
+PROJECTS
+
+Mobile Performance Testing Suite – link                                            2023
+
+Designed and implemented a mobile performance testing suite using Appium and JMeter.
+
+Identified and resolved performance bottlenecks, resulting in a 30% improvement in app speed.
+
+EXPERIENCE
+
+XYZ Tech Solutions – QA Automation Engineer                  Sep 2020 – Apr 2022
+
+Developed automated test scripts for web applications using Appium and Selenium.
+
+Worked closely with developers to integrate test automation into the CI/CD pipeline.
+
+Led the migration of test cases from TestRail to Zephyr for enhanced test management.
+
+XYZ Software House – QA Tester                                      Jan 2019 – Sep 2020
+
+Conducted manual testing for a range of software products, including desktop and mobile applications.
+
+Participated in sprint planning meetings and provided QA input to development teams.
+
+Developed and executed test cases for regression and smoke testing.
+
+XYZ Mobile Apps – QA Intern                                             Jun 2018 – Jan 2019
+
+Assisted in test case creation and execution for multiple mobile app projects.
+
+Collaborated with senior QA engineers to troubleshoot and identify bugs.
+
+EDUCATION
+
+XYZ Institute of Technology               2016 – 2019
+
+Bachelor of Science in Computer Science
+
+Capstone project on security testing methodologies for financial applications.
+
+TOOLS AND TECHNOLOGIES
+
+Appium, JMeter, GitLab, Zephyr, TestNG, Java, Python, SQL, REST APIs, Agile Scrum, XYZ Tech Solutions, XYZ Software House, XYZ Mobile Apps, XYZ Institute of Technology
+
+CERTIFICATIONS
+
+1. Certified Agile Tester (CAT)
+2. ISTQB Certified Tester - Foundation Level
+3. Mobile Application Testing Certification
+4. Performance Testing Professional
+5. Secure Software Development Certification

@@ -1,0 +1,73 @@
+Alice Johnson
+
+San Francisco | 0999999 | alice.johnson@email.com | XYZ Technologies | XYZ Technologies
+
+WORDS ABOUT ME
+
+Dedicated Quality Assurance Engineer with a strong background in building and implementing effective testing strategies to ensure the delivery of high-quality software products. Proficient in automation testing using a variety of tools and experienced in working in Agile environments to drive continuous improvement in software quality.
+
+CURRENTLY BUILDING
+
+XYZ Technologies – Quality Assurance Engineer Oct 2022 – Present
+
+Co-leading the QA team at XYZ Technologies to establish and enhance QA processes, including implementing robust test automation frameworks (LINK TO GITHUB).
+
+PROJECTS
+
+Automated Test Suite Development – link 2022
+
+Designed and implemented a scalable automated test suite using TestNG and Appium for mobile applications.
+
+Utilized Jenkins for continuous integration to streamline the testing process and reduce time to market.
+
+EXPERIENCE
+
+XYZ Innovations – QA Consultant Mar 2021 – Oct 2022
+
+Collaborated with cross-functional teams to design and execute testing strategies for cutting-edge IoT devices.
+
+Implemented API testing using SoapUI to validate data transfer between devices and cloud servers.
+
+Contributed to the development of a test-driven development culture within the organization.
+
+XYZ Labs – QA Automation Engineer Aug 2019 – Mar 2021
+
+Developed end-to-end automation tests for a cloud-based CRM platform using Katalon Studio and Python.
+
+Reduced test execution time by 60% through the implementation of parallel test execution.
+
+Led the integration of automated tests with Azure DevOps for seamless deployment pipelines.
+
+XYZ Software Solutions – QA Engineer Jan 2017 – Aug 2019
+
+Created and executed test plans for web and mobile applications to ensure software quality and user experience.
+
+Utilized LoadRunner for performance testing to identify and resolve bottlenecks in the application.
+
+Collaborated with developers to implement automated test suites and improve test coverage.
+
+XYZ Analytics – QA Analyst May 2015 – Jan 2017
+
+Performed manual testing for data analytics software products, focusing on data accuracy and integrity.
+
+Participated in customer feedback sessions to gather insights for product enhancements and bug fixes.
+
+Utilized Bugzilla for bug tracking and resolution within an Agile development environment.
+
+EDUCATION
+
+XYZ University 2012 – 2015
+
+BSc in Computer Science
+
+Achieved Dean's List recognition for academic excellence and research contributions in software testing methodologies.
+
+TOOLS AND TECHNOLOGIES
+
+Appium, TestNG, Jenkins, SoapUI, Katalon Studio, Python, LoadRunner, Azure DevOps, Bugzilla, Agile Scrum, XYZ Innovations, XYZ Labs, XYZ Software Solutions, XYZ Analytics
+
+CERTIFICATIONS
+
+1. Certified Mobile Application Tester (CMAT)
+2. Agile Certified Practitioner (ACP)
+3. Certified Usability Testing Professional (CUTP)

@@ -1,0 +1,83 @@
+Sarah Johnson
+
+                                                                                  
+
+                      Los Angeles | 987-654-3210 | sarahjohnson@email.com | 123 Software Solutions | ZYX Technologies
+
+      SUMMARY                                                                     
+
+                                                                                  
+
+      Data scientist and AI engineer specializing in developing and deploying cutting-edge machine learning solutions. Proficient in
+
+      Python, TensorFlow, and Scikit-Learn, with extensive experience in computer vision and natural language processing models. Skilled in building microservices using FastAPI and Docker on cloud platforms.
+
+                                                                                  
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      ZYX Technologies                     Jan 2021 – Present
+
+        ●  Implemented reinforcement learning algorithms for optimizing supply chain operations, resulting in a 15% cost reduction.
+
+        ●  Led a team in deploying image recognition models for quality inspection in manufacturing processes.
+
+        ●  Developed data pipelines for processing and analyzing large-scale sensor data streams.
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Quantum Computing Simulator                                        2020     
+
+        ●  Built a quantum computing simulator using Qiskit, implementing quantum teleportation and Shor's algorithm.
+
+      Speech Emotion Recognition                                          2020     
+
+        ●  Created a deep learning model in TensorFlow to recognize emotions in spoken language for virtual assistants.
+
+      Document Summarization AI                                         2019     
+
+        ●  Developed an AI system for automatic document summarization using transformer-based architectures.
+
+      XYZ Corp Weather Forecasting ML                                  2019     
+
+        ●  Utilized LSTM and CNN models to predict weather patterns accurately, improving forecasting accuracy by 20%.
+
+      Chatbot for Customer Support                                       2018     
+
+        ●  Designed and implemented a chatbot using NLP techniques to provide 24/7 customer support for an e-commerce platform.
+
+                                                                                  
+
+      CERTIFICATIONS                                                             
+
+                                                                                  
+
+      - Certified Kubernetes Administrator (CKA)                                   
+
+      - AWS Certified Solutions Architect - Associate                         
+
+      - Certified Information Systems Security Professional (CISSP)                          
+
+      - Google Professional Data Engineer                                  
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+      ABC University                                           2016 – 2020  
+
+      BSc Data Science                                                          
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      Proficient in TensorFlow, Scikit-Learn, PyTorch, Keras, Docker, Kubernetes, AWS, GCP, SQL, NoSQL, Flask, React, HTML, CSS, JavaScript, Qiskit, OpenCV, NumPy, Pandas, Matplotlib, Jupyter, Git, and Jira.

@@ -1,0 +1,51 @@
+John Doe
+
+San Francisco | 1234567 | john.doe@email.com | XYZ Innovations
+
+PROFILE
+
+Quality Assurance Engineer with a strong background in developing and implementing test strategies and building automated test suites. Experienced in testing web and mobile applications, with expertise in Selenium and Postman. Skilled in integrating CI/CD pipelines with quality gates to ensure the delivery of high-quality software products.
+
+CURRENT ACTIVITIES
+
+XYZ Innovations - Quality Assurance Engineer        Mar 2023 - Present
+
+- Leading the QA efforts at XYZ Innovations and developing a comprehensive test automation framework (LINK TO GITHUB)
+
+PROJECTS
+
+Automated Performance Testing Framework - link        2023
+
+- Architectured a performance testing framework using JMeter and Gatling to simulate load on a cloud-based platform.
+- Improved application response time by 30% through performance optimizations.
+
+EXPERIENCE
+
+XYZ Tech Solutions - QA Automation Engineer            Jan 2021 - Mar 2023
+
+- Developed end-to-end automated test suites for Java-based microservices using Karate and RestAssured.
+- Implemented a BDD approach for API testing, resulting in easier collaboration with developers.
+- Conducted training sessions on best practices for test automation.
+
+XYZ Digital Agency - QA Analyst                            May 2019 - Jan 2021
+
+- Created test plans and test cases for responsive web applications across various browsers and devices.
+- Led the execution of regression testing and reported defects using TestRail.
+- Collaborated with UX/UI designers to ensure the usability of web interfaces.
+
+XYZ Startup - Intern QA Tester                                   Sep 2018 - May 2019
+
+- Performed functional and usability testing for a mobile app targeted at the education sector.
+- Assisted in the creation of a knowledge base for troubleshooting common user issues.
+
+EDUCATION
+
+XYZ University                                         2015 - 2019
+
+BSc in Computer Science                                           
+
+- Graduated with Distinction - Final year project focused on automated testing in IoT devices.
+
+TOOLS AND TECHNOLOGIES
+
+Selenium, Postman, JMeter, Gatling, Karate, RestAssured, TestRail, Java, Python, BDD, CI/CD, Agile Scrum, XYZ Tech Solutions, XYZ Digital Agency, XYZ Startup

@@ -1,0 +1,75 @@
+[Full Name]
+[City, Country] | [Email Address] | [Phone Number] | [LinkedIn] | [GitHub/Portfolio]
+
+PROFILE
+Passionate AI enthusiast with 10+ years of experience in machine learning, software engineering, and AI strategy. Currently holding the position of Head of AI Research at a leading tech startup, focusing on driving innovation, architecting scalable solutions, and overseeing cross-functional product development. Proven expertise in building and leading high-performing engineering teams and successfully delivering ML products to market.
+
+EXPERIENCE
+Head of AI Research
+TechNex Innovations | San Francisco, USA | Nov 2018 – Present
+
+Leading the AI research division, driving cutting-edge AI initiatives and breakthroughs.
+
+Expanded the research team from 12 to 50 members and implemented cutting-edge AI technologies.
+
+Developed AI frameworks for emotion recognition, anomaly detection, and voice synthesis.
+
+Managed deployment of AI models on cloud platforms and IoT devices, reducing processing time by 30%.
+
+Secured $15M in funding through strategic partnerships and grant applications.
+
+Data Science Manager
+Insightful Analytics | Sydney, Australia | Feb 2014 – Oct 2018
+
+Managed a team of data scientists in creating predictive models for customer churn and sales forecasting.
+
+Implemented reinforcement learning algorithms for dynamic pricing optimization.
+
+Introduced data governance practices and established data quality standards.
+
+Enhanced model accuracy by 20% through ensemble techniques and Bayesian optimization.
+
+Machine Learning Engineer
+SilverLabs Inc. | Toronto, Canada | Aug 2010 – Jan 2014
+
+Designed and implemented machine learning models for sentiment analysis and recommendation engines.
+
+Developed custom ML algorithms for anomaly detection in cybersecurity.
+
+Collaborated with product teams to integrate ML solutions into customer-facing applications.
+
+Automated data processing pipelines using Apache Spark and optimized model training workflows.
+
+EDUCATION
+PhD in Computer Science – Machine Learning and Data Mining
+Stanford University | 2010
+
+BSc in Computer Engineering
+University of [Your Country] | 2006
+
+SKILLS
+Languages: Python, Scala, R, SQL
+
+Frameworks: PySpark, H2O.ai, XGBoost, LightGBM, Apache Flink
+
+ML Ops: Docker, Kubernetes, DVC, MLflow
+
+Cloud: AWS (Glue, Redshift), Azure, IBM Cloud
+
+Other: Time Series Analysis, Graph Neural Networks, Federated Learning, Explainable AI, AutoML
+
+CERTIFICATIONS
+Certified Machine Learning Lifecycle Professional
+
+IBM Certified Data Engineer – Advanced Analytics
+
+Microsoft Certified: AI Engineer Associate
+
+Google Cloud Certified – Professional Data Engineer
+
+SPEAKING & PUBLICATIONS
+Keynote Speaker at AI Expo Global, Big Data World, and Data Science Summit
+
+Authored articles on Explainable AI and Federated Learning in industry publications
+
+Active participant in AI ethics discussions on online forums and communities

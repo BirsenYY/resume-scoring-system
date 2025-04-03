@@ -1,0 +1,117 @@
+Sarah Smith
+
+                                                                                          
+
+San Francisco, USA | +1 987 654 3210 | sarah.smith@email.com | Digital Geniuses
+
+      EXPERIENCE                                                                  
+
+                                                                                  
+
+      Digital Geniuses – Research Scientist              Jan 2023 – Mar 2023
+
+        ● Research focused on implementing generative adversarial networks (GANs) for audio synthesis and NLP applications.
+
+        ● Developed projects involving training MelGAN and Tacotron models, sentiment analysis using transformer architecture,
+
+           and speech-to-text synthesis with Tacotron2.                                
+
+        ● Managed MLOps pipelines including MLflow and Dagster for improved reproducibility and monitoring.        
+
+                                                                                  
+
+      Digital Geniuses – Data Engineer                   May 2021 – Sep 2022
+
+        ● Setup data processing pipelines using Apache Beam and Apache Flink for real-time data streaming and batch processing.
+
+        ● Optimized data storage on AWS S3 and data retrieval using Amazon Athena.
+
+        ● Conducted A/B testing on recommendation algorithms using TensorFlow and PyTorch for improved performance.
+
+      Digital Geniuses – Software Engineer                       Nov 2020 – Apr 2021
+
+        ● Developed a neural network model for predicting stock prices based on historical data using LSTM and GRU architectures.
+
+        ● Integrated the stock prediction model into a web application using Flask for real-time monitoring.
+
+        ● Conducted performance tuning to handle large datasets efficiently and implemented data visualization using Plotly.
+
+                                                                                  
+
+      Innovation Hub Inc. – AI Research Intern                  Jun 2019 – Dec 2020
+
+        ● Collaborated on research projects focused on reinforcement learning algorithms for autonomous navigation systems.
+
+        ● Implemented Q-learning and deep Q-networks for drone path planning and obstacle avoidance.
+
+        ● Conducted experiments on Gazebo and ROS simulations to validate the algorithms in virtual environments.
+
+                                                                                  
+
+      Spark Technologies – Software Developer                   Mar 2018 – Oct 2019
+
+        ● Developed a scalable microservices architecture using Spring Boot and Docker for a cloud-based CRM platform.
+
+        ● Integrated machine learning models for customer segmentation and predictive analytics using scikit-learn and XGBoost.
+
+        ● Implemented CI/CD pipelines with Jenkins for automated testing and deployment workflows.
+
+                                                                                  
+
+      EDUCATION                                                                   
+
+                                                                                  
+
+      AI Institute                                       2017 – 2021  
+
+      AI Institute Artificial Intelligence, Distinction                                      
+
+                                                                                  
+
+      ML College                                            2014 – 2017  
+
+      BSc Data Science, First Class                                        
+
+                                                                                  
+
+      PROJECTS                                                                    
+
+                                                                                  
+
+      Digital Geniuses – Sentiment Analyzer                     2023     
+
+      AI Institute - Autonomous Drone Navigation                2021     
+
+      Digital Geniuses - Audio Synthesizer                       2022     
+
+      Spark Technologies - Customer Segmentation                 2019     
+
+                                                                                  
+
+      CERTIFICATES                                                       
+
+      - Certified Kubernetes Administrator (CKA) 
+
+      - AWS Certified Solutions Architect – Professional
+
+      - CompTIA Cybersecurity Analyst (CySA+)
+
+      - Certified Information Systems Auditor (CISA)
+
+      - Google Cloud Certified Professional Data Engineer
+
+                                                                                  
+
+      TOOLS AND TECHNOLOGIES                                                      
+
+                                                                                  
+
+      I have worked with: Digital Geniuses, Spark Technologies, Innovation Hub Inc., AI Solutions, TechLabs, Data Science Tools, ML Cloud, CloudOps,
+
+      TensorFlow, PyTorch, Keras, Apache Beam, Apache Flink, MLflow, Dagster, Flask, Gazebo, ROS, LSTM, GRU, Reinforcement Learning,
+
+      Q-learning, Docker, Spring Boot, scikit-learn, XGBoost, Django, Jenkins, Plotly, AWS S3, Amazon Athena, Kubernetes, 
+
+      Terraform, Ansible, CompTIA Security+, Splunk, Palo Alto Networks, Google Cloud Platform (GCP), Firebase, Natural Language Processing (NLP),
+
+      NumPy, Pandas, Matplotlib, SciPy, Tableau, Power BI, SQL, NoSQL, Hadoop, Spark, Elasticsearch, RabbitMQ, Kafka, Git, Jira, Agile Methodologies.

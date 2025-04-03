@@ -1,0 +1,80 @@
+[Full Name]
+[City, Country] | [Email Address] | [Phone Number] | [LinkedIn] | [GitHub/Portfolio]
+
+PROFILE
+Experienced technology leader with 15+ years of success in machine learning, software engineering, and AI strategy. Currently serving as CTO at a high-growth tech company, driving AI innovation, scalable architecture, and cross-functional product development. Proven track record of leading engineering teams, shipping ML products from ideation to production, and aligning technology with business goals.
+
+EXPERIENCE
+Chief Technology Officer (CTO)
+XYZ AI Solutions | London, UK | Jan 2020 – Present
+
+Spearhead the design and execution of AI strategy across enterprise-grade platforms.
+
+Scaled the engineering team from 8 to 40+ and introduced agile practices.
+
+Architected ML pipelines for predictive analytics, recommendation systems, and NLP applications.
+
+Oversaw deployment of AI models on AWS, GCP, and edge devices, reducing latency by 40%.
+
+Partnered with executive leadership to raise £12M in Series B funding.
+
+Lead Machine Learning Engineer
+
+ABC Tech Ltd. | Berlin, Germany | Mar 2015 – Dec 2019
+
+Led a team of ML engineers in developing real-time fraud detection and personalization engines.
+
+Designed deep learning models for image and text processing using TensorFlow and PyTorch.
+
+Implemented MLOps pipelines and model monitoring systems.
+
+Improved model accuracy by 25% through advanced feature engineering and hyperparameter tuning.
+
+Senior Data Scientist
+
+InnovateAI | Remote | May 2012 – Feb 2015
+
+Delivered end-to-end data science projects in healthcare and finance sectors.
+
+Developed interpretable ML models and dashboards for non-technical stakeholders.
+
+Conducted A/B testing and model validation to ensure deployment-readiness.
+
+Software Engineer / ML Enthusiast
+GlobalSoft | New York, USA | Jul 2008 – Apr 2012
+
+Built backend systems in Java and Python.
+
+Contributed to early adoption of machine learning techniques within the engineering team.
+
+EDUCATION
+MSc in Computer Science – Artificial Intelligence
+University of Edinburgh | 2008
+
+BSc in Electrical and Computer Engineering
+Technical University of [Your Country] | 2006
+
+SKILLS
+Languages: Python, Java, C++, SQL
+
+Frameworks: PyTorch, TensorFlow, Scikit-learn, Keras, FastAPI
+
+ML Ops: Docker, Kubernetes, MLflow, Airflow
+
+Cloud: AWS (SageMaker, Lambda), GCP, Azure
+
+Other: NLP, Deep Learning, Recommender Systems, Computer Vision, CI/CD, Git
+
+CERTIFICATIONS
+AWS Certified Machine Learning – Specialty
+
+TensorFlow Developer Certificate
+
+DeepLearning.AI – NLP Specialization
+
+SPEAKING & PUBLICATIONS
+Speaker at NeurIPS, ODSC, and London AI Summit
+
+Author of “Building Scalable ML Pipelines” – O'Reilly (2022)
+
+Medium/Blog contributor on MLOps, leadership, and AI ethics
